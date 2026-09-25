@@ -1179,6 +1179,25 @@ O objetivo deste guia cabe numa frase:
 Dar dois metros de espaço no sinal inicial é mais simples que lidar com uma reação explosiva depois.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Sinais de comunicação e redução de conflito:** renderizar o media aprovado `commons-calming-signals-dogs` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Play bow / convite para brincar:** renderizar o media aprovado `commons-dog-play-bow` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Virar o corpo e criar distância:** renderizar o media aprovado `commons-dog-turning-away` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Brincadeira social entre cães:** renderizar o media aprovado `commons-dogs-playing` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com redação original MyPets e pesquisa em materiais de comportamento e bem-estar de:
