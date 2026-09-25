@@ -868,6 +868,467 @@ Decidir não adotar agora também pode ser uma decisão responsável.
 - [ ] expectativa de comportamento é realista;
 - [ ] não escolhemos apenas pela aparência.
 
+
+---
+
+## 44. Greyhound
+
+**Porte:** grande  
+**Energia:** moderada, com explosões de velocidade  
+**Pelagem:** baixa manutenção  
+**Perfil:** famílias que aceitam um cão grande e valorizam passeios, segurança e descanso
+
+Galgos foram selecionados para velocidade, mas isso não significa atividade intensa o dia inteiro. Muitos adultos alternam momentos de corrida com longos períodos de descanso.
+
+### Pontos de atenção
+
+- impulso de perseguição pode ser relevante;
+- áreas abertas exigem manejo cuidadoso;
+- frio pode ser desconfortável em indivíduos de pouca gordura/pelagem;
+- socialização com pequenos animais deve considerar histórico real.
+
+---
+
+## 45. Whippet
+
+**Porte:** médio  
+**Energia:** moderada  
+**Pelagem:** baixa manutenção  
+**Perfil:** companhia doméstica com oportunidade segura de correr
+
+Whippets combinam corpo atlético com forte capacidade de relaxar.
+
+### Pontos de atenção
+
+- sensibilidade ao frio;
+- perseguição;
+- recall precisa de treino e manejo;
+- podem ser sensíveis a abordagens duras.
+
+---
+
+## 46. Jack Russell Terrier
+
+**Porte:** pequeno  
+**Energia:** muito alta para o tamanho  
+**Persistência:** alta  
+**Perfil:** tutores que gostam de treino, jogos e atividade
+
+O tamanho reduz espaço físico ocupado, não intensidade.
+
+### Pontos de atenção
+
+- escavação;
+- perseguição;
+- excitação;
+- necessidade mental;
+- vocalização em alguns indivíduos.
+
+É um bom exemplo de por que “quero um cão pequeno porque dá menos trabalho” pode falhar.
+
+---
+
+## 47. Australian Cattle Dog
+
+**Porte:** médio  
+**Energia:** alta  
+**Treino:** grande capacidade de aprendizagem  
+**Perfil:** vida ativa, estrutura e tarefas
+
+Selecionado para trabalho com gado, pode apresentar intensidade, resistência e interesse por movimento.
+
+### Pontos de atenção
+
+- precisa de socialização cuidadosa;
+- pode tentar controlar movimento;
+- tédio pode aparecer como comportamento difícil;
+- descanso também precisa ser ensinado.
+
+---
+
+## 48. Pastor Belga Malinois
+
+**Porte:** médio-grande  
+**Energia:** muito alta  
+**Intensidade de trabalho:** muito alta  
+**Perfil:** tutores experientes ou com suporte profissional consistente
+
+Popularidade em vídeos de trabalho pode criar expectativas perigosas.
+
+### Pontos de atenção
+
+- velocidade de aprendizagem;
+- grande necessidade de atividade estruturada;
+- intensidade de mordida/brincadeira em alguns indivíduos;
+- sensibilidade ambiental;
+- não é uma escolha baseada apenas em aparência ou “proteção”.
+
+Para muitas famílias, a rotina necessária é significativamente maior do que a desejada.
+
+---
+
+## 49. Akita
+
+**Porte:** grande  
+**Energia:** moderada  
+**Independência:** pode ser elevada  
+**Perfil:** tutores conscientes de manejo, socialização e força física
+
+### Pontos de atenção
+
+- pode ser reservado com desconhecidos;
+- convivência com outros cães precisa ser avaliada individualmente;
+- força;
+- pelo abundante;
+- treino deve privilegiar cooperação, não confronto.
+
+---
+
+## 50. Cane Corso
+
+**Porte:** muito grande  
+**Força:** muito alta  
+**Vigilância:** pode ser relevante  
+**Perfil:** famílias com experiência, manejo robusto e compromisso com socialização
+
+### Pontos de atenção
+
+- erro de manejo tem consequências maiores devido ao porte;
+- socialização não significa obrigar interação com todos;
+- treino de guia e controle ambiental devem começar cedo;
+- legislação/local de moradia pode impor restrições.
+
+Não escolha apenas por estética de “cão de guarda”.
+
+---
+
+## 51. Dogue Alemão
+
+**Porte:** gigante  
+**Energia:** moderada  
+**Espaço físico:** elevado, mesmo quando tranquilo  
+**Perfil:** famílias preparadas para custos e logística de cão gigante
+
+### Pontos de atenção
+
+- alimentação e medicamentos podem custar mais;
+- transporte precisa ser planejado;
+- escadas e pisos importam;
+- vida doméstica exige camas, carro e equipamento de tamanho adequado.
+
+Um cão gigante tranquilo ainda é um cão gigante.
+
+---
+
+## 52. Bernese Mountain Dog / Boiadeiro Bernês
+
+**Porte:** grande  
+**Pelagem:** densa  
+**Energia:** moderada  
+**Perfil:** família com espaço de rotina e clima manejável
+
+### Pontos de atenção
+
+- calor;
+- grooming;
+- tamanho;
+- pesquisa de saúde hereditária;
+- custos ao longo da vida.
+
+Em regiões quentes, conforto térmico deve pesar bastante na decisão.
+
+---
+
+## 53. Basset Hound
+
+**Porte:** médio, corpo baixo e pesado  
+**Energia:** baixa a moderada  
+**Faro:** forte  
+**Perfil:** famílias que gostam de passeios olfativos mais tranquilos
+
+### Pontos de atenção
+
+- orelhas;
+- peso;
+- estrutura corporal;
+- cheiro/faro pode competir com recall;
+- não confunda baixa velocidade com ausência de necessidade de exploração.
+
+---
+
+## 54. Bull Terrier
+
+**Porte:** médio  
+**Energia:** moderada a alta  
+**Personalidade típica:** física, persistente, brincalhona  
+**Perfil:** tutores que investem em treino e manejo
+
+### Pontos de atenção
+
+- brincadeira pode ser intensa;
+- socialização;
+- força relativa ao tamanho;
+- escolha de origem e saúde.
+
+---
+
+## 55. Cães do tipo pit bull: o rótulo não basta
+
+“Pit bull” pode ser usado informalmente para diferentes raças e mestiços com aparência semelhante.
+
+Isso reduz a utilidade de prever comportamento apenas pelo rótulo visual.
+
+Avalie:
+
+- indivíduo;
+- histórico;
+- comportamento observado;
+- sociabilidade com cães;
+- manejo;
+- força;
+- legislação local;
+- capacidade da família.
+
+Evite tanto demonizar quanto presumir segurança automática. Decisões responsáveis partem de evidência sobre o cão real.
+
+---
+
+## 56. Origem responsável importa tanto quanto nome da raça
+
+Quando existe seleção para reprodução, pergunte por:
+
+- exames de saúde relevantes;
+- temperamento dos pais;
+- condições de criação;
+- socialização inicial;
+- idade de separação;
+- contrato;
+- suporte pós-entrega.
+
+Um pedigree informa genealogia. Não substitui saúde funcional, comportamento ou práticas responsáveis.
+
+---
+
+## 57. Aparência extrema deve gerar perguntas, não desejo automático
+
+Quando uma característica física é levada ao extremo, pergunte se ela compromete função.
+
+Exemplos de funções essenciais:
+
+- respirar;
+- caminhar;
+- correr;
+- regular temperatura;
+- dormir;
+- enxergar;
+- reproduzir-se sem sofrimento;
+- manter pele saudável.
+
+Em raças braquicefálicas, a WSAVA mantém recursos específicos sobre BOAS justamente porque ruído respiratório e dificuldade para respirar não devem ser tratados como simples “característica da raça”.
+
+Saúde funcional deve ter prioridade sobre estética extrema.
+
+---
+
+## 58. Como avaliar uma ninhada sem “teste de personalidade mágico”
+
+Comportamento de um filhote num encontro curto não prevê toda a vida.
+
+Observe:
+
+- curiosidade;
+- recuperação depois de novidade;
+- interação com irmãos;
+- ambiente de criação;
+- resposta dos adultos responsáveis;
+- saúde;
+- manipulação.
+
+Desconfie de promessas do tipo “este filhote é perfeito para criança” baseadas em poucos minutos.
+
+---
+
+## 59. Primeiro cão: simplifique, não procure um desafio
+
+Se é o primeiro cão da família, tende a ajudar escolher um indivíduo com:
+
+- necessidades compatíveis com seu tempo;
+- intensidade manejável;
+- histórico conhecido quando possível;
+- comportamento observável;
+- suporte de abrigo/criador/profissional.
+
+Não há prêmio por escolher a raça “mais difícil”.
+
+---
+
+## 60. Moradia alugada e condomínio
+
+Antes de decidir:
+
+- verifique regras contratuais;
+- tamanho permitido, se houver;
+- elevador;
+- áreas comuns;
+- política sobre ruído;
+- acesso a áreas de passeio.
+
+Uma mudança forçada de moradia por incompatibilidade pode tornar-se um problema de bem-estar para toda a família.
+
+---
+
+## 61. Viajar frequentemente
+
+Pergunte:
+
+- o cão tolerará hospedagem?
+- há cuidador confiável?
+- transporte é viável?
+- porte dificulta viagens?
+- braquicefalia cria riscos adicionais em transporte aéreo?
+
+A AVMA publica orientações específicas sobre cães de focinho curto e viagem aérea. Para esses cães, logística de viagem deve entrar na escolha antes da aquisição.
+
+---
+
+## 62. Trabalho presencial em tempo integral
+
+A questão não é apenas número de horas.
+
+Considere:
+
+- quem oferece eliminação/passeio no meio do dia?
+- existe dog walker?
+- o cão consegue ficar sozinho sem pânico?
+- há enriquecimento?
+- como ficam filhotes?
+
+Um filhote raramente se encaixa bem numa rotina de longas ausências sem suporte intermediário.
+
+---
+
+## 63. Pessoas muito ativas: cuidado com o erro oposto
+
+Corredores e trilheiros podem procurar “um cão que acompanhe tudo”.
+
+Mas:
+
+- filhotes não devem seguir cargas de exercício de adultos;
+- raça/estrutura importam;
+- calor importa;
+- condicionamento precisa ser gradual;
+- doença ortopédica/cardíaca pode limitar.
+
+Antes de iniciar esporte intenso, converse com o veterinário.
+
+---
+
+## 64. Pessoas mais tranquilas
+
+Rotina tranquila não significa ausência de passeio.
+
+Procure indivíduos cujo nível de energia combine com:
+
+- caminhadas regulares;
+- atividades olfativas;
+- interação;
+- capacidade de descansar.
+
+Adultos de abrigo podem ser especialmente interessantes porque o nível de energia já é mais observável.
+
+---
+
+## 65. Idosos como tutores
+
+Considere:
+
+- força do cão;
+- risco de queda;
+- tamanho;
+- quem ajuda em emergência;
+- grooming;
+- transporte veterinário;
+- expectativa de vida do animal.
+
+Um cão pequeno não é automaticamente mais fácil: alguns são rápidos, vocais ou difíceis de manusear.
+
+---
+
+## 66. Família com bebê a caminho
+
+Se a chegada de um bebê é próxima, avalie se também é o melhor momento para um filhote.
+
+Dois grandes processos de adaptação simultâneos podem sobrecarregar a família.
+
+Um cão adulto de comportamento conhecido pode, em algumas situações, oferecer mais previsibilidade — mas também exige planejamento e supervisão.
+
+---
+
+## 67. Segundo cão: não adote para “resolver” o primeiro
+
+Um segundo cão não é tratamento automático para:
+
+- ansiedade de separação;
+- tédio;
+- reatividade;
+- medo.
+
+Pode ajudar companhia em alguns casos, mas também duplicar ou intensificar problemas.
+
+Avalie compatibilidade entre os indivíduos e capacidade real da família para dois animais.
+
+---
+
+## 68. Matriz de decisão em três colunas
+
+Antes da escolha final, crie:
+
+| Eu preciso | Posso flexibilizar | Não aceito |
+|---|---|---|
+| conviver com gato | quantidade de pelo | agressão conhecida a gatos |
+| atividade moderada | tamanho | manutenção diária muito alta |
+| boa logística urbana | cor/estética | intolerância severa ao calor |
+
+Essa tabela reduz o poder de uma fotografia bonita sobre uma decisão de 10 ou 15 anos.
+
+---
+
+## 69. A visita de realidade
+
+Sempre que possível, passe tempo com cães adultos do tipo que considera.
+
+Observe:
+
+- tamanho real;
+- força na guia;
+- volume de vocalização;
+- pelo;
+- baba;
+- energia;
+- interação.
+
+O cão de uma fotografia não mostra a experiência cotidiana.
+
+---
+
+## 70. A pergunta final
+
+Antes de dizer “é a raça dos meus sonhos”, complete:
+
+**“Consigo atender as necessidades deste cão numa terça-feira chuvosa, depois de um dia difícil, durante anos?”**
+
+Se a resposta ainda é sim, você está muito mais perto de uma decisão sustentável.
+
+---
+
+## Referências de base desta edição
+
+Os perfis usam padrões e nomenclatura da FCI como referência de origem/função, materiais do AKC para perguntas de compatibilidade de estilo de vida e recursos veterinários de bem-estar para temas de saúde funcional, incluindo os materiais da WSAVA sobre BOAS.
+
+Perfis de raça são deliberadamente descritos como tendências, não como garantias. A avaliação do indivíduo real continua central.
+
+O texto, matriz de compatibilidade e estrutura de decisão são originais MyPets.
+
 ---
 
 ## Sobre esta coleção
