@@ -7,25 +7,38 @@ release:
   campaign: ebook-racao
   canonical_repo: nexflowx-hub/mypets-data
   branch: feat/digital-library-v1
+  research_refreshed_at: 2026-09-25
 
 content:
   - id: guide-001
     path: library/pt-BR/01-cuidados-essenciais
     editorial_status: draft-expanded
+    approx_words: 5162
   - id: guide-002
     path: library/pt-BR/02-primeiros-30-dias
     editorial_status: draft-expanded
     compatibility_slug: filhote-primeiros-30-dias
+    approx_words: 5091
   - id: guide-003
     path: library/pt-BR/03-treino-gentil
     editorial_status: draft-expanded
+    approx_words: 5053
+    video_embeds: [dogs-trust-recall-video, dogs-trust-leave-it-video, rspcasa-sit-force-free-video]
   - id: guide-004
     path: library/pt-BR/04-guia-das-racas
     editorial_status: draft-expanded
+    approx_words: 5013
   - id: guide-005
     path: library/pt-BR/05-alimentacao-bem-estar
     editorial_status: draft-expanded
     compatibility_slug: rotina-alimentacao
+    approx_words: 5008
+
+source_policy:
+  original_mypets_prose: true
+  licensed_media_only: true
+  third_party_video: embed_only
+  copyrighted_reference_material: facts_and_paraphrase_only
 
 required_before_release:
   - veterinary/editorial fact review
