@@ -1644,6 +1644,25 @@ Crie uma tabela própria:
 Depois escreva ao lado a **sua realidade**. Compatibilidade aparece na diferença entre desejo e rotina.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Labrador Retriever:** renderizar o media aprovado `commons-labrador` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Golden Retriever:** renderizar o media aprovado `commons-golden-retriever-mav-usp` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vizsla:** renderizar o media aprovado `commons-vizsla-dog` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Weimaraner:** renderizar o media aprovado `commons-weimaraner-dog` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 Os perfis usam padrões e nomenclatura da FCI como referência de origem/função, materiais do AKC para perguntas de compatibilidade de estilo de vida e recursos veterinários de bem-estar para temas de saúde funcional, incluindo os materiais da WSAVA sobre BOAS.
