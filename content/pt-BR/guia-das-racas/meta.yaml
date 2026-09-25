@@ -1,0 +1,15 @@
+id: guide-004
+slug: guia-das-racas
+locale: pt-BR
+title: "Guia das Raças: Escolha pelo Estilo de Vida"
+subtitle: "Uma ferramenta de decisão para comparar necessidades antes de escolher pela aparência."
+version: 0.1.0
+status: draft
+access: entitled
+audience: [futuro-tutor, adotante]
+topics: [racas, adocao, compatibilidade, estilo-de-vida]
+reading_minutes: 65
+medical_risk: low
+ai_use: allowed
+child_safe: true
+persona_use: educational
