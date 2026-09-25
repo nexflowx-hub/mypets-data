@@ -1,0 +1,942 @@
+{
+  "version": "1.0.0-draft",
+  "locale": "pt-BR",
+  "disclaimer": "Perfis descrevem tendências gerais e perguntas de compatibilidade; não predizem o comportamento de um indivíduo. Saúde, criação, socialização, linhagem e história importam.",
+  "scale_notes": {
+    "energy": "low < low-moderate < moderate < moderate-high < high < very-high",
+    "grooming": "low < moderate < high < very-high",
+    "trainability": "descreve facilidade típica de trabalhar com treino estruturado, não inteligência",
+    "vocalization": "tendência contextual; varia muito entre indivíduos"
+  },
+  "source_ids": [
+    "fci-nomenclature",
+    "akc-lifestyle"
+  ],
+  "breeds": [
+    {
+      "id": "breed-001",
+      "slug": "labrador-retriever",
+      "name": "Labrador Retriever",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-labrador"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-002",
+      "slug": "golden-retriever",
+      "name": "Golden Retriever",
+      "size": "large",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-golden-retriever-mav-usp"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-003",
+      "slug": "border-collie",
+      "name": "Border Collie",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-004",
+      "slug": "german-shepherd-dog",
+      "name": "Pastor Alemão",
+      "size": "large",
+      "energy": "high",
+      "grooming": "moderate",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-005",
+      "slug": "rottweiler",
+      "name": "Rottweiler",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-006",
+      "slug": "dobermann",
+      "name": "Dobermann",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-007",
+      "slug": "boxer",
+      "name": "Boxer",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-008",
+      "slug": "beagle",
+      "name": "Beagle",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-beagle-golden"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-009",
+      "slug": "dachshund",
+      "name": "Dachshund / Teckel",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-010",
+      "slug": "poodle",
+      "name": "Poodle",
+      "size": "varies",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bichon-frise"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-011",
+      "slug": "shih-tzu",
+      "name": "Shih Tzu",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-012",
+      "slug": "pug",
+      "name": "Pug",
+      "size": "small",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-013",
+      "slug": "french-bulldog",
+      "name": "Bulldog Francês",
+      "size": "small-medium",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-014",
+      "slug": "english-bulldog",
+      "name": "Bulldog Inglês",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-015",
+      "slug": "german-spitz-pomeranian",
+      "name": "Spitz Alemão / Lulu da Pomerânia",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-016",
+      "slug": "yorkshire-terrier",
+      "name": "Yorkshire Terrier",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-017",
+      "slug": "maltese",
+      "name": "Maltês",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-018",
+      "slug": "chihuahua",
+      "name": "Chihuahua",
+      "size": "very-small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-019",
+      "slug": "miniature-schnauzer",
+      "name": "Schnauzer Miniatura",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-020",
+      "slug": "english-cocker-spaniel",
+      "name": "Cocker Spaniel Inglês",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-021",
+      "slug": "siberian-husky",
+      "name": "Husky Siberiano",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-022",
+      "slug": "australian-shepherd",
+      "name": "Pastor Australiano",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-023",
+      "slug": "samoyed",
+      "name": "Samoieda",
+      "size": "medium-large",
+      "energy": "high",
+      "grooming": "very-high",
+      "trainability": "moderate-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-024",
+      "slug": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-025",
+      "slug": "greyhound",
+      "name": "Greyhound",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-026",
+      "slug": "whippet",
+      "name": "Whippet",
+      "size": "medium",
+      "energy": "moderate-high",
+      "grooming": "low",
+      "trainability": "moderate-high",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-027",
+      "slug": "jack-russell-terrier",
+      "name": "Jack Russell Terrier",
+      "size": "small",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-028",
+      "slug": "australian-cattle-dog",
+      "name": "Australian Cattle Dog",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-029",
+      "slug": "belgian-malinois",
+      "name": "Pastor Belga Malinois",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-030",
+      "slug": "akita",
+      "name": "Akita",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-031",
+      "slug": "cane-corso",
+      "name": "Cane Corso",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-032",
+      "slug": "great-dane",
+      "name": "Dogue Alemão",
+      "size": "giant",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-033",
+      "slug": "bernese-mountain-dog",
+      "name": "Boiadeiro Bernês",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "moderate-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-034",
+      "slug": "basset-hound",
+      "name": "Basset Hound",
+      "size": "medium-large",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-035",
+      "slug": "bull-terrier",
+      "name": "Bull Terrier",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-036",
+      "slug": "vizsla",
+      "name": "Vizsla",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-vizsla-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-037",
+      "slug": "weimaraner",
+      "name": "Weimaraner",
+      "size": "large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-weimaraner-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-038",
+      "slug": "english-springer-spaniel",
+      "name": "English Springer Spaniel",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-english-springer-spaniel"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-039",
+      "slug": "shar-pei",
+      "name": "Shar-Pei",
+      "size": "medium",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shar-pei"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-040",
+      "slug": "bichon-frise",
+      "name": "Bichon Frisé",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bichon-frise"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-041",
+      "slug": "shetland-sheepdog",
+      "name": "Shetland Sheepdog",
+      "size": "small-medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "very-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shetland-sheepdog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-042",
+      "slug": "lhasa-apso",
+      "name": "Lhasa Apso",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-lhasa-apso"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-043",
+      "slug": "saint-bernard",
+      "name": "São Bernardo",
+      "size": "giant",
+      "energy": "low-moderate",
+      "grooming": "high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-saint-bernard"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-044",
+      "slug": "papillon",
+      "name": "Papillon",
+      "size": "very-small",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-papillon"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-045",
+      "slug": "boston-terrier",
+      "name": "Boston Terrier",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-boston-terrier"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-046",
+      "slug": "rough-collie",
+      "name": "Rough Collie",
+      "size": "medium-large",
+      "energy": "moderate-high",
+      "grooming": "very-high",
+      "trainability": "high",
+      "vocalization": "moderate-high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-rough-collie"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    },
+    {
+      "id": "breed-047",
+      "slug": "afghan-hound",
+      "name": "Afghan Hound",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-afghan-hound"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25"
+    }
+  ]
+}
