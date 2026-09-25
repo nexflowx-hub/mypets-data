@@ -463,3 +463,104 @@ media:
     attribution: Jesusfreak210
     attribution_required: false
     topics: [breed, boxer]
+
+
+  - id: commons-german-shepherd
+    type: image
+    title: German Shepherd Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:German_Shepherd_Dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: MrPanyGoff
+    attribution_required: true
+    topics: [breed, german-shepherd-dog]
+
+  - id: commons-rottweiler-cc0
+    type: image
+    title: Rottweiler dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Rottweiler-dog.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    topics: [breed, rottweiler]
+
+  - id: commons-maltese-crystal
+    type: image
+    title: Maltese dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1Maltese.jpg
+    license: CC-BY-2.0
+    attribution: CRYSTAL ROLFE
+    attribution_required: true
+    topics: [breed, maltese]
+
+  - id: commons-chihuahua-public-domain
+    type: image
+    title: Chihuahua dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Chihuahua_dog.jpg
+    license: Public-Domain
+    attribution: Niewiadomek
+    attribution_required: false
+    topics: [breed, chihuahua]
+
+  - id: commons-miniature-schnauzer
+    type: image
+    title: Miniature Schnauzer
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Schnauzer_mini.jpg
+    license: CC-BY-SA-4.0
+    attribution: Vicvx
+    attribution_required: true
+    topics: [breed, miniature-schnauzer]
+
+  - id: commons-siberian-husky
+    type: image
+    title: Siberian Husky
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Siberian_Husky_Dog_5.jpg
+    license: CC-BY-SA-4.0
+    attribution: Делфина
+    attribution_required: true
+    topics: [breed, siberian-husky]
+
+  - id: commons-samoyed-valenzuela
+    type: image
+    title: White Samoyed
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:White_Samoyed_dog1.jpg
+    license: CC-BY-SA-4.0
+    attribution: Valenzuela400
+    attribution_required: true
+    topics: [breed, samoyed]
+
+  - id: commons-greyhound
+    type: image
+    title: Greyhound dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Greyhound...JPG
+    license: CC-BY-3.0
+    attribution: Adam.J.W.C.
+    attribution_required: true
+    topics: [breed, greyhound]
+
+  - id: commons-jack-russell
+    type: image
+    title: Jack Russell Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Jack_Russel_terrier_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Paulo Kiefe
+    attribution_required: true
+    topics: [breed, jack-russell-terrier]
+
+  - id: commons-pomeranian
+    type: image
+    title: Pomeranian
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pomeranian.jpg
+    license: CC-BY-SA-2.0
+    attribution: Sarah Jones
+    attribution_required: true
+    topics: [breed, german-spitz-pomeranian]
