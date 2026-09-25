@@ -1,0 +1,31 @@
+id: guide-008
+slug: ficar-sozinho
+locale: pt-BR
+title: "Ficar Sozinho em Casa: Autonomia sem Medo"
+subtitle: "Um plano gradual para ensinar independência, observar sinais de sofrimento e construir ausências seguras."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - autonomia
+  - sinais
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+  - adotante
+topics:
+  - autonomia
+  - separacao
+  - comportamento
+  - enriquecimento
+  - rotina
+reading_minutes: 50
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
