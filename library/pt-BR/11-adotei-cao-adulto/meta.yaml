@@ -1,0 +1,30 @@
+id: guide-011
+slug: adotei-cao-adulto
+locale: pt-BR
+title: "Adotei um Cão Adulto: E Agora?"
+subtitle: "Primeiros dias, segurança, rotina, vínculo, outros animais e adaptação sem pressa."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - primeiro-dia
+  - observacao
+audience:
+  - adotante
+  - tutor-iniciante
+topics:
+  - adocao
+  - cao-adulto
+  - adaptacao
+  - comportamento
+  - rotina
+reading_minutes: 45
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
