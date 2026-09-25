@@ -696,6 +696,605 @@ Depois dos sete comandos, você pode avançar para:
 
 A lógica continua a mesma: dividir, marcar, recompensar e generalizar.
 
+
+---
+
+## 25. Recompensa de verdade: descubra a moeda do seu cão
+
+Treino fica muito mais eficiente quando a recompensa compete com o ambiente.
+
+Crie uma pequena lista.
+
+### Em casa
+
+Talvez funcionem:
+
+- parte da refeição;
+- elogio;
+- brinquedo;
+- carinho, se o cão realmente aprecia naquele momento.
+
+### Na rua
+
+Talvez seja necessário:
+
+- alimento de maior valor;
+- voltar a cheirar;
+- correr alguns passos com você;
+- acesso a uma área interessante.
+
+### Perto de outro cão
+
+A recompensa pode precisar ser ainda melhor — ou a distância precisa aumentar.
+
+Se o cão não aceita nada que normalmente adora, isso não prova que “é teimoso”. Pode indicar que o ambiente ultrapassou a capacidade de aprendizagem naquele momento.
+
+---
+
+## 26. Faça um teste de preferência
+
+Com duas opções seguras:
+
+1. apresente uma em cada mão;
+2. permita escolha;
+3. repita trocando lados;
+4. observe qual opção vence com mais frequência.
+
+Você pode comparar:
+
+- dois alimentos;
+- comida versus brinquedo;
+- brinquedos diferentes.
+
+Preferências mudam conforme contexto.
+
+---
+
+## 27. O sinal verbal deve vir antes do comportamento, não durante uma sequência confusa
+
+Quando o comportamento já está previsível, use:
+
+**sinal → pausa → comportamento → marcador → recompensa**
+
+Evite:
+
+**“senta, senta, senta” → empurrar → “boa!”**
+
+A pausa dá ao cão oportunidade de responder ao primeiro sinal.
+
+Se não responde, simplifique a situação e ajude novamente.
+
+---
+
+## 28. Como tirar o gesto de lure
+
+Se o cão só senta quando vê o petisco:
+
+1. faça o mesmo movimento com a mão vazia;
+2. marque o senta;
+3. tire a recompensa do bolso;
+4. repita;
+5. diminua o tamanho do gesto.
+
+Depois coloque o sinal verbal antes do gesto.
+
+O objetivo é que a comida apareça **depois**, não que precise estar visível antes de cada resposta.
+
+---
+
+## 29. Taxa de reforço
+
+No início, recompense frequentemente.
+
+Imagine que o cão está tentando descobrir uma regra. Se acerta e nada acontece várias vezes, a regra parece incerta.
+
+Quando o comportamento fica forte, você pode variar a frequência.
+
+### Comportamentos de segurança
+
+Recall, parar na porta e largar objetos perigosos merecem continuar muito valorizados.
+
+Economizar recompensa justamente nesses comportamentos pode reduzir confiabilidade.
+
+---
+
+## 30. O que fazer quando o cão erra
+
+Um erro é informação.
+
+Pergunte:
+
+- pedi demais?
+- distração aumentou?
+- demorei para recompensar?
+- o cão está cansado?
+- repeti o exercício muitas vezes?
+- o ambiente está desconfortável?
+
+### Resposta prática
+
+Reduza um critério e crie uma repetição fácil.
+
+Não precisa “corrigir o erro” com bronca.
+
+---
+
+## 31. Guia frouxa: uma competência complementar
+
+Este guia é centrado em sete sinais, mas caminhar sem tensão constante merece um módulo próprio.
+
+### Comece parado
+
+Recompense o cão perto de você com a guia frouxa.
+
+### Dê poucos passos
+
+- 1 ou 2 passos;
+- marca;
+- recompensa.
+
+### Use o ambiente
+
+Quando a guia fica frouxa, o cão pode ganhar acesso a cheirar uma árvore.
+
+Isso torna caminhar com você parte do caminho para o que ele quer.
+
+### Quando puxar
+
+Pare ou mude direção de forma suave, conforme contexto.
+
+Evite trancos.
+
+Em locais muito excitantes, diminua a dificuldade: mais distância, caminhada mais curta ou treino em horário tranquilo.
+
+---
+
+## 32. Target de mão: uma ferramenta escondida
+
+Ensinar o cão a tocar a sua mão com o focinho pode ajudar em:
+
+- posicionamento;
+- entrar no carro;
+- sair de um canto;
+- direcionar sem puxar;
+- fotografias;
+- manejo cooperativo.
+
+### Como ensinar
+
+1. mostre palma perto do focinho;
+2. curiosidade faz o cão encostar;
+3. marque;
+4. recompense;
+5. afaste a mão alguns centímetros;
+6. repita.
+
+Depois adicione palavra como “toca”.
+
+---
+
+## 33. “Solta” em brincadeira de cabo
+
+Brincadeira de puxar pode ser excelente quando há regras claras.
+
+### Estrutura
+
+- começa com sinal;
+- brinca;
+- você fica imóvel;
+- pede “larga”;
+- recompensa a soltura;
+- reinicia a brincadeira.
+
+A própria volta da brincadeira pode virar recompensa.
+
+Não force mandíbula aberta.
+
+Se houver guarda de recursos ou risco, procure orientação.
+
+---
+
+## 34. Campainha e visitas
+
+Treine antes da visita real.
+
+### Fase 1 — som
+
+Campainha em volume controlável → recompensa.
+
+### Fase 2 — cama
+
+Campainha → “cama” → recompensa.
+
+### Fase 3 — pessoa entra
+
+Use uma visita combinada.
+
+A pessoa entra sem invadir o espaço do cão. Você recompensa permanência ou calma.
+
+Se o cão está muito excitado, use barreira física segura enquanto treina.
+
+---
+
+## 35. Porta de casa
+
+Uma rotina de saída pode combinar:
+
+1. colocar equipamento;
+2. aproximar da porta;
+3. esperar;
+4. porta abre parcialmente;
+5. se mantém pausa, avança;
+6. palavra de liberação.
+
+Treine sem pressa em horários fáceis antes de esperar autocontrole quando o cão está eufórico.
+
+---
+
+## 36. Comida no chão durante passeio
+
+“Deixa” deve ser treinado em níveis.
+
+### Nível 1
+
+Objeto sem valor em casa.
+
+### Nível 2
+
+Comida protegida sob controle.
+
+### Nível 3
+
+Comida visível a distância.
+
+### Nível 4
+
+Cenário real, ainda com guia e manejo.
+
+Não confie apenas no sinal. Gestão física continua necessária em lugares onde pode haver lixo ou toxinas.
+
+---
+
+## 37. Recall de emergência
+
+Algumas famílias criam um segundo sinal usado raramente e associado a recompensa excepcional.
+
+Por exemplo, uma palavra incomum.
+
+### Construção
+
+- diga o sinal;
+- entregue várias recompensas excelentes;
+- não exija comportamento difícil no começo;
+- repita em contextos fáceis;
+- depois associe a correr até você.
+
+Não use casualmente.
+
+Mesmo um recall treinado não torna seguro soltar um cão perto de trânsito.
+
+---
+
+## 38. O valor de liberar de volta
+
+Muitos tutores chamam o cão apenas quando a diversão acabou.
+
+Mude o padrão.
+
+Durante um passeio em área segura:
+
+- chame;
+- recompense;
+- diga “vai”;
+- permita voltar a cheirar.
+
+O cão aprende que responder não encerra necessariamente a atividade.
+
+---
+
+## 39. Permanência sem transformar o cão em estátua
+
+“Espera” pode ser funcional sem exigir rigidez.
+
+Recompense:
+
+- permanecer na área;
+- não atravessar a porta;
+- manter uma pausa.
+
+Se a finalidade é segurança, não importa se o cão muda de sentado para deitado, desde que entenda o limite.
+
+Defina o critério antes de treinar.
+
+---
+
+## 40. Calma pode ser capturada
+
+Quando o cão deita espontaneamente:
+
+- aproxime uma recompensa devagar;
+- coloque entre as patas;
+- afaste-se.
+
+Faça isso em momentos naturais.
+
+Com repetição, descanso voluntário começa a ter valor.
+
+Esse exercício pode ser mais útil do que pedir comandos o dia inteiro.
+
+---
+
+## 41. Treino em ambientes novos
+
+Ao chegar a um lugar diferente, não comece imediatamente exigindo desempenho.
+
+Dê alguns minutos para:
+
+- cheirar;
+- observar;
+- beber água;
+- entender o espaço.
+
+Depois teste um comportamento muito fácil.
+
+Se funciona, prossiga. Se não, o ambiente ainda pode estar difícil.
+
+---
+
+## 42. Generalização: cães não pensam “senta é senta em qualquer lugar” automaticamente
+
+O cão pode dominar “senta” na cozinha e parecer esquecer no elevador.
+
+Ele não está fingindo.
+
+Contexto faz parte da aprendizagem.
+
+Treine a mesma competência em:
+
+- cômodos diferentes;
+- posições diferentes suas;
+- horários diferentes;
+- superfícies diferentes;
+- níveis graduais de distração.
+
+---
+
+## 43. Duração: recompense antes de acabar
+
+Se quer 10 segundos de permanência e o cão sempre levanta aos 6, recompense no 4º ou 5º segundo.
+
+Depois aumente.
+
+Esperar até falhar para descobrir o limite produz muitas repetições erradas.
+
+---
+
+## 44. Distância: sair de perto muda o exercício
+
+Um “espera” com você a 20 centímetros não é igual a um “espera” com você a 3 metros.
+
+Aumente:
+
+- meio passo;
+- um passo;
+- volte;
+- recompense.
+
+Só depois avance.
+
+---
+
+## 45. Distração: não use o maior desafio primeiro
+
+Não teste recall ao lado de um cão correndo se o treino anterior foi na sala.
+
+Use versões intermediárias:
+
+- pessoa parada;
+- brinquedo no chão;
+- pessoa caminhando;
+- cão muito distante;
+- ambiente mais movimentado.
+
+Progressão é treino.
+
+---
+
+## 46. Quando o cão late durante o treino
+
+Latido pode surgir por:
+
+- excitação;
+- frustração;
+- confusão;
+- expectativa de comida;
+- medo.
+
+Evite simplesmente entregar a recompensa no auge do latido se seu objetivo é calma.
+
+Crie uma tarefa mais fácil, marque um instante de pausa e reduza a excitação.
+
+Se latido é motivado por medo, trate o contexto, não apenas o som.
+
+---
+
+## 47. Quando ele pula para pegar a recompensa
+
+Mantenha a recompensa fora do alcance imediato.
+
+Espere quatro patas no chão.
+
+Marque esse momento e entregue.
+
+Se o cão está tão excitado que não consegue se reorganizar, aumente distância ou use recompensa menos estimulante naquele exercício.
+
+---
+
+## 48. Quando ele perde interesse depois de duas repetições
+
+Isso pode ser um ótimo dado.
+
+Talvez duas repetições sejam suficientes.
+
+Sessões minúsculas, várias vezes ao dia, podem ser excelentes.
+
+Você não precisa atingir uma meta de minutos para considerar o treino válido.
+
+---
+
+## 49. Treinar antes da refeição?
+
+Pode aumentar interesse por comida em alguns cães, mas não use fome extrema como ferramenta.
+
+O cão deve estar confortável.
+
+Para cães com necessidades médicas, filhotes muito jovens ou rotinas específicas, siga orientação profissional.
+
+---
+
+## 50. Treinar com vários cães na casa
+
+Comece separadamente.
+
+Cada cão precisa entender o exercício sem competir por recompensa.
+
+Depois treine:
+
+- um cão na cama;
+- outro faz exercício;
+- alterna.
+
+Isso também ensina espera e reduz confusão.
+
+Nunca crie disputa por comida.
+
+---
+
+## 51. Registro de critério
+
+Além do diário simples, anote:
+
+**Comportamento:** vem  
+**Duração:** —  
+**Distância:** 4 m  
+**Distração:** pessoa andando  
+**Taxa de sucesso:** 4/5  
+**Próximo treino:** repetir antes de aumentar
+
+Essa lógica impede saltos de dificuldade.
+
+---
+
+## 52. Cenário real: entregador na porta
+
+Objetivo: evitar fuga e reduzir caos.
+
+Plano:
+
+1. barreira física antes de abrir;
+2. cão vai para cama;
+3. recompensa;
+4. porta abre;
+5. entrega acontece;
+6. cão é liberado quando ambiente acalma.
+
+Treino nunca substitui a barreira em situação de risco.
+
+---
+
+## 53. Cenário real: café pet friendly
+
+Antes de levar:
+
+- cão consegue relaxar em casa?
+- tolera pessoas passando?
+- consegue permanecer numa manta?
+- ambiente é adequado?
+
+Treine primeiro em local tranquilo e por poucos minutos.
+
+Nem todo cão gosta desse tipo de ambiente. Bem-estar vale mais do que “socializar”.
+
+---
+
+## 54. Cenário real: veterinário
+
+Você pode treinar competências que ajudam:
+
+- subir numa manta;
+- target de mão;
+- permitir toque;
+- entrar na caixa de transporte;
+- aceitar focinheira de cesta quando indicada e treinada positivamente.
+
+Fale com a clínica sobre visitas felizes ou estratégias de manejo quando o cão tem medo.
+
+---
+
+## 55. Focinheira não precisa significar punição
+
+Uma focinheira de cesta adequada pode ser ferramenta de segurança em contextos específicos.
+
+Treino:
+
+1. alimento perto da abertura;
+2. cão aproxima voluntariamente;
+3. coloca focinho por segundos;
+4. recompensa;
+5. aumenta duração;
+6. introduz tiras gradualmente.
+
+Nunca use para forçar exposição a situações que o cão não consegue tolerar.
+
+---
+
+## 56. Quando procurar ajuda antes de avançar
+
+Pare o programa caseiro e procure orientação quando houver:
+
+- mordida;
+- ameaça intensa;
+- guarda de recursos com risco;
+- medo que piora;
+- pânico;
+- reação explosiva a cães/pessoas;
+- comportamento compulsivo;
+- mudança súbita de comportamento;
+- suspeita de dor.
+
+Treino não deve mascarar problema médico.
+
+---
+
+## 57. O objetivo final é fluidez, não espetáculo
+
+Um cão bem treinado para a vida cotidiana não precisa executar dezenas de truques.
+
+Se consegue:
+
+- prestar atenção;
+- voltar quando chamado;
+- esperar em situações importantes;
+- largar e evitar objetos;
+- relaxar;
+- caminhar com manejo seguro;
+
+a família já possui uma base extremamente valiosa.
+
+Depois, truques e esportes podem ser diversão extra.
+
+---
+
+## Referências de base desta edição
+
+Este guia foi estruturado a partir de princípios de treino humano e baseado em recompensa publicados pela AVSAB, materiais educativos de treino da RSPCA e PDSA e conceitos de modificação comportamental descritos no Merck Veterinary Manual.
+
+A sequência dos exercícios, programa de 21 dias, exemplos e ferramentas de acompanhamento são originais MyPets.
+
+### Vídeos complementares para a versão web
+
+O registro oficial de mídia inclui vídeos da RSPCA South Australia sobre treino force-free e vídeos educativos aprovados para incorporação por link/embed. A versão web pode apresentá-los ao lado dos exercícios correspondentes sem re-hospedar o conteúdo de terceiros.
+
 ---
 
 ## Sobre esta coleção
