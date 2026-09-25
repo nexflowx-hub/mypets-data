@@ -726,3 +726,208 @@ media:
     attribution: Pleple2000
     attribution_required: true
     topics: [breed, bull-terrier]
+
+
+  - id: commons-pembroke-welsh-corgi
+    type: image
+    title: Pembroke Welsh Corgi
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pembroke_Welsh_Corgi_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Marsiyanka
+    attribution_required: true
+    alt_pt_br: "Pembroke Welsh Corgi adulto em fotografia real."
+    caption_pt_br: "Pembroke Welsh Corgi: pequeno no porte, mas historicamente ligado ao trabalho com gado e frequentemente ativo e atento."
+    topics: [breed, pembroke-welsh-corgi]
+
+  - id: commons-cardigan-welsh-corgi
+    type: image
+    title: Cardigan Welsh Corgi
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Welsh_Corgi_Cardigan,_Dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: FatFairfax
+    attribution_required: true
+    alt_pt_br: "Cardigan Welsh Corgi adulto em fotografia real."
+    caption_pt_br: "Cardigan Welsh Corgi: um cão de pastoreio compacto cuja rotina deve considerar movimento, treino e controle de peso."
+    topics: [breed, cardigan-welsh-corgi]
+
+  - id: commons-american-staffordshire-terrier
+    type: image
+    title: American Staffordshire Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:2._American_Staffordshire_Terrier.png
+    license: CC-BY-SA-3.0
+    attribution: Ileana n
+    attribution_required: true
+    alt_pt_br: "American Staffordshire Terrier adulto tigrado em fotografia real."
+    caption_pt_br: "American Staffordshire Terrier: porte médio e forte; socialização, treino responsável e avaliação do indivíduo importam mais do que estereótipos."
+    topics: [breed, american-staffordshire-terrier]
+
+  - id: commons-staffordshire-bull-terrier
+    type: image
+    title: Staffordshire Bull Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Staffordshire_Bull_Terrier.jpg
+    license: CC0-1.0
+    attribution: Wikimedia VRT-confirmed contributor
+    attribution_required: false
+    alt_pt_br: "Staffordshire Bull Terrier adulto em fotografia real."
+    caption_pt_br: "Staffordshire Bull Terrier: terrier compacto e musculado, geralmente melhor compreendido pela história individual, socialização e rotina do que por rótulos."
+    topics: [breed, staffordshire-bull-terrier]
+
+  - id: commons-newfoundland-dog
+    type: image
+    title: Newfoundland
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Newfoundland_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Andrzej z Helu
+    attribution_required: true
+    alt_pt_br: "Cão da raça Newfoundland adulto em fotografia real."
+    caption_pt_br: "Newfoundland: raça gigante que exige planejamento para calor, grooming, transporte, espaço funcional e custos proporcionais ao porte."
+    topics: [breed, newfoundland]
+
+  - id: commons-flat-coated-retriever-pd
+    type: image
+    title: Flat-Coated Retriever
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Flat_coated_retriever.JPG
+    license: Public-Domain
+    attribution: Caroline Hewison
+    attribution_required: false
+    alt_pt_br: "Flat-Coated Retriever adulto de pelagem castanha em fotografia real."
+    caption_pt_br: "Flat-Coated Retriever: retriever ativo e social, criado historicamente para trabalho de recuperação e melhor adaptado a rotinas com atividade."
+    topics: [breed, flat-coated-retriever]
+
+  - id: commons-portuguese-water-dog
+    type: image
+    title: Portuguese Water Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_Portuguese_Water_Dog.jpg
+    license: CC-BY-2.0
+    attribution: State Farm
+    attribution_required: true
+    alt_pt_br: "Cão de Água Português adulto em fotografia real."
+    caption_pt_br: "Cão de Água Português: raça de trabalho aquático portuguesa, ativa e treinável, com grooming que precisa ser planejado."
+    topics: [breed, portuguese-water-dog]
+
+  - id: commons-havanese-dog
+    type: image
+    title: Havanese
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_havanese_dog.jpg
+    license: CC-BY-4.0
+    attribution: QHuge
+    attribution_required: true
+    alt_pt_br: "Havanese adulto em pé na neve, em fotografia real."
+    caption_pt_br: "Havanese: cão pequeno de companhia com pelagem de manutenção elevada e forte contexto social com a família."
+    topics: [breed, havanese]
+
+  - id: commons-pekingese-cc0
+    type: image
+    title: Pekingese
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pekingese-dog.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    alt_pt_br: "Pekingese adulto em retrato fotográfico."
+    caption_pt_br: "Pekingese: pequeno cão de companhia de conformação braquicefálica; conforto respiratório e térmico deve fazer parte da decisão."
+    topics: [breed, pekingese, brachycephalic]
+
+  - id: commons-japanese-spitz
+    type: image
+    title: Japanese Spitz
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1_year_old_Japanese_Spitz.jpg
+    license: CC-BY-SA-4.0
+    attribution: Yukisnowflakeprincess
+    attribution_required: true
+    alt_pt_br: "Japanese Spitz adulto branco em fotografia real."
+    caption_pt_br: "Japanese Spitz: pequeno a médio, atento e de pelagem abundante; atividade, vocalização e grooming precisam entrar no planejamento."
+    topics: [breed, japanese-spitz]
+
+  - id: commons-basenji-puppy
+    type: image
+    title: Basenji
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Basenji_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Ngangaesther
+    attribution_required: true
+    alt_pt_br: "Filhote Basenji de três meses em fotografia real."
+    caption_pt_br: "Basenji: raça de tipo primitivo, independente e exploradora; 'não latir como a maioria' não significa ser silencioso ou fácil."
+    topics: [breed, basenji]
+
+  - id: commons-shiba-inu
+    type: image
+    title: Shiba Inu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shiba_inu.jpg
+    license: CC-BY-SA-4.0
+    attribution: Howyadointhere
+    attribution_required: true
+    alt_pt_br: "Shiba Inu adulto em fotografia real."
+    caption_pt_br: "Shiba Inu: pequeno Spitz japonês frequentemente independente; manejo de fuga, socialização e treino consistente merecem atenção."
+    topics: [breed, shiba-inu]
+
+  - id: commons-chow-chow-cc0
+    type: image
+    title: Chow Chow
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Chow_Chow_dog.jpg
+    license: CC0-1.0
+    attribution: Andrea Papaccio
+    attribution_required: false
+    alt_pt_br: "Chow Chow adulto em fotografia real."
+    caption_pt_br: "Chow Chow: raça de pelagem densa e perfil frequentemente reservado; clima, grooming e socialização cuidadosa importam."
+    topics: [breed, chow-chow]
+
+  - id: commons-alaskan-malamute
+    type: image
+    title: Alaskan Malamute
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:AlaskanMalamuteDog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Emma576
+    attribution_required: true
+    alt_pt_br: "Alaskan Malamute cinza e branco em fotografia real."
+    caption_pt_br: "Alaskan Malamute: grande cão nórdico de tração, com alta necessidade de atividade e atenção especial ao calor."
+    topics: [breed, alaskan-malamute]
+
+  - id: commons-english-setter
+    type: image
+    title: English Setter
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_English_Setter.jpg
+    license: CC-BY-2.0
+    attribution: daveynin (David P. Fulmer)
+    attribution_required: true
+    alt_pt_br: "English Setter adulto em fotografia real."
+    caption_pt_br: "English Setter: cão de aponte atlético, selecionado para trabalho de campo e normalmente beneficiado por exploração, movimento e treino."
+    topics: [breed, english-setter]
+
+  - id: commons-irish-setter
+    type: image
+    title: Irish Red Setter
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Irish_Setter.jpg
+    license: CC-BY-SA-2.0
+    attribution: Victor Sounds
+    attribution_required: true
+    alt_pt_br: "Irish Red Setter adulto em fotografia real."
+    caption_pt_br: "Setter Irlandês: cão atlético e energético cuja rotina precisa contemplar movimento, exploração e convivência ativa."
+    topics: [breed, irish-setter]
+
+  - id: commons-dalmatian-cc0
+    type: image
+    title: Dalmatian
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dalmatian.png
+    license: CC0-1.0
+    attribution: Krugglesuvu
+    attribution_required: false
+    alt_pt_br: "Dálmata adulto branco com manchas pretas em retrato fotográfico."
+    caption_pt_br: "Dálmata: cão atlético e resistente; atividade, treino e acompanhamento de questões de saúde específicas da raça devem fazer parte da escolha."
+    topics: [breed, dalmatian]
