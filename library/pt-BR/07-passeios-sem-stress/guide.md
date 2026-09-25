@@ -761,6 +761,373 @@ O vídeo é material externo oficial incorporado. O texto MyPets continua sendo 
 
 ---
 
+---
+
+## 42. Como escolher a rota
+
+Uma boa rota não é necessariamente a mais bonita para a pessoa.
+
+Considere:
+- largura da calçada;
+- possibilidade de atravessar;
+- presença de cães soltos;
+- trânsito;
+- sombra;
+- piso;
+- horários de pico;
+- lixo no chão.
+
+Para cão reativo, uma rua mais larga pode ser mais útil que um parque cheio.
+
+---
+
+## 43. Tenha rotas A, B e C
+
+Planeje:
+- rota normal;
+- rota curta;
+- rota de fuga.
+
+Se vê um gatilho:
+- atravesse;
+- vire esquina;
+- use carro como barreira;
+- retorne.
+
+Ter opções reduz improviso.
+
+---
+
+## 44. Não teste o cão em horários lotados
+
+Se está aprendendo:
+- prefira horário tranquilo;
+- consolide habilidade;
+- aumente movimento depois.
+
+Treino não precisa começar no nível mais difícil.
+
+---
+
+## 45. Água no passeio
+
+Necessidade varia por:
+- clima;
+- duração;
+- intensidade;
+- saúde.
+
+Em passeios longos ou quentes:
+- leve água;
+- ofereça pausas;
+- não espere sinais extremos de sede.
+
+Evite que o cão beba água parada desconhecida sem orientação de segurança.
+
+---
+
+## 46. Fezes e observação
+
+Passeio é oportunidade de notar:
+- frequência;
+- consistência;
+- esforço;
+- sangue;
+- mudança.
+
+Uma alteração isolada pode acontecer, mas mudanças persistentes merecem avaliação.
+
+Sempre recolha fezes conforme regras locais.
+
+---
+
+## 47. Urina não é apenas “marcação ruim”
+
+Urinar durante passeio pode fazer parte de:
+- eliminação;
+- comunicação olfativa;
+- excitação.
+
+Se frequência muda radicalmente, há dor ou esforço, procure veterinário.
+
+Não impeça todo comportamento de marcação apenas por pressa, quando o contexto é seguro.
+
+---
+
+## 48. Deixe algumas escolhas
+
+Escolha controlada melhora a experiência.
+
+Permita decidir:
+- qual lado cheirar;
+- qual poste investigar;
+- pequena variação de rota;
+- quando parar.
+
+Dentro de limites de segurança.
+
+---
+
+## 49. Velocidade humana e velocidade canina
+
+Cães naturalmente podem:
+- acelerar;
+- parar;
+- voltar;
+- cheirar.
+
+Caminhar a ritmo constante humano é artificial.
+
+Por isso, guia frouxa exige treino.
+
+---
+
+## 50. Quando usar um passeio apenas para treino
+
+Faça sessões curtas:
+- 5–10 minutos;
+- área fácil;
+- objetivo único.
+
+Depois permita passeio normal.
+
+Isso reduz frustração dos dois.
+
+---
+
+## 51. Não gaste todo o petisco no primeiro quarteirão
+
+Planeje recompensas.
+
+Use:
+- alimento de menor valor em contexto fácil;
+- valor maior para desafio;
+- ambiente como recompensa.
+
+Parte da refeição pode ser reservada se nutricionalmente apropriado.
+
+---
+
+## 52. O cão não precisa olhar para você o tempo todo
+
+Contato constante pode ser exigente.
+
+Queremos:
+- check-ins;
+- resposta quando necessário;
+- exploração independente segura.
+
+Um passeio não é aula de obediência de 40 minutos.
+
+---
+
+## 53. Bicicletas e corredores
+
+Se o cão persegue movimento:
+- crie distância;
+- antecipe;
+- peça check-in;
+- recompense calmamente.
+
+Não espere o objeto passar a centímetros.
+
+---
+
+## 54. Crianças, skates e bolas
+
+Movimentos imprevisíveis podem aumentar excitação ou medo.
+
+Treine à distância.
+
+Se o cão tem forte impulso de perseguição, use manejo físico seguro.
+
+---
+
+## 55. Trânsito e atravessar rua
+
+Ensine pausa em meio-fio.
+
+Pode ser:
+- “espera”;
+- check-in;
+- posição parada.
+
+Não dependa apenas do comando.
+
+Mantenha guia curta o suficiente para segurança sem tensão contínua.
+
+---
+
+## 56. Portas e portões
+
+Treine:
+- abrir parcialmente;
+- esperar;
+- sair sob sinal.
+
+Isso é habilidade de segurança.
+
+Não precisa exigir sentar; pode exigir apenas não avançar.
+
+---
+
+## 57. Elevadores
+
+Em prédios:
+- espere porta abrir;
+- verifique quem está dentro;
+- evite encontro comprimido;
+- permita sair se desconfortável.
+
+Cães pequenos no colo também precisam de segurança e consentimento.
+
+---
+
+## 58. Cães soltos
+
+Situação difícil.
+
+Se um cão desconhecido se aproxima:
+- mantenha calma;
+- não tensione de forma explosiva se puder evitar;
+- mova-se para barreira;
+- peça ajuda ao responsável;
+- priorize distância.
+
+Não há uma técnica única segura para todas as situações.
+
+---
+
+## 59. O passeio depois de uma experiência ruim
+
+No dia seguinte:
+- escolha rota fácil;
+- reduza duração;
+- aumente farejo;
+- evite o mesmo gatilho em distância curta.
+
+Recuperação faz parte do treino.
+
+---
+
+## 60. Dor pode aparecer primeiro no passeio
+
+Observe:
+- parar;
+- mancar;
+- sentar;
+- lamber pata;
+- recusar escada;
+- reduzir velocidade;
+- ficar irritado ao colocar equipamento.
+
+Mudança persistente merece avaliação.
+
+---
+
+## 61. O peitoral está ajustado?
+
+Cheque:
+- não roça axila;
+- não escapa pela cabeça;
+- não comprime;
+- não limita movimento de forma óbvia.
+
+Ajuste varia com modelo e anatomia.
+
+---
+
+## 62. Identificação e microchip
+
+Passeio envolve risco de fuga.
+
+Use:
+- identificação externa legível;
+- microchip quando disponível;
+- dados atualizados.
+
+Microchip não substitui plaquinha visível.
+
+---
+
+## 63. Segurança noturna
+
+Considere:
+- elementos refletivos;
+- iluminação;
+- rota conhecida;
+- visibilidade da guia.
+
+Evite dispositivos luminosos que incomodem o cão.
+
+---
+
+## 64. Passeio de decompression
+
+Alguns cães se beneficiam de caminhadas em local mais tranquilo, com:
+- mais espaço;
+- menos encontros;
+- mais farejo;
+- ritmo livre.
+
+Isso pode ser especialmente útil após dias urbanos intensos.
+
+---
+
+## 65. A pergunta depois de cada caminhada
+
+Não pergunte apenas:
+
+**“Quantos quilômetros fizemos?”**
+
+Pergunte:
+- ele conseguiu usar o nariz?
+- teve escolhas?
+- recuperou de sustos?
+- voltou capaz de descansar?
+- eu precisei puxar muito?
+
+Qualidade importa.
+
+---
+
+## 66. Registro de 7 passeios
+
+| Dia | Rota | Duração | Guia frouxa | Gatilhos | Recuperação |
+|---|---|---:|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+
+Depois de uma semana, ajuste rota e horário.
+
+---
+
+## 67. Quando o tutor também está frustrado
+
+Pare.
+
+Respire.
+
+Faça o exercício mais fácil.
+
+Volte para casa se necessário.
+
+Treino sob irritação aumenta chance de puxões e decisões ruins.
+
+---
+
+## 68. Meta final
+
+Um bom passeio não é um cão “perfeito”.
+
+É uma dupla que:
+- consegue mover-se;
+- consegue comunicar;
+- consegue evitar situações;
+- consegue explorar;
+- volta em segurança.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Walking Nicely Training:** progressão e reforço de caminhada com guia frouxa.
