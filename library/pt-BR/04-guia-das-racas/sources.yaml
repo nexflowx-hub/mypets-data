@@ -9,7 +9,42 @@ sources:
     applies_to: [custos, cuidados-ao-longo-da-vida]
   - source_id: wsava-boas
     url: https://wsava.org/resources/brachycephalic-obstructive-airway-syndrome-boas-resources/
-    applies_to: [braquicefalicos, pug, bulldogue-frances, bulldogue-ingles]
+    applies_to: [braquicefalicos, pug, bulldogue-frances, bulldogue-ingles, pekingese]
   - source_id: avma-short-nosed-air-travel
     url: https://avma.org/public/PetCare/Pages/Short-nosed-Dogs-and-Air-Travel-FAQs.aspx
     applies_to: [braquicefalicos, viagem]
+
+  - source_id: fci-pembroke-welsh-corgi
+    applies_to: [welsh-corgi-pembroke, atlas-64]
+  - source_id: fci-cardigan-welsh-corgi
+    applies_to: [welsh-corgi-cardigan, atlas-64]
+  - source_id: fci-american-staffordshire-terrier
+    applies_to: [american-staffordshire-terrier, atlas-64]
+  - source_id: fci-staffordshire-bull-terrier
+    applies_to: [staffordshire-bull-terrier, atlas-64]
+  - source_id: fci-newfoundland
+    applies_to: [newfoundland, atlas-64]
+  - source_id: fci-flat-coated-retriever
+    applies_to: [flat-coated-retriever, atlas-64]
+  - source_id: fci-portuguese-water-dog
+    applies_to: [cao-de-agua-portugues, atlas-64]
+  - source_id: fci-havanese
+    applies_to: [havanese, atlas-64]
+  - source_id: fci-pekingese
+    applies_to: [pekingese, atlas-64]
+  - source_id: fci-japanese-spitz
+    applies_to: [japanese-spitz, atlas-64]
+  - source_id: fci-basenji
+    applies_to: [basenji, atlas-64]
+  - source_id: fci-shiba
+    applies_to: [shiba-inu, atlas-64]
+  - source_id: fci-chow-chow
+    applies_to: [chow-chow, atlas-64]
+  - source_id: fci-alaskan-malamute
+    applies_to: [alaskan-malamute, atlas-64]
+  - source_id: fci-english-setter
+    applies_to: [english-setter, atlas-64]
+  - source_id: fci-irish-red-setter
+    applies_to: [irish-red-setter, atlas-64]
+  - source_id: fci-dalmatian
+    applies_to: [dalmatian, atlas-64]
