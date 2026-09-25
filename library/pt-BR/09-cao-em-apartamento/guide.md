@@ -1014,6 +1014,390 @@ Metragem é só uma parte.
 
 ---
 
+---
+
+## 65. Apartamento pequeno pede rotinas grandes em qualidade, não em duração
+
+Uma rotina sustentável não precisa ocupar horas seguidas.
+
+Pense em blocos:
+
+### Bloco 1 — necessidades físicas
+Eliminar, beber, alimentar-se, mover-se.
+
+### Bloco 2 — exploração
+Cheirar, observar, escolher caminhos.
+
+### Bloco 3 — cérebro
+Treino curto, procura, brinquedo alimentar.
+
+### Bloco 4 — descanso
+Sono profundo sem interrupção.
+
+Muitos problemas aparecem quando temos atividade, atividade e mais atividade, mas pouca capacidade de relaxar.
+
+---
+
+## 66. Faça o “teste do domingo”
+
+Pergunte como seria um domingo chuvoso em que você não pode fazer o passeio habitual.
+
+Você tem alternativas?
+
+- farejo;
+- treino;
+- caixa de escavação;
+- brinquedo alimentar;
+- visita curta a local coberto e permitido;
+- descanso.
+
+Se a rotina depende de uma única atividade externa, falta resiliência.
+
+---
+
+## 67. O mapa do ruído
+
+Durante três dias, anote:
+
+| Hora | Som | Resposta do cão | Duração |
+|---|---|---|---|
+| 07:20 | elevador | levantou e latiu | 20 s |
+| 12:10 | entrega | correu à porta | 1 min |
+| 19:30 | cão no corredor | rosnou/lateu | 3 min |
+
+Depois escolha **um** gatilho para trabalhar.
+
+Não tente dessensibilizar todos ao mesmo tempo.
+
+---
+
+## 68. O treino da campainha em 5 níveis
+
+### Nível 1
+Som muito baixo no celular.
+
+### Nível 2
+Som normal, sem pessoa na porta.
+
+### Nível 3
+Pessoa conhecida toca e não entra.
+
+### Nível 4
+Pessoa entra enquanto cão está atrás de barreira.
+
+### Nível 5
+Cão pode observar de forma segura.
+
+Em qualquer nível, se há stress forte, volte um passo.
+
+---
+
+## 69. O elevador como exercício de autocontrole realista
+
+Antes de entrar:
+
+1. espere a porta abrir;
+2. veja quem está dentro;
+3. deixe pessoas sair;
+4. avalie cães;
+5. entre apenas se há espaço.
+
+No interior:
+- guia curta o suficiente para segurança;
+- sem obrigar contato;
+- sem “senta” se o cão está desconfortável.
+
+Às vezes, a melhor decisão é esperar o próximo elevador.
+
+---
+
+## 70. O “hall surpresa”
+
+Se seu cão reage a encontros repentinos:
+
+- ouça antes de abrir;
+- use olho mágico/câmera se disponível;
+- abra apenas o necessário;
+- tenha recompensa pronta;
+- saiba onde recuar.
+
+Prevenção é parte do treino.
+
+---
+
+## 71. Rotina para quem trabalha 8 horas
+
+Uma possibilidade, adaptada ao indivíduo:
+
+**06:30** — passeio + eliminação + farejo  
+**07:15** — refeição/enriquecimento  
+**08:00** — descanso  
+**meio do dia** — passeador/cuidador quando necessário  
+**18:00** — passeio principal  
+**20:00** — interação ou treino  
+**22:30** — saída curta
+
+Não copie horários cegamente. Use como estrutura.
+
+---
+
+## 72. Home office sem “cão-colado”
+
+Crie um ciclo:
+
+**trabalho → pausa breve → atividade → descanso independente**
+
+Exemplo:
+- 50 min trabalhando;
+- 5 min de contato;
+- 2 min de treino;
+- cama/descanso.
+
+Isso ajuda o cão a aprender que presença humana não significa atenção contínua.
+
+---
+
+## 73. Faça reuniões sem culpa
+
+Antes de uma chamada:
+- eliminação;
+- água;
+- atividade rápida;
+- item seguro.
+
+Depois:
+- não compensar com festa;
+- retomar rotina.
+
+O cão também pode aprender períodos previsíveis de quietude.
+
+---
+
+## 74. Quando o latido é para a janela
+
+Observe:
+
+- pessoas?
+- cães?
+- motos?
+- pássaros?
+
+Ajustes possíveis:
+- película parcial;
+- móvel afastado;
+- cortina;
+- cama em outro local;
+- exposição gradual.
+
+Não espere que o cão ignore um espetáculo visual contínuo sem treino.
+
+---
+
+## 75. Quando o latido é por isolamento
+
+Latido que ocorre apenas quando a família sai pode pertencer a outro problema.
+
+Use câmera.
+
+Veja o guia **Ficar Sozinho em Casa**.
+
+Não trate apenas fechando cortina.
+
+---
+
+## 76. “Cansar” o cão antes de sair pode sair pela culatra
+
+Exercício intenso aumenta ativação em alguns cães.
+
+Prefira:
+- passeio com farejo;
+- transição;
+- água;
+- alguns minutos de calma.
+
+O objetivo é facilitar descanso.
+
+---
+
+## 77. Espaço vertical para casas com gato
+
+Gatos precisam conseguir mover-se sem passar junto do cão.
+
+Use:
+- prateleiras;
+- móveis;
+- portões com passagem felina;
+- quartos separados.
+
+Isso reduz conflito e protege recursos.
+
+---
+
+## 78. Cães pequenos e móveis altos
+
+Saltar repetidamente de:
+- sofá;
+- cama;
+
+pode representar risco para alguns indivíduos.
+
+Use:
+- rampa;
+- escada apropriada;
+- gestão;
+
+quando indicado pelo porte/saúde.
+
+---
+
+## 79. Cães grandes e espaço de giro
+
+Verifique se o cão consegue:
+
+- deitar totalmente;
+- levantar sem bater em móveis;
+- passar sem esbarrar;
+- acessar água.
+
+Organização do mobiliário pode valer mais que metros quadrados extras.
+
+---
+
+## 80. Clima tropical e passeio
+
+Em regiões quentes, planeje:
+- amanhecer;
+- fim de tarde/noite;
+- sombra;
+- água;
+- superfícies.
+
+Não use o relógio sozinho: observe temperatura, umidade e o próprio cão.
+
+Braquicefálicos e cães com doença merecem cuidado adicional.
+
+---
+
+## 81. Enriquecimento de varanda: apenas se for seguro
+
+Uma varanda protegida pode oferecer:
+- cheiros;
+- vento;
+- observação.
+
+Mas não deixe:
+- sol intenso;
+- acesso a plantas tóxicas;
+- possibilidade de queda;
+- latido contínuo para rua.
+
+Se aumenta vigilância, não é enriquecimento.
+
+---
+
+## 82. Entregas sem corrida para a porta
+
+Crie um ritual:
+
+1. campainha;
+2. tutor diz “cama” ou conduz para zona;
+3. barreira fecha;
+4. entrega acontece;
+5. porta fecha;
+6. cão é liberado.
+
+Pratique sem entregador.
+
+---
+
+## 83. “Passeio de condomínio”
+
+Alguns prédios permitem circulação em áreas específicas.
+
+Mesmo ali:
+- use guia;
+- recolha fezes;
+- respeite pessoas;
+- evite soltar em espaço não autorizado.
+
+Boa convivência protege a permanência dos animais no edifício.
+
+---
+
+## 84. Uma mala de emergência para quem mora alto
+
+Tenha:
+- guia;
+- peitoral;
+- documentos;
+- medicação;
+- água;
+- contacto veterinário;
+- transportador para cão pequeno, quando possível.
+
+Pergunta importante para cães grandes:
+
+**como eu o retiro do prédio se o elevador parar e ele não puder usar escadas?**
+
+Planeje antes.
+
+---
+
+## 85. Checklist do “dia de apartamento”
+
+- [ ] eliminou;
+- [ ] teve oportunidade de cheirar;
+- [ ] fez alguma atividade mental;
+- [ ] teve descanso sem interrupção;
+- [ ] teve contato social adequado;
+- [ ] água disponível;
+- [ ] não passou o dia em vigilância;
+- [ ] ambiente está termicamente confortável.
+
+---
+
+## 86. Desafio de 7 dias sem aumentar quilômetros
+
+Tente melhorar a semana sem aumentar distância total de passeio:
+
+### Dia 1
+Nova rota curta.
+
+### Dia 2
+Busca de alimento.
+
+### Dia 3
+Treino de campainha.
+
+### Dia 4
+Sniffari.
+
+### Dia 5
+Settle.
+
+### Dia 6
+Passeio em horário mais calmo.
+
+### Dia 7
+Descanso + revisão.
+
+O objetivo é mostrar que qualidade ambiental é mais que exercício físico.
+
+---
+
+## 87. A pergunta final
+
+Se alguém pergunta:
+
+**“Meu apartamento é grande o suficiente?”**
+
+responda com outra pergunta:
+
+**“Minha rotina é rica, segura e sustentável o suficiente para este cão?”**
+
+Essa é a decisão que importa.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
