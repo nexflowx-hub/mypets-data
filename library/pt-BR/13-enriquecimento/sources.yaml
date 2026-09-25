@@ -1,0 +1,11 @@
+guide_id: guide-013
+reviewed_at: 2026-09-25
+sources:
+  - source_id: dogs-trust-enrichment
+    applies_to: [farejo, alimentacao, brincadeira, exploracao]
+  - source_id: dogs-trust-settle
+    applies_to: [calma, descanso]
+  - source_id: rspca-sniffari
+    applies_to: [farejo, passeio]
+  - source_id: avsab-position-statements
+    applies_to: [treino, recompensa]
