@@ -76,3 +76,14 @@ guides:
     slug: 50-ideias-enriquecimento
     title: "50 Ideias de Enriquecimento para Cães"
     path: pt-BR/13-enriquecimento
+
+structured_content:
+  breed_atlas:
+    path: pt-BR/breeds/index.json
+    profile_count: 64
+    real_photo_coverage: 64
+  media_placement_master:
+    path: ../media/media-placement-master.json
+    exact_placements: 103
+  round_brand_mark:
+    media_id: mypets-round-logo
