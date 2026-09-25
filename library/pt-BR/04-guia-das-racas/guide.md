@@ -1342,6 +1342,308 @@ Antes de trazer um cão para casa, simule a rotina por sete dias: acorde no hor�
 Se a rotina simulada já parece impossível sem o cão, a solução provavelmente não é escolher uma raça “mais fácil” por aparência, mas rever momento, porte, idade ou até adiar a decisão.
 
 
+---
+
+# Mais perfis para comparar
+
+Os perfis abaixo ampliam o atlas. Use-os como ponto de partida para perguntas — não como previsão garantida do comportamento de um indivíduo.
+
+## 73. Vizsla
+
+Cão atlético, próximo da família e historicamente selecionado para trabalho de caça cooperativo.
+
+**Tendências para investigar**
+- energia: alta;
+- necessidade de atividade: alta;
+- interesse por treino e interação: frequentemente alto;
+- tolerância a longos períodos sem companhia: pode ser um desafio;
+- pelagem: curta e de manutenção relativamente simples.
+
+### Pense duas vezes se
+A rotina é muito sedentária ou o cão ficará sozinho por longos períodos sem plano de adaptação.
+
+> [!MEDIA]
+> Usar a fotografia real licenciada `commons-vizsla-dog`.
+
+---
+
+## 74. Weimaraner
+
+Outro cão de caça atlético, geralmente grande, rápido e muito envolvido com atividade humana.
+
+**Tendências para investigar**
+- energia: alta;
+- exercício e enriquecimento: altos;
+- porte: médio-grande/grande;
+- pelagem: curta;
+- treino: beneficia-se de consistência e tarefas.
+
+Uma casa grande não substitui passeio, treino e atividade mental.
+
+> [!MEDIA]
+> Usar `commons-weimaraner-dog` — fotografia em CC0.
+
+---
+
+## 75. English Springer Spaniel
+
+Spaniel criado para trabalho de campo, frequentemente ativo, curioso e interessado em procurar odores.
+
+**Tendências para investigar**
+- energia: moderada a alta;
+- farejo: importante;
+- treino: costuma responder bem a reforço;
+- pelagem/orelhas: exigem manutenção e observação;
+- estilo de vida: combina melhor com famílias que gostam de atividade.
+
+> [!MEDIA]
+> Usar `commons-english-springer-spaniel` — fotografia em domínio público.
+
+---
+
+## 76. Shar-Pei
+
+Raça de aparência muito característica que exige que a decisão vá além das dobras.
+
+**Tendências para investigar**
+- energia: variável, muitas vezes moderada;
+- sociabilidade com desconhecidos: pode ser mais reservada;
+- pele e conformação: merecem atenção veterinária e escolha responsável;
+- treino: socialização e experiências positivas importam.
+
+Procure exemplares cuja conformação permita olhos, pele, respiração e movimento funcionais.
+
+> [!MEDIA]
+> Usar `commons-shar-pei`.
+
+---
+
+## 77. Bichon Frisé
+
+Pequeno cão de companhia, geralmente sociável, mas com necessidade real de grooming.
+
+**Tendências para investigar**
+- porte: pequeno;
+- atividade: moderada;
+- proximidade humana: frequentemente alta;
+- pelagem: manutenção elevada;
+- apartamento: pode adaptar-se bem quando rotina e atividade são atendidas.
+
+“Pequeno” não significa manutenção baixa.
+
+> [!MEDIA]
+> Usar `commons-bichon-frise`. A imagem também mostra um Poodle; a legenda deve deixar isso claro.
+
+---
+
+## 78. Shetland Sheepdog
+
+Cão pastor pequeno/médio, atento ao ambiente e frequentemente rápido para aprender.
+
+**Tendências para investigar**
+- energia: moderada a alta;
+- treinabilidade: alta;
+- sensibilidade a movimento/som: pode ser significativa;
+- vocalização: merece investigação;
+- pelagem: manutenção regular.
+
+Pode ser pequeno em tamanho e grande em necessidade mental.
+
+> [!MEDIA]
+> Usar `commons-shetland-sheepdog` — domínio público.
+
+---
+
+## 79. Lhasa Apso
+
+Raça pequena de companhia e vigilância histórica, com pelagem que pode exigir bastante trabalho.
+
+**Tendências para investigar**
+- porte: pequeno;
+- energia: moderada;
+- relação com estranhos: pode ser mais reservada;
+- grooming: alto quando a pelagem é mantida longa;
+- apartamento: possível com rotina adequada.
+
+Não confunda pequeno porte com desejo de ser manipulado ou carregado continuamente.
+
+> [!MEDIA]
+> Usar `commons-lhasa-apso`.
+
+---
+
+## 80. São Bernardo
+
+Cão gigante cuja principal questão prática costuma ser logística.
+
+**Antes de escolher, calcule**
+- espaço para descanso e circulação;
+- transporte;
+- alimento;
+- medicação e cuidados proporcionais ao porte;
+- acesso por escadas/elevador;
+- calor;
+- capacidade física dos cuidadores.
+
+Cães gigantes exigem planejamento para emergências que poucas famílias fazem antecipadamente.
+
+> [!MEDIA]
+> Usar `commons-saint-bernard`.
+
+---
+
+## 81. Papillon
+
+Apesar do tamanho muito pequeno, o Papillon não deve ser pensado apenas como “cão de colo”.
+
+**Tendências para investigar**
+- porte: muito pequeno;
+- energia: moderada;
+- treino: pode ser muito interessado e rápido;
+- fragilidade física: importante em casas com crianças ou cães grandes;
+- atividade mental: relevante.
+
+> [!MEDIA]
+> Usar `commons-papillon`.
+
+---
+
+## 82. Boston Terrier
+
+Pequeno e compacto, normalmente procurado como cão de companhia.
+
+**Tendências para investigar**
+- porte: pequeno;
+- atividade: moderada, dependendo do indivíduo;
+- convivência: frequentemente muito orientada a pessoas;
+- conformação de focinho curto: exige atenção a respiração e calor.
+
+A aparência braquicefálica deve levar a perguntas de bem-estar, não ser tratada apenas como estética.
+
+> [!MEDIA]
+> Usar `commons-boston-terrier`.
+
+---
+
+## 83. Rough Collie / Collie de Pelo Longo
+
+Cão pastor de porte médio-grande, historicamente selecionado para cooperação e manejo de rebanhos.
+
+**Tendências para investigar**
+- energia: moderada;
+- sensibilidade: pode ser alta;
+- treinabilidade: geralmente boa com métodos gentis;
+- vocalização: pode existir;
+- pelagem: manutenção considerável.
+
+> [!MEDIA]
+> Usar `commons-rough-collie`.
+
+---
+
+## 84. Afghan Hound
+
+Galgos como o Afghan Hound combinam história de caça visual com um perfil diferente dos cães selecionados para obediência próxima.
+
+**Tendências para investigar**
+- atividade: precisa de oportunidade segura para movimento;
+- independência: pode ser maior;
+- impulso de perseguição: importante avaliar;
+- grooming: muito elevado na pelagem longa;
+- recall: exige treino e gestão realistas.
+
+> [!MEDIA]
+> Usar `commons-afghan-hound`.
+
+---
+
+## 85. Raças pequenas não formam um único grupo de comportamento
+
+Chihuahua, Papillon, Maltês, Yorkshire, Lhasa, Shih Tzu, Bichon e Spitz podem caber numa faixa de peso parecida e, ainda assim, apresentar histórias funcionais, grooming, vocalização e níveis de atividade muito diferentes.
+
+Use “pequeno” apenas como descrição de porte.
+
+---
+
+## 86. Raças de caça também não são iguais
+
+Retriever, spaniel, pointer, hound e terrier foram selecionados para tarefas distintas.
+
+Isso pode influenciar:
+- uso do nariz;
+- perseguição;
+- recuperação de objetos;
+- cooperação;
+- independência;
+- persistência.
+
+Conhecer a função histórica ajuda a montar atividades adequadas.
+
+---
+
+## 87. O custo invisível do grooming
+
+Antes de escolher uma raça de pelagem exigente, simule um ano:
+
+- escovação em casa;
+- banho/tosa profissional;
+- ferramentas;
+- tempo;
+- adaptação comportamental ao manejo.
+
+Pelagem bonita numa fotografia pode representar dezenas de horas de manutenção.
+
+---
+
+## 88. O custo invisível do porte gigante
+
+Além de alimento:
+- carro;
+- cama;
+- hospedagem;
+- contenção segura;
+- medicações;
+- mobilidade;
+- emergência.
+
+Pergunte: **se este cão não conseguir caminhar, consigo transportá-lo?**
+
+---
+
+## 89. O custo invisível da alta energia
+
+Não é apenas “uma corrida por dia”.
+
+Pode incluir:
+- treino;
+- enriquecimento;
+- deslocamento a áreas adequadas;
+- cuidador;
+- esporte;
+- gestão em dias de chuva.
+
+Um cão altamente ativo precisa de uma rotina sustentável por anos.
+
+---
+
+## 90. Como comparar três raças de forma útil
+
+Crie uma tabela própria:
+
+| Critério | Raça A | Raça B | Raça C |
+|---|---|---|---|
+| energia | | | |
+| grooming | | | |
+| vocalização | | | |
+| tamanho | | | |
+| calor | | | |
+| treino | | | |
+| tempo sozinho | | | |
+| orçamento | | | |
+
+Depois escreva ao lado a **sua realidade**. Compatibilidade aparece na diferença entre desejo e rotina.
+
+
 ## Referências de base desta edição
 
 Os perfis usam padrões e nomenclatura da FCI como referência de origem/função, materiais do AKC para perguntas de compatibilidade de estilo de vida e recursos veterinários de bem-estar para temas de saúde funcional, incluindo os materiais da WSAVA sobre BOAS.
