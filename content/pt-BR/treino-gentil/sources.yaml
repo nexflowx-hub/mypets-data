@@ -1,0 +1,22 @@
+sources:
+  - id: avsab-humane-training
+    publisher: AVSAB
+    title: "Humane Dog Training Position Statement"
+    url: "https://avsab.org/resources/position-statements/"
+    source_type: position-statement
+    topics: [training, behavior, welfare]
+    reuse: facts-only
+  - id: avsab-reward-based
+    publisher: AVSAB
+    title: "What are Reward-Based Training Methods for Dogs (and Cats)?"
+    url: "https://avsab.org/what-are-reward-based-training-methods-for-dogs-and-cats/"
+    source_type: educational
+    topics: [reward-based-training]
+    reuse: facts-only
+  - id: pdsa-basic-training
+    publisher: PDSA
+    title: "Basic training for puppies"
+    url: "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/basic-training-for-puppies"
+    source_type: welfare-guide
+    topics: [sit, recall, puppy-training]
+    reuse: facts-only
