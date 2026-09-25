@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0-draft",
+  "version": "2.4.0-draft",
   "collection": {
     "id": "mypets-cuidar-melhor",
     "title": "Coleção MyPets — Cuidar Melhor",
@@ -66,8 +66,8 @@
       "legacySlugs": [],
       "title": "Guia das Raças: Escolha pelo Estilo de Vida",
       "subtitle": "Perfis comparativos para pensar energia, porte, manutenção, manejo e compatibilidade antes da decisão.",
-      "description": "Matriz de compatibilidade, cães sem raça definida, perfis de raças populares, saúde funcional e perguntas antes de adotar ou comprar.",
-      "readingMinutes": 80,
+      "description": "Atlas MyPets com 64 perfis estruturados e fotografia real, matriz de compatibilidade, contexto funcional, custos, bem-estar e perguntas antes de adotar ou comprar.",
+      "readingMinutes": 90,
       "image": "/images/card-resgatou.jpg",
       "tags": [
         "raças",
@@ -75,7 +75,9 @@
         "compatibilidade"
       ],
       "contentPath": "library/pt-BR/04-guia-das-racas/guide.md",
-      "previewPath": "library/pt-BR/04-guia-das-racas/preview.md"
+      "previewPath": "library/pt-BR/04-guia-das-racas/preview.md",
+      "atlasProfileCount": 64,
+      "structuredAtlasPath": "library/pt-BR/breeds/index.json"
     },
     {
       "id": "guide-005",
@@ -232,5 +234,12 @@
       "contentPath": "library/pt-BR/13-enriquecimento/guide.md",
       "previewPath": "library/pt-BR/13-enriquecimento/preview.md"
     }
-  ]
+  ],
+  "structuredContent": {
+    "breedAtlasPath": "library/pt-BR/breeds/index.json",
+    "breedCount": 64,
+    "breedPhotoCoverage": 64,
+    "mediaPlacementMaster": "media/media-placement-master.json",
+    "roundBrandMark": "mypets-round-logo"
+  }
 }
