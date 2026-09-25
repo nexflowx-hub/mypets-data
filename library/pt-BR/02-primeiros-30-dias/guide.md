@@ -793,6 +793,397 @@ Ao terminar os 30 dias, continue:
 
 Seu filhote ainda está no começo.
 
+
+---
+
+## 24. A regra dos três estados: explorar, interagir, descansar
+
+Uma forma simples de organizar o dia do filhote é observar três estados.
+
+### Explorar
+
+Farejar, caminhar, conhecer superfície nova, investigar brinquedo.
+
+### Interagir
+
+Treino, brincadeira, manejo, contato com pessoas.
+
+### Descansar
+
+Dormir ou permanecer em baixa ativação sem estímulo constante.
+
+Um erro comum é alternar apenas exploração e interação. O filhote fica acordado por muito tempo e entra num ciclo de excitação crescente.
+
+Quando a mordida aumenta, a atenção desaparece e o corpo parece “elétrico”, pergunte se está faltando descanso.
+
+---
+
+## 25. O que fazer quando o filhote pega algo proibido
+
+Evite criar um jogo de perseguição.
+
+### Se o objeto não é perigoso
+
+- aproxime-se com calma;
+- ofereça uma troca;
+- marque quando soltar;
+- entregue a recompensa;
+- retire o objeto sem dramatizar;
+- ofereça algo permitido para mastigar.
+
+### Se o objeto é perigoso
+
+A prioridade é impedir ingestão e procurar orientação se necessário.
+
+Treine “larga” com objetos seguros **antes** de precisar dele numa emergência.
+
+### Prevenção continua sendo mais eficiente
+
+Cada objeto fora do alcance é uma oportunidade a menos de ensaiar o comportamento.
+
+---
+
+## 26. Como reduzir pulos em pessoas
+
+Filhotes pulam porque aproximar o corpo e o rosto das pessoas pode ser muito reforçador.
+
+Uma estratégia simples:
+
+1. aproxime-se quando quatro patas estão no chão;
+2. ofereça atenção nessa posição;
+3. se pular, fique mais neutro;
+4. quando voltar ao chão, reforce;
+5. peça às visitas para seguir a mesma regra.
+
+Para filhotes muito pequenos, você pode se abaixar para oferecer contato sem exigir que saltem.
+
+Evite empurrar repetidamente se isso virar brincadeira.
+
+---
+
+## 27. Roupa, cadarço e tornozelo viraram brinquedo
+
+Movimento rápido desperta interesse.
+
+Se o filhote ataca barra da calça ou cadarços:
+
+- pare o movimento;
+- ofereça brinquedo;
+- recompense quando muda de alvo;
+- observe se isso ocorre principalmente quando está cansado.
+
+Correr para escapar quase sempre torna o alvo mais interessante.
+
+---
+
+## 28. Introdução ao carro
+
+Não espere uma viagem longa.
+
+### Etapa 1
+
+Entrar no carro parado, receber recompensa e sair.
+
+### Etapa 2
+
+Ficar alguns minutos com o carro desligado.
+
+### Etapa 3
+
+Motor ligado sem sair.
+
+### Etapa 4
+
+Trajeto muito curto.
+
+Use contenção segura apropriada. Se houver salivação intensa, vômito, pânico ou desconforto recorrente, converse com o veterinário.
+
+Nunca deixe o filhote sozinho em veículo quente.
+
+---
+
+## 29. A primeira experiência no banho ou grooming
+
+Nem todo filhote precisa de banho imediatamente.
+
+O que vale a pena treinar cedo é tolerância gradual a:
+
+- toalha;
+- escova;
+- secador em distância e intensidade adequadas;
+- toque de patas;
+- manipulação de orelhas;
+- ficar sobre superfície de grooming segura.
+
+Faça microexposições positivas.
+
+Um primeiro banho traumático não ensina “que precisa aceitar”; pode criar uma associação difícil.
+
+---
+
+## 30. Escovação de dentes começa sem escovar
+
+A meta inicial é tornar o toque próximo da boca previsível.
+
+### Progressão
+
+1. tocar lateral do focinho;
+2. recompensa;
+3. levantar o lábio por um segundo;
+4. recompensa;
+5. tocar gengiva/dente com dedo de forma segura;
+6. apresentar escova e produto veterinário apropriado;
+7. aumentar gradualmente.
+
+Não use creme dental humano.
+
+Se houver dor ou resistência súbita, pare e procure avaliação.
+
+---
+
+## 31. Comida e recursos: construa confiança
+
+Não retire o pote repetidamente “para ele aprender quem manda”.
+
+Uma abordagem mais segura é ensinar que aproximação humana prevê algo bom.
+
+Por exemplo, em contexto adequado:
+
+- passe a uma distância confortável;
+- jogue um petisco melhor;
+- afaste-se.
+
+Se o filhote congela, rosna, protege comida ou tenta morder, não faça experimentos caseiros de confronto. Procure orientação comportamental qualificada.
+
+---
+
+## 32. Enriquecimento para filhotes
+
+Não precisa ser complexo.
+
+### Busca simples
+
+Espalhe parte da refeição numa área segura.
+
+### Caixa de exploração
+
+Uma caixa baixa com papel amassado e alguns petiscos, supervisionada e sem objetos que possam ser ingeridos.
+
+### Brinquedo recheável
+
+Use alimento apropriado em brinquedo resistente e compatível com tamanho.
+
+### Novidade controlada
+
+Uma caixa, guarda-chuva fechado, superfície diferente ou objeto doméstico pode virar experiência de exploração — sem forçar aproximação.
+
+---
+
+## 33. Quando o filhote parece “medroso demais”
+
+Medo merece cuidado, não prova de coragem.
+
+Evite:
+
+- segurar o filhote perto do estímulo;
+- puxar pela guia;
+- permitir que pessoas o cerquem;
+- insistir até parar de reagir.
+
+Prefira:
+
+- aumentar distância;
+- deixar observar;
+- associar a algo positivo;
+- encerrar antes de sobrecarregar.
+
+Se há medo generalizado, dificuldade de recuperação ou piora, procure ajuda cedo.
+
+---
+
+## 34. Primeiras interações com cães
+
+O objetivo não é brincar com todos.
+
+Prefira cães:
+
+- conhecidos;
+- saudáveis;
+- socialmente adequados;
+- capazes de respeitar pausas.
+
+Observe diferenças de tamanho e intensidade.
+
+Interrompa se um dos cães tenta fugir, se esconde, é perseguido sem pausa ou não consegue recuperar.
+
+Parques cheios de cães desconhecidos raramente são a melhor “aula de socialização” para um filhote.
+
+---
+
+## 35. Primeiras interações com gatos
+
+Use barreiras e controle de distância.
+
+### Começo
+
+- gato com rota de fuga e acesso vertical;
+- filhote com guia/barreira;
+- recompense calma;
+- sessões curtas.
+
+Não permita perseguição “para ver o que acontece”.
+
+O objetivo inicial pode ser apenas coexistir no mesmo espaço sem fixação ou perseguição.
+
+---
+
+## 36. O filhote e a campainha
+
+Campainha + porta + visita cria excitação rapidamente.
+
+Você pode começar cedo:
+
+1. toque de campainha em volume baixo;
+2. recompensa;
+3. repita sem visita;
+4. depois associe a ir para a cama ou receber atividade de farejamento.
+
+Treinar o som separado da chegada de pessoas reduz dificuldade.
+
+---
+
+## 37. Fim da licença: rotina de trabalho precisa ser treinada antes
+
+Se você está de férias nas primeiras semanas, não espere o último dia para simular sua rotina normal.
+
+Gradualmente:
+
+- faça períodos em outro cômodo;
+- use a zona segura;
+- saia por intervalos curtos;
+- alterne presença e ausência;
+- observe por câmera, quando possível.
+
+O filhote precisa aprender a descansar sem companhia constante.
+
+---
+
+## 38. Como usar uma câmera sem ficar obcecado
+
+Uma câmera doméstica pode responder perguntas úteis:
+
+- ele dorme depois que eu saio?
+- vocaliza por quanto tempo?
+- come o brinquedo recheado?
+- tenta fugir?
+- há gatilho externo?
+
+Observe padrões. Não passe a saída inteira falando pelo alto-falante; isso pode confundir alguns cães.
+
+Se a gravação mostra pânico, procure orientação.
+
+---
+
+## 39. Regressões são dados
+
+Depois de vários dias bons, o filhote pode voltar a ter acidentes, morder mais ou parecer menos atento.
+
+Pergunte:
+
+- dormiu menos?
+- houve visitas?
+- ambiente mudou?
+- aumentamos liberdade rápido demais?
+- está em fase de crescimento/dentição?
+- há sinais físicos?
+
+Ajuste a dificuldade em vez de concluir que “esqueceu tudo”.
+
+---
+
+## 40. Dentição e desconforto oral
+
+Durante crescimento, a necessidade de mastigar pode aumentar.
+
+Ofereça opções adequadas e seguras.
+
+Evite objetos excessivamente duros que possam danificar dentes.
+
+Sangramento importante, dor intensa, recusa alimentar ou dente quebrado merecem avaliação.
+
+---
+
+## 41. O primeiro mês não termina no dia 30
+
+Algumas aprendizagens apenas começaram.
+
+No mês seguinte, continue a trabalhar:
+
+- recall;
+- ficar sozinho;
+- guia frouxa;
+- socialização;
+- manejo;
+- descanso;
+- troca de objetos;
+- confiança em ambientes novos.
+
+Evite aumentar liberdade de forma muito rápida apenas porque houve uma boa semana.
+
+---
+
+## 42. Ficha de revisão do dia 30
+
+Preencha:
+
+**O que o filhote já faz com facilidade?**
+
+**O que ainda depende de muita ajuda?**
+
+**Quais ambientes são fáceis?**
+
+**Quais ambientes são difíceis?**
+
+**Quais três coisas mais motivam?**
+
+**Quais três situações causam insegurança?**
+
+**Como está o padrão de sono?**
+
+**Como está o padrão de eliminação?**
+
+**Qual pergunta levaremos ao veterinário?**
+
+**Qual competência será prioridade no mês 2?**
+
+Essa revisão é mais útil do que comparar o filhote com metas rígidas de internet.
+
+---
+
+## 43. Kit de sobrevivência da família
+
+Quando todos estão cansados, use uma versão mínima da rotina:
+
+- segurança;
+- água;
+- alimentação;
+- eliminação;
+- descanso;
+- uma atividade de farejamento;
+- alguns minutos de treino positivo.
+
+Não tente recuperar “treino perdido” com sessões longas no dia seguinte.
+
+Consistência ao longo de semanas importa mais do que perfeição diária.
+
+---
+
+## Referências de base desta edição
+
+A estrutura deste guia foi informada por materiais de socialização e treino da AVSAB, orientações de cuidado de filhotes do Merck Veterinary Manual, guias de toilet training, crate e separação gradual da RSPCA, conteúdos educativos da PDSA e diretrizes de prevenção/vacinação da WSAVA.
+
+O texto, plano de 30 dias, trackers e organização editorial são originais MyPets.
+
 ---
 
 ## Sobre esta coleção
