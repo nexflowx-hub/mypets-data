@@ -1,0 +1,50 @@
+sources:
+  - id: avsab-puppy-socialization
+    publisher: AVSAB
+    title: "Puppy Socialization Position Statement"
+    url: "https://avsab.org/resources/position-statements/"
+    source_type: position-statement
+    topics: [socialization, puppy]
+    reuse: facts-only
+  - id: avsab-humane-training
+    publisher: AVSAB
+    title: "Humane Dog Training Position Statement"
+    url: "https://avsab.org/resources/position-statements/"
+    source_type: position-statement
+    topics: [training]
+    reuse: facts-only
+  - id: pdsa-first-day-night
+    publisher: PDSA
+    title: "First day and night with puppy"
+    url: "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/first-day-and-night-with-puppy"
+    source_type: welfare-guide
+    topics: [first-day, first-night, puppy]
+    reuse: facts-only
+  - id: pdsa-new-puppy
+    publisher: PDSA
+    title: "New puppy guide"
+    url: "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/new-puppy-checklist"
+    source_type: welfare-guide
+    topics: [preparation, puppy]
+    reuse: facts-only
+  - id: rspca-toilet
+    publisher: RSPCA
+    title: "How To Toilet Train Your Puppy or Dog"
+    url: "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/toilettraining"
+    source_type: welfare-guide
+    topics: [toilet-training]
+    reuse: facts-only
+  - id: merck-puppy-care
+    publisher: Merck Veterinary Manual
+    title: "Puppy Care"
+    url: "https://www.merckvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care"
+    source_type: veterinary-manual
+    topics: [puppy-care, vaccination]
+    reuse: facts-only
+  - id: wsava-vaccination-2024
+    publisher: WSAVA
+    title: "2024 Guidelines for the Vaccination of Dogs and Cats"
+    url: "https://wsava.org/global-guidelines/vaccination-guidelines/"
+    source_type: guideline
+    topics: [vaccination]
+    reuse: facts-only
