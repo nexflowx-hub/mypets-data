@@ -36,6 +36,14 @@ sources:
     authority: high
     reuse: facts-and-paraphrase
 
+  - id: wsava-boas
+    publisher: World Small Animal Veterinary Association
+    title: Brachycephalic Obstructive Airway Syndrome (BOAS) Resources
+    url: https://wsava.org/resources/brachycephalic-obstructive-airway-syndrome-boas-resources/
+    topics: [brachycephalic, breathing, welfare]
+    authority: high
+    reuse: facts-links-and-approved-embeds
+
   - id: aaha-life-stage
     publisher: American Animal Hospital Association
     title: 2019 AAHA Canine Life Stage Guidelines
@@ -108,6 +116,22 @@ sources:
     authority: high
     reuse: facts-and-paraphrase
 
+  - id: pdsa-reward-training
+    publisher: PDSA
+    title: Reward-based training
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/reward-based-training
+    topics: [training, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: pdsa-basic-training
+    publisher: PDSA
+    title: Basic training for puppies
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/basic-training-for-puppies
+    topics: [puppy, training]
+    authority: high
+    reuse: facts-and-paraphrase
+
   - id: aspca-toxic-foods
     publisher: ASPCA Animal Poison Control
     title: People Foods to Avoid Feeding Your Pets
@@ -121,6 +145,14 @@ sources:
     title: Warm weather pet safety
     url: https://avma.org/resources/pet-owners/petcare/warm-weather-pet-safety
     topics: [heat, safety, exercise]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: avma-short-nosed-air-travel
+    publisher: American Veterinary Medical Association
+    title: Short-nosed Dogs and Air Travel FAQs
+    url: https://avma.org/public/PetCare/Pages/Short-nosed-Dogs-and-Air-Travel-FAQs.aspx
+    topics: [brachycephalic, breathing, travel]
     authority: high
     reuse: facts-and-paraphrase
 
