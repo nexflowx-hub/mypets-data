@@ -131,7 +131,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-dobermann-cc0"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -276,7 +278,9 @@
       "heat_context": "extra-caution-brachycephalic",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-french-bulldog"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -295,7 +299,9 @@
       "heat_context": "extra-caution-brachycephalic",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-english-bulldog"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -335,7 +341,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-yorkshire-terrier"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -417,7 +425,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-english-cocker-spaniel"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -457,7 +467,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-australian-shepherd"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -497,7 +509,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-cavalier-king-charles"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -537,7 +551,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-whippet-dog"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -577,7 +593,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-australian-cattle-dog"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -596,7 +614,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-belgian-malinois"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -615,7 +635,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-akita-inu"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -634,7 +656,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-cane-corso"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -653,7 +677,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-great-dane"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -672,7 +698,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-bernese-mountain-dog"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -691,7 +719,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-basset-hound"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -710,7 +740,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-bull-terrier"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
