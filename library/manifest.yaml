@@ -33,3 +33,29 @@ guides:
     slug: alimentacao-bem-estar
     title: Rotina de Alimentação e Bem-Estar
     path: pt-BR/05-alimentacao-bem-estar
+
+  - id: guide-006
+    order: 6
+    slug: linguagem-corporal-canina
+    title: "Linguagem Corporal Canina: Aprenda a Ouvir sem Palavras"
+    path: pt-BR/06-linguagem-corporal
+  - id: guide-007
+    order: 7
+    slug: passeios-sem-stress
+    title: "Passeios sem Stress"
+    path: pt-BR/07-passeios-sem-stress
+  - id: guide-008
+    order: 8
+    slug: ficar-sozinho
+    title: "Ficar Sozinho em Casa: Autonomia sem Medo"
+    path: pt-BR/08-ficar-sozinho
+  - id: guide-009
+    order: 9
+    slug: cao-em-apartamento
+    title: "Cão em Apartamento: Espaço Pequeno, Vida Completa"
+    path: pt-BR/09-cao-em-apartamento
+  - id: guide-010
+    order: 10
+    slug: higiene-saude-oral
+    title: "Higiene, Banho e Saúde Oral"
+    path: pt-BR/10-higiene-saude-oral
