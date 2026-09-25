@@ -1645,6 +1645,539 @@ Depois escreva ao lado a **sua realidade**. Compatibilidade aparece na diferenç
 
 
 ---
+---
+
+# Atlas 64 — novos perfis da edição expandida
+
+A edição visual do Atlas MyPets passa a reunir **64 perfis estruturados**, todos ligados a uma referência fotográfica real. Os perfis seguintes completam esta expansão com raças de pastoreio, terriers, cães de companhia, cães de água, Spitz, retrievers, setters e outras histórias funcionais.
+
+O objetivo continua sendo o mesmo: **gerar boas perguntas antes da escolha**, não transformar raça em destino comportamental.
+
+## 91. Welsh Corgi Pembroke
+
+**FCI:** Grupo 1 · **Origem:** Grã-Bretanha  
+**Porte:** small-medium · **Energia:** high · **Grooming:** moderate · **Treinabilidade:** high
+
+Boiadeiro de pernas curtas; a história de trabalho ajuda a explicar atenção a movimento, aprendizagem e necessidade de atividade apesar do porte compacto.
+
+Pequeno no tamanho, mas não no repertório. O Pembroke pode combinar energia, rapidez de aprendizagem e tendência a alertar para o ambiente.
+
+### Combina melhor com
+- famílias que querem um cão compacto mas ativo;
+- tutores interessados em treino e jogos mentais;
+- rotina com passeios e controle de peso;
+
+### Pense duas vezes se
+- procura um cão pequeno de baixíssima atividade;
+- ruído/vocalização é um problema crítico no prédio;
+- não quer gerir escadas, saltos e condição corporal;
+
+### Pontos de bem-estar
+- porte alongado/baixo pede atenção a peso e manejo físico.
+- calor e intensidade de exercício devem respeitar o indivíduo.
+
+**Fotografia real do Atlas:** `commons-pembroke-welsh-corgi`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 92. Welsh Corgi Cardigan
+
+**FCI:** Grupo 1 · **Origem:** Grã-Bretanha  
+**Porte:** small-medium · **Energia:** moderate-high · **Grooming:** moderate · **Treinabilidade:** high
+
+Boiadeiro britânico compacto, historicamente usado para trabalhar com gado.
+
+O Cardigan é maior e mais robusto do que muita gente imagina ao ouvir 'Corgi'. Atividade, treino e gestão ambiental continuam importantes.
+
+### Combina melhor com
+- tutores que gostam de treino consistente;
+- famílias que querem porte compacto com perfil ativo;
+- rotinas com exploração e tarefas;
+
+### Pense duas vezes se
+- quer um cão puramente de colo;
+- não consegue oferecer passeios regulares;
+- vocalização de alerta é incompatível com a moradia;
+
+### Pontos de bem-estar
+- controle de peso é especialmente relevante em cães de corpo longo.
+- evite assumir que pernas curtas significam baixa necessidade de movimento.
+
+**Fotografia real do Atlas:** `commons-cardigan-welsh-corgi`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 93. American Staffordshire Terrier
+
+**FCI:** Grupo 3 · **Origem:** Estados Unidos  
+**Porte:** medium-large · **Energia:** high · **Grooming:** low · **Treinabilidade:** high
+
+Terrier do tipo bull; porte médio-forte e história funcional não devem ser convertidos em previsões automáticas de comportamento individual.
+
+Um perfil forte, atlético e frequentemente muito orientado à interação. Treino, socialização, legislação local e manejo responsável precisam fazer parte da escolha.
+
+### Combina melhor com
+- adultos que valorizam treino por recompensa e manejo consistente;
+- famílias capazes de oferecer atividade e regras previsíveis;
+- tutores dispostos a pesquisar legislação/condomínio antes da adoção;
+
+### Pense duas vezes se
+- não consegue manejar fisicamente um cão forte;
+- pretende depender apenas de estereótipos de raça para prever sociabilidade;
+- moradia/seguro/regras locais criam restrições;
+
+### Pontos de bem-estar
+- avaliar o indivíduo e a origem responsável é mais útil que rótulos amplos.
+- condição corporal e atividade compatível com a saúde importam.
+
+**Fotografia real do Atlas:** `commons-american-staffordshire-terrier`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 94. Staffordshire Bull Terrier
+
+**FCI:** Grupo 3 · **Origem:** Grã-Bretanha  
+**Porte:** medium · **Energia:** high · **Grooming:** low · **Treinabilidade:** high
+
+Terrier do tipo bull britânico, compacto e musculado.
+
+O Staffordshire Bull Terrier concentra muita força e energia num corpo relativamente compacto. Precisa de treino e convivência estruturada, não de confrontação.
+
+### Combina melhor com
+- tutores ativos que gostam de treino;
+- famílias capazes de supervisionar interações e gerir excitação;
+- pessoas que valorizam vínculo próximo;
+
+### Pense duas vezes se
+- procura um cão sem necessidade de treino;
+- há restrições locais ao tipo racial;
+- não consegue organizar convivência segura com outros animais quando necessário;
+
+### Pontos de bem-estar
+- origem, socialização e história individual pesam muito na convivência.
+- não usar força/aversivos como resposta automática a comportamentos intensos.
+
+**Fotografia real do Atlas:** `commons-staffordshire-bull-terrier`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 95. Newfoundland / Terra-Nova
+
+**FCI:** Grupo 2 · **Origem:** Canadá  
+**Porte:** giant · **Energia:** low-moderate · **Grooming:** very-high · **Treinabilidade:** moderate
+
+Molossoide de tipo montanha e cão gigante associado historicamente a trabalho próximo da água.
+
+O Terra-Nova transforma 'quero um cão grande e gentil' numa questão logística séria: calor, pelo, carro, piso, escadas e capacidade de o mover numa emergência.
+
+### Combina melhor com
+- famílias com espaço funcional e boa logística;
+- tutores que aceitam grooming intenso;
+- climas/ambientes em que seja possível controlar calor;
+
+### Pense duas vezes se
+- vive em ambiente muito quente sem climatização adequada;
+- não consegue transportar ou ajudar um cão gigante;
+- grooming, baba e custos proporcionais ao porte são incompatíveis;
+
+### Pontos de bem-estar
+- pelagem densa e porte gigante justificam cuidado extra com calor e mobilidade.
+- planeje emergências antes de precisar carregar o cão.
+
+**Fotografia real do Atlas:** `commons-newfoundland-dog`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 96. Flat-Coated Retriever
+
+**FCI:** Grupo 8 · **Origem:** Grã-Bretanha  
+**Porte:** large · **Energia:** high · **Grooming:** moderate-high · **Treinabilidade:** high
+
+Retriever britânico, historicamente selecionado para recuperar caça e trabalhar em cooperação.
+
+Um retriever ativo e frequentemente exuberante. O melhor encaixe costuma envolver movimento, treino, brincadeira e uma família que gosta de fazer coisas com o cão.
+
+### Combina melhor com
+- famílias ativas;
+- tutores interessados em treino, busca e faro;
+- rotina com bastante interação;
+
+### Pense duas vezes se
+- procura rotina sedentária;
+- o cão ficará muitas horas sozinho sem plano;
+- não quer lidar com energia juvenil por um período prolongado;
+
+### Pontos de bem-estar
+- atividade deve ser adaptada à idade e saúde.
+- acompanhar peso e condição corporal continua importante em cães ativos.
+
+**Fotografia real do Atlas:** `commons-flat-coated-retriever-pd`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 97. Cão de Água Português
+
+**FCI:** Grupo 8 · **Origem:** Portugal  
+**Porte:** medium · **Energia:** high · **Grooming:** high · **Treinabilidade:** very-high
+
+Cão de água português, historicamente ligado ao trabalho com pescadores e tarefas aquáticas.
+
+Ativo, treinável e ligado a uma história de trabalho real. O Cão de Água Português precisa de mais do que a fama de 'não largar pelo': treino, atividade e grooming são centrais.
+
+### Combina melhor com
+- famílias ativas;
+- tutores que gostam de treino e jogos de busca;
+- pessoas preparadas para grooming regular;
+
+### Pense duas vezes se
+- a escolha é baseada apenas na ideia de 'hipoalergênico';
+- não quer manutenção de pelagem;
+- procura um cão de baixíssima atividade;
+
+### Pontos de bem-estar
+- nenhuma raça é garantia de ausência de alergia humana.
+- pelagem requer manutenção consistente para evitar nós.
+
+**Fotografia real do Atlas:** `commons-portuguese-water-dog`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 98. Havanese / Bichon Havanês
+
+**FCI:** Grupo 9 · **Origem:** Cuba  
+**Porte:** small · **Energia:** moderate · **Grooming:** very-high · **Treinabilidade:** high
+
+Cão de companhia do grupo dos Bichons; a FCI registra origem em Cuba e desenvolvimento histórico na bacia ocidental do Mediterrâneo.
+
+Pequeno e social, mas com pelagem que pode transformar grooming em parte significativa da rotina.
+
+### Combina melhor com
+- famílias que desejam companhia próxima;
+- apartamentos com rotina consistente;
+- tutores dispostos a manter pelagem e treino;
+
+### Pense duas vezes se
+- longos períodos de ausência são inevitáveis;
+- grooming frequente não cabe na rotina;
+- espera que pequeno porte elimine necessidade de passeio/treino;
+
+### Pontos de bem-estar
+- prevenir nós e desconforto de pele exige manutenção.
+- autonomia deve ser ensinada mesmo em cães de companhia.
+
+**Fotografia real do Atlas:** `commons-havanese-dog`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 99. Pekingese
+
+**FCI:** Grupo 9 · **Origem:** China  
+**Porte:** small · **Energia:** low-moderate · **Grooming:** very-high · **Treinabilidade:** moderate
+
+Cão de companhia de origem chinesa sob patronagem britânica na nomenclatura FCI.
+
+Pequeno, de pelagem abundante e conformação braquicefálica. A decisão precisa incluir respiração, calor, olhos, grooming e conforto, não apenas aparência.
+
+### Combina melhor com
+- rotinas de atividade moderada e ambiente termicamente controlado;
+- tutores atentos a grooming e conforto respiratório;
+- famílias que respeitam autonomia de um cão pequeno;
+
+### Pense duas vezes se
+- vive em calor intenso sem controle ambiental;
+- procura parceiro para exercício intenso;
+- não quer manutenção de pelo/face;
+
+### Pontos de bem-estar
+- conformação de focinho curto exige atenção especial a respiração e calor.
+- aparência extrema deve ser avaliada sob a ótica de bem-estar.
+
+**Fotografia real do Atlas:** `commons-pekingese-cc0`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 100. Japanese Spitz
+
+**FCI:** Grupo 5 · **Origem:** Japão  
+**Porte:** small-medium · **Energia:** moderate-high · **Grooming:** high · **Treinabilidade:** high
+
+Spitz asiático reconhecido como cão de companhia.
+
+Branco, atento e elegante, mas não é decoração: precisa de passeio, treino, manejo de vocalização e manutenção da pelagem.
+
+### Combina melhor com
+- famílias que gostam de treino curto e frequente;
+- apartamentos com plano para vocalização;
+- tutores confortáveis com escovação;
+
+### Pense duas vezes se
+- pelos em casa são intoleráveis;
+- o prédio exige silêncio absoluto;
+- não haverá rotina de atividade mental/física;
+
+### Pontos de bem-estar
+- pelagem densa pede atenção a calor e secagem.
+- não raspar automaticamente a pelagem apenas por temperatura.
+
+**Fotografia real do Atlas:** `commons-japanese-spitz`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 101. Basenji
+
+**FCI:** Grupo 5 · **Origem:** África Central  
+**Porte:** small-medium · **Energia:** high · **Grooming:** low · **Treinabilidade:** moderate
+
+Raça de tipo primitivo; a FCI registra origem na África Central e patronagem britânica.
+
+O Basenji é muitas vezes vendido como 'cão que não late', mas isso esconde o essencial: pode ser ativo, independente, explorador e capaz de vocalizações próprias.
+
+### Combina melhor com
+- tutores que apreciam independência;
+- lares com segurança contra fuga;
+- rotinas com atividade e enriquecimento;
+
+### Pense duas vezes se
+- quer obediência automática;
+- pretende deixá-lo solto em áreas não seguras;
+- escolhe a raça apenas pela promessa de silêncio;
+
+### Pontos de bem-estar
+- manejo de fuga e recall realista são importantes.
+- baixa frequência de latido não significa ausência de vocalização.
+
+**Fotografia real do Atlas:** `commons-basenji-puppy`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 102. Shiba Inu
+
+**FCI:** Grupo 5 · **Origem:** Japão  
+**Porte:** small-medium · **Energia:** moderate-high · **Grooming:** moderate · **Treinabilidade:** moderate
+
+Spitz asiático japonês de pequeno porte e história funcional própria.
+
+Popular pela aparência, mas frequentemente mais independente do que novos tutores esperam. Segurança, manejo e respeito à autonomia são fundamentais.
+
+### Combina melhor com
+- tutores pacientes e consistentes;
+- lares com boa segurança de portas/guias;
+- pessoas que não exigem contato físico constante;
+
+### Pense duas vezes se
+- quer um cão que agrade sempre e siga sem questionar;
+- planeja recall sem manejo em áreas abertas;
+- não aceita um perfil mais independente;
+
+### Pontos de bem-estar
+- não confundir aparência compacta com facilidade de manejo.
+- socialização gradual e treino por recompensa ajudam a construir cooperação.
+
+**Fotografia real do Atlas:** `commons-shiba-inu`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 103. Chow Chow
+
+**FCI:** Grupo 5 · **Origem:** China  
+**Porte:** medium-large · **Energia:** moderate · **Grooming:** very-high · **Treinabilidade:** moderate
+
+Spitz asiático de origem chinesa sob patronagem britânica na nomenclatura FCI.
+
+Pelagem densa, expressão particular e perfil frequentemente reservado. Grooming, socialização e clima devem pesar na decisão.
+
+### Combina melhor com
+- tutores que respeitam espaço e autonomia;
+- lares com rotina previsível;
+- ambientes onde seja possível controlar calor;
+
+### Pense duas vezes se
+- procura um cão exuberantemente sociável com todos;
+- não quer escovação intensa;
+- vive em calor forte sem estratégia térmica;
+
+### Pontos de bem-estar
+- pelagem densa aumenta necessidade de atenção ao calor.
+- grooming cooperativo deve começar cedo.
+
+**Fotografia real do Atlas:** `commons-chow-chow-cc0`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 104. Alaskan Malamute
+
+**FCI:** Grupo 5 · **Origem:** Estados Unidos  
+**Porte:** large · **Energia:** very-high · **Grooming:** high · **Treinabilidade:** moderate
+
+Cão nórdico de trenó; a própria classificação FCI o coloca entre Nordic Sledge Dogs.
+
+Grande, forte e feito para trabalho físico em clima frio. Exercício, segurança, pelo e calor são pontos centrais para tutores em regiões tropicais.
+
+### Combina melhor com
+- famílias muito ativas com espaço e manejo;
+- tutores experientes com cães fortes;
+- rotinas com atividade e controle térmico;
+
+### Pense duas vezes se
+- vive em clima quente sem estrutura;
+- quer cão para ficar solto sem segurança robusta;
+- não consegue oferecer atividade nem lidar com grande muda de pelo;
+
+### Pontos de bem-estar
+- pelagem nórdica densa pede forte atenção térmica.
+- atividade deve respeitar clima, idade e condição física.
+
+**Fotografia real do Atlas:** `commons-alaskan-malamute`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 105. English Setter
+
+**FCI:** Grupo 7 · **Origem:** Grã-Bretanha  
+**Porte:** medium-large · **Energia:** high · **Grooming:** high · **Treinabilidade:** high
+
+Setter britânico do grupo de cães de aponte, historicamente selecionado para trabalho de campo.
+
+Atlético, elegante e feito para procurar e cobrir terreno. Farejo e movimento tendem a ser partes importantes de uma vida compatível.
+
+### Combina melhor com
+- famílias ativas;
+- tutores que gostam de passeios de exploração;
+- lares que aceitam grooming de pelagem média/longa;
+
+### Pense duas vezes se
+- rotina é sedentária;
+- não há espaço seguro para exercício;
+- manutenção de franjas/pelagem não cabe no dia a dia;
+
+### Pontos de bem-estar
+- orelhas e pelagem merecem manutenção e observação.
+- exercício deve ser progressivo e adaptado ao indivíduo.
+
+**Fotografia real do Atlas:** `commons-english-setter`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 106. Irish Red Setter / Setter Irlandês
+
+**FCI:** Grupo 7 · **Origem:** Irlanda  
+**Porte:** large · **Energia:** very-high · **Grooming:** high · **Treinabilidade:** high
+
+Setter irlandês do grupo de cães de aponte; a FCI o classifica entre setters britânicos e irlandeses.
+
+Grande, atlético e frequentemente exuberante. O vermelho da pelagem chama atenção, mas o compromisso real é energia, treino e tempo.
+
+### Combina melhor com
+- famílias muito ativas;
+- tutores que apreciam treino e exploração ao ar livre;
+- rotinas com companhia e movimento;
+
+### Pense duas vezes se
+- quer um cão calmo com pouco exercício;
+- passa longos períodos fora sem apoio;
+- não quer manutenção de pelagem;
+
+### Pontos de bem-estar
+- crescimento e exercício devem ser geridos de acordo com idade e saúde.
+- grooming e inspeção de orelhas/pelagem fazem parte da rotina.
+
+**Fotografia real do Atlas:** `commons-irish-setter`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
+---
+
+## 107. Dálmata
+
+**FCI:** Grupo 6 · **Origem:** Croácia  
+**Porte:** medium-large · **Energia:** high · **Grooming:** low · **Treinabilidade:** high
+
+Raça relacionada no Grupo 6 da FCI, de origem croata, com história funcional associada a deslocamento e resistência.
+
+O padrão de manchas é visualmente marcante, mas a vida com um Dálmata é muito mais sobre energia, treino, rotina e escolha responsável de origem.
+
+### Combina melhor com
+- famílias ativas;
+- tutores que gostam de treino e caminhada;
+- lares capazes de sustentar exercício e enriquecimento;
+
+### Pense duas vezes se
+- a escolha é apenas pela estética;
+- rotina é sedentária;
+- não pretende pesquisar saúde e criação responsável;
+
+### Pontos de bem-estar
+- pesquise rastreios e histórico de saúde de criadores responsáveis.
+- atividade deve ser compatível com idade, clima e condição individual.
+
+**Fotografia real do Atlas:** `commons-dalmatian-cc0`
+
+> [!NOTE]
+> Este é um perfil de tendências. Linhagem, criação, saúde, socialização, idade e história individual podem alterar muito o comportamento e as necessidades de um cão.
+
+
 
 ## Recursos visuais do reader
 
