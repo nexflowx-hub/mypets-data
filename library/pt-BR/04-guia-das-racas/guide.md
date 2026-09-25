@@ -1321,6 +1321,27 @@ Se a resposta ainda é sim, você está muito mais perto de uma decisão sustent
 
 ---
 
+---
+
+## 71. Como usar perfis de raça sem transformar tendência em sentença
+
+Um perfil de raça funciona melhor como **lista de perguntas**, não como promessa.
+
+Se uma raça é conhecida por elevada necessidade de atividade, pergunte como aquele cão específico se comporta em dias comuns. Se existe predisposição conhecida a problemas de saúde, pergunte que exames e histórico estão disponíveis. Se a pelagem exige manutenção, descubra frequência, tempo e custo reais antes de decidir.
+
+Considere três níveis de informação:
+
+**1. Função e padrão histórico** — ajuda a entender por que determinados comportamentos podem aparecer.  
+**2. Linhagem e criação** — cães da mesma raça podem vir de linhas selecionadas para objetivos diferentes.  
+**3. Indivíduo real** — idade, saúde, socialização, experiências e personalidade observada continuam essenciais.
+
+## 72. Faça uma semana de “vida simulada”
+
+Antes de trazer um cão para casa, simule a rotina por sete dias: acorde no horário do primeiro passeio, reserve tempo para atividade e treino, calcule deslocamentos, estime grooming, confira regras do condomínio, pesquise hospedagem e simule no orçamento alimento, prevenção e um fundo de emergência.
+
+Se a rotina simulada já parece impossível sem o cão, a solução provavelmente não é escolher uma raça “mais fácil” por aparência, mas rever momento, porte, idade ou até adiar a decisão.
+
+
 ## Referências de base desta edição
 
 Os perfis usam padrões e nomenclatura da FCI como referência de origem/função, materiais do AKC para perguntas de compatibilidade de estilo de vida e recursos veterinários de bem-estar para temas de saúde funcional, incluindo os materiais da WSAVA sobre BOAS.
