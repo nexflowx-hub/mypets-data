@@ -87,3 +87,24 @@ media:
     license: CC-BY-SA-4.0
     attribution_required: true
     topics: [training]
+
+
+  - id: dogs-trust-recall-video
+    type: video-embed
+    title: Teach your dog to come back
+    publisher: Dogs Trust Dog School
+    source_page: https://www.youtube.com/watch?v=tVaH30lld6k
+    embed_url: https://www.youtube.com/watch?v=tVaH30lld6k
+    license_action: embed-only
+    topics: [training, recall]
+    notes: "Official Dogs Trust Dog School video. Embed from YouTube; do not download/rehost."
+
+  - id: dogs-trust-leave-it-video
+    type: video-embed
+    title: Teach your dog to leave it
+    publisher: Dogs Trust Dog School
+    source_page: https://www.youtube.com/watch?v=9o-8K17uTDA
+    embed_url: https://www.youtube.com/watch?v=9o-8K17uTDA
+    license_action: embed-only
+    topics: [training, leave-it, safety]
+    notes: "Official Dogs Trust Dog School video. Embed from YouTube; do not download/rehost."
