@@ -1099,6 +1099,36 @@ Em casas com várias pessoas, use um quadro simples com refeição da manhã, me
 Uma rotina alimentar boa não é a mais complexa. É aquela que a família consegue repetir e observar. Se consegue responder com confiança o que o cão come, quanto recebe, quais extras entram, como está o peso, como estão as fezes e quem oferece comida, já existe uma base muito melhor para decisões junto do veterinário.
 
 
+---
+
+## 58. Auditoria alimentar de 10 minutos
+
+Uma vez por mês, faça uma revisão rápida:
+
+**Minuto 1–2:** confira alimento, lote, validade e armazenamento.  
+**Minuto 3–4:** confirme quanto realmente é oferecido por dia.  
+**Minuto 5:** some petiscos e mastigáveis habituais.  
+**Minuto 6:** observe cintura, costelas e mudança visual do corpo.  
+**Minuto 7:** revise fezes, vômitos e apetite do último mês.  
+**Minuto 8:** pergunte se alguém da casa está oferecendo extras sem registrar.  
+**Minuto 9:** confira limpeza de potes e brinquedos alimentares.  
+**Minuto 10:** anote uma dúvida para a próxima consulta.
+
+## 59. Quando mudar apenas uma coisa por vez
+
+Se o cão está estável e você deseja melhorar a rotina, evite mudar alimento, horário, petiscos, suplemento e comedouro ao mesmo tempo. Quando várias variáveis mudam juntas, fica difícil perceber o que ajudou ou piorou.
+
+Sempre que clinicamente seguro, altere uma variável, observe e registre.
+
+## 60. A pergunta que fecha o guia
+
+Antes de buscar “a melhor ração do mundo”, tente responder:
+
+**“Consigo explicar com clareza o que o meu cão come, quanto recebe, como está o corpo dele e o que mudou nas últimas semanas?”**
+
+Se a resposta for sim, você já construiu uma base de cuidado muito mais útil do que qualquer ranking genérico de marcas.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com pesquisa e redação original MyPets, usando como referências principais:
