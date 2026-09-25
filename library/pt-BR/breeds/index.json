@@ -1115,7 +1115,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 1,
+      "origin": "Grã-Bretanha",
+      "function_context": "Boiadeiro de pernas curtas; a história de trabalho ajuda a explicar atenção a movimento, aprendizagem e necessidade de atividade apesar do porte compacto.",
+      "editorial_summary": "Pequeno no tamanho, mas não no repertório. O Pembroke pode combinar energia, rapidez de aprendizagem e tendência a alertar para o ambiente.",
+      "ideal_for": [
+        "famílias que querem um cão compacto mas ativo",
+        "tutores interessados em treino e jogos mentais",
+        "rotina com passeios e controle de peso"
+      ],
+      "think_twice_if": [
+        "procura um cão pequeno de baixíssima atividade",
+        "ruído/vocalização é um problema crítico no prédio",
+        "não quer gerir escadas, saltos e condição corporal"
+      ],
+      "health_welfare_notes": [
+        "porte alongado/baixo pede atenção a peso e manejo físico",
+        "calor e intensidade de exercício devem respeitar o indivíduo"
+      ]
     },
     {
       "id": "breed-049",
@@ -1138,7 +1156,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 1,
+      "origin": "Grã-Bretanha",
+      "function_context": "Boiadeiro britânico compacto, historicamente usado para trabalhar com gado.",
+      "editorial_summary": "O Cardigan é maior e mais robusto do que muita gente imagina ao ouvir 'Corgi'. Atividade, treino e gestão ambiental continuam importantes.",
+      "ideal_for": [
+        "tutores que gostam de treino consistente",
+        "famílias que querem porte compacto com perfil ativo",
+        "rotinas com exploração e tarefas"
+      ],
+      "think_twice_if": [
+        "quer um cão puramente de colo",
+        "não consegue oferecer passeios regulares",
+        "vocalização de alerta é incompatível com a moradia"
+      ],
+      "health_welfare_notes": [
+        "controle de peso é especialmente relevante em cães de corpo longo",
+        "evite assumir que pernas curtas significam baixa necessidade de movimento"
+      ]
     },
     {
       "id": "breed-050",
@@ -1161,7 +1197,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 3,
+      "origin": "Estados Unidos",
+      "function_context": "Terrier do tipo bull; porte médio-forte e história funcional não devem ser convertidos em previsões automáticas de comportamento individual.",
+      "editorial_summary": "Um perfil forte, atlético e frequentemente muito orientado à interação. Treino, socialização, legislação local e manejo responsável precisam fazer parte da escolha.",
+      "ideal_for": [
+        "adultos que valorizam treino por recompensa e manejo consistente",
+        "famílias capazes de oferecer atividade e regras previsíveis",
+        "tutores dispostos a pesquisar legislação/condomínio antes da adoção"
+      ],
+      "think_twice_if": [
+        "não consegue manejar fisicamente um cão forte",
+        "pretende depender apenas de estereótipos de raça para prever sociabilidade",
+        "moradia/seguro/regras locais criam restrições"
+      ],
+      "health_welfare_notes": [
+        "avaliar o indivíduo e a origem responsável é mais útil que rótulos amplos",
+        "condição corporal e atividade compatível com a saúde importam"
+      ]
     },
     {
       "id": "breed-051",
@@ -1184,7 +1238,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 3,
+      "origin": "Grã-Bretanha",
+      "function_context": "Terrier do tipo bull britânico, compacto e musculado.",
+      "editorial_summary": "O Staffordshire Bull Terrier concentra muita força e energia num corpo relativamente compacto. Precisa de treino e convivência estruturada, não de confrontação.",
+      "ideal_for": [
+        "tutores ativos que gostam de treino",
+        "famílias capazes de supervisionar interações e gerir excitação",
+        "pessoas que valorizam vínculo próximo"
+      ],
+      "think_twice_if": [
+        "procura um cão sem necessidade de treino",
+        "há restrições locais ao tipo racial",
+        "não consegue organizar convivência segura com outros animais quando necessário"
+      ],
+      "health_welfare_notes": [
+        "origem, socialização e história individual pesam muito na convivência",
+        "não usar força/aversivos como resposta automática a comportamentos intensos"
+      ]
     },
     {
       "id": "breed-052",
@@ -1207,7 +1279,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 2,
+      "origin": "Canadá",
+      "function_context": "Molossoide de tipo montanha e cão gigante associado historicamente a trabalho próximo da água.",
+      "editorial_summary": "O Terra-Nova transforma 'quero um cão grande e gentil' numa questão logística séria: calor, pelo, carro, piso, escadas e capacidade de o mover numa emergência.",
+      "ideal_for": [
+        "famílias com espaço funcional e boa logística",
+        "tutores que aceitam grooming intenso",
+        "climas/ambientes em que seja possível controlar calor"
+      ],
+      "think_twice_if": [
+        "vive em ambiente muito quente sem climatização adequada",
+        "não consegue transportar ou ajudar um cão gigante",
+        "grooming, baba e custos proporcionais ao porte são incompatíveis"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa e porte gigante justificam cuidado extra com calor e mobilidade",
+        "planeje emergências antes de precisar carregar o cão"
+      ]
     },
     {
       "id": "breed-053",
@@ -1230,7 +1320,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 8,
+      "origin": "Grã-Bretanha",
+      "function_context": "Retriever britânico, historicamente selecionado para recuperar caça e trabalhar em cooperação.",
+      "editorial_summary": "Um retriever ativo e frequentemente exuberante. O melhor encaixe costuma envolver movimento, treino, brincadeira e uma família que gosta de fazer coisas com o cão.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores interessados em treino, busca e faro",
+        "rotina com bastante interação"
+      ],
+      "think_twice_if": [
+        "procura rotina sedentária",
+        "o cão ficará muitas horas sozinho sem plano",
+        "não quer lidar com energia juvenil por um período prolongado"
+      ],
+      "health_welfare_notes": [
+        "atividade deve ser adaptada à idade e saúde",
+        "acompanhar peso e condição corporal continua importante em cães ativos"
+      ]
     },
     {
       "id": "breed-054",
@@ -1253,7 +1361,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 8,
+      "origin": "Portugal",
+      "function_context": "Cão de água português, historicamente ligado ao trabalho com pescadores e tarefas aquáticas.",
+      "editorial_summary": "Ativo, treinável e ligado a uma história de trabalho real. O Cão de Água Português precisa de mais do que a fama de 'não largar pelo': treino, atividade e grooming são centrais.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de treino e jogos de busca",
+        "pessoas preparadas para grooming regular"
+      ],
+      "think_twice_if": [
+        "a escolha é baseada apenas na ideia de 'hipoalergênico'",
+        "não quer manutenção de pelagem",
+        "procura um cão de baixíssima atividade"
+      ],
+      "health_welfare_notes": [
+        "nenhuma raça é garantia de ausência de alergia humana",
+        "pelagem requer manutenção consistente para evitar nós"
+      ]
     },
     {
       "id": "breed-055",
@@ -1276,7 +1402,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 9,
+      "origin": "Cuba",
+      "function_context": "Cão de companhia do grupo dos Bichons; a FCI registra origem em Cuba e desenvolvimento histórico na bacia ocidental do Mediterrâneo.",
+      "editorial_summary": "Pequeno e social, mas com pelagem que pode transformar grooming em parte significativa da rotina.",
+      "ideal_for": [
+        "famílias que desejam companhia próxima",
+        "apartamentos com rotina consistente",
+        "tutores dispostos a manter pelagem e treino"
+      ],
+      "think_twice_if": [
+        "longos períodos de ausência são inevitáveis",
+        "grooming frequente não cabe na rotina",
+        "espera que pequeno porte elimine necessidade de passeio/treino"
+      ],
+      "health_welfare_notes": [
+        "prevenir nós e desconforto de pele exige manutenção",
+        "autonomia deve ser ensinada mesmo em cães de companhia"
+      ]
     },
     {
       "id": "breed-056",
@@ -1299,7 +1443,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 9,
+      "origin": "China",
+      "function_context": "Cão de companhia de origem chinesa sob patronagem britânica na nomenclatura FCI.",
+      "editorial_summary": "Pequeno, de pelagem abundante e conformação braquicefálica. A decisão precisa incluir respiração, calor, olhos, grooming e conforto, não apenas aparência.",
+      "ideal_for": [
+        "rotinas de atividade moderada e ambiente termicamente controlado",
+        "tutores atentos a grooming e conforto respiratório",
+        "famílias que respeitam autonomia de um cão pequeno"
+      ],
+      "think_twice_if": [
+        "vive em calor intenso sem controle ambiental",
+        "procura parceiro para exercício intenso",
+        "não quer manutenção de pelo/face"
+      ],
+      "health_welfare_notes": [
+        "conformação de focinho curto exige atenção especial a respiração e calor",
+        "aparência extrema deve ser avaliada sob a ótica de bem-estar"
+      ]
     },
     {
       "id": "breed-057",
@@ -1322,7 +1484,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Japão",
+      "function_context": "Spitz asiático reconhecido como cão de companhia.",
+      "editorial_summary": "Branco, atento e elegante, mas não é decoração: precisa de passeio, treino, manejo de vocalização e manutenção da pelagem.",
+      "ideal_for": [
+        "famílias que gostam de treino curto e frequente",
+        "apartamentos com plano para vocalização",
+        "tutores confortáveis com escovação"
+      ],
+      "think_twice_if": [
+        "pelos em casa são intoleráveis",
+        "o prédio exige silêncio absoluto",
+        "não haverá rotina de atividade mental/física"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa pede atenção a calor e secagem",
+        "não raspar automaticamente a pelagem apenas por temperatura"
+      ]
     },
     {
       "id": "breed-058",
@@ -1345,7 +1525,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "África Central",
+      "function_context": "Raça de tipo primitivo; a FCI registra origem na África Central e patronagem britânica.",
+      "editorial_summary": "O Basenji é muitas vezes vendido como 'cão que não late', mas isso esconde o essencial: pode ser ativo, independente, explorador e capaz de vocalizações próprias.",
+      "ideal_for": [
+        "tutores que apreciam independência",
+        "lares com segurança contra fuga",
+        "rotinas com atividade e enriquecimento"
+      ],
+      "think_twice_if": [
+        "quer obediência automática",
+        "pretende deixá-lo solto em áreas não seguras",
+        "escolhe a raça apenas pela promessa de silêncio"
+      ],
+      "health_welfare_notes": [
+        "manejo de fuga e recall realista são importantes",
+        "baixa frequência de latido não significa ausência de vocalização"
+      ]
     },
     {
       "id": "breed-059",
@@ -1368,7 +1566,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Japão",
+      "function_context": "Spitz asiático japonês de pequeno porte e história funcional própria.",
+      "editorial_summary": "Popular pela aparência, mas frequentemente mais independente do que novos tutores esperam. Segurança, manejo e respeito à autonomia são fundamentais.",
+      "ideal_for": [
+        "tutores pacientes e consistentes",
+        "lares com boa segurança de portas/guias",
+        "pessoas que não exigem contato físico constante"
+      ],
+      "think_twice_if": [
+        "quer um cão que agrade sempre e siga sem questionar",
+        "planeja recall sem manejo em áreas abertas",
+        "não aceita um perfil mais independente"
+      ],
+      "health_welfare_notes": [
+        "não confundir aparência compacta com facilidade de manejo",
+        "socialização gradual e treino por recompensa ajudam a construir cooperação"
+      ]
     },
     {
       "id": "breed-060",
@@ -1391,7 +1607,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "China",
+      "function_context": "Spitz asiático de origem chinesa sob patronagem britânica na nomenclatura FCI.",
+      "editorial_summary": "Pelagem densa, expressão particular e perfil frequentemente reservado. Grooming, socialização e clima devem pesar na decisão.",
+      "ideal_for": [
+        "tutores que respeitam espaço e autonomia",
+        "lares com rotina previsível",
+        "ambientes onde seja possível controlar calor"
+      ],
+      "think_twice_if": [
+        "procura um cão exuberantemente sociável com todos",
+        "não quer escovação intensa",
+        "vive em calor forte sem estratégia térmica"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa aumenta necessidade de atenção ao calor",
+        "grooming cooperativo deve começar cedo"
+      ]
     },
     {
       "id": "breed-061",
@@ -1414,7 +1648,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Estados Unidos",
+      "function_context": "Cão nórdico de trenó; a própria classificação FCI o coloca entre Nordic Sledge Dogs.",
+      "editorial_summary": "Grande, forte e feito para trabalho físico em clima frio. Exercício, segurança, pelo e calor são pontos centrais para tutores em regiões tropicais.",
+      "ideal_for": [
+        "famílias muito ativas com espaço e manejo",
+        "tutores experientes com cães fortes",
+        "rotinas com atividade e controle térmico"
+      ],
+      "think_twice_if": [
+        "vive em clima quente sem estrutura",
+        "quer cão para ficar solto sem segurança robusta",
+        "não consegue oferecer atividade nem lidar com grande muda de pelo"
+      ],
+      "health_welfare_notes": [
+        "pelagem nórdica densa pede forte atenção térmica",
+        "atividade deve respeitar clima, idade e condição física"
+      ]
     },
     {
       "id": "breed-062",
@@ -1437,7 +1689,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 7,
+      "origin": "Grã-Bretanha",
+      "function_context": "Setter britânico do grupo de cães de aponte, historicamente selecionado para trabalho de campo.",
+      "editorial_summary": "Atlético, elegante e feito para procurar e cobrir terreno. Farejo e movimento tendem a ser partes importantes de uma vida compatível.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de passeios de exploração",
+        "lares que aceitam grooming de pelagem média/longa"
+      ],
+      "think_twice_if": [
+        "rotina é sedentária",
+        "não há espaço seguro para exercício",
+        "manutenção de franjas/pelagem não cabe no dia a dia"
+      ],
+      "health_welfare_notes": [
+        "orelhas e pelagem merecem manutenção e observação",
+        "exercício deve ser progressivo e adaptado ao indivíduo"
+      ]
     },
     {
       "id": "breed-063",
@@ -1460,7 +1730,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 7,
+      "origin": "Irlanda",
+      "function_context": "Setter irlandês do grupo de cães de aponte; a FCI o classifica entre setters britânicos e irlandeses.",
+      "editorial_summary": "Grande, atlético e frequentemente exuberante. O vermelho da pelagem chama atenção, mas o compromisso real é energia, treino e tempo.",
+      "ideal_for": [
+        "famílias muito ativas",
+        "tutores que apreciam treino e exploração ao ar livre",
+        "rotinas com companhia e movimento"
+      ],
+      "think_twice_if": [
+        "quer um cão calmo com pouco exercício",
+        "passa longos períodos fora sem apoio",
+        "não quer manutenção de pelagem"
+      ],
+      "health_welfare_notes": [
+        "crescimento e exercício devem ser geridos de acordo com idade e saúde",
+        "grooming e inspeção de orelhas/pelagem fazem parte da rotina"
+      ]
     },
     {
       "id": "breed-064",
@@ -1483,7 +1771,25 @@
       "source_ids": [
         "fci-nomenclature"
       ],
-      "last_reviewed": "2026-09-25"
+      "last_reviewed": "2026-09-25",
+      "fci_group": 6,
+      "origin": "Croácia",
+      "function_context": "Raça relacionada no Grupo 6 da FCI, de origem croata, com história funcional associada a deslocamento e resistência.",
+      "editorial_summary": "O padrão de manchas é visualmente marcante, mas a vida com um Dálmata é muito mais sobre energia, treino, rotina e escolha responsável de origem.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de treino e caminhada",
+        "lares capazes de sustentar exercício e enriquecimento"
+      ],
+      "think_twice_if": [
+        "a escolha é apenas pela estética",
+        "rotina é sedentária",
+        "não pretende pesquisar saúde e criação responsável"
+      ],
+      "health_welfare_notes": [
+        "pesquise rastreios e histórico de saúde de criadores responsáveis",
+        "atividade deve ser compatível com idade, clima e condição individual"
+      ]
     }
   ],
   "atlas_name": "Atlas MyPets 64",
