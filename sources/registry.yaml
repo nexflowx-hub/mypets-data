@@ -333,3 +333,157 @@ sources:
     topics: [children, safety, body-language, supervision]
     authority: high
     reuse: facts-and-paraphrase
+
+
+  - id: fci-pembroke-welsh-corgi
+    publisher: Fédération Cynologique Internationale
+    title: "Welsh Corgi (Pembroke)"
+    url: https://www.fci.be/en/nomenclature/WELSH-CORGI-PEMBROKE-39.html
+    topics: [breed, pembroke-welsh-corgi, group-1]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-cardigan-welsh-corgi
+    publisher: Fédération Cynologique Internationale
+    title: "Welsh Corgi (Cardigan)"
+    url: https://www.fci.be/en/nomenclature/WELSH-CORGI-CARDIGAN-38.html
+    topics: [breed, cardigan-welsh-corgi, group-1]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-american-staffordshire-terrier
+    publisher: Fédération Cynologique Internationale
+    title: "American Staffordshire Terrier"
+    url: https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html
+    topics: [breed, american-staffordshire-terrier, group-3]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-staffordshire-bull-terrier
+    publisher: Fédération Cynologique Internationale
+    title: "Staffordshire Bull Terrier"
+    url: https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html
+    topics: [breed, staffordshire-bull-terrier, group-3]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-newfoundland
+    publisher: Fédération Cynologique Internationale
+    title: "Newfoundland"
+    url: https://www.fci.be/en/nomenclature/NEWFOUNDLAND-50.html
+    topics: [breed, newfoundland, group-2]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-flat-coated-retriever
+    publisher: Fédération Cynologique Internationale
+    title: "Flat Coated Retriever"
+    url: https://www.fci.be/en/nomenclature/FLAT-COATED-RETRIEVER-121.html
+    topics: [breed, flat-coated-retriever, group-8]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-portuguese-water-dog
+    publisher: Fédération Cynologique Internationale
+    title: "Cão de Água Português"
+    url: https://www.fci.be/en/nomenclature/PORTUGUESE-WATER-DOG-37.html
+    topics: [breed, portuguese-water-dog, group-8]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-havanese
+    publisher: Fédération Cynologique Internationale
+    title: "Havanese"
+    url: https://www.fci.be/en/nomenclature/HAVANESE-250.html
+    topics: [breed, havanese, group-9]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-pekingese
+    publisher: Fédération Cynologique Internationale
+    title: "Pekingese"
+    url: https://www.fci.be/en/nomenclature/PEKINGESE-207.html
+    topics: [breed, pekingese, group-9]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-japanese-spitz
+    publisher: Fédération Cynologique Internationale
+    title: "Japanese Spitz"
+    url: https://www.fci.be/en/nomenclature/JAPANESE-SPITZ-262.html
+    topics: [breed, japanese-spitz, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-basenji
+    publisher: Fédération Cynologique Internationale
+    title: "Basenji"
+    url: https://www.fci.be/en/nomenclature/BASENJI-43.html
+    topics: [breed, basenji, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-shiba
+    publisher: Fédération Cynologique Internationale
+    title: "Shiba"
+    url: https://www.fci.be/en/nomenclature/SHIBA-257.html
+    topics: [breed, shiba-inu, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-chow-chow
+    publisher: Fédération Cynologique Internationale
+    title: "Chow Chow"
+    url: https://www.fci.be/en/nomenclature/CHOW-CHOW-205.html
+    topics: [breed, chow-chow, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-alaskan-malamute
+    publisher: Fédération Cynologique Internationale
+    title: "Alaskan Malamute"
+    url: https://www.fci.be/en/nomenclature/ALASKAN-MALAMUTE-243.html
+    topics: [breed, alaskan-malamute, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-english-setter
+    publisher: Fédération Cynologique Internationale
+    title: "English Setter"
+    url: https://www.fci.be/en/nomenclature/ENGLISH-SETTER-2.html
+    topics: [breed, english-setter, group-7]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-irish-red-setter
+    publisher: Fédération Cynologique Internationale
+    title: "Irish Red Setter"
+    url: https://www.fci.be/en/nomenclature/IRISH-RED-SETTER-120.html
+    topics: [breed, irish-setter, group-7]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-dalmatian
+    publisher: Fédération Cynologique Internationale
+    title: "Dalmatian"
+    url: https://www.fci.be/en/nomenclature/DALMATIAN-153.html
+    topics: [breed, dalmatian, group-6]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
