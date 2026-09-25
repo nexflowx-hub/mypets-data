@@ -564,3 +564,165 @@ media:
     attribution: Sarah Jones
     attribution_required: true
     topics: [breed, german-spitz-pomeranian]
+
+
+  - id: commons-dobermann-cc0
+    type: image
+    title: Adult Dobermann
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:01._Adult_Dobermann.jpg
+    license: CC0-1.0
+    attribution: Fran Hogan
+    attribution_required: false
+    topics: [breed, dobermann]
+
+  - id: commons-french-bulldog
+    type: image
+    title: French Bulldog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:FrenchBulldogKCS1.jpg
+    license: CC-BY-4.0
+    attribution: Ivannag95
+    attribution_required: true
+    topics: [breed, french-bulldog]
+    notes: "Photo depicts a French Bulldog during a KCS flare-up; use with neutral breed caption only if the health context is also disclosed, or replace with another approved French Bulldog photo for hero use."
+
+  - id: commons-english-bulldog
+    type: image
+    title: English Bulldog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_Bulldog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Oxfordian Kissuth
+    attribution_required: true
+    topics: [breed, english-bulldog]
+
+  - id: commons-yorkshire-terrier
+    type: image
+    title: Yorkshire Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Yorkshire_Terrier_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: MASAHARU TAKWMORI
+    attribution_required: true
+    topics: [breed, yorkshire-terrier]
+
+  - id: commons-english-cocker-spaniel
+    type: image
+    title: English Cocker Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_cocker_spaniel.jpg
+    license: CC-BY-SA-4.0
+    attribution: Vaneska88
+    attribution_required: true
+    topics: [breed, english-cocker-spaniel]
+
+  - id: commons-australian-shepherd
+    type: image
+    title: Australian Shepherd
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Unimon_Australian_Shepherd.jpg
+    license: CC-BY-4.0
+    attribution: Unimon GmbH
+    attribution_required: true
+    topics: [breed, australian-shepherd]
+
+  - id: commons-cavalier-king-charles
+    type: image
+    title: Cavalier King Charles Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Albert_Cavalier_King_Charles_Spaniel.jpg
+    license: CC-BY-2.0
+    attribution: Glen Bowman
+    attribution_required: true
+    topics: [breed, cavalier-king-charles-spaniel]
+
+  - id: commons-whippet-dog
+    type: image
+    title: Whippet
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Whippet.JPG
+    license: CC-BY-SA-3.0
+    attribution: Fantasy
+    attribution_required: true
+    topics: [breed, whippet]
+
+  - id: commons-australian-cattle-dog
+    type: image
+    title: Australian Cattle Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Australian_cattle_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Eva holderegger walser
+    attribution_required: true
+    topics: [breed, australian-cattle-dog]
+
+  - id: commons-belgian-malinois
+    type: image
+    title: Belgian Shepherd Malinois
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Malinois,_Belgian_Shepherd.jpg
+    license: CC-BY-SA-3.0
+    attribution: Oxfordian Kissuth
+    attribution_required: true
+    topics: [breed, belgian-malinois]
+
+  - id: commons-akita-inu
+    type: image
+    title: Akita Inu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Akita_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: 掬茶
+    attribution_required: true
+    topics: [breed, akita]
+
+  - id: commons-cane-corso
+    type: image
+    title: Cane Corso
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Cane_Corso_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Waledyousef
+    attribution_required: true
+    topics: [breed, cane-corso]
+
+  - id: commons-great-dane
+    type: image
+    title: Great Dane puppy
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Great_dane-3,5_months_old_pup.jpg
+    license: CC-BY-2.5
+    attribution: Lilly M
+    attribution_required: true
+    topics: [breed, great-dane]
+
+  - id: commons-bernese-mountain-dog
+    type: image
+    title: Bernese Mountain Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1-BerneseMountainDogInGrass.jpg
+    license: CC-BY-4.0
+    attribution: FriendlyToaster
+    attribution_required: true
+    topics: [breed, bernese-mountain-dog]
+
+  - id: commons-basset-hound
+    type: image
+    title: Basset Hound
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Basset.jpg
+    license: CC-BY-3.0
+    attribution: Dezidor
+    attribution_required: true
+    topics: [breed, basset-hound]
+
+  - id: commons-bull-terrier
+    type: image
+    title: Bull Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Bull_terrier_529.jpg
+    license: CC-BY-SA-3.0
+    attribution: Pleple2000
+    attribution_required: true
+    topics: [breed, bull-terrier]
