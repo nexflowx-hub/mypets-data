@@ -779,6 +779,22 @@ Se perda de interesse é súbita e geral, investigue saúde.
 
 ---
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Vídeo: faça uma caixa de escavação:** renderizar `dogs-trust-dig-box-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vídeo: atividade alimentar com tapete:** renderizar `dogs-trust-yoga-mat-enrichment-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Brincadeira social e física:** renderizar `commons-dogs-playing` a partir de `media/registry.yaml`.
+
+Os diagramas e quadros originais previstos para este guia estão definidos em `media/guide-media-pack.yaml` e devem ter versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Enrichment Activities:** farejo, brinquedos alimentares, exploração e atividades mentais.
