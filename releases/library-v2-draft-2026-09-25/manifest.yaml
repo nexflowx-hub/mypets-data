@@ -9,66 +9,94 @@ release:
   branch: feat/digital-library-v1
   research_refreshed_at: 2026-09-25
   implementation_prompt: docs/ZAI_MASTER_PROMPT_DIGITAL_LIBRARY_24H.md
+  content_media_inventory: docs/LIBRARY_CONTENT_MEDIA_INVENTORY.md
+  interactive_playbook: docs/INTERACTIVE_EDITORIAL_PLAYBOOK.md
 
 content:
   - id: guide-001
     path: library/pt-BR/01-cuidados-essenciais
-    editorial_status: draft-expanded
-    approx_words: 5162
+    editorial_status: draft-near-final
+    approx_words: 5234
+    explicit_media_placements: 3
   - id: guide-002
     path: library/pt-BR/02-primeiros-30-dias
-    editorial_status: draft-expanded
-    approx_words: 5091
+    editorial_status: draft-near-final
+    approx_words: 5168
+    explicit_media_placements: 3
   - id: guide-003
     path: library/pt-BR/03-treino-gentil
-    editorial_status: draft-expanded
-    approx_words: 5053
+    editorial_status: draft-near-final
+    approx_words: 5111
+    explicit_media_placements: 6
   - id: guide-004
     path: library/pt-BR/04-guia-das-racas
-    editorial_status: draft-expanded
-    approx_words: 6142
+    editorial_status: draft-near-final
+    approx_words: 6221
+    explicit_media_placements: 16
   - id: guide-005
     path: library/pt-BR/05-alimentacao-bem-estar
-    editorial_status: draft-expanded
-    approx_words: 5008
+    editorial_status: draft-near-final
+    approx_words: 5065
+    explicit_media_placements: 3
   - id: guide-006
     path: library/pt-BR/06-linguagem-corporal
-    editorial_status: draft-new
-    approx_words: 4282
+    editorial_status: draft-near-final
+    approx_words: 4974
+    explicit_media_placements: 4
   - id: guide-007
     path: library/pt-BR/07-passeios-sem-stress
-    editorial_status: draft-new
-    approx_words: 3623
+    editorial_status: draft-expanded
+    approx_words: 4307
+    explicit_media_placements: 6
   - id: guide-008
     path: library/pt-BR/08-ficar-sozinho
-    editorial_status: draft-new
-    approx_words: 3267
+    editorial_status: draft-expanded
+    approx_words: 4181
+    explicit_media_placements: 2
   - id: guide-009
     path: library/pt-BR/09-cao-em-apartamento
-    editorial_status: draft-new
-    approx_words: 2892
+    editorial_status: draft-expanded
+    approx_words: 4130
+    explicit_media_placements: 4
   - id: guide-010
     path: library/pt-BR/10-higiene-saude-oral
-    editorial_status: draft-new
-    approx_words: 2956
+    editorial_status: draft-expanded
+    approx_words: 4268
+    explicit_media_placements: 2
   - id: guide-011
     path: library/pt-BR/11-adotei-cao-adulto
-    editorial_status: draft-new
-    approx_words: 1400
+    editorial_status: draft-expanded
+    approx_words: 4200
+    explicit_media_placements: 3
   - id: guide-012
     path: library/pt-BR/12-caes-e-criancas
-    editorial_status: draft-new
-    approx_words: 1350
+    editorial_status: draft-expanded
+    approx_words: 4411
+    explicit_media_placements: 3
   - id: guide-013
     path: library/pt-BR/13-enriquecimento
-    editorial_status: draft-new
-    approx_words: 2145
+    editorial_status: draft-expanded
+    approx_words: 4005
+    explicit_media_placements: 3
+
+corpus:
+  guide_count: 13
+  approx_words: 61275
+  explicit_media_placements: 58
 
 structured_content:
   breed_atlas: library/pt-BR/breeds/index.json
   breed_count: 47
+  breeds_with_real_photo_reference: 47
   source_registry: sources/registry.yaml
   media_registry: media/registry.yaml
+
+media:
+  registry_items: 73
+  image_items: 63
+  video_embeds: 10
+  guide_visual_pack_target: 103
+  guide_visual_pack: media/guide-media-pack.yaml
 
 source_policy:
   original_mypets_prose: true
@@ -86,7 +114,7 @@ launch_scope:
 required_before_release:
   - veterinary/editorial fact review
   - language consistency pass
-  - copyright/media attribution QA
+  - media attribution and asset-ingestion QA
   - frontend reader QA
   - mobile accessibility QA
   - PDF/print generation QA
