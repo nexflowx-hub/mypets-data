@@ -361,3 +361,54 @@ media:
     license_action: embed-only
     topics: [children, safety, education]
     notes: "Official Dogs Trust education video. Embed only."
+
+
+  - id: mypets-hero-dogs
+    type: image
+    title: MyPets hero dogs
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/hero.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [brand, dogs, family]
+
+  - id: mypets-dog-care
+    type: image
+    title: MyPets dog care
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-acolheu.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [care, adoption, home]
+
+  - id: mypets-dog-training
+    type: image
+    title: MyPets dog training
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/cta-dog.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [training, campaign, dog]
+
+  - id: mypets-dog-rescue
+    type: image
+    title: MyPets dog rescue
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-resgatou.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [rescue, adoption, dog]
+
+  - id: mypets-dog-food
+    type: image
+    title: MyPets dog food
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-alimentou.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [nutrition, feeding, campaign]
