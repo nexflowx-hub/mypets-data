@@ -1,0 +1,9 @@
+guide_id: guide-010
+reviewed_at: 2026-09-25
+sources:
+  - source_id: wsava-dental-2026
+    applies_to: [dentes, escovacao, prevencao]
+  - source_id: aaha-dental-2026
+    applies_to: [dentes, home-care, sinais]
+  - source_id: avsab-position-statements
+    applies_to: [manejo-cooperativo, sem-aversivos]
