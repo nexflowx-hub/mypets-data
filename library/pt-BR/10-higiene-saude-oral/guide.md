@@ -1063,7 +1063,239 @@ Higiene boa não é cão imóvel por medo.
 - prevenção acontece.
 
 
-## 38. Referências de base desta edição
+---
+
+## 76. Monte uma rotina de 5 minutos
+
+Quando o cão já está confortável, uma rotina curta pode ser:
+
+1. olhar pele/pelo;
+2. tocar patas;
+3. levantar lábios;
+4. escovar alguns dentes;
+5. terminar com recompensa e descanso.
+
+Não é necessário fazer banho, unha, orelha e dentes na mesma sessão.
+
+---
+
+## 77. O “antes e depois” do grooming
+
+Tire uma foto antes e depois de:
+- escovação;
+- corte de pelo;
+- tratamento prescrito.
+
+Use para observar:
+- pele;
+- nós;
+- áreas raspadas;
+- lesões.
+
+Não use fotografia para diagnosticar.
+
+---
+
+## 78. Prepare o cão para equipamentos
+
+Secador, máquina de tosa e cortador de unha têm:
+- som;
+- vibração;
+- movimento.
+
+Dessensibilize separadamente.
+
+Por exemplo:
+- máquina desligada à distância;
+- recompensa;
+- aproximar;
+- ligar longe;
+- reduzir distância;
+- tocar brevemente.
+
+---
+
+## 79. Grooming em casa e no profissional não precisam competir
+
+Pode combinar:
+
+### Em casa
+- manutenção;
+- escovação;
+- treino de toque.
+
+### Profissional
+- corte complexo;
+- remoção de nós;
+- banho específico;
+- procedimentos que exigem equipamento.
+
+O melhor plano é aquele que preserva saúde e tolerância.
+
+---
+
+## 80. Como avaliar uma sessão depois
+
+Pergunte:
+
+- aceitou recompensa?
+- tentou fugir?
+- ficou rígido?
+- recuperou rápido?
+- houve área sensível?
+- o próximo passo deve ser menor?
+
+Registre em uma linha.
+
+---
+
+## 81. Diário de tolerância
+
+| Procedimento | Verde | Amarelo | Vermelho | Próximo passo |
+|---|---|---|---|---|
+| escova dorso | ✓ | | | aumentar duração |
+| pata traseira | | ✓ | | tocar por 1 s |
+| escova dental | | ✓ | | só 2 dentes |
+| secador | | | ✓ | som distante |
+
+Esse quadro transforma “ele odeia grooming” em informação específica.
+
+---
+
+## 82. Saúde oral: acompanhe tendência, não apenas aparência
+
+Observe mensalmente:
+- odor;
+- gengiva;
+- dentes quebrados;
+- dor;
+- mastigação;
+- salivação.
+
+Se alguma coisa muda, registre data.
+
+Não espere consulta anual se existe dor.
+
+---
+
+## 83. O que a escovação não faz
+
+Escovar em casa não deve ser usada para:
+
+- raspar cálculo;
+- tratar dente solto;
+- curar infecção;
+- evitar exame.
+
+Ela é prevenção e manutenção.
+
+---
+
+## 84. Produtos dentais: escolha com critério
+
+Pergunte:
+- há evidência de benefício?
+- tamanho é adequado?
+- é duro demais?
+- acrescenta muitas calorias?
+- cão mastiga ou engole?
+
+Um produto “dental” ainda precisa ser seguro para aquele cão.
+
+---
+
+## 85. Banho após lama
+
+Se o cão apenas sujou patas:
+- talvez não precise banho completo.
+
+Pode bastar:
+- enxaguar;
+- limpar;
+- secar.
+
+Evitar procedimentos desnecessários reduz stress.
+
+---
+
+## 86. Grooming em clima quente
+
+Raspar não é solução universal para calor.
+
+Pelagem tem funções diferentes conforme raça/tipo.
+
+Em vez de decidir sozinho:
+- ajuste horários;
+- sombra;
+- água;
+- ambiente fresco;
+- orientação profissional quando necessária.
+
+---
+
+## 87. Cheiro de ouvido não é “sujeira”
+
+Se existe:
+- odor intenso;
+- secreção;
+- dor;
+
+não tente limpar repetidamente até desaparecer.
+
+Pode haver doença.
+
+---
+
+## 88. Patas depois do passeio
+
+Em rotina urbana:
+- verifique cortes;
+- objetos presos;
+- irritação;
+- unhas.
+
+Em dias quentes, observe superfícies.
+
+---
+
+## 89. Grooming e reforço
+
+Recompensa pode ser:
+- alimento;
+- brinquedo;
+- pausa;
+- liberdade para sair;
+- carinho quando o cão gosta.
+
+Pausa também pode ser reforçadora.
+
+---
+
+## 90. O objetivo da manipulação cooperativa
+
+Não é eliminar todo desconforto.
+
+É criar uma comunicação em que:
+- o cão sabe o que acontece;
+- tutor percebe sinais;
+- pequenas pausas são possíveis;
+- dor não é ignorada;
+- o procedimento melhora ao longo do tempo.
+
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Grooming e cuidado da pelagem:** renderizar `commons-dog-grooming` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Exemplo de kit de grooming:** renderizar `commons-dog-grooming-kit` a partir de `media/registry.yaml`.
+
+Os diagramas e quadros originais previstos para este guia estão definidos em `media/guide-media-pack.yaml` e devem ter versão acessível e imprimível.
+
+
+## Referências de base desta edição
 
 - **WSAVA — 2026 Global Dental Guidelines:** prevenção odontológica e importância do cuidado profissional.
 - **WSAVA — Introducing Toothbrushing:** introdução gradual da escovação.
