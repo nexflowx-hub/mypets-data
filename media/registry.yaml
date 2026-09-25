@@ -931,3 +931,18 @@ media:
     alt_pt_br: "Dálmata adulto branco com manchas pretas em retrato fotográfico."
     caption_pt_br: "Dálmata: cão atlético e resistente; atividade, treino e acompanhamento de questões de saúde específicas da raça devem fazer parte da escolha."
     topics: [breed, dalmatian]
+
+
+  - id: mypets-round-logo
+    type: image
+    title: MyPets official round logo
+    publisher: MyPets
+    source_page: internal-brand
+    asset_url: https://res.cloudinary.com/fnki0ccg/image/upload/v1789145246/Logo_VPT.png
+    frontend_source: src/lib/brand.ts#BRAND.logoUrl
+    license: mypets-owned
+    attribution_required: false
+    alt_pt_br: "MyPets"
+    caption_pt_br: ""
+    topics: [brand, logo, round-seal, cover, watermark]
+    notes: "Canonical logo asset already referenced by the production frontend. Use as the round cover seal/watermark; do not recreate."
