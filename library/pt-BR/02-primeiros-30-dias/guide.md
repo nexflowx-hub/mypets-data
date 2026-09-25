@@ -1203,6 +1203,36 @@ Se o filhote tenta escapar repetidamente, morde com intensidade crescente ou dem
 Sono, dentição, novidades, crescimento e excesso de estímulo alteram comportamento. Se um dia foi caótico, volte ao básico: reduza distrações, aumente descanso, retome exercícios fáceis e não tente “compensar” com treino longo. Consistência é construída em semanas, não medida por uma tarde difícil.
 
 
+---
+
+## 47. Checklist da primeira consulta e das próximas perguntas
+
+Chegue à consulta com informação organizada. Leve, quando existir:
+
+- documentos de origem/adoção;
+- histórico de vacinas e desparasitação;
+- alimento atual e quantidade;
+- lista de medicamentos/suplementos;
+- dúvidas sobre circulação em áreas públicas;
+- fezes recentes anormais ou fotos, quando relevante;
+- lista de comportamentos que preocupam;
+- peso conhecido e data.
+
+Pergunte especificamente sobre o plano preventivo adequado à idade, risco local e estilo de vida do filhote. Evite copiar o calendário de outro cão: vacinação, parasitas e exposição ambiental dependem de avaliação individual e contexto epidemiológico.
+
+## 48. O mapa de progresso do primeiro mês
+
+No fim de cada semana, responda apenas cinco perguntas:
+
+1. Está dormindo melhor?
+2. Acerta mais vezes o local de eliminação?
+3. Consegue ficar alguns minutos tranquilo sem interação?
+4. Recupera melhor de pequenas novidades?
+5. A família está mais consistente nas regras?
+
+Se três dessas áreas estão melhorando, há progresso mesmo que ainda existam acidentes, mordidas e noites imperfeitas.
+
+
 ## Referências de base desta edição
 
 A estrutura deste guia foi informada por materiais de socialização e treino da AVSAB, orientações de cuidado de filhotes do Merck Veterinary Manual, guias de toilet training, crate e separação gradual da RSPCA, conteúdos educativos da PDSA e diretrizes de prevenção/vacinação da WSAVA.
