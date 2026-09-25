@@ -472,6 +472,527 @@ Procure ajuda qualificada.
 
 ---
 
+---
+
+## 33. Transforme regras em jogos curtos
+
+Crianças aprendem melhor quando conseguem praticar.
+
+### Jogo 1 — Verde, amarelo ou vermelho?
+
+Mostre uma situação:
+
+- cão dormindo;
+- cão brincando solto;
+- cão virando a cabeça;
+- cão rosnando.
+
+Pergunte:
+
+**“Qual é a cor?”**
+
+Depois pergunte:
+
+**“O que fazemos?”**
+
+O objetivo não é adivinhar emoção com certeza. É aprender respostas seguras.
+
+---
+
+## 34. Jogo 2 — A estátua
+
+Dogs Trust usa atividades educativas para ensinar crianças a reagir com mais segurança perto de cães desconhecidos.
+
+Em casa, pratique sem cão presente:
+
+- braços próximos do corpo;
+- ficar parado;
+- olhar para adulto;
+- evitar correr/gritar.
+
+Transforme em brincadeira de 20 segundos.
+
+Não pratique provocando um cão real.
+
+---
+
+## 35. Jogo 3 — O detetive do espaço
+
+Peça à criança para identificar:
+
+- cama do cão;
+- pote;
+- brinquedos;
+- zona da criança;
+- portão/barreira.
+
+Pergunte:
+
+**“Onde o cão pode descansar sem ninguém ir atrás?”**
+
+Quando a criança ajuda a desenhar o mapa, a regra fica concreta.
+
+---
+
+## 36. O “Pup Promise” da família
+
+Crie um pequeno compromisso:
+
+> Eu prometo deixar o cão dormir, comer e afastar-se em paz.
+
+A criança pode:
+- assinar;
+- desenhar;
+- colar na geladeira.
+
+A Dogs Trust mantém materiais educativos semelhantes para crianças, incluindo “Pup Promise”, vídeos e atividades.
+
+---
+
+## 37. A criança não precisa ser treinadora
+
+Participar pode ser ótimo, mas o adulto continua responsável.
+
+Boas tarefas:
+- marcar checklist;
+- esconder petiscos com adulto;
+- encher pote de água;
+- escolher brinquedo;
+- ajudar a preparar passeio.
+
+Tarefas inadequadas:
+- conter;
+- separar briga;
+- retirar objeto perigoso;
+- segurar cão forte na rua;
+- administrar medicamentos.
+
+---
+
+## 38. Ensine a criança a perguntar ao cão
+
+Uma frase simples:
+
+**“Ele veio ou eu fui atrás?”**
+
+Se o cão veio:
+- ainda observe o corpo;
+- faça interação curta.
+
+Se a criança foi atrás:
+- pare;
+- chame de volta;
+- dê espaço.
+
+Isso cria um hábito de consentimento.
+
+---
+
+## 39. Carinho com pausa
+
+Adulto orienta:
+
+1. carinho por 2–3 segundos;
+2. mãos param;
+3. observar.
+
+Se o cão:
+- encosta;
+- volta;
+- pede mais;
+
+pode continuar.
+
+Se:
+- vira;
+- sai;
+- fecha boca;
+- fica rígido;
+
+pare.
+
+---
+
+## 40. Não incentive beijo no focinho
+
+Rosto humano muito próximo do cão reduz margem de segurança.
+
+Ensine:
+- manter rosto afastado;
+- não colocar nariz com nariz;
+- não deitar sobre o cão.
+
+Fotos e vídeos devem seguir as mesmas regras.
+
+---
+
+## 41. Sono é zona protegida
+
+Crianças costumam querer acordar o cão “só para brincar”.
+
+Crie regra visual:
+
+**CAMA = NÃO TOCAR**
+
+Use um desenho no chão ou placa.
+
+Se o cão dorme no sofá, adulto precisa gerir acesso.
+
+---
+
+## 42. Quando o cão está comendo
+
+Transforme em ritual:
+
+1. adulto serve;
+2. criança observa de longe;
+3. todos dão espaço;
+4. pote é retirado pelo adulto depois.
+
+Não use alimentação para testar tolerância.
+
+---
+
+## 43. Quando a criança está comendo
+
+O inverso também precisa de regras.
+
+Cão não deve:
+- roubar;
+- saltar;
+- disputar comida.
+
+Use:
+- barreira;
+- cama;
+- brinquedo alimentar.
+
+Isso evita conflito.
+
+---
+
+## 44. Brinquedos infantis parecem brinquedos de cão
+
+Peluches, bolas e objetos sonoros podem confundir.
+
+Organize:
+- caixas separadas;
+- guarda de brinquedos após uso;
+- troca por item permitido.
+
+Se o cão pega brinquedo da criança:
+- não peça para ela retirar;
+- adulto faz troca.
+
+---
+
+## 45. Criança correndo + cão excitado
+
+Em festas ou brincadeiras:
+
+- se o cão começa a perseguir;
+- saltar;
+- morder roupa;
+
+faça pausa.
+
+Separe temporariamente.
+
+Reduza excitação.
+
+Não espere que uma criança pequena consiga “ficar parada” no meio do caos sem preparação.
+
+---
+
+## 46. Barulho
+
+Alguns cães toleram gritos e música.
+
+Outros ficam preocupados.
+
+Sinais:
+- sai;
+- se esconde;
+- ofega;
+- lambe lábios;
+- fica em vigilância.
+
+Dê opção de área silenciosa.
+
+---
+
+## 47. Visita infantil: checklist dos 5 minutos
+
+Antes:
+- [ ] cão em local seguro;
+- [ ] brinquedos/comida organizados;
+- [ ] crianças recebem 3 regras;
+- [ ] portão disponível;
+- [ ] adulto responsável definido.
+
+Durante:
+- pausas;
+- observação;
+- separação quando necessário.
+
+---
+
+## 48. Festa de aniversário
+
+Para muitos cães, o plano mais gentil é não participar de toda a festa.
+
+Pode ficar:
+- quarto seguro;
+- enriquecimento;
+- água;
+- som reduzido.
+
+A ausência da festa não significa exclusão emocional.
+
+É manejo.
+
+---
+
+## 49. Bebé engatinhando muda tudo
+
+Antes, o bebé não se movia em direção ao cão.
+
+Depois:
+- persegue;
+- pega;
+- entra em cama;
+- toca pote.
+
+Reavalie barreiras.
+
+Não espere um incidente para adaptar.
+
+---
+
+## 50. Criança aprendendo a andar
+
+Movimentos são instáveis.
+
+Pode:
+- cair sobre cão;
+- pisar cauda;
+- agarrar pelo.
+
+Separe fisicamente quando adulto não consegue acompanhar cada movimento.
+
+---
+
+## 51. Gravidez: prepare rotinas antes do nascimento
+
+Mudanças antecipadas ajudam:
+
+- novo local de cama;
+- acesso restrito a quarto;
+- passeador;
+- carrinho;
+- sons;
+- horários.
+
+Não mude tudo no dia em que o bebé chega.
+
+---
+
+## 52. Carrinho de bebé e passeio
+
+Treine antes:
+- carrinho parado;
+- mover devagar;
+- caminhar ao lado.
+
+Adulto deve conseguir controlar cão e carrinho com segurança.
+
+---
+
+## 53. Crianças e cães idosos
+
+Ensine:
+
+- chamar antes de tocar;
+- não surpreender por trás;
+- evitar abraçar;
+- respeitar dor.
+
+Cão idoso pode precisar de mais descanso e menos caos.
+
+---
+
+## 54. Crianças e filhotes
+
+Filhote morde, pula e corre.
+
+Isso é desenvolvimento, não “agressão” automática.
+
+Manejo:
+- brinquedo;
+- descanso;
+- portão;
+- adulto conduz interação.
+
+Criança não deve virar alvo de brincadeira corporal intensa.
+
+---
+
+## 55. Criança com medo de cães
+
+Não force aproximação.
+
+Pode aprender segurança sem tocar.
+
+Comece:
+- imagens;
+- vídeos;
+- observar a distância;
+- regras.
+
+O objetivo é confiança, não provar coragem.
+
+---
+
+## 56. Cão com medo de crianças
+
+Criança não deve ser usada como ferramenta de dessensibilização.
+
+Mantenha distância segura.
+
+Procure profissional.
+
+O risco precisa ser assumido por adultos, não pela criança.
+
+---
+
+## 57. Como reagir a um rosnado
+
+Adulto:
+1. afasta criança;
+2. cria barreira;
+3. não grita com cão;
+4. registra contexto;
+5. avalia necessidade de ajuda.
+
+Depois, revise o que aconteceu antes.
+
+---
+
+## 58. Se ocorreu mordida
+
+Priorize:
+- segurança;
+- cuidados médicos para a pessoa;
+- afastamento;
+- avaliação veterinária/comportamental do cão;
+- cumprimento de exigências locais.
+
+Não tente “recriar” a situação para testar.
+
+---
+
+## 59. Cartão “posso brincar?”
+
+Antes de interação, criança verifica:
+
+- cão acordado?
+- sem comida?
+- corpo solto?
+- veio até mim?
+- adulto está aqui?
+
+Se uma resposta é “não”, espera.
+
+---
+
+## 60. Quiz rápido — o que você faria?
+
+### Situação A
+O cão está dormindo e a criança quer mostrar um brinquedo.
+
+**Resposta:** esperar acordar e ele se aproximar.
+
+### Situação B
+O cão vira a cabeça durante carinho.
+
+**Resposta:** fazer pausa.
+
+### Situação C
+O cão pega a boneca da criança.
+
+**Resposta:** chamar adulto; não puxar da boca.
+
+### Situação D
+Dois cães começam a brigar.
+
+**Resposta:** criança se afasta e chama adulto.
+
+---
+
+## 61. O cão não é babá
+
+Nunca deixe cão e bebé/criança pequena sozinhos, mesmo que o animal pareça extremamente tolerante.
+
+Supervisão é responsabilidade humana.
+
+---
+
+## 62. O cão não precisa gostar de festa infantil
+
+Qualidade de vida não depende de participar de todas as atividades da família.
+
+Respeitar limites pode melhorar convivência.
+
+---
+
+## 63. Plano visual de zonas
+
+Desenhe três cores na planta da casa:
+
+### Verde
+Interação comum.
+
+### Amarelo
+Adulto acompanha.
+
+### Vermelho
+Área exclusiva do cão.
+
+O reader pode transformar isso num mini exercício imprimível.
+
+---
+
+## 64. Rotina semanal de participação da criança
+
+**Segunda:** encher água com adulto  
+**Terça:** esconder 5 petiscos  
+**Quarta:** treino de “senta” por 1 minuto  
+**Quinta:** escolher brinquedo  
+**Sexta:** passeio em família  
+**Sábado:** jogo do semáforo  
+**Domingo:** descanso e revisão
+
+---
+
+## 65. Checklist para adultos
+
+- [ ] nunca confio apenas em “ele é bonzinho”;
+- [ ] separo quando não consigo supervisionar;
+- [ ] conheço sinais amarelos;
+- [ ] criança não mexe em comida;
+- [ ] cão tem local seguro;
+- [ ] barreira está acessível;
+- [ ] visitas recebem regras;
+- [ ] não forço abraços/fotos;
+- [ ] procuro ajuda diante de risco.
+
+---
+
+## 66. A frase que toda criança pode aprender
+
+**“Amar o cão também é deixá-lo em paz quando ele pede.”**
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
