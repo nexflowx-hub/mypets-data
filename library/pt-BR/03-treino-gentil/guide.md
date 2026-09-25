@@ -1350,6 +1350,19 @@ Se o cão não responde, evite transformar o momento numa disputa. Pergunte se a
 Treino eficiente usa falha como dado para ajustar o exercício.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Exemplo de treino com marcador/clicker:** renderizar o media aprovado `commons-dog-clicker-training` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Como é um clicker:** renderizar o media aprovado `commons-clicker-object` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 Este guia foi estruturado a partir de princípios de treino humano e baseado em recompensa publicados pela AVSAB, materiais educativos de treino da RSPCA e PDSA e conceitos de modificação comportamental descritos no Merck Veterinary Manual.
