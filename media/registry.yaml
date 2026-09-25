@@ -412,3 +412,54 @@ media:
     license: mypets-owned
     attribution_required: false
     topics: [nutrition, feeding, campaign]
+
+
+  - id: commons-border-collie
+    type: image
+    title: Border Collie
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Border_Collie_dog.jpg
+    license: CC-BY-3.0
+    attribution: Nicole Gordine
+    attribution_required: true
+    topics: [breed, border-collie]
+
+  - id: commons-shih-tzu
+    type: image
+    title: Shih Tzu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shih_tzu_dog.jpg
+    license: CC0-1.0
+    attribution: Marcelo RosaMelo
+    attribution_required: false
+    topics: [breed, shih-tzu]
+
+  - id: commons-dachshund
+    type: image
+    title: Dachshund
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dachshund_Dog.jpg
+    license: CC0-1.0
+    attribution: Prasanth C7
+    attribution_required: false
+    topics: [breed, dachshund]
+
+  - id: commons-pug-nancy-wong
+    type: image
+    title: Pug
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_PUG_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nancy Wong
+    attribution_required: true
+    topics: [breed, pug]
+
+  - id: commons-boxer-public-domain
+    type: image
+    title: Boxer
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_boxer.jpg
+    license: Public-Domain
+    attribution: Jesusfreak210
+    attribution_required: false
+    topics: [breed, boxer]
