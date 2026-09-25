@@ -1040,6 +1040,19 @@ Interrompa o experimento caseiro e procure ajuda quando:
 **Não ensine o cão a suportar medo. Ensine que a ausência pode ser segura.**
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Relaxamento real é um dos sinais que procuramos:** renderizar o media aprovado `commons-dog-sleeping-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Crate pode ser contexto de descanso quando bem condicionado:** renderizar o media aprovado `commons-beagle-puppy-crate` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **RSPCA — Training Your Dog to Be Left Alone:** progressão gradual, evitar ultrapassar o ponto de sofrimento e orientação geral de tempo.
