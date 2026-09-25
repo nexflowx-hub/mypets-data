@@ -1130,6 +1130,212 @@ Um bom passeio não é um cão “perfeito”.
 
 ---
 
+---
+
+## 69. Cenário: o cão dispara para a porta
+
+Antes de sair:
+
+1. peitoral colocado;
+2. guia conectada;
+3. porta abre poucos centímetros;
+4. se avança, porta fecha sem bronca;
+5. tente novamente;
+6. quando permanece seguro, saia.
+
+O objetivo é impedir ensaio de fuga, não exigir um “senta” perfeito.
+
+---
+
+## 70. Cenário: ele puxa para cheirar
+
+Em vez de proibir o cheiro:
+
+1. pare quando a guia tensiona;
+2. espere retorno ou folga;
+3. avance alguns passos;
+4. diga “vai cheirar”;
+5. permita acesso.
+
+O ambiente vira recompensa.
+
+---
+
+## 71. Cenário: outro cão aparece na calçada
+
+Pergunte rápido:
+
+- qual é a distância?
+- meu cão ainda aceita comida?
+- há rua lateral?
+- existe carro como barreira?
+
+Escolha antes de a guia ficar totalmente tensionada.
+
+A habilidade mais valiosa pode ser simplesmente atravessar.
+
+---
+
+## 72. Cenário: o cão fixa
+
+Fixação longa costuma preceder perda de flexibilidade.
+
+Experimente:
+
+- dizer “por aqui”;
+- mover-se em arco;
+- espalhar alimento no chão, se seguro;
+- aumentar distância.
+
+Não espere latido para agir.
+
+---
+
+## 73. Cenário: o passeio virou cabo de guerra
+
+Se você está:
+- irritado;
+- puxando;
+- repetindo o nome;
+- sem recompensa;
+
+pare numa área segura.
+
+Faça uma tarefa fácil:
+- check-in;
+- três passos;
+- farejo.
+
+Se necessário, encerre.
+
+Um passeio curto não estraga o treino.
+
+---
+
+## 74. Jogo “100 metros bons”
+
+Esqueça duração.
+
+Escolha apenas 100 metros de uma rua calma.
+
+Objetivo:
+- 5 momentos de guia frouxa;
+- 3 check-ins;
+- 2 pausas para farejar.
+
+Depois volte ou faça passeio livre.
+
+Qualidade facilita aprendizagem.
+
+---
+
+## 75. Jogo “siga o cheiro”
+
+Em local seguro:
+
+1. escolha um cheiro interessante;
+2. aproxime até a guia começar a tensionar;
+3. pare;
+4. espere folga;
+5. libere para cheirar.
+
+O cão aprende que autocontrole pode abrir acesso.
+
+---
+
+## 76. Jogo da mudança de direção
+
+Marque quatro pontos imaginários.
+
+Caminhe em:
+- L;
+- U;
+- círculo;
+- zigue-zague suave.
+
+Recompense quando acompanha.
+
+Faça por 1–2 minutos.
+
+---
+
+## 77. Use passeios para ensinar recuperação
+
+O objetivo não é evitar toda surpresa.
+
+Quando algo leve assusta:
+
+1. aumente distância;
+2. espere respiração normalizar;
+3. permita farejar;
+4. recompense check-in;
+5. siga rota mais fácil.
+
+Recuperar é habilidade.
+
+---
+
+## 78. O que fazer com “dias ruins”
+
+Alguns dias há:
+- mais cães;
+- obra;
+- calor;
+- tutor cansado.
+
+Adapte.
+
+Faça:
+- saída funcional;
+- enriquecimento em casa;
+- treino curto.
+
+Não existe dívida de quilômetros.
+
+---
+
+## 79. Matriz de dificuldade do passeio
+
+| Variável | Fácil | Médio | Difícil |
+|---|---|---|---|
+| horário | cedo | normal | pico |
+| rota | residencial | praça | feira/parque cheio |
+| cães | nenhum | longe | perto |
+| duração | 10 min | 25 min | longa |
+| treino | conhecido | distração | novidade |
+
+Aumente uma variável por vez.
+
+---
+
+## 80. Sinais de progresso
+
+Não procure apenas “parou de puxar”.
+
+Também contam:
+
+- recupera mais rápido;
+- aceita comida;
+- cheira mais;
+- volta a olhar para tutor;
+- consegue mudar de rota;
+- passa por estímulos com mais distância;
+- dorme melhor depois.
+
+---
+
+## 81. Checklist de um passeio de qualidade
+
+- [ ] houve tempo para cheirar;
+- [ ] água/clima estavam adequados;
+- [ ] equipamento estava seguro;
+- [ ] não forcei cumprimentos;
+- [ ] usei distância antes da reação;
+- [ ] recompensei bons momentos;
+- [ ] voltei antes de exaustão;
+- [ ] registrei o que funcionou.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
