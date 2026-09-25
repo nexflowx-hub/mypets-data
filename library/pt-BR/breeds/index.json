@@ -68,7 +68,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-border-collie"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -144,7 +146,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-boxer-public-domain"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -184,7 +188,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-dachshund"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -224,7 +230,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-shih-tzu"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -243,7 +251,9 @@
       "heat_context": "extra-caution-brachycephalic",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-pug-nancy-wong"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
