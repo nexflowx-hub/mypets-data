@@ -199,3 +199,120 @@ sources:
     authority: high
     reuse: facts-and-paraphrase
     notes: "Updated 2025; use as a current practical recall reference."
+
+
+  - id: dogs-trust-body-language
+    publisher: Dogs Trust
+    title: How to Understand Your Dog's Body Language
+    url: https://www.dogstrust.org.uk/dog-advice/understanding-your-dog/body-language
+    topics: [behavior, body-language, stress, fear, communication]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use whole-body/context interpretation; subtle signals can precede more overt distance-increasing behavior."
+
+  - id: rspca-body-language
+    publisher: RSPCA
+    title: Understanding a Dog's Body Language
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/behaviour/understanding
+    topics: [behavior, body-language, stress, welfare]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: pdsa-canine-communication
+    publisher: PDSA
+    title: Canine Communication — Recognising Stress in Your Dog
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/canine-ladder-of-communication
+    topics: [behavior, body-language, stress, communication]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-loose-lead
+    publisher: Dogs Trust
+    title: Teach Your Dog to Walk Nicely on a Lead
+    url: https://www.dogstrust.org.uk/dog-advice/training/outdoors/walking-nicely-training
+    topics: [training, walking, loose-lead, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-loose-lead
+    publisher: RSPCA
+    title: Train Your Dog to Stop Pulling on the Lead
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/walknicely
+    topics: [training, walking, loose-lead, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-first-walk
+    publisher: Dogs Trust
+    title: Taking Your Puppy on Their First Walk
+    url: https://www.dogstrust.org.uk/dog-advice/puppy/first-walk
+    topics: [puppy, walking, lead, recall]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-reactivity
+    publisher: Dogs Trust
+    title: Understanding Reactive Dogs
+    url: https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/reactive-dog
+    topics: [behavior, reactivity, stress, walking, management]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use for low-risk management principles and signs; significant aggression/fear requires qualified assessment."
+
+  - id: rspca-left-alone
+    publisher: RSPCA
+    title: How to Train Your Dog to Stay Home Alone
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/leftalone
+    topics: [alone-time, separation, prevention, behavior]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-settle
+    publisher: Dogs Trust
+    title: How to Train Your Dog to Be Calm, Relax and Settle
+    url: https://www.dogstrust.org.uk/dog-advice/training/basics/settle-training
+    topics: [behavior, settle, calm, home, independence]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-enrichment
+    publisher: Dogs Trust
+    title: Enrichment Activities to Keep Your Dog Entertained
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    topics: [enrichment, sniffing, play, mental-stimulation, home]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-flat
+    publisher: Dogs Trust
+    title: Keeping a Dog in a Flat
+    url: https://www.dogstrust.org.uk/dog-advice/getting-dog/dog-ready/when-you-live-flat
+    topics: [apartment, home, environment, lifestyle]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-sniffari
+    publisher: RSPCA Education
+    title: Go on a Dog Sniffari
+    url: https://education.rspca.org.uk/library/-/content/let-dogs-sniff
+    topics: [walking, sniffing, enrichment, welfare]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aaha-dental-2026
+    publisher: American Animal Hospital Association
+    title: Dog & Cat Dental Disease — Home Care
+    url: https://www.aaha.org/resources/your-pets-dental-care/
+    topics: [dental, toothbrushing, oral-health, home-care]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Updated 2026; daily brushing is presented as the best home method to reduce plaque, with veterinary exams still necessary."
+
+  - id: wsava-dental-2026
+    publisher: World Small Animal Veterinary Association
+    title: 2026 Global Dental Guidelines
+    url: https://wsava.org/global-guidelines/dental-guidelines/
+    topics: [dental, toothbrushing, oral-health, periodontal-disease]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use current 2026 guideline summaries and owner toothbrushing resources; do not reproduce protected figures without permission."
