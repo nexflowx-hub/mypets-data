@@ -1,0 +1,31 @@
+id: guide-007
+slug: passeios-sem-stress
+locale: pt-BR
+title: "Passeios sem Stress"
+subtitle: "Guia prática de guia frouxa, farejo, segurança, reatividade e passeios que respeitam o ritmo do cão."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - antes-de-sair
+  - guia-frouxa
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+topics:
+  - passeio
+  - treino
+  - guia-frouxa
+  - reatividade
+  - enriquecimento
+  - seguranca
+reading_minutes: 55
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
