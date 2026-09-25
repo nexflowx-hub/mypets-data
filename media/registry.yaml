@@ -108,3 +108,14 @@ media:
     license_action: embed-only
     topics: [training, leave-it, safety]
     notes: "Official Dogs Trust Dog School video. Embed from YouTube; do not download/rehost."
+
+
+  - id: guide-dogs-loose-lead-video
+    type: video-embed
+    title: Top 5 Dog Walking Tips — Loose Lead Walking
+    publisher: Guide Dogs
+    source_page: https://www.youtube.com/watch?v=JbRG_EjUiV8
+    embed_url: https://www.youtube.com/watch?v=JbRG_EjUiV8
+    license_action: embed-only
+    topics: [walking, loose-lead, training]
+    notes: "Official Guide Dogs video. Embed from YouTube; do not download/rehost."
