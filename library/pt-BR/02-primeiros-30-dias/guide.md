@@ -1233,6 +1233,22 @@ No fim de cada semana, responda apenas cinco perguntas:
 Se três dessas áreas estão melhorando, há progresso mesmo que ainda existam acidentes, mordidas e noites imperfeitas.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Crate/cercado como espaço condicionado e seguro:** renderizar o media aprovado `commons-beagle-puppy-crate` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Primeiros passeios e exploração:** renderizar o media aprovado `commons-puppy-walking-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Sono: uma necessidade central do filhote:** renderizar o media aprovado `commons-dog-sleeping-cc0` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 A estrutura deste guia foi informada por materiais de socialização e treino da AVSAB, orientações de cuidado de filhotes do Merck Veterinary Manual, guias de toilet training, crate e separação gradual da RSPCA, conteúdos educativos da PDSA e diretrizes de prevenção/vacinação da WSAVA.
