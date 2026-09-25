@@ -737,6 +737,353 @@ Se quiser começar hoje:
 
 ---
 
+
+---
+
+## 39. “Completo e balanceado”: uma frase que vale procurar
+
+Em vários mercados, a embalagem inclui uma declaração de adequação nutricional. Nos Estados Unidos, por exemplo, a FDA explica que a expressão **“complete and balanced”** está ligada a critérios nutricionais reconhecidos e que um produto destinado a ser a dieta principal precisa atender requisitos próprios; petiscos e suplementos, em geral, não são formulados para substituir a alimentação completa.
+
+O ponto prático para o tutor é simples: não avalie um alimento apenas pela fotografia da embalagem, pela lista de ingredientes ou por uma palavra de marketing. Procure a informação que indica **para qual espécie e fase de vida o produto foi formulado** e se ele foi pensado como alimento principal.
+
+### Por que a fase de vida importa?
+
+Um filhote em crescimento não tem exatamente as mesmas necessidades de um adulto. Da mesma forma, um cão com necessidade clínica específica pode precisar de uma formulação diferente, indicada pelo veterinário.
+
+Ao comparar produtos, anote:
+
+- espécie a que se destina;
+- fase de vida indicada;
+- se é alimento completo ou complementar;
+- quantidade energética declarada, quando disponível;
+- instruções de alimentação;
+- fabricante e contato;
+- lote e validade.
+
+> [!NOTE]
+> A nomenclatura e as exigências legais variam de país para país. Use a lógica acima como ferramenta de leitura e confirme regras locais quando necessário.
+
+---
+
+## 40. O que a lista de ingredientes consegue — e não consegue — dizer
+
+A lista de ingredientes informa **o que foi usado na formulação**, geralmente em ordem definida por regras regulatórias locais. Ela pode ser útil, mas não responde sozinha a perguntas como:
+
+- o produto entrega os nutrientes necessários em quantidade adequada?
+- há controle de qualidade consistente?
+- a formulação é apropriada à fase de vida?
+- o alimento mantém qualidade entre lotes?
+- existe profissional qualificado responsável pela formulação?
+- o fabricante consegue fornecer dados nutricionais adicionais?
+
+Por isso, escolher ração apenas porque o primeiro ingrediente “parece melhor” pode levar a conclusões erradas.
+
+### Uma comparação melhor
+
+Em vez de comparar duas embalagens por uma palavra isolada, pergunte:
+
+1. Para qual fase de vida cada produto foi formulado?
+2. Ambos são alimentos completos?
+3. Qual é a densidade energética?
+4. Qual quantidade diária estimada corresponde ao cão?
+5. O fabricante fornece informação clara e contato técnico?
+6. O cão mantém fezes, pele, peso, apetite e energia estáveis com o produto?
+
+A resposta mais útil costuma aparecer no conjunto.
+
+---
+
+## 41. Densidade energética: porções iguais podem ter calorias diferentes
+
+Dois alimentos secos podem ocupar o mesmo volume no copo e entregar quantidades diferentes de energia.
+
+Isso explica por que trocar de marca mantendo “o mesmo copo” pode resultar em:
+
+- ganho de peso;
+- perda de peso;
+- fome aparente;
+- excesso de petiscos para “compensar”.
+
+Quando a embalagem informa quilocalorias por quilo, por 100 g, por xícara ou por unidade, essa informação ajuda a compreender a diferença.
+
+### Não transforme isso em matemática obsessiva
+
+O tutor não precisa calcular tudo sozinho. O objetivo é perceber que **volume não é sinônimo de equivalência nutricional**.
+
+Se houver mudança de produto, acompanhe:
+
+- peso;
+- condição corporal;
+- fezes;
+- apetite;
+- energia;
+- quantidade efetivamente oferecida.
+
+---
+
+## 42. Como fazer uma troca de alimento de forma observável
+
+Quando não existe indicação clínica para troca imediata, uma transição gradual costuma ser mais fácil para muitos cães.
+
+Em vez de usar um calendário rígido universal, faça a mudança com observação:
+
+**Etapa inicial**  
+Maior proporção do alimento antigo e pequena quantidade do novo.
+
+**Etapa intermediária**  
+Aumente progressivamente a participação do novo alimento.
+
+**Etapa final**  
+Chegue ao novo alimento quando o cão estiver tolerando bem.
+
+### O que observar durante a transição
+
+- fezes mais moles;
+- vômito;
+- gases intensos;
+- recusa;
+- coceira nova;
+- desconforto;
+- mudança marcada de energia.
+
+Se os sinais forem intensos, persistentes ou acompanhados de apatia, dor, sangue ou desidratação, procure avaliação.
+
+> [!TIP]
+> Registre a data em que iniciou a mudança. Sem esse detalhe, é fácil esquecer a relação temporal entre alimento e sintomas.
+
+---
+
+## 43. O teste de sete dias antes de concluir “ele enjoou”
+
+Quando um cão saudável parece “enjoar” da comida, vale observar a rotina inteira antes de começar uma sequência infinita de trocas.
+
+Durante sete dias, registre:
+
+- horário das refeições;
+- quantidade oferecida;
+- quanto sobrou;
+- todos os petiscos;
+- comida humana;
+- mastigáveis;
+- treino com alimento;
+- atividade;
+- fezes;
+- episódios de vômito;
+- mudanças na casa.
+
+Às vezes o problema é excesso de extras. Em outros casos, há desconforto oral, gastrointestinal, dor, ansiedade ou doença.
+
+**Perda de apetite verdadeira não deve ser tratada automaticamente como capricho.**
+
+---
+
+## 44. Refeições em casas com crianças
+
+Crianças e cães precisam de regras simples e previsíveis.
+
+Durante a refeição do cão:
+
+- não permitir que a criança coloque a mão no pote;
+- não retirar comida “para ele aprender”;
+- não abraçar o cão enquanto come;
+- não usar criança para testar tolerância;
+- não correr ao redor do local da refeição;
+- oferecer ao cão uma zona onde possa comer sem ser incomodado.
+
+Essas regras protegem ambos.
+
+Se houver rigidez corporal, rosnado, congelamento, tentativa de esconder alimento ou histórico de mordida, use manejo seguro e procure orientação profissional.
+
+---
+
+## 45. Alimentação em lares com gatos ou outros animais
+
+Comida de espécies diferentes não deve ser tratada como intercambiável.
+
+Além de terem necessidades nutricionais diferentes, a alimentação compartilhada pode criar competição.
+
+Organize:
+
+- locais separados;
+- horários supervisionados;
+- acesso vertical para gatos quando adequado;
+- armazenamento protegido;
+- potes individuais;
+- retirada de sobras conforme a rotina definida.
+
+Se um animal rouba repetidamente a comida do outro, o problema é de manejo antes de ser “falta de educação”.
+
+---
+
+## 46. Armazenamento: preserve também a informação
+
+Ao abrir uma embalagem, muita gente transfere toda a ração para um recipiente e descarta o saco.
+
+Isso pode eliminar dados úteis.
+
+Sempre que possível, mantenha ou fotografe:
+
+- marca e produto;
+- lote;
+- validade;
+- fabricante;
+- instruções de conservação.
+
+Esses dados são importantes se houver:
+
+- suspeita de problema no alimento;
+- recall;
+- mudança de aparência/odor;
+- necessidade de contactar o fabricante.
+
+### Recipiente limpo
+
+Se usar contentor, mantenha-o seco e limpo. Resíduos antigos não devem acumular indefinidamente no fundo.
+
+---
+
+## 47. Sinais de que a alimentação merece revisão profissional
+
+Marque uma conversa com o veterinário se notar:
+
+- ganho ou perda de peso sem explicação;
+- perda muscular;
+- fome excessiva persistente;
+- sede muito aumentada;
+- recusa alimentar recorrente;
+- vômito frequente;
+- diarreia recorrente;
+- fezes persistentemente anormais;
+- dificuldade para mastigar;
+- dor ao comer;
+- coceira persistente;
+- necessidade de suplementar continuamente para o cão “aceitar” o alimento.
+
+Esses sinais têm muitas causas possíveis. A função do guia é ajudar a organizar informação, não apontar diagnóstico.
+
+---
+
+## 48. Como chegar melhor preparado à consulta nutricional
+
+Leve dados concretos.
+
+### Checklist
+
+- [ ] nome exato do alimento;
+- [ ] foto da frente e verso da embalagem;
+- [ ] quantidade diária real;
+- [ ] medida usada;
+- [ ] lista de petiscos;
+- [ ] suplementos;
+- [ ] medicamentos;
+- [ ] peso recente;
+- [ ] fotografias corporais, se estiver monitorando;
+- [ ] diário de fezes/vômitos quando relevante;
+- [ ] histórico de dietas anteriores;
+- [ ] objetivos da família.
+
+Com isso, a consulta deixa de começar em “ele come mais ou menos isso” e passa a partir de informação verificável.
+
+---
+
+## 49. Mitos rápidos
+
+### “Ração sem grãos é sempre melhor”
+
+Não existe uma regra universal que torne a ausência de grãos automaticamente superior. Dieta deve ser avaliada como formulação completa e adequada ao indivíduo.
+
+### “Se é caro, é melhor”
+
+Preço não substitui avaliação de adequação, formulação e controle de qualidade.
+
+### “Se vende como natural, é seguro”
+
+“Natural” é uma palavra de posicionamento que pode ter definições regulatórias específicas, mas não significa ausência de risco nem adequação automática.
+
+### “Cão sabe o que precisa comer”
+
+Preferência alimentar não é equivalente a equilíbrio nutricional. Muitos cães escolheriam alimentos altamente palatáveis em excesso.
+
+### “Comida caseira é sempre mais saudável”
+
+Pode ser excelente quando corretamente formulada e acompanhada. Pode também ser deficiente quando improvisada.
+
+### “Suplemento não faz mal porque é natural”
+
+Substâncias biologicamente ativas podem causar efeitos indesejáveis, interações ou excesso de nutrientes.
+
+---
+
+## 50. Plano de observação de 30 dias
+
+Use este mini-protocolo para transformar rotina em dados.
+
+### Semana 1 — medir
+- padronize a medida da refeição;
+- registre petiscos;
+- pese o cão se isso fizer parte do acompanhamento;
+- fotografe a silhueta.
+
+### Semana 2 — observar
+- registre fezes;
+- apetite;
+- água;
+- energia;
+- comportamento durante as refeições.
+
+### Semana 3 — revisar o ambiente
+- armazenamento;
+- potes;
+- acesso de crianças/outros animais;
+- alimentos tóxicos;
+- quem oferece extras.
+
+### Semana 4 — consolidar
+- compare com a primeira semana;
+- liste dúvidas;
+- ajuste apenas o que for seguro ajustar;
+- leve questões clínicas ao veterinário.
+
+O objetivo não é controlar cada grama para sempre. É construir uma rotina suficientemente organizada para perceber mudanças.
+
+---
+
+## 51. Ficha mensal de alimentação e bem-estar
+
+| Item | Registro |
+|---|---|
+| Peso | |
+| Condição corporal percebida | |
+| Alimento principal | |
+| Quantidade/dia | |
+| Número de refeições | |
+| Petiscos principais | |
+| Água | normal / mais / menos |
+| Fezes | |
+| Vômitos/regurgitação | |
+| Atividade | |
+| Observações | |
+
+Guarde uma ficha por mês. Tendências ao longo do tempo são frequentemente mais úteis do que uma impressão isolada.
+
+---
+
+## Referências de base desta edição
+
+Este guia foi desenvolvido com pesquisa e redação original MyPets, usando como referências principais:
+
+- **WSAVA — Global Nutrition Guidelines e Nutrition Toolkit:** avaliação nutricional, condição corporal, condição muscular e princípios de escolha de alimentos.
+- **FDA — “Complete and Balanced” Pet Food:** interpretação geral da declaração de adequação nutricional e diferença entre alimento completo e produtos complementares.
+- **AAFCO — Reading Labels:** leitura de declarações de adequação nutricional e indicação de fase de vida.
+- **ASPCA Animal Poison Control:** alimentos e substâncias humanas que podem representar risco para cães.
+- **AAHA Canine Life Stage Guidelines:** adaptação dos cuidados às diferentes fases da vida.
+
+As fontes completas, URLs e regras de reutilização ficam registradas em `sources/registry.yaml` e no ledger específico deste guia.
+
+> [!IMPORTANT]
+> As referências sustentam os princípios gerais. Elas não autorizam copiar tabelas, gráficos, fotografias ou textos protegidos. O conteúdo publicado pela MyPets deve permanecer em redação original ou usar materiais licenciados/embeds permitidos.
+
+
 ## Sobre esta coleção
 
 Este material faz parte da **Coleção MyPets — Cuidar Melhor**.
