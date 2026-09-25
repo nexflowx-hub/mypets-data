@@ -1,0 +1,19 @@
+sources:
+  - id: wsava-global-nutrition
+    publisher: WSAVA
+    title: "Global Nutrition Guidelines"
+    url: "https://wsava.org/Global-Guidelines/Global-Nutrition-Guidelines/"
+    source_type: guideline
+    topics: [nutrition, nutritional-assessment, body-condition]
+    reuse: facts-only
+  - id: aaha-life-stage
+    publisher: AAHA
+    title: "2019 Canine Life Stage Guidelines"
+    url: "https://www.aaha.org/resources/life-stage-canine-2019/"
+    source_type: guideline
+    topics: [nutrition, life-stage, prevention]
+    reuse: facts-only
+review_notes:
+  - "WSAVA charts are not copied; reproduction requires compliance with WSAVA copyright process."
+  - "Food-toxicity section must be cross-checked against a veterinary toxicology source before v1.0."
+  - "No caloric prescription or personalized feeding quantity is provided."
