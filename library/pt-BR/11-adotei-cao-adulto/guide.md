@@ -557,6 +557,22 @@ Pergunte:
 
 ---
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Descanso e descompressão:** renderizar `commons-dog-sleeping-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Passeios curtos e observação:** renderizar `commons-dog-owner-walking` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Respeitar sinais de afastamento:** renderizar `commons-dog-turning-away` a partir de `media/registry.yaml`.
+
+Os diagramas e quadros originais previstos para este guia estão definidos em `media/guide-media-pack.yaml` e devem ter versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Settling a Rescue Dog:** primeiros dias, espaço, ritmo individual e ambiente calmo.
