@@ -1284,6 +1284,225 @@ Não é eliminar todo desconforto.
 
 ---
 
+---
+
+## 91. Monte a sequência “ver → tocar → cuidar”
+
+Antes de qualquer procedimento, separe três etapas.
+
+### Ver
+O cão observa ferramenta sem contato.
+
+### Tocar
+A ferramenta encosta por um instante.
+
+### Cuidar
+A ação real começa.
+
+Essa progressão é útil para:
+- escova;
+- cortador de unha;
+- toalha;
+- escova dental;
+- secador.
+
+Se o cão já fica desconfortável em “ver”, não pule direto para “cuidar”.
+
+---
+
+## 92. O semáforo da higiene
+
+### Verde
+- aproxima-se;
+- aceita petisco;
+- corpo solto;
+- permanece voluntariamente.
+
+### Amarelo
+- retira pata;
+- vira cabeça;
+- fecha boca;
+- deixa de comer;
+- tenta afastar-se.
+
+### Vermelho
+- congela;
+- rosna;
+- tenta morder;
+- entra em pânico;
+- demonstra dor.
+
+No amarelo, reduza. No vermelho, pare e reavalie.
+
+---
+
+## 93. O banho em cinco micro sessões
+
+Um cão com medo não precisa aprender tudo no mesmo dia.
+
+### Sessão 1
+Entrar no banheiro e sair.
+
+### Sessão 2
+Subir no tapete seco.
+
+### Sessão 3
+Ouvir água à distância.
+
+### Sessão 4
+Molhar apenas patas.
+
+### Sessão 5
+Banho curto.
+
+A velocidade depende da resposta.
+
+---
+
+## 94. O secador pode ser treinado como um som novo
+
+Comece com:
+- secador desligado;
+- som em outro cômodo;
+- som próximo;
+- vento fraco distante;
+- contato curto.
+
+Recompense calma.
+
+Para alguns cães, toalha e secagem natural apropriada podem ser melhores, dependendo da pelagem e do clima.
+
+---
+
+## 95. O “dia da unha” pode desaparecer
+
+Em vez de cortar todas as unhas numa sessão:
+
+- uma unha hoje;
+- duas amanhã;
+- pausa.
+
+Isso pode ser especialmente útil durante recondicionamento.
+
+O objetivo é manter cuidado sem ultrapassar tolerância.
+
+---
+
+## 96. Lixa e cortador: registre preferência
+
+Teste apenas quando seguro.
+
+Anote:
+
+| Ferramenta | Aceitação | Ruído | Próximo passo |
+|---|---|---|---|
+| cortador | baixa | nenhum | tocar sem cortar |
+| lixa manual | alta | nenhum | 2 movimentos |
+| lixa elétrica | média | alto | som distante |
+
+Individualize.
+
+---
+
+## 97. Prepare a boca fora do momento de escovar
+
+Ao longo do dia:
+- tocar lateral da face;
+- levantar lábio por 1 s;
+- recompensa.
+
+Não precisa ter pasta/escova em toda interação.
+
+Isso separa manipulação do procedimento completo.
+
+---
+
+## 98. Um “kit de emergência dental” não existe
+
+Não tente resolver:
+- dente quebrado;
+- gengiva sangrando;
+- dor;
+- inchaço;
+
+com produtos comprados online sem avaliação.
+
+Problemas odontológicos podem existir abaixo da linha da gengiva e precisar de exame profissional.
+
+---
+
+## 99. O que observar ao mastigar
+
+Preste atenção se o cão:
+- mastiga só de um lado;
+- deixa comida cair;
+- evita objetos duros;
+- esfrega focinho;
+- vocaliza;
+- demora mais para comer.
+
+Mudança pode indicar desconforto oral.
+
+---
+
+## 100. Fotografia mensal de higiene
+
+Se o cão tolera, faça três imagens:
+
+1. pelo/pele;
+2. patas/unhas;
+3. sorriso lateral.
+
+Use para acompanhar tendência.
+
+Não force pose.
+
+---
+
+## 101. Calendário de manutenção
+
+Crie um calendário próprio, porque frequência varia.
+
+| Cuidado | Frequência definida para este cão | Última vez | Próxima |
+|---|---|---|---|
+| escova pelo | | | |
+| unhas | | | |
+| banho | | | |
+| dental | diária/definida | | |
+| groomer | | | |
+
+O reader pode transformar este quadro em ficha imprimível.
+
+---
+
+## 102. “Ele odeia banho” é informação incompleta
+
+Descubra qual parte:
+
+- banheiro?
+- piso?
+- água?
+- chuveiro?
+- toque?
+- shampoo?
+- secador?
+- contenção?
+
+Ao dividir o problema, fica mais fácil melhorar.
+
+---
+
+## 103. O objetivo da sessão não é “terminar a qualquer custo”
+
+Às vezes o melhor resultado é:
+
+**parar antes de piorar.**
+
+Uma sessão curta e bem-sucedida constrói histórico positivo.
+
+Uma sessão concluída à força pode tornar a próxima muito mais difícil.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
