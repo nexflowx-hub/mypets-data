@@ -2,25 +2,26 @@
 
 **Version:** 1.0.0  
 **Reviewed:** 2026-09-25  
-**Scope:** 13 guides · **103 exact in-guide visual placements**
+**Scope:** 13 guides · **103 exact in-guide visual placements**  
+**Canonical round brand mark:** `mypets-round-logo`
 
 This is the human-readable production companion to `media/media-placement-master.json`.
 
 ## Global rules
 
-- Every cover uses the official **round MyPets logo/medallion** as the collection seal.
+- Every cover uses the official **round MyPets logo/medallion** from `src/lib/brand.ts#BRAND.logoUrl`.
 - The 103 count refers to in-guide visual/editorial placements; cover hero treatments are additional.
 - Every informational image has PT-BR alt text.
 - Captions explain why the visual matters instead of merely repeating the alt.
-- Official videos include three observation prompts where applicable.
-- Original MyPets diagrams must render as semantic HTML/SVG with accessible text and a print fallback.
+- Official videos include observation prompts where applicable.
+- Original MyPets diagrams render as semantic HTML/SVG with accessible text and a print fallback.
 - Printable diagrams/cards may carry the round MyPets watermark at low opacity.
 
 ## guide-001 — Cuidados Essenciais com o Seu Cão
 
 **Slug:** `cuidados-essenciais`  
 **Cover hero:** `mypets-dog-care`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -46,7 +47,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `primeiros-30-dias`  
 **Cover hero:** `mypets-hero-dogs`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -72,7 +73,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `treino-gentil`  
 **Cover hero:** `mypets-dog-training`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -90,10 +91,10 @@ This is the human-readable production companion to `media/media-placement-master
 
 - **`commons-dog-clicker-training`** — Alt: “Pessoa usando um clicker durante uma sessão de treino com um cão.”
 - **`commons-clicker-object`** — Alt: “Pequeno clicker de treino usado como marcador sonoro.”
-- **`rspcasa-sit-force-free-video`** — Alt: “Vídeo demonstrativo de treino de senta sem força.” · Watch for: timing da marcação; posição da recompensa; sessões curtas
-- **`dogs-trust-recall-video`** — Alt: “Vídeo oficial demonstrando treino progressivo de recall.” · Watch for: distância inicial; recompensa ao regressar; progressão gradual
-- **`dogs-trust-leave-it-video`** — Alt: “Vídeo oficial demonstrando treino de deixar um item.” · Watch for: mão protegendo o item; marcação da escolha correta; aumento gradual da dificuldade
-- **`guide-dogs-loose-lead-video`** — Alt: “Vídeo sobre caminhada com guia frouxa baseada em progressão e recompensa.” · Watch for: guia sem tensão; recompensa por proximidade; mudanças de direção
+- **`rspcasa-sit-force-free-video`** — Alt: “Vídeo demonstrativo de treino de senta sem força.” · Observe: timing da marcação; posição da recompensa; sessões curtas
+- **`dogs-trust-recall-video`** — Alt: “Vídeo oficial demonstrando treino progressivo de recall.” · Observe: distância inicial; recompensa ao regressar; progressão gradual
+- **`dogs-trust-leave-it-video`** — Alt: “Vídeo oficial demonstrando treino de deixar um item.” · Observe: mão protegendo o item; marcação da escolha correta; aumento gradual da dificuldade
+- **`guide-dogs-loose-lead-video`** — Alt: “Vídeo sobre caminhada com guia frouxa baseada em progressão e recompensa.” · Observe: guia sem tensão; recompensa por proximidade; mudanças de direção
 - **`training-learning-loop`** — Alt: “Ciclo visual: sinal, comportamento, marcador e recompensa.”
 - **`training-three-ds`** — Alt: “Matriz dos três Ds do treino: duração, distância e distração.”
 - **`training-21-day-plan`** — Alt: “Plano de treino de 21 dias organizado em fundação, clareza e vida real.”
@@ -102,7 +103,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `guia-das-racas`  
 **Cover hero:** `mypets-dog-rescue`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -154,7 +155,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `alimentacao-bem-estar`  
 **Cover hero:** `mypets-dog-food`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -167,8 +168,8 @@ This is the human-readable production companion to `media/media-placement-master
 
 ### Accessibility copy
 
-- **`wsava-body-condition-video`** — Alt: “Vídeo educativo sobre avaliação de condição corporal em cães.” · Watch for: costelas; cintura; vista lateral e superior
-- **`wsava-muscle-condition-video`** — Alt: “Vídeo educativo sobre avaliação de condição muscular.” · Watch for: massa muscular; mudança ao longo do tempo; diferença entre peso e músculo
+- **`wsava-body-condition-video`** — Alt: “Vídeo educativo sobre avaliação de condição corporal em cães.” · Observe: costelas; cintura; vista lateral e superior
+- **`wsava-muscle-condition-video`** — Alt: “Vídeo educativo sobre avaliação de condição muscular.” · Observe: massa muscular; mudança ao longo do tempo; diferença entre peso e músculo
 - **`nutrition-label-path`** — Alt: “Diagrama de leitura de rótulo com espécie, fase de vida, adequação nutricional, energia, instruções e fabricante.”
 - **`nutrition-transition`** — Alt: “Processo gradual de transição entre alimento antigo e novo com pontos de observação.”
 - **`nutrition-body-observation`** — Alt: “Silhuetas simplificadas para observar tendências de costelas, cintura e forma corporal sem diagnosticar.”
@@ -178,7 +179,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `linguagem-corporal-canina`  
 **Cover hero:** `mypets-hero-dogs`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -206,7 +207,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `passeios-sem-stress`  
 **Cover hero:** `mypets-dog-training`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -217,14 +218,14 @@ This is the human-readable production companion to `media/media-placement-master
 | 5 | ## 43. Tenha rotas A, B e C | after | `walk-route-abc` | original-visual / route-cards | Ter alternativas prontas reduz improviso quando aparece um gatilho. |
 | 6 | ## 7. Quando a guia estica | after | `walk-loose-lead-loop` | original-visual / process | Se puxar sempre produz avanço, o ambiente reforça o puxão; mude o ciclo. |
 | 7 | ## 19. Reatividade: comece pela distância | after | `walk-trigger-distance` | original-visual / distance-diagram | Encontre a distância em que o cão ainda consegue perceber, comer, mover-se e responder. |
-| 8 | ## Programa de 14 dias para passeio melhor | after | `walk-14-day-plan` | original-visual / day-grid | O plano transforma passeio melhor numa sequência de pequenas competências. |
+| 8 | # Programa de 14 dias para passeio melhor | after | `walk-14-day-plan` | original-visual / day-grid | O plano transforma passeio melhor numa sequência de pequenas competências. |
 
 ### Accessibility copy
 
 - **`commons-dog-owner-walking`** — Alt: “Pessoa caminhando com um cão na guia em ritmo tranquilo.”
 - **`commons-puppy-walking-cc0`** — Alt: “Filhote caminhando com guia em ambiente externo.”
-- **`guide-dogs-loose-lead-video`** — Alt: “Vídeo sobre caminhada com guia frouxa.” · Watch for: guia frouxa; posição da recompensa; progressão
-- **`dogs-trust-recall-video`** — Alt: “Vídeo oficial de treino de recall.” · Watch for: chamada única; recompensa ao chegar; liberação de volta
+- **`guide-dogs-loose-lead-video`** — Alt: “Vídeo sobre caminhada com guia frouxa.” · Observe: guia frouxa; posição da recompensa; progressão
+- **`dogs-trust-recall-video`** — Alt: “Vídeo oficial de treino de recall.” · Observe: chamada única; recompensa ao chegar; liberação de volta
 - **`walk-route-abc`** — Alt: “Três cartões de rota: normal, curta e fuga, com exemplos de decisões urbanas.”
 - **`walk-loose-lead-loop`** — Alt: “Ciclo visual: guia tensiona, parar, reconectar, avançar novamente.”
 - **`walk-trigger-distance`** — Alt: “Diagrama de distância entre cão e gatilho mostrando zona funcional, zona de alerta e zona de reação.”
@@ -234,7 +235,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `ficar-sozinho`  
 **Cover hero:** `mypets-dog-care`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -243,7 +244,7 @@ This is the human-readable production companion to `media/media-placement-master
 | 3 | ## 6. Treine segundos antes de minutos | after | `alone-seconds-to-minutes` | original-visual / staircase | A autonomia começa com segundos confortáveis, não com testes longos. |
 | 4 | ## 66. Transforme a câmera num relatório simples | after | `alone-camera-check` | original-visual / observation-board | A câmera serve para recolher dados objetivos sobre o que acontece depois da saída. |
 | 5 | ## 40. Faça uma hierarquia de dificuldade | after | `alone-difficulty-hierarchy` | original-visual / staircase | Separação tem vários degraus; um cão pode tolerar um e ainda não estar pronto para o seguinte. |
-| 6 | ## Plano progressivo de 14 dias | after | `alone-14-day-plan` | original-visual / day-grid | O plano é adaptável: se aparecem sinais de stress, a próxima missão fica mais fácil. |
+| 6 | # Plano progressivo de 14 dias | after | `alone-14-day-plan` | original-visual / day-grid | O plano é adaptável: se aparecem sinais de stress, a próxima missão fica mais fácil. |
 
 ### Accessibility copy
 
@@ -258,7 +259,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `cao-em-apartamento`  
 **Cover hero:** `mypets-dog-care`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -274,8 +275,8 @@ This is the human-readable production companion to `media/media-placement-master
 
 - **`commons-dog-sleeping-cc0`** — Alt: “Cão descansando em ambiente doméstico.”
 - **`commons-dog-owner-walking`** — Alt: “Pessoa caminhando com um cão na guia.”
-- **`dogs-trust-dig-box-video`** — Alt: “Vídeo oficial demonstrando uma caixa de escavação como atividade de enriquecimento.” · Watch for: supervisão; materiais seguros; facilidade inicial
-- **`dogs-trust-yoga-mat-enrichment-video`** — Alt: “Vídeo de enriquecimento alimentar usando um tapete de yoga.” · Watch for: uso da refeição; dificuldade fácil; supervisão
+- **`dogs-trust-dig-box-video`** — Alt: “Vídeo oficial demonstrando uma caixa de escavação como atividade de enriquecimento.” · Observe: supervisão; materiais seguros; facilidade inicial
+- **`dogs-trust-yoga-mat-enrichment-video`** — Alt: “Vídeo de enriquecimento alimentar usando um tapete de yoga.” · Observe: uso da refeição; dificuldade fácil; supervisão
 - **`apartment-zone-map`** — Alt: “Planta simples de apartamento com zonas de descanso, alimentação, enriquecimento, espera e segurança.”
 - **`apartment-noise-plan`** — Alt: “Mapa de gatilhos domésticos ligando porta, corredor, elevador, janela e horários.”
 - **`apartment-week-plan`** — Alt: “Planeador semanal com farejo, treino, brinquedo alimentar, nova rota, brincadeira e descanso.”
@@ -284,7 +285,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `higiene-saude-oral`  
 **Cover hero:** `mypets-dog-care`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -292,7 +293,7 @@ This is the human-readable production companion to `media/media-placement-master
 | 2 | ## 33. Caixa de higiene | after | `commons-dog-grooming-kit` | media | Ferramentas devem ser escolhidas pelo tipo de pelagem e usadas com técnica adequada. |
 | 3 | ## 38. Faça um “mapa de tolerância” | after | `grooming-tolerance-map` | original-visual / body-map | Conhecer a tolerância por zona ajuda a dividir o cuidado em passos menores. |
 | 4 | ## 19. Introduza escovação em etapas | after | `toothbrushing-steps` | original-visual / step-cards | Escovação dental fica mais fácil quando a ferramenta e o toque são introduzidos separadamente. |
-| 5 | ## Plano de 10 dias de manipulação cooperativa | after | `grooming-10-day-plan` | original-visual / day-grid | Cooperação é construída em micro sessões, não numa única contenção longa. |
+| 5 | # Plano de 10 dias de manipulação cooperativa | after | `grooming-10-day-plan` | original-visual / day-grid | Cooperação é construída em micro sessões, não numa única contenção longa. |
 | 6 | ## 74. Quando parar imediatamente | after | `grooming-alerts` | original-visual / warning-grid | Algumas situações deixam de ser grooming doméstico e passam a exigir avaliação profissional. |
 
 ### Accessibility copy
@@ -308,7 +309,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `adotei-cao-adulto`  
 **Cover hero:** `mypets-dog-rescue`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -316,7 +317,7 @@ This is the human-readable production companion to `media/media-placement-master
 | 2 | ## 10. O primeiro passeio não precisa ser longo | after | `commons-dog-owner-walking` | media | Nos primeiros dias, uma rota simples e previsível oferece mais informação do que um passeio longo e lotado. |
 | 3 | ## 39. O primeiro contacto com carinho | after | `commons-dog-turning-away` | media | Um cão recém-chegado pode pedir distância de forma sutil; respeitar isso ajuda a construir confiança. |
 | 4 | ## 36. As primeiras 72 horas: menos agenda, mais observação | after | `rescue-first-72h` | original-visual / timeline | Nos primeiros dias, menos agenda e mais observação ajudam o cão a aterrar. |
-| 5 | ## Plano dos primeiros 30 dias | after | `rescue-30-day-roadmap` | original-visual / week-grid | Adaptação não tem relógio exato, mas um roadmap ajuda a família a evitar pressa. |
+| 5 | # Plano dos primeiros 30 dias | after | `rescue-30-day-roadmap` | original-visual / week-grid | Adaptação não tem relógio exato, mas um roadmap ajuda a família a evitar pressa. |
 | 6 | ## 41. O diário dos primeiros três meses | after | `rescue-observation-journal` | original-visual / tracker | Descrever comportamento concreto é mais útil do que colar rótulos no cão. |
 
 ### Accessibility copy
@@ -332,7 +333,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `caes-e-criancas`  
 **Cover hero:** `mypets-hero-dogs`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -345,7 +346,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 ### Accessibility copy
 
-- **`dogs-trust-education-intro-video`** — Alt: “Vídeo educativo oficial sobre convivência segura entre crianças e cães.” · Watch for: distância segura; papel do adulto; respeito ao cão
+- **`dogs-trust-education-intro-video`** — Alt: “Vídeo educativo oficial sobre convivência segura entre crianças e cães.” · Observe: distância segura; papel do adulto; respeito ao cão
 - **`commons-dog-turning-away`** — Alt: “Cão virando a cabeça e o corpo durante uma aproximação.”
 - **`commons-dogs-playing`** — Alt: “Dois cães brincando com movimento corporal solto.”
 - **`child-five-rules`** — Alt: “Poster infantil com cinco regras: não acordar, não mexer na comida, não seguir, não abraçar e chamar um adulto diante de rosnado.”
@@ -356,7 +357,7 @@ This is the human-readable production companion to `media/media-placement-master
 
 **Slug:** `50-ideias-enriquecimento`  
 **Cover hero:** `mypets-dog-training`  
-**Round MyPets seal:** bottom-right, web opacity 0.82, print watermark 0.16
+**Brand seal:** `mypets-round-logo` · bottom-right · web opacity 0.82 · print watermark 0.16
 
 | # | Section anchor | Position | Visual | Type | Caption |
 |---:|---|---|---|---|---|
@@ -370,8 +371,8 @@ This is the human-readable production companion to `media/media-placement-master
 
 ### Accessibility copy
 
-- **`dogs-trust-dig-box-video`** — Alt: “Vídeo oficial mostrando como montar uma caixa de escavação para cães.” · Watch for: materiais seguros; facilidade; supervisão
-- **`dogs-trust-yoga-mat-enrichment-video`** — Alt: “Vídeo de atividade alimentar simples usando um tapete.” · Watch for: porção alimentar; facilidade inicial; ritmo do cão
+- **`dogs-trust-dig-box-video`** — Alt: “Vídeo oficial mostrando como montar uma caixa de escavação para cães.” · Observe: materiais seguros; facilidade; supervisão
+- **`dogs-trust-yoga-mat-enrichment-video`** — Alt: “Vídeo de atividade alimentar simples usando um tapete.” · Observe: porção alimentar; facilidade inicial; ritmo do cão
 - **`commons-dogs-playing`** — Alt: “Dois cães em brincadeira social.”
 - **`enrichment-wheel`** — Alt: “Roda de enriquecimento com farejo, alimentação, cognição, movimento/social e descanso como eixo regulador.”
 - **`enrichment-difficulty`** — Alt: “Escala de dificuldade entre fácil, desafiador e frustrante, com sinais de ajuste.”
@@ -380,6 +381,6 @@ This is the human-readable production companion to `media/media-placement-master
 
 ## Production handoff
 
-The JSON file is canonical for implementation. This Markdown file is intended for editorial QA, Z.AI/frontend review and print-production checks.
+The JSON file is canonical for implementation. This Markdown file is for editorial QA, frontend/Z.AI review and print-production checks.
 
-When a section heading changes, update both the guide anchor and the canonical JSON map in the same content release.
+A section-heading change must update the canonical anchor in the master map in the same content release.
