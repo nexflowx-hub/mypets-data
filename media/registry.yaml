@@ -1,0 +1,26 @@
+# Prefer original MyPets media. Third-party media is linked or embedded only when rights/terms permit.
+items:
+  - id: media-rspca-toilet-training
+    type: external-article
+    publisher: RSPCA
+    title: "How To Toilet Train Your Puppy or Dog"
+    url: "https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/toilettraining"
+    use: "reference-link"
+    topics: [puppy, toilet-training]
+  - id: media-pdsa-first-night
+    type: external-article
+    publisher: PDSA
+    title: "First day and night with puppy"
+    url: "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/first-day-and-night-with-puppy"
+    use: "reference-link"
+    topics: [puppy, first-night]
+  - id: media-pdsa-basic-training
+    type: external-article
+    publisher: PDSA
+    title: "Basic training for puppies"
+    url: "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/basic-training-for-puppies"
+    use: "reference-link"
+    topics: [training, puppy]
+notes:
+  - "YouTube/video embeds may be added after verifying the exact official source URL and embed permission."
+  - "Do not mirror third-party videos into MyPets storage without an explicit reuse license."

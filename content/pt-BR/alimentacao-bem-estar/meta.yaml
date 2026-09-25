@@ -1,0 +1,15 @@
+id: guide-005
+slug: alimentacao-bem-estar
+locale: pt-BR
+title: "Rotina de Alimentação e Bem-Estar"
+subtitle: "Como organizar refeições, água, petiscos e observação sem transformar nutrição em improviso."
+version: 0.1.0
+status: draft
+access: entitled
+audience: [tutor-iniciante, familia-com-cao]
+topics: [alimentacao, agua, petiscos, condicao-corporal, rotina]
+reading_minutes: 50
+medical_risk: medium
+ai_use: restricted
+child_safe: true
+persona_use: educational

@@ -1,0 +1,15 @@
+id: guide-002
+slug: primeiro-filhote
+locale: pt-BR
+title: "Os Primeiros 30 Dias com um Filhote"
+subtitle: "Um plano prático para receber, organizar e ensinar sem transformar o primeiro mês em caos."
+version: 0.1.0
+status: draft
+access: entitled
+audience: [tutor-iniciante, familia-com-filhote]
+topics: [filhote, rotina, socializacao, treino, seguranca]
+reading_minutes: 55
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational

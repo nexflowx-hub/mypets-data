@@ -1,0 +1,32 @@
+sources:
+  - id: aaha-life-stage-2019
+    publisher: AAHA
+    title: "2019 Canine Life Stage Guidelines"
+    url: "https://www.aaha.org/resources/life-stage-canine-2019/"
+    source_type: guideline
+    topics: [life-stage, prevention, dental, nutrition, behavior]
+    reuse: facts-only
+  - id: aaha-checklists
+    publisher: AAHA
+    title: "Life Stage Checklists"
+    url: "https://www.aaha.org/resources/life-stage-canine-2019/life-stage-checklist/"
+    source_type: guideline-resource
+    topics: [preventive-care, checklists]
+    reuse: facts-only
+  - id: wsava-vaccination-2024
+    publisher: WSAVA
+    title: "2024 Guidelines for the Vaccination of Dogs and Cats"
+    url: "https://wsava.org/global-guidelines/vaccination-guidelines/"
+    source_type: guideline
+    topics: [vaccination]
+    reuse: facts-only
+  - id: avsab-humane-training
+    publisher: AVSAB
+    title: "Humane Dog Training Position Statement"
+    url: "https://avsab.org/resources/position-statements/"
+    source_type: position-statement
+    topics: [training, behavior]
+    reuse: facts-only
+review_notes:
+  - "No third-party protected chart or illustration is reproduced."
+  - "Any medical detail must receive veterinary review before release."
