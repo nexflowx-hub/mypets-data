@@ -1,0 +1,141 @@
+reviewed_at: 2026-09-25
+policy: "Facts may be researched and rewritten. Do not copy protected prose, tables or graphics unless the license/permission explicitly allows it."
+
+sources:
+  - id: avsab-position-statements
+    publisher: American Veterinary Society of Animal Behavior
+    title: Position Statements and Handouts
+    url: https://avsab.org/resources/position-statements/
+    topics: [training, behavior, puppy-socialization]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use current Humane Dog Training and Puppy Socialization statements; do not reproduce entire statements."
+
+  - id: wsava-nutrition
+    publisher: World Small Animal Veterinary Association
+    title: Global Nutrition Guidelines and Toolkit
+    url: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    topics: [nutrition, body-condition, muscle-condition, labels]
+    authority: high
+    reuse: facts-and-links
+    notes: "WSAVA states its educational resources are copyrighted and asks users wishing to reproduce them to follow its SOP/request process. Link/embed approved resources instead of copying protected charts."
+
+  - id: wsava-vaccination
+    publisher: World Small Animal Veterinary Association
+    title: Vaccination Guidelines
+    url: https://wsava.org/global-guidelines/vaccination-guidelines/
+    topics: [vaccination, preventive-care]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: wsava-dental
+    publisher: World Small Animal Veterinary Association
+    title: Global Dental Guidelines
+    url: https://wsava.org/global-guidelines/dental-guidelines/
+    topics: [oral-health, dental-care]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aaha-life-stage
+    publisher: American Animal Hospital Association
+    title: 2019 AAHA Canine Life Stage Guidelines
+    url: https://www.aaha.org/resources/life-stage-canine-2019/life-stage-canine-2019-2/
+    topics: [life-stage, preventive-care, behavior, nutrition, safety]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aaha-dental-owner
+    publisher: American Animal Hospital Association
+    title: Dog & cat dental disease — home care
+    url: https://www.aaha.org/resources/your-pets-dental-care/
+    topics: [oral-health, toothbrushing]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: merck-puppy-care
+    publisher: Merck Veterinary Manual
+    title: Puppy Care — Dog Owners
+    url: https://www.merckvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care
+    topics: [puppy, preventive-care, socialization]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: merck-behavior-modification
+    publisher: Merck Veterinary Manual
+    title: Behavior Modification in Dogs
+    url: https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/behavior-modification-in-dogs
+    topics: [behavior, training]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-training
+    publisher: RSPCA
+    title: How to Train Your Dog & Top Training Tips
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training
+    topics: [training, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-recall
+    publisher: RSPCA
+    title: Train Your Dog To Come When Called
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/come
+    topics: [training, recall]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-toilet-training
+    publisher: RSPCA
+    title: How To Toilet Train Your Puppy or Dog
+    url: https://science.rspca.org.uk/en/web/rspca/adviceandwelfare/pets/dogs/training/toilettraining
+    topics: [puppy, toilet-training]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-crates
+    publisher: RSPCA
+    title: How to Crate Train a Puppy
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/environment/crates
+    topics: [puppy, crate, alone-time]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-left-alone
+    publisher: RSPCA
+    title: How to Train Your Dog to Stay Home Alone
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/leftalone
+    topics: [alone-time, behavior]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aspca-toxic-foods
+    publisher: ASPCA Animal Poison Control
+    title: People Foods to Avoid Feeding Your Pets
+    url: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+    topics: [toxins, food-safety]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: avma-warm-weather
+    publisher: American Veterinary Medical Association
+    title: Warm weather pet safety
+    url: https://avma.org/resources/pet-owners/petcare/warm-weather-pet-safety
+    topics: [heat, safety, exercise]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: fci-nomenclature
+    publisher: Fédération Cynologique Internationale
+    title: FCI Breeds Nomenclature
+    url: https://www.fci.be/en/nomenclature/
+    topics: [breeds, breed-standards]
+    authority: high
+    reuse: facts-and-links
+
+  - id: akc-lifestyle
+    publisher: American Kennel Club
+    title: What Dog Is Right For Me? How to Choose the Perfect Breed
+    url: https://www.akc.org/expert-advice/lifestyle/what-dog-is-right-for-me/
+    topics: [breed-choice, lifestyle]
+    authority: medium-high
+    reuse: facts-and-paraphrase
