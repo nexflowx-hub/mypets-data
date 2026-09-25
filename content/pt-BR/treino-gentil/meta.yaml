@@ -1,0 +1,15 @@
+id: guide-003
+slug: treino-gentil
+locale: pt-BR
+title: "Treino Gentil: 7 Comandos para o Dia a Dia"
+subtitle: "Um programa prático de treino baseado em recompensa para situações reais."
+version: 0.1.0
+status: draft
+access: entitled
+audience: [tutor-iniciante, tutor-intermediario]
+topics: [treino, comportamento, recompensa, recall, autocontrole]
+reading_minutes: 60
+medical_risk: low
+ai_use: allowed
+child_safe: true
+persona_use: educational
