@@ -12,7 +12,8 @@
     "captions": "Captions explain why the visual matters; they should not merely repeat the alt text.",
     "alt_text": "Alt text describes the informational content/function. Decorative brand textures must use empty alt in HTML.",
     "video_print_fallback": "Render video title, publisher, QR/link target and the three 'watch for' points in print/PDF.",
-    "original_visuals": "Render as semantic HTML/SVG with text equivalents; never raster-only."
+    "original_visuals": "Render as semantic HTML/SVG with text equivalents; never raster-only.",
+    "brand_asset": "mypets-round-logo"
   },
   "guides": {
     "guide-001": {
@@ -27,7 +28,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -105,7 +108,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -183,7 +188,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -296,7 +303,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -481,7 +490,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -561,7 +572,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -647,7 +660,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -743,7 +758,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -813,7 +830,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -900,7 +919,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -970,7 +991,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -1039,7 +1062,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
@@ -1113,7 +1138,9 @@
           "opacity_web": 0.82,
           "opacity_print_watermark": 0.16,
           "safe_margin": "4%",
-          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text."
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
         }
       },
       "placements": [
