@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0-draft",
+  "version": "2.3.0-draft",
   "collection": {
     "id": "mypets-cuidar-melhor",
     "title": "Coleção MyPets — Cuidar Melhor",
@@ -214,6 +214,23 @@
       ],
       "contentPath": "library/pt-BR/12-caes-e-criancas/guide.md",
       "previewPath": "library/pt-BR/12-caes-e-criancas/preview.md"
+    },
+    {
+      "id": "guide-013",
+      "slug": "50-ideias-enriquecimento",
+      "legacySlugs": [],
+      "title": "50 Ideias de Enriquecimento para Cães",
+      "subtitle": "Farejo, comida, aprendizagem, brincadeira, exploração e calma com atividades simples para a vida real.",
+      "description": "50 atividades práticas, de baixo custo e adaptáveis para usar nariz, cérebro, corpo e descanso de forma segura.",
+      "readingMinutes": 50,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "enriquecimento",
+        "farejo",
+        "brincadeira"
+      ],
+      "contentPath": "library/pt-BR/13-enriquecimento/guide.md",
+      "previewPath": "library/pt-BR/13-enriquecimento/preview.md"
     }
   ]
 }
