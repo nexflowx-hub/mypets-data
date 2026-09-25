@@ -59,3 +59,14 @@ guides:
     slug: higiene-saude-oral
     title: "Higiene, Banho e Saúde Oral"
     path: pt-BR/10-higiene-saude-oral
+
+  - id: guide-011
+    order: 11
+    slug: adotei-cao-adulto
+    title: "Adotei um Cão Adulto: E Agora?"
+    path: pt-BR/11-adotei-cao-adulto
+  - id: guide-012
+    order: 12
+    slug: caes-e-criancas
+    title: "Cães e Crianças: Convivência Segura, Respeitosa e Feliz"
+    path: pt-BR/12-caes-e-criancas
