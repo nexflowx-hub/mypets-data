@@ -119,3 +119,124 @@ media:
     license_action: embed-only
     topics: [walking, loose-lead, training]
     notes: "Official Guide Dogs video. Embed from YouTube; do not download/rehost."
+
+
+  - id: commons-vizsla-dog
+    type: image
+    title: Hungarian Vizsla
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:VizslaDog.jpg
+    license: CC-BY-SA-4.0
+    attribution: ZakOreo
+    attribution_required: true
+    topics: [breed, vizsla]
+
+  - id: commons-weimaraner-dog
+    type: image
+    title: Weimaraner
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Weimaraner_Dog.jpg
+    license: CC0-1.0
+    attribution: Sciencia58
+    attribution_required: false
+    topics: [breed, weimaraner]
+
+  - id: commons-english-springer-spaniel
+    type: image
+    title: English Springer Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_springer_spaniel.jpg
+    license: Public-Domain
+    attribution: Trice 85
+    attribution_required: false
+    topics: [breed, english-springer-spaniel]
+
+  - id: commons-shar-pei
+    type: image
+    title: Shar-Pei
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shar_pei.jpg
+    license: CC-BY-SA-3.0
+    attribution: UpdOWN
+    attribution_required: true
+    topics: [breed, shar-pei]
+
+  - id: commons-bichon-frise
+    type: image
+    title: Bichon Frisé and Poodle
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Bichon_Frise_and_Poodle_breed_dogs.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nancy Wong
+    attribution_required: true
+    topics: [breed, bichon-frise, poodle]
+
+  - id: commons-shetland-sheepdog
+    type: image
+    title: Shetland Sheepdog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shetland_Sheepdog.jpg
+    license: Public-Domain
+    attribution: Kokostephi
+    attribution_required: false
+    topics: [breed, shetland-sheepdog]
+
+  - id: commons-lhasa-apso
+    type: image
+    title: Lhasa Apso
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Lhasaapso.jpg
+    license: CC-BY-SA-3.0
+    attribution: Lhasaapso
+    attribution_required: true
+    topics: [breed, lhasa-apso]
+
+  - id: commons-saint-bernard
+    type: image
+    title: Saint Bernard
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Saint_bernard_dog.jpg
+    license: CC-BY-4.0
+    attribution: Dr.don16
+    attribution_required: true
+    topics: [breed, saint-bernard]
+
+  - id: commons-papillon
+    type: image
+    title: Papillon
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Papillon_dog.jpeg
+    license: CC-BY-SA-4.0
+    attribution: TuckTheNugget
+    attribution_required: true
+    topics: [breed, papillon]
+
+  - id: commons-boston-terrier
+    type: image
+    title: Boston Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Boston_Terrier.jpg
+    license: CC-BY-SA-2.0
+    attribution: Judith Garcia
+    attribution_required: true
+    topics: [breed, boston-terrier]
+
+  - id: commons-rough-collie
+    type: image
+    title: Rough Collie
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Rough_Collie.jpg
+    license: CC-BY-SA-2.0
+    attribution: B@rberousse
+    attribution_required: true
+    topics: [breed, rough-collie]
+
+  - id: commons-afghan-hound
+    type: image
+    title: Afghan Hound
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:AfghanHound.jpg
+    license: CC-BY-SA-2.0
+    attribution: Bryan Ungard
+    attribution_required: true
+    topics: [breed, afghan-hound]
