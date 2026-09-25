@@ -579,6 +579,490 @@ Cuidado cooperativo é projeto de longo prazo.
 
 ---
 
+---
+
+## 38. Faça um “mapa de tolerância”
+
+Divida o corpo em zonas:
+
+### Verde
+Aceita toque tranquilo.
+
+### Amarelo
+Tolera pouco tempo ou mostra sinais discretos.
+
+### Vermelho
+Tenta sair, congela, rosna ou demonstra dor.
+
+Comece pelas zonas verdes.
+
+Não use a higiene para invadir zonas vermelhas repetidamente.
+
+---
+
+## 39. Consentimento pode ser treinado
+
+Alguns tutores ensinam um comportamento de início, por exemplo:
+- apoiar queixo na mão;
+- colocar focinho num alvo;
+- permanecer numa manta.
+
+Enquanto o cão mantém posição, o cuidado continua.
+
+Quando sai, faça pausa.
+
+Isso não é possível em toda situação médica, mas pode melhorar rotina doméstica.
+
+---
+
+## 40. Escovação de pelo por tipo de pelagem
+
+### Curta
+Pode precisar de menos desembaraço, mas ainda há queda e pele.
+
+### Longa
+Exige prevenção de nós.
+
+### Dupla
+Subpelo pode acumular.
+
+### Encaracolada
+Pode formar nós próximos à pele.
+
+A frequência ideal varia muito.
+
+Não raspe pelagem dupla apenas por calor sem orientação adequada.
+
+---
+
+## 41. Troca de pelo
+
+Queda sazonal pode aumentar.
+
+Ferramentas apropriadas ajudam.
+
+Mas queda associada a:
+- falhas;
+- coceira;
+- feridas;
+- pele vermelha;
+
+não deve ser tratada como grooming normal.
+
+---
+
+## 42. Banho depois de praia ou piscina
+
+Água salgada, areia e produtos de piscina podem irritar alguns cães.
+
+Enxágue com água adequada quando necessário e seque.
+
+Observe pele e orelhas.
+
+---
+
+## 43. Cães que nadam
+
+Maior exposição à água pode exigir atenção a:
+- ouvido;
+- pele;
+- secagem.
+
+Não aplique soluções preventivas sem orientação.
+
+---
+
+## 44. Cheiro forte não se resolve apenas com perfume
+
+Odor persistente pode vir de:
+- pele;
+- ouvido;
+- boca;
+- região anal;
+- infecção.
+
+Perfume mascara, não trata.
+
+---
+
+## 45. Shampoo medicamentoso
+
+Se foi prescrito:
+- siga tempo de contato;
+- frequência;
+- diluição;
+- enxágue.
+
+Não substitua por produto cosmético.
+
+---
+
+## 46. Secador e dessensibilização
+
+Treine em etapas:
+
+1. secador desligado à distância;
+2. recompensa;
+3. som em outro cômodo;
+4. som mais perto;
+5. vento fraco distante;
+6. aproximar gradualmente.
+
+Não comece no máximo.
+
+---
+
+## 47. Toalha
+
+Alguns cães não gostam de esfregar vigorosamente.
+
+Use:
+- pressão suave;
+- partes pequenas;
+- pausa.
+
+Recompense calma.
+
+---
+
+## 48. Unhas claras e escuras
+
+Em unhas claras, estrutura interna pode ser mais visível.
+
+Em escuras, é mais difícil.
+
+Se não tem experiência:
+- corte mínimo;
+- peça ajuda.
+
+O objetivo é evitar acidente.
+
+---
+
+## 49. Acidente no corte de unha
+
+Se sangrar:
+- mantenha calma;
+- pressione conforme orientação de primeiros cuidados;
+- procure veterinário se não cessa ou se lesão é importante.
+
+Depois, reconstrua associação em sessões fáceis.
+
+---
+
+## 50. Não transforme “segurar forte” em rotina
+
+Contenção pode ser necessária em contexto clínico.
+
+Mas em casa, segurar até o cão desistir pode:
+- aumentar medo;
+- antecipação;
+- risco de mordida.
+
+Prefira treino gradual.
+
+---
+
+## 51. Orelha caída não significa que deve limpar mais
+
+Formato da orelha pode influenciar ambiente local, mas limpeza deve ser orientada pela necessidade.
+
+Não coloque produto preventivamente sem saber se é apropriado.
+
+---
+
+## 52. Coçar o ouvido
+
+Uma coçada ocasional pode acontecer.
+
+Procure atenção se:
+- é frequente;
+- há odor;
+- secreção;
+- dor;
+- sacudir cabeça repetidamente.
+
+---
+
+## 53. Escovação dental diária: por que a frequência importa
+
+Placa começa a acumular rapidamente.
+
+AAHA reforça que cuidados domésticos regulares são necessários entre limpezas profissionais.
+
+Escovar raramente ajuda menos que uma rotina consistente.
+
+O melhor plano é aquele que o tutor consegue manter.
+
+---
+
+## 54. Comece pelos dentes externos
+
+Não precisa abrir a boca inteira.
+
+Levante o lábio e escove superfícies externas.
+
+Isso costuma ser mais tolerável.
+
+---
+
+## 55. Pasta “saborosa” não substitui técnica
+
+Pasta veterinária pode facilitar aceitação.
+
+Mas o efeito principal da escovação vem da ação mecânica.
+
+Não entregue pasta e considere dentes “escovados”.
+
+---
+
+## 56. Escova de dedo
+
+Pode ser útil para introdução.
+
+Mas dedos ficam perto dos dentes.
+
+Use apenas se o cão está confortável e não há risco de mordida.
+
+---
+
+## 57. Crianças não devem escovar dentes do cão sozinhas
+
+Um adulto deve conduzir.
+
+Criança pode:
+- entregar recompensa;
+- marcar checklist;
+- observar.
+
+Isso reduz risco de acidente.
+
+---
+
+## 58. Produtos com selo de saúde oral
+
+Em alguns mercados, produtos avaliados por entidades como Veterinary Oral Health Council podem ajudar a escolher opções com evidência.
+
+Mesmo assim:
+- confirme tamanho;
+- calorias;
+- segurança;
+- compatibilidade clínica.
+
+---
+
+## 59. Dieta dental não é “qualquer ração seca”
+
+Algumas dietas são formuladas especificamente para efeito odontológico.
+
+Ração seca comum não deve ser tratada automaticamente como escova de dentes.
+
+---
+
+## 60. Ossos e dentes
+
+Objetos duros podem fraturar.
+
+“Natural” não significa seguro.
+
+Se o cão mastiga com força, discuta opções.
+
+---
+
+## 61. Dente quebrado pode passar despercebido
+
+Sinais:
+- evita mastigar de um lado;
+- deixa brinquedo;
+- salivação;
+- sensibilidade;
+- mudança de apetite.
+
+Procure exame.
+
+---
+
+## 62. Gengiva sangrando
+
+Sangramento recorrente não é algo para “escovar mais forte”.
+
+Pode indicar inflamação ou doença.
+
+Procure avaliação.
+
+---
+
+## 63. Mau hálito súbito
+
+Mudança súbita merece atenção.
+
+Pode ser oral ou relacionada a outro problema.
+
+Não tente resolver apenas com spray.
+
+---
+
+## 64. Fotos mensais da boca
+
+Se o cão tolera:
+- foto lateral;
+- mesma luz;
+- sem forçar.
+
+Ajuda a perceber mudança, mas não substitui exame.
+
+---
+
+## 65. Grooming como oportunidade de check-up
+
+Durante escovação:
+- passe mãos pelo corpo;
+- observe caroços;
+- feridas;
+- parasitas;
+- dor.
+
+Se algo mudou, registre.
+
+---
+
+## 66. Pulgas e carrapatos
+
+Controle preventivo depende de:
+- região;
+- risco;
+- produto;
+- saúde.
+
+Não improvise substâncias caseiras.
+
+Converse com veterinário sobre prevenção.
+
+---
+
+## 67. Nunca use produto de outra espécie sem confirmar
+
+Alguns produtos seguros para cães podem ser perigosos para gatos e vice-versa.
+
+Se a casa tem várias espécies:
+- guarde separado;
+- leia rótulo;
+- confirme orientação.
+
+---
+
+## 68. Banho em filhote
+
+Faça experiência curta e positiva.
+
+Use:
+- superfície segura;
+- água confortável;
+- pouco ruído;
+- secagem adequada.
+
+Siga orientação veterinária sobre produtos.
+
+---
+
+## 69. Banho em idoso
+
+Considere:
+- temperatura;
+- dor;
+- tempo em pé;
+- piso;
+- secagem.
+
+Talvez seja melhor dividir cuidados.
+
+---
+
+## 70. Cão com medo de grooming profissional
+
+Converse antes.
+
+Pergunte se o local oferece:
+- adaptação;
+- sessões curtas;
+- horário tranquilo.
+
+Em casos severos, veterinário/comportamental pode ajudar.
+
+---
+
+## 71. Checklist de preparação para grooming profissional
+
+Informe:
+- doenças;
+- dor;
+- alergias;
+- medicação;
+- histórico de mordida;
+- áreas sensíveis;
+- medo de secador.
+
+Transparência protege todos.
+
+---
+
+## 72. Rotina mensal de higiene
+
+### Semana 1
+Revisar unhas/patas.
+
+### Semana 2
+Pelo/pele.
+
+### Semana 3
+Boca.
+
+### Semana 4
+Orelhas + materiais.
+
+Escovação dental e grooming de pelo seguem frequência própria.
+
+---
+
+## 73. O “kit de viagem”
+
+Leve:
+- escova;
+- toalha;
+- produto habitual;
+- escova dental;
+- informação veterinária.
+
+Não teste produto novo durante viagem se não precisa.
+
+---
+
+## 74. Quando parar imediatamente
+
+Pare cuidado doméstico diante de:
+- dor intensa;
+- sangramento importante;
+- dificuldade respiratória;
+- agressão de alto risco;
+- lesão aberta;
+- olho ferido.
+
+Segurança primeiro.
+
+---
+
+## 75. O objetivo final
+
+Higiene boa não é cão imóvel por medo.
+
+É uma rotina em que:
+- o tutor observa;
+- o cão entende;
+- procedimentos são divididos;
+- dor é respeitada;
+- prevenção acontece.
+
+
 ## 38. Referências de base desta edição
 
 - **WSAVA — 2026 Global Dental Guidelines:** prevenção odontológica e importância do cuidado profissional.
