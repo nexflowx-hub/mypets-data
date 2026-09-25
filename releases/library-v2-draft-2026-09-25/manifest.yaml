@@ -1,0 +1,39 @@
+release:
+  id: library-v2-draft-2026-09-25
+  status: editorial-draft
+  created_at: 2026-09-25
+  locale: pt-BR
+  collection: mypets-cuidar-melhor
+  campaign: ebook-racao
+  canonical_repo: nexflowx-hub/mypets-data
+  branch: feat/digital-library-v1
+
+content:
+  - id: guide-001
+    path: library/pt-BR/01-cuidados-essenciais
+    editorial_status: draft-expanded
+  - id: guide-002
+    path: library/pt-BR/02-primeiros-30-dias
+    editorial_status: draft-expanded
+    compatibility_slug: filhote-primeiros-30-dias
+  - id: guide-003
+    path: library/pt-BR/03-treino-gentil
+    editorial_status: draft-expanded
+  - id: guide-004
+    path: library/pt-BR/04-guia-das-racas
+    editorial_status: draft-expanded
+  - id: guide-005
+    path: library/pt-BR/05-alimentacao-bem-estar
+    editorial_status: draft-expanded
+    compatibility_slug: rotina-alimentacao
+
+required_before_release:
+  - veterinary/editorial fact review
+  - language consistency pass
+  - copyright/media attribution QA
+  - frontend reader QA
+  - mobile accessibility QA
+  - PDF generation QA
+  - entitlement integration test
+  - final source-review timestamp
+  - final checksums
