@@ -108,14 +108,6 @@ sources:
     authority: high
     reuse: facts-and-paraphrase
 
-  - id: rspca-left-alone
-    publisher: RSPCA
-    title: How to Train Your Dog to Stay Home Alone
-    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/leftalone
-    topics: [alone-time, behavior]
-    authority: high
-    reuse: facts-and-paraphrase
-
   - id: pdsa-reward-training
     publisher: PDSA
     title: Reward-based training
