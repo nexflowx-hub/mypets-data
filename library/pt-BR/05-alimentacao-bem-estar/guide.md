@@ -1138,6 +1138,19 @@ Peso corporal deve ser interpretado junto com contexto. Uma alteração rápida,
 Para acompanhamento doméstico, pese sempre que possível em condições semelhantes e registe a data. A tendência ao longo do tempo costuma ser mais informativa do que um único número.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **WSAVA: Body Condition Score:** renderizar o media aprovado `wsava-body-condition-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **WSAVA: Muscle Condition Exam:** renderizar o media aprovado `wsava-muscle-condition-video` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com pesquisa e redação original MyPets, usando como referências principais:
