@@ -1,0 +1,31 @@
+id: guide-005
+slug: alimentacao-bem-estar
+locale: pt-BR
+title: "Rotina de Alimentação e Bem-Estar"
+subtitle: "Um guia de organização para porções, água, petiscos, condição corporal, segurança alimentar e observação."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - principio-central
+  - rotina-alimentar
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+topics:
+  - alimentacao
+  - agua
+  - petiscos
+  - condicao-corporal
+  - seguranca-alimentar
+  - rotina
+reading_minutes: 60
+medical_risk: medium
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
