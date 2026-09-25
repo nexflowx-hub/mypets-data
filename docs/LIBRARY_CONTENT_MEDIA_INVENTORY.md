@@ -9,11 +9,11 @@
 - **13 canonical guides**
 - **61,275 words** across the guide corpus
 - **58 explicit `[!MEDIA]` placements** already wired into guide Markdown
-- **57 approved media records**
-  - **47 image records**
+- **73 approved media records**
+  - **63 image records**
   - **10 official video embeds**
 - **47 structured breed profiles**
-- **31 / 47 breed profiles already linked to specific real photographs**
+- **47 / 47 breed profiles linked to specific real photographs**
 - **103 planned visual/editorial interventions** in the guide-level media pack, combining approved media with original MyPets diagrams, trackers, timelines and interactive/printable components
 
 > Word count is a build-time editorial measure, not a promise of fixed PDF pages. Web/PDF page count changes substantially with photography, tables, diagrams and responsive layout.
@@ -90,10 +90,10 @@ The registry contains:
 
 Current structured atlas:
 - **47 breed profiles**
-- **31 profiles linked to real photographs**
-- **16 profiles still need a dedicated breed-specific photograph**
+- **47 profiles linked to real photographs**
+- **0 profiles without a dedicated breed-specific photograph in the launch dataset**
 
-The remaining photo gap should be closed progressively without blocking the core guide reader.
+The launch atlas now has a dedicated real-photography reference for every structured breed profile. Attribution/license QA and asset ingestion into controlled storage remain release tasks.
 
 ## Guide-specific media direction
 
