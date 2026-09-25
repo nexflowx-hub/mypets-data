@@ -1012,6 +1012,25 @@ Apartamento bom para cão é aquele em que ele consegue:
 Metragem é só uma parte.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Descanso em casa:** renderizar o media aprovado `commons-dog-sleeping-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Passeios continuam essenciais:** renderizar o media aprovado `commons-dog-owner-walking` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vídeo: caixa de escavação/enriquecimento:** renderizar o media aprovado `dogs-trust-dig-box-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vídeo: enriquecimento alimentar simples:** renderizar o media aprovado `dogs-trust-yoga-mat-enrichment-video` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Keeping a Dog in a Flat:** planejamento de vida em apartamento, acesso exterior e rotina.
