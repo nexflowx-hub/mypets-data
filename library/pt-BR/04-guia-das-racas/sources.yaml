@@ -1,0 +1,15 @@
+guide_id: guide-004
+reviewed_at: 2026-09-25
+sources:
+  - source_id: fci-nomenclature
+    applies_to: [grupos, perfis-de-raca]
+  - source_id: akc-lifestyle
+    applies_to: [compatibilidade, perguntas]
+  - source_id: aaha-life-stage
+    applies_to: [custos, cuidados-ao-longo-da-vida]
+  - source_id: wsava-boas
+    url: https://wsava.org/resources/brachycephalic-obstructive-airway-syndrome-boas-resources/
+    applies_to: [braquicefalicos, pug, bulldogue-frances, bulldogue-ingles]
+  - source_id: avma-short-nosed-air-travel
+    url: https://avma.org/public/PetCare/Pages/Short-nosed-Dogs-and-Air-Travel-FAQs.aspx
+    applies_to: [braquicefalicos, viagem]
