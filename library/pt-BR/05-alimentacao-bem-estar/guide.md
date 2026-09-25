@@ -1068,6 +1068,37 @@ Guarde uma ficha por mês. Tendências ao longo do tempo são frequentemente mai
 
 ---
 
+---
+
+## 52. Perguntas úteis ao fabricante
+
+Para avaliar um alimento com mais profundidade, procure informações além da publicidade: quem formula o produto e qual é a qualificação da equipa; para qual fase de vida foi formulado; se é alimento completo ou complementar; como é realizado o controle de qualidade; se o fabricante fornece densidade energética e análise nutricional mais detalhada; onde é fabricado; e se existe canal claro para dúvidas e problemas de lote.
+
+A WSAVA disponibiliza ferramentas para ajudar tutores e profissionais a pensar criticamente sobre seleção de alimentos. A intenção não é criar uma “lista universal de marcas aprovadas”, mas melhorar a qualidade das perguntas.
+
+## 53. Seco, húmido ou combinação?
+
+Formato não determina sozinho a qualidade. Alimentos secos, húmidos ou combinações podem ser usados conforme adequação nutricional, preferência, necessidade de hidratação, condição oral, rotina, custo e orientação clínica.
+
+Se combinar produtos, confirme se a soma continua coerente com a necessidade do cão. Acrescentar alimento húmido “por cima” sem ajustar a porção total pode aumentar ingestão energética.
+
+## 54. Viagens e mudanças de rotina
+
+Em viagem, leve quantidade suficiente do alimento habitual, preserve embalagem/lote, mantenha água segura, evite vários petiscos novos no mesmo dia e deixe instruções claras a cuidadores. Mudança de ambiente já é uma variável; não é o momento ideal para testar tudo ao mesmo tempo.
+
+## 55. Quando o problema é a boca e não a comida
+
+Recusar croquetes, mastigar só de um lado, deixar alimento cair, salivar mais ou evitar objetos duros pode ter relação com desconforto oral. Observe mau hálito novo/intenso, sangramento, dente quebrado, inchaço, dificuldade para pegar alimento ou dor ao tocar face e procure avaliação veterinária.
+
+## 56. Sistema doméstico para evitar duplicação
+
+Em casas com várias pessoas, use um quadro simples com refeição da manhã, medicação, petiscos de treino, refeição da noite e observações. Isso reduz o clássico “achei que ninguém tinha dado” e melhora a qualidade da informação sobre apetite.
+
+## 57. Meta final: consistência suficiente para perceber mudança
+
+Uma rotina alimentar boa não é a mais complexa. É aquela que a família consegue repetir e observar. Se consegue responder com confiança o que o cão come, quanto recebe, quais extras entram, como está o peso, como estão as fezes e quem oferece comida, já existe uma base muito melhor para decisões junto do veterinário.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com pesquisa e redação original MyPets, usando como referências principais:
