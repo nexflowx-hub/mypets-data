@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0-draft",
+  "version": "2.1.0-draft",
   "collection": {
     "id": "mypets-cuidar-melhor",
     "title": "Coleção MyPets — Cuidar Melhor",
@@ -95,6 +95,91 @@
       ],
       "contentPath": "library/pt-BR/05-alimentacao-bem-estar/guide.md",
       "previewPath": "library/pt-BR/05-alimentacao-bem-estar/preview.md"
+    },
+    {
+      "id": "guide-006",
+      "slug": "linguagem-corporal-canina",
+      "legacySlugs": [],
+      "title": "Linguagem Corporal Canina: Aprenda a Ouvir sem Palavras",
+      "subtitle": "Um guia visual e prático para reconhecer relaxamento, stress, medo, necessidade de espaço e comunicação antes do conflito.",
+      "description": "Leitura do corpo inteiro, sinais sutis, crianças, visitas, passeios, reatividade e programa de observação.",
+      "readingMinutes": 55,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "comportamento",
+        "linguagem corporal",
+        "segurança"
+      ],
+      "contentPath": "library/pt-BR/06-linguagem-corporal/guide.md",
+      "previewPath": "library/pt-BR/06-linguagem-corporal/preview.md"
+    },
+    {
+      "id": "guide-007",
+      "slug": "passeios-sem-stress",
+      "legacySlugs": [],
+      "title": "Passeios sem Stress",
+      "subtitle": "Guia prática de guia frouxa, farejo, segurança, reatividade e passeios que respeitam o ritmo do cão.",
+      "description": "Guia frouxa, sniffari, recall, equipamentos, calor, reatividade e um programa de 14 dias.",
+      "readingMinutes": 55,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "passeio",
+        "treino",
+        "enriquecimento"
+      ],
+      "contentPath": "library/pt-BR/07-passeios-sem-stress/guide.md",
+      "previewPath": "library/pt-BR/07-passeios-sem-stress/preview.md"
+    },
+    {
+      "id": "guide-008",
+      "slug": "ficar-sozinho",
+      "legacySlugs": [],
+      "title": "Ficar Sozinho em Casa: Autonomia sem Medo",
+      "subtitle": "Um plano gradual para ensinar independência, observar sinais de sofrimento e construir ausências seguras.",
+      "description": "Autonomia, sinais de stress, câmera, rotina de saída, enriquecimento, apartamento e plano progressivo.",
+      "readingMinutes": 50,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "autonomia",
+        "comportamento",
+        "separação"
+      ],
+      "contentPath": "library/pt-BR/08-ficar-sozinho/guide.md",
+      "previewPath": "library/pt-BR/08-ficar-sozinho/preview.md"
+    },
+    {
+      "id": "guide-009",
+      "slug": "cao-em-apartamento",
+      "legacySlugs": [],
+      "title": "Cão em Apartamento: Espaço Pequeno, Vida Completa",
+      "subtitle": "Rotina, enriquecimento, ruído, passeio, autonomia e segurança para viver bem em espaços compactos.",
+      "description": "Elevador, corredor, barulho, vizinhos, home office, enriquecimento, visitas e plano de adaptação.",
+      "readingMinutes": 45,
+      "image": "/images/card-resgatou.jpg",
+      "tags": [
+        "apartamento",
+        "rotina",
+        "enriquecimento"
+      ],
+      "contentPath": "library/pt-BR/09-cao-em-apartamento/guide.md",
+      "previewPath": "library/pt-BR/09-cao-em-apartamento/preview.md"
+    },
+    {
+      "id": "guide-010",
+      "slug": "higiene-saude-oral",
+      "legacySlugs": [],
+      "title": "Higiene, Banho e Saúde Oral",
+      "subtitle": "Escovação, banho, patas, unhas, orelhas e dentes com uma abordagem gradual e cooperativa.",
+      "description": "Pelagem, banho, unhas, orelhas, dentes, saúde oral, groomer e plano de manipulação cooperativa.",
+      "readingMinutes": 45,
+      "image": "/images/card-alimentou.jpg",
+      "tags": [
+        "higiene",
+        "saúde oral",
+        "grooming"
+      ],
+      "contentPath": "library/pt-BR/10-higiene-saude-oral/guide.md",
+      "previewPath": "library/pt-BR/10-higiene-saude-oral/preview.md"
     }
   ]
 }
