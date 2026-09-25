@@ -1,0 +1,32 @@
+sources:
+  - id: fci-nomenclature
+    publisher: FCI
+    title: "FCI Breeds Nomenclature"
+    url: "https://www.fci.be/en/nomenclature/"
+    source_type: official-breed-classification
+    topics: [breeds, groups, standards]
+    reuse: facts-only
+  - id: fci-education
+    publisher: FCI
+    title: "Breed-specific education"
+    url: "https://www.fci.be/en/nomenclature/Education.aspx"
+    source_type: official-education
+    topics: [breeds]
+    reuse: facts-only
+  - id: akc-lifestyle
+    publisher: AKC
+    title: "What Dog Is Right For Me?"
+    url: "https://www.akc.org/expert-advice/lifestyle/what-dog-is-right-for-me/"
+    source_type: breed-lifestyle-guide
+    topics: [compatibility, lifestyle]
+    reuse: facts-only
+  - id: aaha-life-stage
+    publisher: AAHA
+    title: "2019 Canine Life Stage Guidelines"
+    url: "https://www.aaha.org/resources/life-stage-canine-2019/"
+    source_type: guideline
+    topics: [breed-specific-conditions, preventive-care]
+    reuse: facts-only
+review_notes:
+  - "Breed profiles are intentionally broad and must be expanded with breed-specific health references before final release."
+  - "Avoid deterministic labels such as 'best breed for children' or 'apartment breed'."
