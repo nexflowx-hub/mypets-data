@@ -738,7 +738,7 @@
         {
           "id": "walk-14-day-plan",
           "kind": "original-visual",
-          "anchor": "## Programa de 14 dias para passeio melhor",
+          "anchor": "# Programa de 14 dias para passeio melhor",
           "position": "after",
           "alt": "Plano de 14 dias com atenção, equipamento, guia frouxa, farejo, mudança de direção e recall.",
           "caption": "O plano transforma passeio melhor numa sequência de pequenas competências.",
@@ -810,7 +810,7 @@
         {
           "id": "alone-14-day-plan",
           "kind": "original-visual",
-          "anchor": "## Plano progressivo de 14 dias",
+          "anchor": "# Plano progressivo de 14 dias",
           "position": "after",
           "alt": "Calendário de 14 dias para construir pequenas separações e rever vídeo.",
           "caption": "O plano é adaptável: se aparecem sinais de stress, a próxima missão fica mais fácil.",
@@ -962,7 +962,7 @@
         {
           "id": "grooming-10-day-plan",
           "kind": "original-visual",
-          "anchor": "## Plano de 10 dias de manipulação cooperativa",
+          "anchor": "# Plano de 10 dias de manipulação cooperativa",
           "position": "after",
           "alt": "Calendário de 10 dias para tocar, escovar, manipular patas, boca, orelhas e secador de forma gradual.",
           "caption": "Cooperação é construída em micro sessões, não numa única contenção longa.",
@@ -1033,7 +1033,7 @@
         {
           "id": "rescue-30-day-roadmap",
           "kind": "original-visual",
-          "anchor": "## Plano dos primeiros 30 dias",
+          "anchor": "# Plano dos primeiros 30 dias",
           "position": "after",
           "alt": "Roadmap de quatro semanas: segurança, rotina, expansão gradual e revisão.",
           "caption": "Adaptação não tem relógio exato, mas um roadmap ajuda a família a evitar pressa.",
