@@ -604,6 +604,414 @@ Mas esses sinais também podem ter causas médicas/comportamentais.
 
 ---
 
+---
+
+## 35. O primeiro passeio da manhã define o resto do dia?
+
+Pode influenciar, mas não precisa ser gigantesco.
+
+Uma rotina matinal eficiente pode combinar:
+- eliminação;
+- 10–20 minutos de farejo;
+- alguns passos de treino;
+- volta tranquila;
+- refeição em enriquecimento.
+
+Para alguns cães, isso cria transição melhor para descanso.
+
+---
+
+## 36. Transforme a refeição em atividade
+
+Sem aumentar calorias, use parte da porção em:
+- treino;
+- brinquedo dispensador;
+- busca;
+- tapete de farejamento.
+
+Isso é especialmente útil em dias de chuva.
+
+---
+
+## 37. “Dia de chuva” precisa de plano B
+
+Monte uma caixa de atividades:
+
+- brinquedo recheável;
+- caixas de papel;
+- toalha para busca;
+- brinquedos rotativos;
+- treino de alvo;
+- “procura”;
+- exercícios de manipulação.
+
+Evite improvisar apenas quando o cão já está entediado.
+
+---
+
+## 38. Brinquedos não substituem interação
+
+Deixar dez brinquedos no chão não garante enriquecimento.
+
+Muitos cães se interessam mais quando:
+- há novidade;
+- brinquedos rodam;
+- existe interação;
+- há comida/faro.
+
+Guarde parte e reintroduza.
+
+---
+
+## 39. Atividade mental não deve virar hiperestimulação
+
+Enriquecimento também precisa de pausa.
+
+Depois de atividade:
+- reduza estímulo;
+- ofereça descanso;
+- permita sono.
+
+Um cão que recebe desafios o dia inteiro pode ter dificuldade de desligar.
+
+---
+
+## 40. O local da cama importa
+
+Evite, quando possível:
+- corredor de passagem;
+- ao lado da porta;
+- sol direto;
+- zona onde criança brinca.
+
+Prefira local em que o cão possa ver parte da casa sem precisar patrulhar tudo.
+
+---
+
+## 41. Mais de uma cama
+
+Em apartamentos maiores, duas zonas de descanso podem ajudar:
+- sala;
+- quarto.
+
+O cão escolhe proximidade.
+
+---
+
+## 42. Pisos escorregadios
+
+Cães idosos, grandes ou com problemas ortopédicos podem sentir insegurança.
+
+Use tapetes antiderrapantes em rotas:
+- cama → água;
+- sala → porta.
+
+Mudança de comportamento em piso pode ser dor, não teimosia.
+
+---
+
+## 43. Cheiro do apartamento
+
+Produtos de limpeza e aromatizadores muito fortes podem incomodar.
+
+Ventile.
+
+Mantenha produtos químicos protegidos.
+
+Cães vivem num mundo olfativo.
+
+---
+
+## 44. Plantas
+
+Muitas plantas ornamentais podem ser tóxicas.
+
+Antes de trazer planta nova:
+- identifique espécie;
+- verifique segurança em fonte confiável;
+- mantenha fora de alcance.
+
+---
+
+## 45. Lixo em cozinha pequena
+
+Lixeira acessível pode ser fonte de:
+- intoxicação;
+- obstrução;
+- conflito.
+
+Use tampa segura ou armário.
+
+---
+
+## 46. Porta de entrada
+
+Treine prevenção de fuga.
+
+Antes de abrir:
+- cão atrás de barreira;
+- ou espera a distância;
+- guia conectada quando necessário.
+
+Não confie apenas num comando em ambiente agitado.
+
+---
+
+## 47. Entregadores
+
+Delivery é rotina em muitos apartamentos.
+
+Plano:
+1. cão em zona segura;
+2. abra porta;
+3. receba;
+4. feche;
+5. libere depois.
+
+Evita ensaiar corrida para a porta dezenas de vezes.
+
+---
+
+## 48. Elevador com outro cão
+
+Você pode:
+- não entrar;
+- pedir para esperar;
+- usar próximo elevador.
+
+Não existe obrigação de dividir espaço.
+
+Um minuto de espera pode evitar conflito.
+
+---
+
+## 49. Hall estreito
+
+Use escuta/visão antes de sair.
+
+Em cão reativo:
+- abra devagar;
+- confira corredor;
+- tenha rota.
+
+Gestão preventiva reduz surpresa.
+
+---
+
+## 50. Condomínio e responsabilidade
+
+Conheça:
+- regras;
+- áreas permitidas;
+- uso de elevador;
+- circulação;
+- limpeza;
+- requisitos locais.
+
+Boa convivência protege permanência do animal.
+
+---
+
+## 51. O latido de alerta pode ser treinado?
+
+Você pode ensinar sequência:
+
+1. som acontece;
+2. cão alerta;
+3. tutor agradece/sinaliza;
+4. cão vai para cama;
+5. recompensa.
+
+Não precisa exigir silêncio absoluto instantâneo.
+
+---
+
+## 52. Grave o som do corredor
+
+Se há um gatilho específico:
+- grave em volume baixo;
+- reproduza;
+- recompense calma;
+- aumente gradualmente.
+
+Se o cão demonstra stress, reduza.
+
+---
+
+## 53. Home office: agenda visual
+
+Exemplo:
+
+**08:00 passeio**  
+**09:00 descanso**  
+**11:30 atividade curta**  
+**13:00 saída**  
+**14:00 descanso**  
+**18:00 passeio principal**
+
+Previsibilidade reduz pedidos constantes.
+
+---
+
+## 54. “Meu cão me segue até o banheiro”
+
+Não é necessariamente problema.
+
+Mas se nunca consegue descansar sem seguir, treine:
+- cama;
+- barreira;
+- distância curta.
+
+Autonomia é habilidade útil.
+
+---
+
+## 55. Chegadas e saídas do elevador
+
+Evite soltar guia na porta.
+
+Mantenha cão próximo até verificar ambiente.
+
+Depois permita exploração.
+
+---
+
+## 56. Apartamento com varanda ensolarada
+
+Varanda pode aquecer rapidamente.
+
+Garanta:
+- sombra;
+- água;
+- acesso livre de volta;
+- supervisão.
+
+Nunca use varanda como local de confinamento prolongado.
+
+---
+
+## 57. Cães braquicefálicos
+
+Pug, Bulldog Francês, Bulldog Inglês e outros cães de focinho curto podem apresentar maior risco respiratório e de calor.
+
+Vida em apartamento não elimina necessidade de:
+- avaliação respiratória;
+- controle térmico;
+- atividade adaptada.
+
+---
+
+## 58. Cães gigantes
+
+Considere:
+- elevador em pane;
+- escadas;
+- transporte em emergência;
+- espaço para virar/deitar;
+- custo.
+
+Porte é logística, não apenas estética.
+
+---
+
+## 59. Cães muito pequenos
+
+Riscos:
+- pisões;
+- queda de sofá;
+- frestas;
+- crianças;
+- cães grandes no elevador.
+
+Tamanho pequeno não elimina necessidades de passeio e treino.
+
+---
+
+## 60. Quando o apartamento muda
+
+Reforma, vizinho novo ou elevador barulhento pode alterar comportamento.
+
+Se surgem:
+- latidos;
+- medo;
+- recusa de sair;
+
+procure o que mudou antes de culpar o cão.
+
+---
+
+## 61. Plano semanal de enriquecimento
+
+### Segunda
+Farejo.
+
+### Terça
+Treino de 5 minutos.
+
+### Quarta
+Brinquedo recheável.
+
+### Quinta
+Nova rota.
+
+### Sexta
+Busca de brinquedo.
+
+### Sábado
+Passeio em ambiente diferente.
+
+### Domingo
+Dia mais tranquilo + descanso.
+
+A intensidade deve respeitar o cão.
+
+---
+
+## 62. Auditoria mensal do apartamento
+
+- [ ] cama ainda está em bom local;
+- [ ] equipamento íntegro;
+- [ ] varanda segura;
+- [ ] plantas seguras;
+- [ ] lixeira protegida;
+- [ ] vizinhos sem queixa nova;
+- [ ] cão consegue relaxar;
+- [ ] rotina de passeio sustentável.
+
+---
+
+## 63. Quando apartamento pode não ser boa escolha para aquele indivíduo
+
+Se a família não consegue oferecer:
+- saídas suficientes;
+- manejo de reatividade;
+- controle térmico;
+- espaço seguro;
+- solução para latido grave;
+
+talvez seja necessário rever ambiente, rotina ou apoio profissional.
+
+A pergunta é sobre bem-estar do cão real.
+
+---
+
+## 64. O objetivo final
+
+Apartamento bom para cão é aquele em que ele consegue:
+
+- dormir;
+- eliminar;
+- explorar;
+- brincar;
+- aprender;
+- sentir-se seguro;
+- ter companhia;
+- ficar sozinho quando necessário;
+- sair para o mundo.
+
+Metragem é só uma parte.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Keeping a Dog in a Flat:** planejamento de vida em apartamento, acesso exterior e rotina.
