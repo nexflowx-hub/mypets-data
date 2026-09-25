@@ -316,3 +316,20 @@ sources:
     authority: high
     reuse: facts-and-paraphrase
     notes: "Use current 2026 guideline summaries and owner toothbrushing resources; do not reproduce protected figures without permission."
+
+
+  - id: dogs-trust-rescue-settle
+    publisher: Dogs Trust
+    title: How to Help a Rescue Dog Get Settled into Your Home
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/at-home/settle-rescue-dog
+    topics: [adoption, rescue, settling, routine, behavior]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-child-safety
+    publisher: Dogs Trust
+    title: Dogs and Children — Living Happily Together
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/at-home/dog-and-child-safety
+    topics: [children, safety, body-language, supervision]
+    authority: high
+    reuse: facts-and-paraphrase
