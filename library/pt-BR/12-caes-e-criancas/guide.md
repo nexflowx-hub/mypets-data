@@ -993,6 +993,535 @@ O reader pode transformar isso num mini exercício imprimível.
 **“Amar o cão também é deixá-lo em paz quando ele pede.”**
 
 
+---
+
+## 67. Faça um acordo entre os adultos
+
+Antes de ensinar a criança, os adultos precisam combinar:
+
+- quem supervisiona;
+- onde o cão descansa;
+- quando usar barreira;
+- quem alimenta;
+- quem conduz passeios;
+- como reagir a rosnado;
+- quando pedir ajuda.
+
+Regras contraditórias confundem a criança e aumentam risco.
+
+---
+
+## 68. A escala de supervisão
+
+Nem toda situação exige a mesma organização.
+
+### Nível 1 — separados
+Adulto não pode prestar atenção. Use barreira/porta.
+
+### Nível 2 — juntos com atividade paralela
+Criança brinca de um lado, cão mastiga do outro; adulto próximo.
+
+### Nível 3 — interação guiada
+Treino, carinho curto ou brincadeira com adulto conduzindo.
+
+Essa escala torna “supervisionar” uma ação concreta.
+
+---
+
+## 69. O lugar do cão deve ser realmente protegido
+
+Não adianta dizer que a cama é segura e depois permitir:
+
+- abraços;
+- fotos;
+- brinquedos infantis;
+- visitas.
+
+Crie regra visual.
+
+Uma placa simples:
+
+**“Aqui o cão descansa.”**
+
+Pode ser feita pela própria criança.
+
+---
+
+## 70. Use portões antes de precisar deles
+
+O cão deve conhecer a barreira em momentos tranquilos.
+
+Faça:
+- portão fecha;
+- recompensa;
+- atividade calma;
+- portão abre.
+
+Assim, não aparece apenas quando todos estão stressados.
+
+---
+
+## 71. Brincadeira de buscar: adulto organiza turnos
+
+Uma criança pode:
+- lançar brinquedo a pequena distância;
+- esperar retorno;
+- deixar adulto fazer troca.
+
+Evite:
+- arrancar da boca;
+- correr atrás do cão;
+- disputar.
+
+Se o cão fica muito excitado, encerre.
+
+---
+
+## 72. Cabo de guerra com criança: só quando o contexto é adequado
+
+Pode ser divertido com cães que já conhecem regras.
+
+Adulto deve controlar:
+- tamanho do brinquedo;
+- intensidade;
+- “larga”;
+- fim do jogo.
+
+Não indicado quando existe guarda de recurso ou risco de mordida.
+
+---
+
+## 73. Enriquecimento que crianças podem preparar
+
+Com adulto:
+
+- esconder parte da refeição;
+- encher brinquedo seguro;
+- montar caixa de procura;
+- escolher rota do passeio;
+- preparar manta.
+
+A criança participa no cuidado sem manipular o corpo do cão.
+
+---
+
+## 74. O quadro “hoje ele quer companhia?”
+
+Todos os dias, a criança pode marcar:
+
+🟢 veio brincar  
+🟡 ficou perto, mas sem tocar  
+🔵 escolheu dormir
+
+Isso ensina que uma relação não precisa ter interação física constante.
+
+---
+
+## 75. Como ensinar respeito a crianças muito pequenas
+
+Use linguagem simples e repetida:
+
+- “mãos suaves”;
+- “dá espaço”;
+- “chama adulto”;
+- “cama é dele”.
+
+Não dependa de explicações longas.
+
+E use barreira física: crianças pequenas ainda não controlam impulsos de forma confiável.
+
+---
+
+## 76. Crianças neurodivergentes ou com dificuldade de controle de impulso
+
+Adapte o ambiente, não apenas instruções.
+
+Pode ser útil:
+- mais barreiras;
+- zonas visuais;
+- cartões simples;
+- rotina previsível;
+- adulto mais próximo.
+
+A segurança não deve depender de a criança lembrar uma regra em momento de excitação.
+
+---
+
+## 77. Quando a criança ama muito o cão
+
+Afeto intenso pode gerar:
+- abraçar;
+- seguir;
+- acordar;
+- carregar.
+
+Explique:
+
+**“Amar também é perceber quando ele quer ficar sozinho.”**
+
+Ofereça tarefas alternativas:
+- desenhar;
+- encher água;
+- escolher brinquedo.
+
+---
+
+## 78. Quando o cão procura a criança
+
+Ainda observe contexto.
+
+Se aproxima com corpo solto:
+- pode iniciar interação breve.
+
+Se aproxima e fica muito excitado:
+- adulto ajuda a regular.
+
+Proximidade voluntária não significa que qualquer toque é permitido.
+
+---
+
+## 79. O cão pode preferir um adulto
+
+Isso é normal.
+
+Não force vínculo com a criança.
+
+Relação pode crescer por:
+- passeios;
+- treino;
+- brincadeira estruturada;
+- presença tranquila.
+
+---
+
+## 80. O cão pode preferir a criança
+
+Também acontece.
+
+Mesmo assim:
+- adulto supervisiona;
+- criança não vira responsável pelo manejo.
+
+Vínculo forte não elimina risco.
+
+---
+
+## 81. O “momento dourado” para interromper
+
+Interrompa antes de:
+- criança ficar muito agitada;
+- cão começar a ficar rígido;
+- brincadeira escalar;
+- comida aparecer;
+- adulto precisar sair.
+
+Encerrar cedo é mais fácil que resolver conflito.
+
+---
+
+## 82. Uma pausa pode durar 30 segundos
+
+Não precisa separar por horas.
+
+Às vezes:
+- cada um toma água;
+- cão vai para cama;
+- criança muda de atividade.
+
+Depois, reavalie.
+
+---
+
+## 83. O cão e os amigos da criança
+
+Amigos não conhecem as regras da casa.
+
+Antes de entrarem, diga apenas três:
+
+1. não correr para o cão;
+2. não tocar quando ele estiver na cama;
+3. chamar adulto antes de brincar.
+
+Mantenha barreira disponível.
+
+---
+
+## 84. Crianças que têm medo do rosnado
+
+Explique:
+
+**“O rosnado é o cão dizendo que precisa de espaço.”**
+
+A ação segura:
+- afastar;
+- não gritar;
+- chamar adulto.
+
+Não ensine a criança a “mostrar que não tem medo”.
+
+---
+
+## 85. Quando a criança provoca sem perceber
+
+Exemplos:
+- encara;
+- tira brinquedo;
+- faz barulho perto da cama;
+- corre segurando comida.
+
+O adulto deve corrigir a situação, não humilhar a criança.
+
+Ensine o comportamento alternativo.
+
+---
+
+## 86. Quando o cão derruba a criança
+
+Pode acontecer por:
+- excitação;
+- tamanho;
+- salto.
+
+Manejo:
+- barreira nos momentos intensos;
+- treino de quatro patas no chão;
+- brinquedo;
+- distância.
+
+Cão grande não precisa ser “agressivo” para causar acidente.
+
+---
+
+## 87. Roupa puxada e mordidas de brincadeira
+
+Em filhotes/adolescentes:
+
+1. criança para;
+2. adulto chama cão;
+3. oferece brinquedo;
+4. reduz excitação.
+
+Não peça à criança para empurrar ou segurar o focinho.
+
+---
+
+## 88. Uma criança nunca separa briga
+
+Regra absoluta:
+
+**afastar-se e chamar adulto.**
+
+Adultos também devem aprender procedimentos de segurança com orientação adequada, porque meter mãos entre cães pode causar mordida redirecionada.
+
+---
+
+## 89. Comida humana em mãos pequenas
+
+Durante refeições:
+- use barreira;
+- cão na cama;
+- adulto supervisiona.
+
+Isso reduz:
+- roubo;
+- salto;
+- ingestão de alimento perigoso;
+- conflito.
+
+---
+
+## 90. O nascimento muda a rotina do cão
+
+Antes:
+- passeio em horário exato.
+
+Depois:
+- bebé altera tudo.
+
+Prepare flexibilidade:
+- variar horários gradualmente;
+- introduzir cuidador;
+- treinar descanso.
+
+O objetivo é evitar uma ruptura total no dia do nascimento.
+
+---
+
+## 91. O carrinho pode ocupar muito espaço
+
+Treine corredor e portas.
+
+No passeio:
+- nunca prenda guia ao carrinho sem sistema/profissional apropriado;
+- adulto precisa controlar o cão;
+- evite mãos ocupadas demais.
+
+Se o cão puxa muito, trabalhe isso antes.
+
+---
+
+## 92. Quando o bebé começa a comer
+
+Comida cai no chão.
+
+Alguns alimentos humanos podem ser perigosos.
+
+Use:
+- separação durante refeição;
+- limpeza;
+- lista de alimentos proibidos conhecida pelos adultos.
+
+Não dependa de o cão “não roubar”.
+
+---
+
+## 93. Festas e datas especiais
+
+Natal, aniversários e reuniões trazem:
+- comida;
+- portas abertas;
+- crianças;
+- barulho.
+
+Faça plano antes:
+
+**zona segura + identificação + barreira + atividade calma.**
+
+---
+
+## 94. Viagens em família
+
+Ao escolher hospedagem, pense:
+- espaço seguro;
+- criança dorme onde?
+- cão dorme onde?
+- há portas/varandas?
+- outros animais?
+
+Leve as mesmas regras da casa.
+
+---
+
+## 95. Cão na escola ou atividade educativa
+
+Se a escola permite visita de cão:
+- animal deve ser adequado;
+- condutor experiente;
+- rota de saída;
+- interação voluntária.
+
+Nem todo cão “bonzinho” é adequado para grupo de crianças.
+
+---
+
+## 96. O que fazer depois de um susto sem mordida
+
+Exemplo:
+- criança cai sobre cão;
+- cão rosna;
+- ninguém se machuca.
+
+Depois:
+1. separar;
+2. verificar dor;
+3. registar contexto;
+4. rever ambiente;
+5. evitar repetição;
+6. procurar orientação se necessário.
+
+Não use o fato de “não ter acontecido nada” para ignorar o aviso.
+
+---
+
+## 97. Como falar de mordida sem demonizar o cão
+
+Uma mordida é um evento sério.
+
+Mas explicações úteis perguntam:
+- contexto;
+- saúde;
+- distância;
+- supervisão;
+- sinais anteriores;
+- acesso a recursos.
+
+Evite transformar o cão em vilão ou a criança em culpada.
+
+A prioridade é prevenir repetição.
+
+---
+
+## 98. Livro de atividades da família
+
+O reader pode incluir páginas imprimíveis:
+
+### Página 1
+Desenhe o local seguro.
+
+### Página 2
+Pinte o semáforo.
+
+### Página 3
+Circule ações seguras.
+
+### Página 4
+Escreva três coisas que o seu cão gosta.
+
+### Página 5
+Faça o “Pup Promise”.
+
+Isso torna o conteúdo educativo para adultos e crianças sem infantilizar o guia inteiro.
+
+---
+
+## 99. Quiz final
+
+### O cão está na cama.
+**A)** abraço.  
+**B)** deixa descansar.  
+Resposta: B.
+
+### O cão vira a cabeça durante carinho.
+**A)** continuar.  
+**B)** pausar.  
+Resposta: B.
+
+### O cão rosna.
+**A)** criança chama adulto e afasta-se.  
+**B)** grita com cão.  
+Resposta: A.
+
+### A criança derruba comida.
+**A)** adulto gere o cão e limpa.  
+**B)** deixa o cão comer qualquer coisa.  
+Resposta: A.
+
+---
+
+## 100. Checklist de segurança para imprimir
+
+- [ ] há um local exclusivo do cão;
+- [ ] há barreira física;
+- [ ] criança sabe três regras básicas;
+- [ ] adultos reconhecem sinais de stress;
+- [ ] alimentação é separada;
+- [ ] brinquedos estão organizados;
+- [ ] festas têm plano;
+- [ ] visitas recebem regras;
+- [ ] criança nunca separa conflito;
+- [ ] mordida/risco recebe ajuda profissional.
+
+---
+
+## 101. A meta não é uma criança “perfeita” nem um cão “perfeito”
+
+A casa segura usa várias camadas:
+
+**ambiente + supervisão + educação + treino + respeito + ajuda profissional quando necessário.**
+
+Se uma camada falha, as outras continuam protegendo.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
