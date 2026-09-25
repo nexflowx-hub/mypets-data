@@ -1,0 +1,100 @@
+{
+  "version": "2.0.0-draft",
+  "collection": {
+    "id": "mypets-cuidar-melhor",
+    "title": "Coleção MyPets — Cuidar Melhor",
+    "campaign": "1 eBook = 1 kg de ração",
+    "basePriceBrl": 12.9
+  },
+  "guides": [
+    {
+      "id": "guide-001",
+      "slug": "cuidados-essenciais",
+      "legacySlugs": [],
+      "title": "Cuidados Essenciais com o Seu Cão",
+      "subtitle": "Um manual prático para organizar rotina, segurança, higiene, prevenção, bem-estar e observação ao longo da vida.",
+      "description": "Rotina, casa segura, passeio, enriquecimento, higiene, saúde oral, prevenção, crianças, viagens, sinais de alerta e checklists práticos.",
+      "readingMinutes": 55,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "cuidados",
+        "rotina",
+        "bem-estar"
+      ],
+      "contentPath": "library/pt-BR/01-cuidados-essenciais/guide.md",
+      "previewPath": "library/pt-BR/01-cuidados-essenciais/preview.md"
+    },
+    {
+      "id": "guide-002",
+      "slug": "primeiros-30-dias",
+      "legacySlugs": [
+        "filhote-primeiros-30-dias"
+      ],
+      "title": "Os Primeiros 30 Dias com um Filhote",
+      "subtitle": "Um plano de chegada, rotina, socialização e aprendizagem para transformar as primeiras semanas em uma base segura.",
+      "description": "Primeiras 24 horas, primeira noite, xixi/cocô, mordidas, sono, ficar sozinho, socialização, manejo e plano completo de 30 dias.",
+      "readingMinutes": 65,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "filhote",
+        "adaptação",
+        "rotina"
+      ],
+      "contentPath": "library/pt-BR/02-primeiros-30-dias/guide.md",
+      "previewPath": "library/pt-BR/02-primeiros-30-dias/preview.md"
+    },
+    {
+      "id": "guide-003",
+      "slug": "treino-gentil",
+      "legacySlugs": [],
+      "title": "Treino Gentil: 7 Comandos para o Dia a Dia",
+      "subtitle": "Um programa prático de comunicação, segurança e autocontrole sem medo, gritos ou força.",
+      "description": "Aprendizagem por recompensa, nome, senta, espera, vem, larga, deixa, cama e um programa progressivo de 21 dias.",
+      "readingMinutes": 65,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "treino",
+        "comportamento",
+        "reforço"
+      ],
+      "contentPath": "library/pt-BR/03-treino-gentil/guide.md",
+      "previewPath": "library/pt-BR/03-treino-gentil/preview.md"
+    },
+    {
+      "id": "guide-004",
+      "slug": "guia-das-racas",
+      "legacySlugs": [],
+      "title": "Guia das Raças: Escolha pelo Estilo de Vida",
+      "subtitle": "Perfis comparativos para pensar energia, porte, manutenção, manejo e compatibilidade antes da decisão.",
+      "description": "Matriz de compatibilidade, cães sem raça definida, perfis de raças populares, saúde funcional e perguntas antes de adotar ou comprar.",
+      "readingMinutes": 80,
+      "image": "/images/card-resgatou.jpg",
+      "tags": [
+        "raças",
+        "adoção",
+        "compatibilidade"
+      ],
+      "contentPath": "library/pt-BR/04-guia-das-racas/guide.md",
+      "previewPath": "library/pt-BR/04-guia-das-racas/preview.md"
+    },
+    {
+      "id": "guide-005",
+      "slug": "alimentacao-bem-estar",
+      "legacySlugs": [
+        "rotina-alimentacao"
+      ],
+      "title": "Rotina de Alimentação e Bem-Estar",
+      "subtitle": "Um guia de organização para porções, água, petiscos, condição corporal, segurança alimentar e observação.",
+      "description": "Porções, água, petiscos, rótulos, alimentos perigosos, condição corporal, fases da vida, diário alimentar e segurança da cozinha.",
+      "readingMinutes": 60,
+      "image": "/images/card-alimentou.jpg",
+      "tags": [
+        "alimentação",
+        "rotina",
+        "bem-estar"
+      ],
+      "contentPath": "library/pt-BR/05-alimentacao-bem-estar/guide.md",
+      "previewPath": "library/pt-BR/05-alimentacao-bem-estar/preview.md"
+    }
+  ]
+}
