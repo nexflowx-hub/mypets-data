@@ -11,6 +11,10 @@ release:
   implementation_prompt: docs/ZAI_MASTER_PROMPT_DIGITAL_LIBRARY_24H.md
   content_media_inventory: docs/LIBRARY_CONTENT_MEDIA_INVENTORY.md
   interactive_playbook: docs/INTERACTIVE_EDITORIAL_PLAYBOOK.md
+  media_placement_master: media/media-placement-master.json
+  media_placement_handoff: docs/MEDIA_PLACEMENT_MASTER_MAP.md
+  atlas_64_handoff: docs/ATLAS_64_PRODUCTION_MAP.md
+  cover_brand_system: docs/COVER_BRAND_SYSTEM.md
 
 content:
   - id: guide-001
@@ -31,7 +35,7 @@ content:
   - id: guide-004
     path: library/pt-BR/04-guia-das-racas
     editorial_status: draft-near-final
-    approx_words: 6221
+    approx_words: 9154
     explicit_media_placements: 16
   - id: guide-005
     path: library/pt-BR/05-alimentacao-bem-estar
@@ -81,21 +85,23 @@ content:
 
 corpus:
   guide_count: 13
-  approx_words: 61275
+  approx_words: 64208
   explicit_media_placements: 58
 
 structured_content:
   breed_atlas: library/pt-BR/breeds/index.json
-  breed_count: 47
-  breeds_with_real_photo_reference: 47
+  breed_count: 64
+  breeds_with_real_photo_reference: 64
   source_registry: sources/registry.yaml
   media_registry: media/registry.yaml
 
 media:
-  registry_items: 73
-  image_items: 63
+  registry_items: 91
+  image_items: 81
   video_embeds: 10
+  round_brand_mark: mypets-round-logo
   guide_visual_pack_target: 103
+  exact_visual_placements: 103
   guide_visual_pack: media/guide-media-pack.yaml
 
 source_policy:
