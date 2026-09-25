@@ -1178,6 +1178,31 @@ Consistência ao longo de semanas importa mais do que perfeição diária.
 
 ---
 
+---
+
+## 44. O que significa “socializar” sem sobrecarregar
+
+Socialização não é apresentar o filhote ao maior número possível de pessoas e cães no menor tempo. É criar **experiências graduais, positivas e controláveis** com elementos que farão parte da vida: pessoas diferentes, sons, superfícies, manipulação, transporte, ambientes e animais adequados.
+
+Uma boa exposição permite ao filhote observar, aproximar-se ou afastar-se sem ser forçado.
+
+**Verde:** explora, aceita comida, recupera rapidamente de sustos leves, corpo solto.  
+**Amarelo:** hesita, evita ou deixa de aceitar recompensa; reduza intensidade e distância.  
+**Vermelho:** tenta fugir, congela, vocaliza intensamente, treme, entra em pânico ou não recupera; encerre a experiência e procure orientação se isso se repete.
+
+A meta não é “ele aguentou”. É “ele aprendeu que o mundo pode ser previsível e seguro”.
+
+## 45. Manipulação cooperativa desde cedo
+
+No futuro, o cão precisará tolerar algum nível de tocar patas, olhar orelhas, escovar, colocar peitoral, ser examinado e limpo quando necessário. Faça micro sessões: toque por um segundo, recompense e pare. Não transforme cada interação em contenção.
+
+Se o filhote tenta escapar repetidamente, morde com intensidade crescente ou demonstra medo, reduza a dificuldade.
+
+## 46. O “dia ruim” não apaga o progresso
+
+Sono, dentição, novidades, crescimento e excesso de estímulo alteram comportamento. Se um dia foi caótico, volte ao básico: reduza distrações, aumente descanso, retome exercícios fáceis e não tente “compensar” com treino longo. Consistência é construída em semanas, não medida por uma tarde difícil.
+
+
 ## Referências de base desta edição
 
 A estrutura deste guia foi informada por materiais de socialização e treino da AVSAB, orientações de cuidado de filhotes do Merck Veterinary Manual, guias de toilet training, crate e separação gradual da RSPCA, conteúdos educativos da PDSA e diretrizes de prevenção/vacinação da WSAVA.
