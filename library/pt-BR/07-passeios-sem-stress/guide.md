@@ -1128,6 +1128,25 @@ Um bom passeio não é um cão “perfeito”.
 - volta em segurança.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Caminhada com tutor:** renderizar o media aprovado `commons-dog-owner-walking` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Filhote na guia:** renderizar o media aprovado `commons-puppy-walking-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vídeo: caminhada com guia frouxa:** renderizar o media aprovado `guide-dogs-loose-lead-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Vídeo: recall / voltar quando chamado:** renderizar o media aprovado `dogs-trust-recall-video` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Walking Nicely Training:** progressão e reforço de caminhada com guia frouxa.
