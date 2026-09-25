@@ -1234,6 +1234,305 @@ O indicador mais útil é:
 - [ ] ajuda profissional quando necessário.
 
 
+---
+
+## 73. A primeira semana em formato de missão
+
+Para deixar a adaptação mais leve, trate cada dia como uma pequena missão.
+
+### Dia 1 — Segurança
+- confirmar portas;
+- identificar local de água;
+- preparar cama;
+- fazer passeio curto.
+
+### Dia 2 — Rotina
+- observar horários naturais;
+- repetir rota simples;
+- notar onde prefere descansar.
+
+### Dia 3 — Preferências
+- testar brinquedo;
+- testar farejo;
+- observar carinho.
+
+### Dia 4 — Comunicação
+- identificar três sinais de conforto;
+- identificar três sinais de desconforto.
+
+### Dia 5 — Treino útil
+- nome;
+- check-in;
+- “por aqui”.
+
+### Dia 6 — Autonomia
+- descanso a pequena distância.
+
+### Dia 7 — Revisão
+- o que melhorou?
+- o que ficou mais difícil?
+- qual será o foco da próxima semana?
+
+---
+
+## 74. Monte a ficha “Quem é este cão?”
+
+Preencha sem tentar fechar diagnóstico.
+
+**Nome:**  
+**Idade aproximada:**  
+**Peso:**  
+**Alimento:**  
+**Brinquedo preferido:**  
+**Cheiro/atividade favorita:**  
+**Onde dorme:**  
+**Pessoas que procura:**  
+**Situações que evita:**  
+**Distância confortável de outros cães:**  
+**Como pede carinho:**  
+**Como pede espaço:**  
+
+Essa ficha pode mudar bastante ao longo dos primeiros três meses.
+
+---
+
+## 75. Faça uma linha do tempo de pequenas vitórias
+
+Registre momentos como:
+
+- primeiro sono profundo;
+- primeiro brinquedo escolhido;
+- primeiro passeio relaxado;
+- primeiro check-in espontâneo;
+- primeira vez que ficou sozinho por alguns minutos;
+- primeira visita tranquila.
+
+Esses marcos ajudam a perceber progresso que não aparece numa escala única.
+
+---
+
+## 76. Quando o cão parece “desligado”
+
+Alguns cães recém-chegados:
+- não exploram;
+- comem devagar;
+- não brincam;
+- ficam parados.
+
+Pode ser adaptação, mas também pode ser doença ou dor.
+
+Observe:
+- alimentação;
+- hidratação;
+- eliminação;
+- mobilidade;
+- resposta a ambiente.
+
+Se a apatia é marcante ou persistente, procure veterinário.
+
+---
+
+## 77. Quando o cão parece “elétrico”
+
+Outros chegam:
+- andando sem parar;
+- pulando;
+- farejando tudo;
+- incapazes de dormir.
+
+Não conclua automaticamente que “tem energia infinita”.
+
+Pode haver:
+- excitação;
+- stress;
+- falta de descanso.
+
+Reduza estímulos e veja se consegue desacelerar.
+
+---
+
+## 78. O primeiro banho pode esperar
+
+Se não existe necessidade de saúde/higiene urgente, talvez seja melhor esperar o cão se adaptar antes de uma experiência intensa de banho e secagem.
+
+Se precisa limpar:
+- use abordagem mínima;
+- piso seguro;
+- pouca contenção.
+
+O vínculo não depende de cheiro de shampoo no primeiro dia.
+
+---
+
+## 79. Fotografia de chegada
+
+Faça fotos úteis, não apenas bonitas:
+
+- corpo de lado;
+- rosto;
+- marcas;
+- identificação.
+
+Isso ajuda:
+- acompanhar peso;
+- documentar aparência;
+- comparar pele/pelo.
+
+Não force pose se está assustado.
+
+---
+
+## 80. O primeiro passeio em dupla
+
+Se há outro cão residente, às vezes passeios paralelos podem ajudar a construir convivência sem pressão de interação direta.
+
+Mantenha:
+- distância;
+- duas pessoas;
+- movimento na mesma direção.
+
+Não faça isso se algum animal apresenta risco elevado sem ajuda profissional.
+
+---
+
+## 81. Cada cão merece tempo individual
+
+Numa casa com vários animais:
+- faça passeio separado ocasionalmente;
+- treino individual;
+- descanso sem competição.
+
+Isso ajuda a conhecer o novo cão sem usar o outro como referência constante.
+
+---
+
+## 82. Evite superproteger tudo
+
+No início, segurança é prioridade.
+
+Mas, à medida que o cão fica confortável, permita experiências graduais:
+- novos cômodos;
+- novas rotas;
+- pessoas;
+- sons.
+
+O objetivo não é criar uma bolha permanente.
+
+---
+
+## 83. Medo e curiosidade podem coexistir
+
+Um cão pode:
+- recuar;
+- depois aproximar;
+- recuar novamente.
+
+Não interprete ambivalência como manipulação.
+
+Dê tempo.
+
+A curiosidade voluntária é valiosa.
+
+---
+
+## 84. Um plano para visitas necessárias
+
+Se técnico, entregador ou familiar precisa entrar:
+
+1. cão em local seguro;
+2. barreira;
+3. visitante entra;
+4. sem interação obrigatória;
+5. liberação apenas se contexto permitir.
+
+Não use necessidade logística como sessão de socialização improvisada.
+
+---
+
+## 85. Mudança de nome
+
+Cães podem aprender um novo nome.
+
+Faça associação positiva:
+
+- diga nome uma vez;
+- quando olha, marque;
+- recompense.
+
+Não use o nome novo apenas para interromper comportamento.
+
+---
+
+## 86. O cão adulto também pode aprender tudo
+
+Idade adulta não significa “já está pronto”.
+
+Pode aprender:
+- guia frouxa;
+- recall;
+- autonomia;
+- grooming;
+- novos jogos.
+
+A aprendizagem continua ao longo da vida.
+
+---
+
+## 87. O que esperar do terceiro mês
+
+Depois de algumas semanas, você costuma ter mais informação sobre:
+
+- nível de atividade;
+- sociabilidade;
+- medos;
+- rotina;
+- sono;
+- preferências.
+
+Esse é um bom momento para ajustar expectativas e objetivos.
+
+---
+
+## 88. Revisão de 90 dias
+
+Pergunte:
+
+### Saúde
+Está estável?
+
+### Ambiente
+Consegue descansar?
+
+### Passeio
+É seguro?
+
+### Pessoas
+Quem gosta? Quem evita?
+
+### Outros animais
+Há convivência funcional?
+
+### Sozinho
+Qual limite atual?
+
+### Treino
+Quais habilidades já são confiáveis?
+
+Escolha três prioridades para o próximo trimestre.
+
+---
+
+## 89. O sucesso da adoção não é “não ter problemas”
+
+Uma adoção sustentável é aquela em que:
+
+- a família compreende o cão melhor;
+- o cão consegue prever a rotina;
+- riscos são manejados;
+- ajuda é buscada quando necessária;
+- a relação tem espaço para evoluir.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
