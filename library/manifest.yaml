@@ -70,3 +70,9 @@ guides:
     slug: caes-e-criancas
     title: "Cães e Crianças: Convivência Segura, Respeitosa e Feliz"
     path: pt-BR/12-caes-e-criancas
+
+  - id: guide-013
+    order: 13
+    slug: 50-ideias-enriquecimento
+    title: "50 Ideias de Enriquecimento para Cães"
+    path: pt-BR/13-enriquecimento
