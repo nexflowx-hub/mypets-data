@@ -559,6 +559,681 @@ Pergunte:
 
 ---
 
+---
+
+## 36. As primeiras 72 horas: menos agenda, mais observação
+
+A chegada costuma despertar vontade de mostrar tudo:
+
+- a casa inteira;
+- o parque;
+- os amigos;
+- a família;
+- a pet shop;
+- o banho e tosa.
+
+Para muitos cães adultos, isso é informação demais de uma vez.
+
+Uma estratégia mais simples é pensar em três prioridades:
+
+### Segurança
+Portas, guia, identificação, água e local de descanso.
+
+### Previsibilidade
+Refeições, saídas e sono em horários aproximados.
+
+### Escolha
+Possibilidade de observar sem ser tocado o tempo todo.
+
+Dogs Trust recomenda que cães resgatados tenham uma área tranquila e sejam deixados adaptar-se no próprio ritmo, sem visitantes e sem interação forçada nos primeiros dias.
+
+---
+
+## 37. Prepare a casa antes da chegada
+
+Monte um kit básico:
+
+- cama ou manta;
+- potes;
+- alimento conhecido;
+- guia;
+- peitoral/coleira;
+- identificação;
+- sacos para fezes;
+- brinquedos simples;
+- barreira infantil se necessário;
+- produto adequado para limpar acidentes.
+
+Retire riscos:
+
+- medicamentos;
+- lixo;
+- fios;
+- alimentos tóxicos;
+- produtos químicos;
+- objetos pequenos;
+- plantas perigosas.
+
+A casa ideal no primeiro dia é previsível, não perfeita.
+
+---
+
+## 38. O cão precisa de escolhas pequenas
+
+Ofereça escolhas que não comprometam segurança:
+
+- cama A ou cama B;
+- deitar perto ou longe;
+- aproximar-se ou observar;
+- cheirar antes de tocar;
+- explorar um cômodo ou voltar para o local seguro.
+
+A capacidade de escolher pode aumentar confiança.
+
+---
+
+## 39. O primeiro contacto com carinho
+
+Em vez de tocar imediatamente:
+
+1. fique de lado;
+2. mantenha mãos baixas;
+3. deixe o cão aproximar;
+4. se procurar contato, faça carinho breve no peito/ombro;
+5. pare;
+6. veja se pede mais.
+
+Esse “teste de pausa” é especialmente útil quando você ainda não conhece preferências do animal.
+
+---
+
+## 40. Evite o interrogatório emocional
+
+Frases como:
+
+- “por que ele não me ama?”
+- “por que não brinca?”
+- “por que não abana a cauda?”
+
+podem criar pressa desnecessária.
+
+Nos primeiros dias, o cão pode estar processando:
+
+- cheiro;
+- sons;
+- pessoas;
+- rotina;
+- superfície;
+- ausência do cuidador anterior.
+
+Vínculo cresce com experiências seguras repetidas.
+
+---
+
+## 41. O diário dos primeiros três meses
+
+Dogs Trust sugere manter um diário de adaptação. Isso é especialmente útil porque o comportamento pode mudar à medida que o cão se sente mais seguro.
+
+Registre:
+
+- alimentação;
+- sono;
+- eliminação;
+- passeios;
+- reações a pessoas;
+- reações a cães;
+- objetos que gosta;
+- situações que evita;
+- capacidade de ficar sozinho;
+- sinais de dor ou desconforto.
+
+### Exemplo
+
+| Data | Situação | Resposta | Recuperação | O que ajudou |
+|---|---|---|---|---|
+| 26/09 | campainha | latiu 20 s | 2 min | distância + petisco |
+| 27/09 | cão na rua | olhou e afastou | rápida | atravessar rua |
+
+---
+
+## 42. Conheça o alimento atual antes de mudar
+
+Pergunte ao abrigo, protetor ou cuidador:
+
+- qual alimento;
+- quantidade;
+- número de refeições;
+- petiscos;
+- alergias/restrições;
+- rotina de água;
+- comportamento perto do pote.
+
+Mudança de casa já é uma grande variável. Se não existe necessidade clínica, manter temporariamente a alimentação conhecida pode facilitar observação.
+
+---
+
+## 43. Não “teste” guarda de recursos
+
+Não faça:
+
+- tirar pote;
+- puxar osso;
+- meter mão na comida;
+- provocar com brinquedo;
+- pedir à criança para se aproximar.
+
+Se quer ensinar troca:
+
+1. ofereça algo de maior valor;
+2. permita largar voluntariamente;
+3. devolva o objeto quando seguro, em algumas repetições;
+4. mantenha contexto calmo.
+
+Se há rosnado, congelamento ou mordida, procure ajuda.
+
+---
+
+## 44. A primeira noite
+
+Prepare:
+
+- cama confortável;
+- água;
+- rota simples para saída;
+- pouco ruído;
+- luz suave se necessário.
+
+Alguns cães dormem profundamente.
+
+Outros:
+- andam;
+- choram;
+- verificam portas.
+
+Não transforme a primeira noite num teste de independência.
+
+Se necessário, fique mais próximo e aumente distância progressivamente depois.
+
+---
+
+## 45. O que fazer se ele não dorme
+
+Observe:
+
+- precisa eliminar?
+- está com calor?
+- há barulho?
+- sente dor?
+- está procurando saída?
+- ficou isolado rápido demais?
+
+Um cão pode demorar para relaxar numa casa desconhecida.
+
+Se há sofrimento importante ou persistente, procure orientação.
+
+---
+
+## 46. A rotina do passeio nos primeiros dias
+
+Prefira:
+
+- mesma rota curta;
+- horários mais calmos;
+- poucos encontros;
+- muito farejo;
+- equipamento seguro.
+
+O objetivo inicial é conhecer o bairro e voltar seguro.
+
+Não é gastar toda energia acumulada.
+
+---
+
+## 47. Faça um mapa de gatilhos do bairro
+
+Anote:
+
+- cães em portões;
+- obras;
+- motos;
+- crianças;
+- elevador;
+- praça cheia;
+- rua tranquila;
+- áreas com sombra.
+
+Depois desenhe:
+
+**rota fácil**  
+**rota média**  
+**rota para evitar por enquanto**
+
+Essa informação reduz surpresas.
+
+---
+
+## 48. Fuga: os primeiros dias pedem redundância
+
+Cão recém-chegado ainda não conhece:
+
+- casa;
+- bairro;
+- pessoas;
+- retorno.
+
+Considere:
+
+- identificação externa;
+- microchip atualizado;
+- peitoral bem ajustado;
+- guia segura;
+- duas barreiras entre cão e rua quando possível;
+- atenção especial a portões.
+
+Não abra a porta confiando num “fica” ainda não treinado.
+
+---
+
+## 49. Microchip e dados
+
+Atualize:
+
+- nome do responsável;
+- telefone;
+- endereço;
+- contato alternativo.
+
+Microchip sem dados corretos perde grande parte da utilidade.
+
+---
+
+## 50. Primeira visita veterinária: transforme em inventário
+
+Leve:
+
+- documentos;
+- histórico;
+- medicações;
+- ração;
+- fotos de fezes/lesões se relevante;
+- vídeos de comportamento/marcha quando útil;
+- perguntas.
+
+Peça para registrar:
+
+- peso;
+- condição corporal;
+- saúde oral;
+- mobilidade;
+- pele;
+- vacinação/prevenção conforme risco individual.
+
+---
+
+## 51. O cão “não sabe fazer xixi fora”
+
+Pode ser:
+
+- rotina anterior;
+- medo da rua;
+- preferência de substrato;
+- frequência inadequada;
+- problema médico.
+
+Volte ao básico:
+
+- saídas frequentes;
+- local consistente;
+- recompensa pelo acerto;
+- limpeza adequada do acidente.
+
+Sem punição.
+
+---
+
+## 52. “Ele não sabe brincar”
+
+Experimente estilos:
+
+- farejar;
+- perseguir brinquedo;
+- cabo de guerra;
+- buscar;
+- mastigar;
+- procurar alimento.
+
+Nem todo cão gosta de bola.
+
+Brincadeira também pode aparecer semanas depois.
+
+---
+
+## 53. “Ele me segue em todo lugar”
+
+Pode ser:
+- insegurança;
+- novidade;
+- preferência social;
+- hábito.
+
+Não precisa empurrar para longe.
+
+Comece com:
+
+- cama próxima;
+- recompensa por descanso;
+- pequenas distâncias;
+- portas abertas;
+- depois barreira.
+
+---
+
+## 54. “Ele não quer ficar no sofá/cama que comprei”
+
+Talvez prefira:
+
+- piso fresco;
+- canto;
+- outra textura.
+
+Ofereça opção.
+
+O objetivo é descanso confortável, não uso do produto escolhido pela pessoa.
+
+---
+
+## 55. Introdução a outro cão: caminhada paralela
+
+Quando apropriado e seguro:
+
+1. duas pessoas;
+2. cães separados;
+3. caminham na mesma direção;
+4. reduza distância gradualmente;
+5. observe corpo;
+6. permita cheiros do ambiente.
+
+Não faça encontro frontal rígido.
+
+Em casa, retire inicialmente objetos de alto valor.
+
+---
+
+## 56. Primeiro mês com outro cão
+
+Mantenha:
+
+- potes separados;
+- zonas de descanso;
+- supervisão;
+- pausas individuais;
+- passeios separados ocasionalmente.
+
+Cães que brincam também precisam aprender a desligar.
+
+---
+
+## 57. Introdução a gato: comece pela arquitetura
+
+Antes de contato:
+
+- gato tem zonas altas;
+- caixa de areia inacessível ao cão;
+- alimento separado;
+- portas/barreiras;
+- rota de fuga.
+
+Depois:
+- cheiros;
+- visão à distância;
+- guia;
+- sessões curtas.
+
+Impulso de perseguição merece atenção profissional.
+
+---
+
+## 58. Visitas: não peça desempenho
+
+Você não precisa provar que o novo cão é sociável.
+
+Antes:
+- local seguro;
+- visita entra;
+- senta;
+- ignora o cão;
+- sem mão sobre cabeça.
+
+Se o cão se aproxima:
+- interação breve;
+- pausa.
+
+Se não se aproxima:
+- está tudo bem.
+
+---
+
+## 59. Crianças: menos responsabilidade, mais estrutura
+
+Criança não deve:
+
+- alimentar diretamente sem supervisão;
+- abraçar;
+- entrar no local seguro;
+- mexer no pote;
+- acordar;
+- retirar brinquedo.
+
+O adulto administra.
+
+---
+
+## 60. Primeira semana de treino
+
+Escolha apenas habilidades úteis:
+
+- nome;
+- check-in;
+- vem em casa;
+- troca;
+- cama;
+- peitoral;
+- porta.
+
+Faça 1–3 minutos.
+
+Pare enquanto está funcionando.
+
+---
+
+## 61. Descubra o “salário” do seu cão
+
+Teste recompensas seguras:
+
+- alimento;
+- brinquedo;
+- acesso para cheirar;
+- abrir porta;
+- interação.
+
+O melhor reforçador depende do momento.
+
+---
+
+## 62. Não use “dominância” como explicação universal
+
+Comportamentos como:
+
+- subir no sofá;
+- passar na porta;
+- puxar;
+- rosnar;
+
+não demonstram automaticamente uma disputa por “chefia”.
+
+Pergunte o que mantém o comportamento e o que o cão está comunicando.
+
+Treine alternativas.
+
+---
+
+## 63. Medos novos podem aparecer depois
+
+Um cão inicialmente inibido pode só demonstrar medo quando se sente seguro o suficiente para reagir.
+
+Isso não significa que a adoção “estragou” o cão.
+
+Significa que agora temos mais informação.
+
+---
+
+## 64. Use vídeo para comparar progresso
+
+Grave, sem provocar:
+
+- caminhada;
+- entrada no elevador;
+- visita;
+- relaxamento.
+
+Compare após semanas.
+
+Pequenas mudanças ficam mais visíveis.
+
+---
+
+## 65. A semana 2: ampliar com critério
+
+Se a primeira semana foi estável:
+
+- nova rua;
+- visita de uma pessoa;
+- treino curto;
+- pequena ausência;
+- encontro planejado.
+
+Não aumente tudo simultaneamente.
+
+---
+
+## 66. A semana 3: observar personalidade emergente
+
+Pergunte:
+
+- prefere manhã ou noite?
+- gosta de cães?
+- gosta de toque?
+- que brinquedo escolhe?
+- qual passeio o relaxa?
+- quando pede distância?
+
+Esse perfil real é mais útil que expectativas sobre raça.
+
+---
+
+## 67. A semana 4: fazer a primeira revisão
+
+Revise:
+
+### Saúde
+Peso, fezes, apetite, mobilidade.
+
+### Comportamento
+Medos, reatividade, autonomia.
+
+### Rotina
+Passeios, sono, refeições.
+
+### Relação
+Como pede interação e como descansa.
+
+Defina apenas 2–3 objetivos para o mês seguinte.
+
+---
+
+## 68. Planilha dos próximos 90 dias
+
+### Mês 1
+Segurança + rotina.
+
+### Mês 2
+Treino + generalização.
+
+### Mês 3
+Expandir experiências e consolidar autonomia.
+
+Não é cronograma rígido. É uma forma de reduzir pressa.
+
+---
+
+## 69. Quando o passado é desconhecido
+
+Você não precisa descobrir uma história traumática específica para ajudar.
+
+Trabalhe com:
+
+- comportamento atual;
+- necessidades atuais;
+- segurança;
+- aprendizagem.
+
+Evite criar narrativas não verificadas.
+
+---
+
+## 70. A melhor pergunta ao abrigo/protetor
+
+Pergunte:
+
+**“Como ele é num dia comum?”**
+
+E depois:
+
+- como dorme?
+- como come?
+- como anda?
+- o que assusta?
+- o que gosta?
+- como reage a toque?
+- como fica sozinho?
+- como convive com animais?
+
+Isso produz informação prática.
+
+---
+
+## 71. Uma adoção bem-sucedida não parece perfeita
+
+Pode ter:
+
+- xixi fora;
+- latido;
+- medo;
+- regressão;
+- dificuldade com passeio.
+
+O indicador mais útil é:
+
+**os problemas estão ficando mais compreensíveis e manejáveis?**
+
+---
+
+## 72. Checklist dos primeiros 30 dias
+
+- [ ] identificação atualizada;
+- [ ] veterinário definido;
+- [ ] rotina básica;
+- [ ] local seguro;
+- [ ] alimento conhecido;
+- [ ] mapa de gatilhos;
+- [ ] passeio sustentável;
+- [ ] diário de adaptação;
+- [ ] plano de autonomia;
+- [ ] regras com crianças/outros animais;
+- [ ] treino por recompensa;
+- [ ] ajuda profissional quando necessário.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
