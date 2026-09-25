@@ -2,16 +2,21 @@ guide_id: guide-003
 reviewed_at: 2026-09-25
 sources:
   - source_id: avsab-position-statements
-    applies_to: [metodo, escolha-de-profissional]
+    applies_to: [metodo, escolha-de-profissional, recompensa]
   - source_id: rspca-training
     applies_to: [metodo, sessoes]
-  - source_id: rspca-recall
-    applies_to: [vem]
+  - source_id: rspca-au-recall-2025
+    applies_to: [vem, recall, progressao]
   - source_id: merck-behavior-modification
     applies_to: [metodo, dessensibilizacao]
   - source_id: pdsa-reward-training
-    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/reward-based-training
     applies_to: [metodo, recompensa]
   - source_id: pdsa-basic-training
-    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/basic-training-for-puppies
     applies_to: [senta, vem]
+media:
+  - media_id: dogs-trust-recall-video
+    applies_to: [vem]
+  - media_id: dogs-trust-leave-it-video
+    applies_to: [deixa]
+  - media_id: rspcasa-sit-force-free-video
+    applies_to: [senta]
