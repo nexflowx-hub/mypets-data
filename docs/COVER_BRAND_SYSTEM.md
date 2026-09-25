@@ -4,7 +4,15 @@
 **Reviewed:** 2026-09-25  
 **Applies to:** all guide covers, library hero cards, print/PDF covers and selected printable worksheets.
 
+## Canonical production asset
+
+- Media ID: `mypets-round-logo`
+- Frontend source: `src/lib/brand.ts#BRAND.logoUrl`
+- The production frontend currently points that brand field to the official Cloudinary logo asset.
+- The cover system must consume the brand/media reference instead of hard-coding a second logo copy.
+
 ## 1. Brand mark
+
 
 Use the **current official round MyPets logo / medallion** from the project brand assets.
 
