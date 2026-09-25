@@ -803,14 +803,174 @@ Revise guia, peitoral, coleira, cama, potes e brinquedos.
 ### Dia 7 — Revisão
 Escolha apenas duas mudanças que realmente consegue manter nas próximas semanas.
 
+
+---
+
+## 28. Rotina por contexto: apartamento, casa e cidade
+
+O endereço não define sozinho a qualidade de vida. O que muda é o tipo de manejo necessário.
+
+### Apartamento
+
+Priorize:
+
+- oportunidades regulares de eliminação;
+- treino de elevador/corredor quando necessário;
+- prevenção de latidos disparados por sons do prédio;
+- enriquecimento dentro de casa;
+- passeios com tempo para farejar;
+- uma zona de descanso realmente tranquila.
+
+Se o cão reage a cada ruído do corredor, bloquear parte da visão, usar ruído ambiente e trabalhar associações positivas pode ser mais útil do que repreender repetidamente.
+
+### Casa com quintal
+
+Quintal não substitui passeio. Um espaço conhecido perde novidade rapidamente.
+
+Use o quintal para:
+
+- atividades de faro;
+- treino curto;
+- brincadeira;
+- descanso ao ar livre em condições seguras.
+
+Mantenha cercas e portões em revisão periódica.
+
+### Cidade movimentada
+
+Cães sensíveis podem precisar de horários mais calmos, rotas alternativas e distância de tráfego, obras ou multidões.
+
+A meta não é expor até “acostumar”. É criar experiências em intensidade que o cão consiga processar.
+
+---
+
+## 29. Como preparar outra pessoa para cuidar do seu cão
+
+Mesmo que você nunca use hospedagem, tenha um plano.
+
+Prepare uma ficha com:
+
+- horários aproximados;
+- quantidade de alimento;
+- medicações prescritas;
+- locais de passeio;
+- gatilhos conhecidos;
+- como colocar peitoral/guia;
+- palavras usadas no treino;
+- contato veterinário;
+- contato de emergência;
+- comportamento com outros animais;
+- o que fazer se escapar.
+
+Faça uma transição quando possível. Um cuidador que conhece o cão antes de uma viagem tende a ter mais informação e menos improviso.
+
+### Teste curto
+
+Antes de uma ausência longa, experimente algumas horas ou uma noite, quando adequado. Ajuste problemas enquanto você ainda está disponível.
+
+---
+
+## 30. Mudança de casa
+
+Mudar de endereço altera cheiros, sons, rotas e previsibilidade.
+
+Nos primeiros dias:
+
+- mantenha cama e objetos familiares;
+- reduza exigências;
+- supervisione portas e portões;
+- explore o novo ambiente gradualmente;
+- mantenha alimentação e horários o mais estáveis possível;
+- atualize identificação.
+
+Alguns cães comem menos ou ficam mais vigilantes temporariamente. Alterações intensas, persistentes ou acompanhadas de sinais físicos merecem avaliação.
+
+---
+
+## 31. Fogos, trovões e ruídos intensos
+
+Medo de som pode variar de atenção leve a pânico.
+
+Antes de épocas previsíveis de fogos:
+
+- confira identificação;
+- mantenha o cão dentro de área segura;
+- feche pontos de fuga;
+- prepare um local de refúgio;
+- use som ambiente para reduzir contraste;
+- permita esconder-se;
+- não force contato.
+
+Se há pânico, tentativas de fuga, automutilação ou deterioração progressiva, fale com o veterinário com antecedência. Problemas intensos podem precisar de um plano individual de comportamento e saúde.
+
+---
+
+## 32. O “check-in” de 60 segundos
+
+Uma vez por dia, olhe para o seu cão sem pedir nada.
+
+Pergunte mentalmente:
+
+- como ele se moveu hoje?
+- comeu como de costume?
+- bebeu de forma habitual?
+- conseguiu descansar?
+- mostrou interesse nas atividades que normalmente gosta?
+- houve alguma situação de medo?
+- existe algo pequeno que mudou?
+
+Esse minuto não substitui exame. Ele cria hábito de observação.
+
+---
+
+## 33. Registro de mudanças
+
+Quando algo preocupa, use o formato:
+
+**Quando começou:**  
+**Frequência:**  
+**O que acontece antes:**  
+**O que acontece durante:**  
+**O que acontece depois:**  
+**Alimentação mudou?**  
+**Medicamentos mudaram?**  
+**Rotina mudou?**  
+**Há vídeo/foto segura do episódio?**
+
+Um registro curto pode tornar a conversa com o profissional muito mais precisa.
+
+---
+
+## 34. Revisão a cada seis meses
+
+Mesmo quando tudo parece bem, pergunte:
+
+- a rotina ainda combina com a idade?
+- o equipamento ainda serve?
+- o peso mudou?
+- a mobilidade mudou?
+- o cão consegue descansar?
+- há novos medos?
+- o ambiente ficou mais difícil?
+- a alimentação continua apropriada?
+- o plano preventivo está atualizado?
+
+Cuidado de qualidade é adaptação contínua.
+
+---
+
+## Referências de base desta edição
+
+Esta edição foi construída com consulta a diretrizes e materiais educativos de organizações como AAHA, WSAVA, AVSAB, AVMA, ASPCA e Merck Veterinary Manual. A Biblioteca MyPets mantém o registro de fontes e data de revisão no repositório editorial.
+
+As fontes são usadas para verificar conceitos e recomendações gerais. O texto e a organização deste guia são originais MyPets.
+
 ---
 
 ## Sobre esta coleção
 
 Este material faz parte da **Coleção MyPets — Cuidar Melhor**.
 
-A campanha **1 eBook = 1 kg de ração** associa cada participação confirmada na oferta-base ao compromisso interno MyPets de garantir 1 kg de ração. O conteúdo digital é a recompensa educativa vinculada à participação.
-
-O impacto financeiro e a entrega de alimento devem ser acompanhados de forma separada e transparente pelo projeto.
+Na campanha **1 eBook = 1 kg de ração**, cada participação confirmada na oferta-base está associada ao compromisso interno MyPets de garantir 1 kg de ração. O guia digital é a recompensa educativa.
 
 **MyPets — Juntos por mais patinhas felizes.**
