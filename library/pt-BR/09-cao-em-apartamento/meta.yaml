@@ -1,0 +1,31 @@
+id: guide-009
+slug: cao-em-apartamento
+locale: pt-BR
+title: "Cão em Apartamento: Espaço Pequeno, Vida Completa"
+subtitle: "Rotina, enriquecimento, ruído, passeio, autonomia e segurança para viver bem em espaços compactos."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - compatibilidade
+  - mapa-casa
+audience:
+  - tutor-iniciante
+  - morador-apartamento
+topics:
+  - apartamento
+  - rotina
+  - enriquecimento
+  - comportamento
+  - passeio
+  - seguranca
+reading_minutes: 45
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
