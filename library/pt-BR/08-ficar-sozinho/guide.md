@@ -671,6 +671,375 @@ Reduza tempo ou dificuldade.
 
 ---
 
+---
+
+## 39. Saídas reais e treinos são coisas diferentes
+
+Treino:
+- você controla duração;
+- pode retornar rápido;
+- escolhe horário;
+- observa reação.
+
+Saída real:
+- tem compromisso;
+- duração pode ser rígida.
+
+No início, não dependa de o treino “aguentar” uma saída longa.
+
+Se precisa ficar fora mais tempo que o cão tolera, organize manejo.
+
+---
+
+## 40. Faça uma hierarquia de dificuldade
+
+Liste situações do mais fácil ao mais difícil:
+
+1. você levanta do sofá;
+2. vai ao banheiro;
+3. fecha porta;
+4. pega chave;
+5. sai para corredor;
+6. elevador;
+7. sai do prédio;
+8. carro liga;
+9. ausência prolongada.
+
+Treine degraus.
+
+---
+
+## 41. O som do elevador pode virar gatilho
+
+Em apartamento, o cão pode aprender:
+
+**porta + elevador = pessoa foi embora.**
+
+Dessensibilize sinais:
+- abra porta;
+- feche;
+- sente;
+- vá ao corredor;
+- volte.
+
+Sem avançar tempo sempre.
+
+---
+
+## 42. “Ele fica bem se outro humano está em casa”
+
+Isso pode indicar que o problema não é solidão absoluta, mas separação de uma pessoa específica.
+
+Registre:
+- com quem fica bem;
+- com quem sofre;
+- se outro cão ajuda;
+- se cuidador externo funciona.
+
+Essa informação é útil ao profissional.
+
+---
+
+## 43. “Ele fica bem no carro, mas não em casa”
+
+Contextos diferentes produzem respostas diferentes.
+
+Não assuma que capacidade de ficar sem você num lugar transfere automaticamente para outro.
+
+Treine no ambiente real.
+
+---
+
+## 44. O primeiro minuto merece atenção
+
+Alguns cães:
+- protestam por segundos e relaxam.
+
+Outros:
+- aumentam progressivamente.
+
+Câmera ajuda a diferenciar.
+
+Não classifique apenas pelo som que escuta ao fechar a porta.
+
+---
+
+## 45. Vocalização curta versus escalada
+
+Uma ou duas vocalizações não significam necessariamente pânico.
+
+Observe:
+- frequência aumenta?
+- há movimento repetitivo?
+- há salivação?
+- abandono de alimento?
+- tentativa de fuga?
+
+O conjunto importa.
+
+---
+
+## 46. Cuidado com confinamento
+
+Crate/cercado pode ser útil quando bem condicionado.
+
+Mas para cão que entra em pânico confinado, fechar numa caixa pode aumentar risco de lesão.
+
+Nunca use crate como “cura” automática de separação.
+
+---
+
+## 47. Água e acesso ao banheiro
+
+Ausências devem considerar:
+- idade;
+- clima;
+- saúde;
+- controle de eliminação.
+
+Não restrinja água para fazer o cão “aguentar”.
+
+---
+
+## 48. Refeição antes de sair
+
+Alguns cães relaxam após refeição.
+
+Outros precisam eliminar logo depois.
+
+Organize tempo suficiente.
+
+Não dê grande refeição e saia imediatamente sem conhecer resposta do cão.
+
+---
+
+## 49. Passeio antes de sair: qualidade, não exaustão
+
+Um passeio com:
+- farejo;
+- eliminação;
+- exploração;
+
+pode preparar melhor que exercício frenético.
+
+“Cansar até cair” não é tratamento.
+
+---
+
+## 50. O retorno pode revelar o que aconteceu
+
+Ao chegar, observe:
+- está ofegante?
+- chão molhado de saliva?
+- objetos próximos à porta destruídos?
+- comida intacta?
+- urina/fezes?
+- unhas/patas machucadas?
+
+Esses sinais merecem registro.
+
+---
+
+## 51. Crie uma escala de ausência
+
+Exemplo:
+
+### Nível 0
+Você no mesmo cômodo.
+
+### Nível 1
+Você fora de vista.
+
+### Nível 2
+Porta interna fechada.
+
+### Nível 3
+Porta de casa fechada.
+
+### Nível 4
+Você se afasta do prédio.
+
+### Nível 5
+Ausência real.
+
+O cão pode tolerar um nível e não o seguinte.
+
+---
+
+## 52. Treine horários diferentes
+
+Alguns cães ficam bem de manhã e mal à noite.
+
+Depois de consolidar:
+- varie horário;
+- roupas;
+- sequência.
+
+Não varie tudo de uma vez.
+
+---
+
+## 53. Ausência não deve ser a única hora de receber enriquecimento
+
+Se brinquedo recheável só aparece quando você sai, ele pode virar sinal de separação.
+
+Use também quando você está presente.
+
+Assim o objeto mantém valor próprio.
+
+---
+
+## 54. Trabalho presencial
+
+Se a família volta ao escritório:
+
+Comece semanas antes, quando possível.
+
+Reintroduza:
+- rotina matinal;
+- períodos de separação;
+- passeador;
+- cuidador.
+
+Evite mudar de 24h juntos para 8h sozinho num dia.
+
+---
+
+## 55. Mudança de casa
+
+Mesmo cão que ficava sozinho pode regredir.
+
+Novo ambiente traz:
+- sons;
+- cheiros;
+- vizinhos;
+- porta;
+- elevador.
+
+Recomece em nível fácil.
+
+---
+
+## 56. Pós-férias
+
+Depois de semanas de companhia constante, alguns cães estranham retorno à rotina.
+
+Faça pequenos treinos nos últimos dias das férias.
+
+---
+
+## 57. Doença do tutor e mudanças familiares
+
+Mudanças longas de rotina podem alterar autonomia.
+
+Exemplo:
+- tutor ficou meses em casa;
+- bebé nasceu;
+- pessoa mudou de emprego.
+
+Antecipe transições.
+
+---
+
+## 58. Cães com histórico desconhecido
+
+Adotados podem ter:
+- experiência positiva;
+- experiência traumática;
+- nenhuma prática.
+
+Não teste “para ver”.
+
+Construa do zero.
+
+---
+
+## 59. O que um bom plano profissional costuma medir
+
+Um profissional sério vai querer saber:
+- vídeo;
+- gatilhos;
+- duração;
+- sequência;
+- histórico;
+- saúde;
+- rotina;
+- ambiente.
+
+Não apenas “quantas horas ele fica”.
+
+---
+
+## 60. A meta não é um número mágico
+
+O objetivo não é “chegar a 4 horas” porque alguém escreveu.
+
+É chegar a uma duração que:
+- atende vida da família;
+- respeita necessidades do cão;
+- mantém bem-estar;
+- inclui pausas adequadas.
+
+---
+
+## 61. Plano de emergência para a família
+
+Tenha contatos:
+- vizinho;
+- familiar;
+- pet sitter;
+- passeador;
+- creche adequada.
+
+Se uma saída inesperada exceder limite do cão, você tem alternativa.
+
+---
+
+## 62. Checklist de vídeo
+
+Ao rever:
+- [ ] comeu?
+- [ ] deitou?
+- [ ] dormiu?
+- [ ] vocalizou?
+- [ ] andou repetidamente?
+- [ ] foi para porta?
+- [ ] ofegou?
+- [ ] tentou escapar?
+- [ ] quanto demorou para relaxar?
+
+---
+
+## 63. Critério para avançar
+
+Aumente quando, em várias repetições:
+- corpo está relaxado;
+- aceita enriquecimento;
+- consegue deitar;
+- recuperação é rápida.
+
+Não avance apenas porque “não latiu”.
+
+---
+
+## 64. Critério para parar e pedir ajuda
+
+Interrompa o experimento caseiro e procure ajuda quando:
+- há automutilação;
+- tentativa de atravessar porta/janela;
+- pânico;
+- salivação intensa;
+- vocalização prolongada;
+- destruição severa;
+- risco para vizinhos ou animal.
+
+---
+
+## 65. A frase mais importante deste guia
+
+**Não ensine o cão a suportar medo. Ensine que a ausência pode ser segura.**
+
+
 ## Referências de base desta edição
 
 - **RSPCA — Training Your Dog to Be Left Alone:** progressão gradual, evitar ultrapassar o ponto de sofrimento e orientação geral de tempo.
