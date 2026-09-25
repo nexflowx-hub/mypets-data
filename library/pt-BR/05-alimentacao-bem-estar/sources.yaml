@@ -2,7 +2,11 @@ guide_id: guide-005
 reviewed_at: 2026-09-25
 sources:
   - source_id: wsava-nutrition
-    applies_to: [principios, condicao-corporal, rotulo, petiscos, historico-dietario]
+    applies_to: [principios, condicao-corporal, condicao-muscular, escolha-alimento, rotulo, petiscos, historico-dietario]
+  - source_id: fda-complete-balanced
+    applies_to: [rotulo, alimento-completo, alimento-complementar]
+  - source_id: aafco-reading-labels
+    applies_to: [rotulo, adequacao-nutricional, fase-de-vida]
   - source_id: aspca-toxic-foods
     applies_to: [alimentos-perigosos, intoxicacao]
   - source_id: aaha-life-stage
