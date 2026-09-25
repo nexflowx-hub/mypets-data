@@ -1285,6 +1285,38 @@ Depois, truques e esportes podem ser diversão extra.
 
 ---
 
+---
+
+## 58. Biblioteca de vídeo: observe o processo, não copie apenas o gesto
+
+Na versão web, vídeos de organizações confiáveis podem complementar o texto. O objetivo é observar timing, postura corporal, progressão e uso de recompensas.
+
+> [!MEDIA]
+> **Recall / “vem” — Dogs Trust Dog School:** usar o embed oficial `dogs-trust-recall-video`.
+
+> [!MEDIA]
+> **“Deixa” — Dogs Trust Dog School:** usar o embed oficial `dogs-trust-leave-it-video`.
+
+> [!MEDIA]
+> **“Senta” sem força — RSPCA South Australia:** usar `rspcasa-sit-force-free-video`.
+
+Os vídeos devem permanecer incorporados a partir do canal oficial. Não baixar, editar ou republicar o ficheiro de terceiros sem licença.
+
+## 59. Como saber se está pronto para aumentar dificuldade
+
+Procure sinais de fluidez: o cão entende rapidamente o início da repetição, responde sem ficar frustrado, aceita recompensa, recupera de pequenos erros e o tutor não precisa repetir o sinal continuamente.
+
+Se o desempenho cai quando muda ambiente, isso não significa que o cão “esqueceu”. Significa que o contexto ficou mais difícil.
+
+Altere uma variável por vez: duração, distância, distração, posição do tutor ou ambiente. Depois consolide antes de somar outra.
+
+## 60. Treino de segurança versus obediência estética
+
+Alguns comportamentos têm valor especialmente alto porque protegem o cão: voltar quando chamado, largar, deixar um objeto, esperar em portas, aceitar guia/peitoral, orientar atenção ao tutor e relaxar num local definido.
+
+Priorize esses comportamentos antes de investir muita energia em truques apenas visuais. Truques são excelentes enriquecimento; a diferença é saber qual comportamento tem prioridade quando o tempo é limitado.
+
+
 ## Referências de base desta edição
 
 Este guia foi estruturado a partir de princípios de treino humano e baseado em recompensa publicados pela AVSAB, materiais educativos de treino da RSPCA e PDSA e conceitos de modificação comportamental descritos no Merck Veterinary Manual.
