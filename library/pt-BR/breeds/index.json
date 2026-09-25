@@ -89,7 +89,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-german-shepherd"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -108,7 +110,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-rottweiler-cc0"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -310,7 +314,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-pomeranian"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -348,7 +354,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-maltese-crystal"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -367,7 +375,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-chihuahua-public-domain"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -386,7 +396,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-miniature-schnauzer"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -424,7 +436,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-siberian-husky"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -462,7 +476,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-samoyed-valenzuela"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -500,7 +516,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-greyhound"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
@@ -538,7 +556,9 @@
       "heat_context": "individual-and-climate-dependent",
       "family_context": "individual-assessment-required",
       "alone_time_context": "training-and-individual-history-required",
-      "media_ids": [],
+      "media_ids": [
+        "commons-jack-russell"
+      ],
       "source_ids": [
         "fci-nomenclature"
       ],
