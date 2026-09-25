@@ -1317,6 +1317,39 @@ Alguns comportamentos têm valor especialmente alto porque protegem o cão: volt
 Priorize esses comportamentos antes de investir muita energia em truques apenas visuais. Truques são excelentes enriquecimento; a diferença é saber qual comportamento tem prioridade quando o tempo é limitado.
 
 
+---
+
+## 61. Checklist antes de encerrar a sessão
+
+Uma sessão curta pode terminar muito bem se você responder “sim” a algumas destas perguntas:
+
+- o cão ainda aceita recompensa?
+- ainda procura interação voluntariamente?
+- conseguiu pelo menos uma repetição fácil?
+- a dificuldade não aumentou demais?
+- você sabe qual será o próximo pequeno passo?
+
+Termine frequentemente depois de uma resposta boa, não apenas quando o cão já está cansado.
+
+## 62. Diário de treino de uma linha
+
+Depois de cada sessão, registre apenas:
+
+**comportamento — ambiente — dificuldade — o que funcionou — próximo passo**
+
+Exemplo:
+
+> “Vem — corredor — baixa distração — respondeu 4/5 vezes — amanhã aumentar 2 metros.”
+
+Esse hábito reduz improviso e evita pular etapas.
+
+## 63. Quando uma falha é informação
+
+Se o cão não responde, evite transformar o momento numa disputa. Pergunte se a recompensa perdeu valor, se o ambiente ficou difícil, se a distância aumentou demais, se o animal está cansado ou se existe desconforto.
+
+Treino eficiente usa falha como dado para ajustar o exercício.
+
+
 ## Referências de base desta edição
 
 Este guia foi estruturado a partir de princípios de treino humano e baseado em recompensa publicados pela AVSAB, materiais educativos de treino da RSPCA e PDSA e conceitos de modificação comportamental descritos no Merck Veterinary Manual.
