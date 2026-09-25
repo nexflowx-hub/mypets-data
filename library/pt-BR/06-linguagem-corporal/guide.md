@@ -1181,6 +1181,164 @@ Dar dois metros de espaço no sinal inicial é mais simples que lidar com uma re
 
 ---
 
+---
+
+## 61. Mini laboratório de observação
+
+Use vídeos espontâneos e seguros do seu próprio cão para praticar leitura.
+
+Escolha 15–30 segundos.
+
+Assista uma vez normalmente.
+
+Depois reveja procurando apenas:
+
+1. cauda;
+2. orelhas;
+3. boca;
+4. olhos;
+5. peso do corpo;
+6. direção do movimento.
+
+Na terceira visualização, observe o conjunto.
+
+É comum perceber sinais que passaram despercebidos em tempo real.
+
+> [!TIP]
+> Não provoque desconforto para produzir um vídeo. Use situações do cotidiano em que o cão já estava seguro.
+
+---
+
+## 62. Quiz de contexto: o mesmo sinal, três significados possíveis
+
+### O cão boceja
+
+**Cenário A:** acabou de acordar.  
+Provavelmente relacionado a sono/transição.
+
+**Cenário B:** criança o abraça e ele boceja.  
+Pode fazer parte de uma resposta de desconforto.
+
+**Cenário C:** está esperando a consulta veterinária, ofegante e sem aceitar comida.  
+O conjunto sugere que o contexto merece mais espaço e manejo.
+
+O objetivo do quiz não é “acertar emoção”. É aprender a perguntar pelo contexto.
+
+---
+
+## 63. Quiz da cauda
+
+### Cauda baixa + corpo baixo + tentativa de afastar
+Não interprete como convite.
+
+### Cauda abanando rápido + corpo rígido + olhar fixo
+Não use o movimento da cauda como autorização para tocar.
+
+### Cauda com movimento amplo + corpo solto + aproximação voluntária
+O conjunto é mais compatível com interação confortável.
+
+Mesmo assim, faça pausas.
+
+---
+
+## 64. O que significa “dar espaço” na prática
+
+Dar espaço pode ser:
+
+- parar de tocar;
+- virar o corpo;
+- afastar uma criança;
+- atravessar a rua;
+- abrir uma rota;
+- usar um portão;
+- pedir à visita para sentar e ignorar;
+- terminar a interação.
+
+Não precisa significar abandonar o cão ou deixá-lo isolado.
+
+---
+
+## 65. A regra dos dois sinais
+
+Quando ainda está aprendendo, use uma regra conservadora:
+
+**se notar dois sinais de desconforto ao mesmo tempo, reduza a pressão.**
+
+Exemplo:
+
+- cabeça vira + lábios lambem;
+- cauda baixa + corpo recua;
+- boca fecha + corpo congela.
+
+Não é uma fórmula científica. É uma ferramenta doméstica para agir cedo.
+
+---
+
+## 66. Interações consentidas criam cães mais previsíveis
+
+Quando sinais pequenos funcionam, o cão aprende que não precisa aumentar intensidade para ser ouvido.
+
+Se virar a cabeça faz o humano pausar, talvez não precise rosnar.
+
+Isso não “premia medo”.
+
+É comunicação funcional.
+
+---
+
+## 67. Faça um mapa de situações
+
+| Situação | Verde | Amarelo | Vermelho |
+|---|---|---|---|
+| carinho | encosta | vira cabeça | congela/rosna |
+| visita | cheira | recua | tenta fugir/avança |
+| passeio | fareja | fixa | reage |
+| grooming | coopera | retira pata | ameaça/morde |
+
+Preencha com o comportamento **do seu cão**, não com um modelo genérico.
+
+---
+
+## 68. Como explicar body language para uma criança
+
+Use três frases:
+
+- “Corpo molinho costuma ser mais confortável.”
+- “Se ele ficar duro ou tentar sair, a gente para.”
+- “Rosnado é hora de chamar um adulto.”
+
+Evite ensinar criança a “ler mordida” sozinha. Adultos continuam responsáveis.
+
+---
+
+## 69. O desafio dos 10 segundos
+
+Uma vez por dia, observe o cão por dez segundos sem interagir.
+
+Pergunte:
+
+- para onde olha?
+- como respira?
+- está tenso?
+- está escolhendo ficar ali?
+
+Esse hábito melhora percepção sem transformar convivência em vigilância constante.
+
+---
+
+## 70. Cartão de bolso: PAUSA
+
+Quando estiver em dúvida, lembre:
+
+**P — Pare o que estava fazendo**  
+**A — Afaste pressão**  
+**U — Use distância**  
+**S — Se necessário, separe**  
+**A — Avalie contexto**
+
+O reader pode transformar este bloco num cartão visual para guardar/imprimir.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
