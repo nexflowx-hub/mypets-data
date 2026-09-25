@@ -1,0 +1,31 @@
+id: guide-006
+slug: linguagem-corporal-canina
+locale: pt-BR
+title: "Linguagem Corporal Canina: Aprenda a Ouvir sem Palavras"
+subtitle: "Um guia visual e prático para reconhecer relaxamento, stress, medo, necessidade de espaço e comunicação antes do conflito."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - comece-pelo-conjunto
+  - sinais-sutis
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+  - familia-com-criancas
+topics:
+  - comportamento
+  - linguagem-corporal
+  - stress
+  - medo
+  - seguranca
+reading_minutes: 55
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
