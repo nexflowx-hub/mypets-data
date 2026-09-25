@@ -781,6 +781,727 @@ Se perda de interesse é súbita e geral, investigue saúde.
 
 ---
 
+---
+
+## 68. Transforme o guia num baralho de atividades
+
+Em vez de pensar “qual atividade faço hoje?”, crie cartas simples.
+
+Cada carta tem:
+
+- nome;
+- categoria;
+- dificuldade;
+- duração;
+- materiais;
+- supervisão necessária;
+- ideal para;
+- “pare se”.
+
+Exemplo:
+
+**PROCURA NO TAPETE**  
+Categoria: faro  
+Dificuldade: fácil  
+Tempo: 5 min  
+Materiais: parte da refeição  
+Pare se: o cão engole o tecido
+
+O reader pode permitir “sortear uma atividade”.
+
+---
+
+## 69. Sistema de dificuldade: 1 a 5
+
+### Nível 1
+A recompensa fica visível.
+
+### Nível 2
+Parcialmente escondida.
+
+### Nível 3
+Exige uma ação simples.
+
+### Nível 4
+Combina duas ações.
+
+### Nível 5
+Só para cães experientes e sem sinais de frustração.
+
+A regra:
+
+**suba um nível quando o cão resolve com confiança; desça quando começa a destruir o problema em vez de resolvê-lo.**
+
+---
+
+## 70. O cronómetro não mede qualidade
+
+Não avalie atividade apenas por:
+
+“durou 25 minutos”.
+
+Pergunte:
+
+- ele estava engajado?
+- ficou frustrado?
+- pediu ajuda?
+- descansou depois?
+- repetiria?
+
+Cinco minutos ótimos podem ser melhores que meia hora de irritação.
+
+---
+
+## 71. O “menu” semanal
+
+Monte 5 colunas:
+
+| Dia | Nariz | Cérebro | Corpo | Calma |
+|---|---|---|---|---|
+| Seg | procura | alvo | passeio | mastigação |
+| Ter | trilha | nome brinquedo | tug | settle |
+| Qua | sniffari | guardar brinquedos | plataforma | descanso |
+| Qui | caixa | truque | nova rota | lamber |
+| Sex | tapete | discriminação | brincar | cama |
+
+Não precisa preencher tudo.
+
+Use uma ou duas colunas por dia.
+
+---
+
+## 72. Atividades de 2 minutos
+
+Para dias corridos:
+
+### 1. Cinco check-ins
+Recompense cinco olhares espontâneos.
+
+### 2. Procura relâmpago
+Espalhe 10 grãos.
+
+### 3. Alvo de mão
+Cinco repetições.
+
+### 4. Troca de brinquedo
+Duas trocas.
+
+### 5. Cama
+Recompense três sinais de relaxamento.
+
+Enriquecimento não precisa de produção elaborada.
+
+---
+
+## 73. Atividades sem comida
+
+Úteis quando:
+- já usou toda a porção;
+- existe dieta restrita;
+- o cão prefere interação.
+
+Ideias:
+
+- esconder brinquedo;
+- cabo de guerra;
+- procurar pessoa;
+- treino com brinquedo;
+- nova rota;
+- observar ambiente;
+- exploração de textura.
+
+---
+
+## 74. Enriquecimento sensorial
+
+Além de cheiro:
+
+### Textura
+Tapete, grama, areia segura.
+
+### Som
+Ambiente tranquilo, sons novos em volume baixo.
+
+### Visão
+Observar em distância confortável.
+
+### Movimento
+Equilíbrio e coordenação apropriados.
+
+Não bombardeie sentidos simultaneamente.
+
+---
+
+## 75. “Novidade” tem dose
+
+Para alguns cães, objeto novo é divertido.
+
+Para outros, pode gerar medo.
+
+Introduza:
+- à distância;
+- no chão;
+- sem empurrar;
+- com possibilidade de sair.
+
+Se o cão recua, reduza pressão.
+
+---
+
+## 76. Enriquecimento para cães tímidos
+
+Comece com:
+- comida espalhada longe da pessoa;
+- caixa aberta;
+- exploração de cômodo;
+- trilha fácil.
+
+Evite:
+- puzzles barulhentos;
+- objetos móveis imprevisíveis.
+
+Confiança vem antes de dificuldade.
+
+---
+
+## 77. Enriquecimento para cães muito excitáveis
+
+Prefira alternar:
+
+**atividade → desaceleração**
+
+Exemplo:
+- tug 2 min;
+- procura no chão;
+- água;
+- cama.
+
+Não transforme toda atividade em aceleração.
+
+---
+
+## 78. Enriquecimento para cães que destroem brinquedos
+
+Destruição pode ser parte do estilo de brincadeira.
+
+Se é seguro:
+- caixas supervisionadas;
+- materiais apropriados;
+- brinquedos resistentes.
+
+Retire peças soltas.
+
+Nunca deixe sozinho com objeto que costuma desmanchar e ingerir.
+
+---
+
+## 79. Cães que engolem objetos
+
+Evite atividades com:
+- tecido solto;
+- papel;
+- plástico;
+- peças.
+
+Use:
+- treino;
+- farejo em ambiente;
+- passeio;
+- comedouro adequado.
+
+Histórico de corpo estranho merece cuidado extra.
+
+---
+
+## 80. Enriquecimento e guarda de recursos
+
+Se há guarda:
+- não coloque vários cães juntos com comida/brinquedos;
+- entregue em áreas separadas;
+- não retire à força.
+
+Trabalhe comportamento com profissional quando necessário.
+
+---
+
+## 81. Dois cães não precisam fazer o mesmo jogo
+
+Um pode amar:
+- bola.
+
+Outro:
+- farejo.
+
+Ofereça individualmente.
+
+Comparar pode criar competição desnecessária.
+
+---
+
+## 82. Atividade paralela para dois cães
+
+Com distância segura:
+- cada um em tapete;
+- cada um recebe pequenas recompensas;
+- ambos praticam calma.
+
+Isso pode ser mais útil que brincar juntos.
+
+---
+
+## 83. Enriquecimento para filhotes
+
+Prioridades:
+
+- explorar;
+- dormir;
+- mastigar de forma segura;
+- conhecer superfícies;
+- brincar brevemente;
+- aprender a parar.
+
+Evite:
+- saltos repetitivos;
+- puzzles impossíveis;
+- longas sessões.
+
+---
+
+## 84. Enriquecimento para adolescentes
+
+Adolescentes podem parecer “esquecer” tudo.
+
+Aumente:
+- farejo;
+- treino simples;
+- autocontrole gradual;
+- brincadeiras estruturadas.
+
+Mantenha expectativas realistas.
+
+---
+
+## 85. Enriquecimento para idosos
+
+Use:
+- alimento mais fácil de encontrar;
+- objetos na altura confortável;
+- superfícies antiderrapantes;
+- treino cognitivo simples.
+
+Não retire atividades só porque ficou mais velho.
+
+Adapte.
+
+---
+
+## 86. Cães com mobilidade reduzida
+
+Converse com veterinário sobre restrições.
+
+Opções de baixo impacto:
+- faro;
+- alvo de focinho;
+- discriminação;
+- brinquedo alimentar;
+- escolha de objetos.
+
+---
+
+## 87. Cães com dieta prescrita
+
+Enriquecimento alimentar pode usar:
+- própria ração;
+- alimento prescrito autorizado;
+- porção diária.
+
+Não introduza “receitas saudáveis” sem confirmar compatibilidade.
+
+---
+
+## 88. Calor: enriquecer sem exercício intenso
+
+Em dia quente:
+
+- farejo dentro de casa;
+- treino de 2 minutos;
+- brinquedo alimentar;
+- atividade em piso fresco;
+- descanso.
+
+Não compense passeio reduzido com exercício frenético em ambiente abafado.
+
+---
+
+## 89. Chuva: um circuito doméstico
+
+Crie três estações:
+
+### Estação 1
+Procura.
+
+### Estação 2
+Alvo.
+
+### Estação 3
+Cama.
+
+Faça 2 voltas.
+
+Fim.
+
+---
+
+## 90. A “caixa surpresa” semanal
+
+Guarde uma caixa.
+
+A cada semana, monte combinação diferente:
+
+- toalha;
+- brinquedo;
+- caixa pequena;
+- alimento;
+- objeto seguro.
+
+Não use substâncias aromáticas fortes.
+
+---
+
+## 91. Brinquedo alimentar congelado
+
+Aumenta dificuldade e duração.
+
+Use apenas depois de o cão compreender a versão normal.
+
+Se desiste, facilite.
+
+---
+
+## 92. Hidratação também pode ser enriquecimento?
+
+Água deve estar livremente disponível; não transforme acesso básico em puzzle.
+
+Mas em dias quentes, atividades aquáticas seguras podem ser divertidas para cães que gostam.
+
+Nunca force entrada na água.
+
+---
+
+## 93. Piscina infantil
+
+Comece sem água.
+
+Depois:
+- pouca água;
+- brinquedos;
+- entrar voluntariamente.
+
+Supervisione.
+
+Cães não nadam todos com a mesma habilidade.
+
+---
+
+## 94. Jardim de cheiros
+
+Se tem espaço externo, use plantas confirmadas como seguras para cães.
+
+Permita investigação.
+
+Não use óleos essenciais como atalho olfativo.
+
+---
+
+## 95. “Destruição permitida”
+
+Alguns cães gostam de rasgar.
+
+Pode criar:
+- caixa de cartão limpa;
+- papel sem agrafos;
+- brinquedo escondido.
+
+Supervisione.
+
+Retire se engole.
+
+---
+
+## 96. Puzzle feito de caixas
+
+Use três caixas abertas.
+
+Uma contém recompensa.
+
+O cão investiga.
+
+Depois mude posição.
+
+Simples já é suficiente.
+
+---
+
+## 97. Garrafa plástica: cautela
+
+Embora popular na internet, garrafas podem:
+- cortar gengiva;
+- soltar tampa;
+- fragmentar.
+
+Se usar em atividade supervisionada, proteja e avalie risco.
+
+Para muitos cães, escolha material mais seguro.
+
+---
+
+## 98. Toalha com nós: para quem não ingere tecido
+
+Faça nós frouxos com alimento no meio.
+
+Supervisione.
+
+Não use em cão que rasga/engole pano.
+
+---
+
+## 99. Caminho sensorial
+
+Monte sequência:
+
+- tapete;
+- almofada firme;
+- borracha;
+- grama.
+
+Conduza sem puxar.
+
+Ótimo para confiança em alguns cães.
+
+---
+
+## 100. Equilíbrio não é circo
+
+Atividades de propriocepção devem ser:
+- baixas;
+- estáveis;
+- sem risco de queda.
+
+Cães com problema ortopédico precisam de orientação profissional.
+
+---
+
+## 101. Mini-agility doméstico
+
+Pode usar:
+- contornar cadeira;
+- passar sob mesa alta;
+- alvo no chão.
+
+Evite saltos improvisados.
+
+---
+
+## 102. “Leia comigo”
+
+Para cão tranquilo:
+
+- você senta;
+- cão escolhe local;
+- recebe reforço ocasional por relaxar.
+
+Enriquecimento social também pode ser compartilhar espaço sem exigir nada.
+
+---
+
+## 103. Enriquecimento social sem toque
+
+Alguns cães preferem:
+- caminhar juntos;
+- cheirar;
+- deitar perto.
+
+Não force carinho como única forma de vínculo.
+
+---
+
+## 104. O passeio exploratório mensal
+
+Uma vez por mês, escolha novo ambiente adequado:
+
+- parque tranquilo;
+- trilha permitida;
+- bairro novo.
+
+Cheque:
+- clima;
+- segurança;
+- regras locais.
+
+---
+
+## 105. Carro como etapa, não enriquecimento automático
+
+Se o cão ama carro, viagem pode ser experiência positiva.
+
+Se teme ou enjoa, não é enriquecimento.
+
+Trate o transporte separadamente.
+
+---
+
+## 106. Regra 70/30
+
+Uma forma prática de evitar excesso de novidade:
+
+- 70% atividades já conhecidas;
+- 30% pequenas variações.
+
+Não é ciência exata; é uma regra doméstica para preservar sucesso.
+
+---
+
+## 107. A atividade “favorita” pode mudar
+
+Preferências mudam com:
+- idade;
+- clima;
+- saúde;
+- rotina.
+
+Reavalie.
+
+O cão não precisa amar o mesmo puzzle para sempre.
+
+---
+
+## 108. Crie perfis de preferência
+
+Marque de 0 a 3:
+
+| Categoria | Interesse |
+|---|---:|
+| farejo | |
+| comida | |
+| brinquedo | |
+| treino | |
+| água | |
+| social | |
+| exploração | |
+
+Depois monte a semana em torno do indivíduo.
+
+---
+
+## 109. Um dia de baixa energia
+
+Se o cão está cansado:
+
+- atividade simples;
+- mastigar;
+- procurar poucos alimentos;
+- descanso.
+
+Não existe obrigação de “cumprir enriquecimento”.
+
+---
+
+## 110. Um dia de energia alta
+
+Misture:
+
+1. passeio;
+2. treino;
+3. farejo;
+4. descanso.
+
+Só correr pode criar atleta, não necessariamente cão mais calmo.
+
+---
+
+## 111. Faça uma auditoria a cada 30 dias
+
+Pergunte:
+
+- quais atividades ele realmente gosta?
+- quais abandona?
+- quais causam frustração?
+- quais ajudam a relaxar?
+- quais são práticas para a família?
+
+Elimine o que não funciona.
+
+---
+
+## 112. Biblioteca de 10 atividades favoritas
+
+No fim do primeiro mês, escolha 10.
+
+Exemplo:
+
+1. sniffari;
+2. procura no tapete;
+3. brinquedo recheável;
+4. tug;
+5. alvo;
+6. caixa;
+7. esconder pessoa;
+8. cama;
+9. trilha;
+10. nova rota.
+
+Assim a família não precisa inventar do zero.
+
+---
+
+## 113. Desafio de 30 dias
+
+O reader pode transformar isto num calendário interativo:
+
+### Semana 1 — Nariz
+Quatro atividades olfativas.
+
+### Semana 2 — Cérebro
+Quatro jogos de aprendizagem.
+
+### Semana 3 — Corpo
+Quatro atividades de movimento seguro.
+
+### Semana 4 — Calma
+Quatro exercícios de relaxamento e escolha.
+
+Marque apenas o que o cão gostou.
+
+---
+
+## 114. Checklist “antes de entregar”
+
+- [ ] é grande o suficiente?
+- [ ] não tem aresta?
+- [ ] não tem peça pequena?
+- [ ] comida está contabilizada?
+- [ ] atividade combina com saúde?
+- [ ] posso supervisionar?
+- [ ] sei como facilitar?
+- [ ] consigo encerrar sem conflito?
+
+---
+
+## 115. O objetivo final
+
+Enriquecimento não é produzir um cão permanentemente ocupado.
+
+É construir uma vida em que ele possa:
+
+- explorar;
+- resolver;
+- cheirar;
+- brincar;
+- escolher;
+- aprender;
+- descansar.
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
