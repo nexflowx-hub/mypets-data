@@ -1,0 +1,15 @@
+id: guide-001
+slug: cuidados-essenciais
+locale: pt-BR
+title: "Cuidados Essenciais com o Seu Cão"
+subtitle: "Um manual prático para rotina, segurança, higiene, prevenção e bem-estar."
+version: 0.1.0
+status: draft
+access: entitled
+audience: [tutor-iniciante, familia-com-cao]
+topics: [rotina, seguranca, higiene, prevencao, comportamento]
+reading_minutes: 45
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
