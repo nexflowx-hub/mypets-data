@@ -240,3 +240,124 @@ media:
     attribution: Bryan Ungard
     attribution_required: true
     topics: [breed, afghan-hound]
+
+
+  - id: commons-calming-signals-dogs
+    type: image
+    title: Calming signals of dogs
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Calming_signals_of_dogs.jpg
+    license: CC0-1.0
+    attribution: Sciencia58
+    attribution_required: false
+    topics: [body-language, calming-signals, communication]
+
+  - id: commons-dog-play-bow
+    type: image
+    title: Dog performing a play bow
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Vorderkoerpertiefstellung_THWZ_(cropped).jpg
+    license: CC-BY-SA-3.0
+    attribution: Thomas Zimmermann (THWZ)
+    attribution_required: true
+    topics: [body-language, play, communication]
+
+  - id: commons-dog-turning-away
+    type: image
+    title: Dog turning away during approach
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Full_Body_when_approached.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nishi.LovesBees
+    attribution_required: true
+    topics: [body-language, distance, calming-signals]
+
+  - id: commons-dog-owner-walking
+    type: image
+    title: Dog walking with owner
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_with_owner_walking.jpg
+    license: CC-BY-4.0
+    attribution: Anish Anilkumar
+    attribution_required: true
+    topics: [walking, leash, relationship]
+
+  - id: commons-puppy-walking-cc0
+    type: image
+    title: Newfoundland puppy on leash
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Puppy-dog-walking.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    topics: [puppy, walking, leash]
+
+  - id: commons-dog-grooming
+    type: image
+    title: Dog grooming with shedding blade
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_grooming.JPG
+    license: CC-BY-SA-3.0
+    attribution: Mickey Samuni-Blank
+    attribution_required: true
+    topics: [grooming, coat, hygiene]
+
+  - id: commons-dog-grooming-kit
+    type: image
+    title: Dog grooming kit
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_Grooming_Kit.jpg
+    license: CC-BY-2.0
+    attribution: Michael Coghlan
+    attribution_required: true
+    topics: [grooming, tools, hygiene]
+
+  - id: commons-dog-sleeping-cc0
+    type: image
+    title: Dog sleeping
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_Sleeping.jpg
+    license: CC0-1.0
+    attribution: Ritchde
+    attribution_required: false
+    topics: [rest, sleep, settling, home]
+
+  - id: commons-dogs-playing
+    type: image
+    title: Border Collie and Labrador playing
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dogs_Playing.JPG
+    license: CC-BY-SA-3.0
+    attribution: Anthony1592
+    attribution_required: true
+    topics: [play, social, body-language]
+
+  - id: dogs-trust-dig-box-video
+    type: video-embed
+    title: How to make a dig box for your dog
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    embed_url: https://www.youtube.com/watch?v=_ATSGFJln98
+    license_action: embed-only
+    topics: [enrichment, dig-box, food-search]
+    notes: "Official Dogs Trust-linked YouTube video. Embed only."
+
+  - id: dogs-trust-yoga-mat-enrichment-video
+    type: video-embed
+    title: Food enrichment with a yoga mat
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    embed_url: https://www.youtube.com/watch?v=k11wblCqXqw
+    license_action: embed-only
+    topics: [enrichment, food-search, puzzle]
+    notes: "Official Dogs Trust-linked YouTube video. Embed only."
+
+  - id: dogs-trust-education-intro-video
+    type: video-embed
+    title: Welcome to Dogs Trust Education
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/about-us/what-we-do/professionals/education
+    embed_url: https://www.youtube.com/watch?v=xXS93UG-ISw
+    license_action: embed-only
+    topics: [children, safety, education]
+    notes: "Official Dogs Trust education video. Embed only."
