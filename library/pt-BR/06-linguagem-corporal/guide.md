@@ -795,6 +795,390 @@ Liste três sinais que você aprendeu a reconhecer.
 
 ---
 
+---
+
+## 39. Linguagem corporal no veterinário
+
+Clínicas veterinárias acumulam estímulos difíceis:
+- piso diferente;
+- cheiros;
+- outros animais;
+- contenção;
+- manipulação;
+- experiências anteriores.
+
+Antes da consulta, observe:
+- consegue aceitar alimento?
+- quer entrar?
+- tenta sair?
+- congela na balança?
+- se esconde atrás de você?
+
+Compartilhe essa informação com a equipa.
+
+### Pequenas adaptações podem ajudar
+
+Quando possível:
+- espere em área mais calma;
+- leve manta conhecida;
+- use recompensas aprovadas;
+- avise sobre medos;
+- permita aproximação gradual.
+
+Cães com medo intenso podem precisar de plano veterinário específico.
+
+---
+
+## 40. Linguagem corporal durante grooming
+
+Sinais de dificuldade:
+- retirar pata;
+- virar cabeça;
+- lamber lábios;
+- endurecer;
+- olhar para ferramenta;
+- tentar sair;
+- rosnar.
+
+Não espere o cão “explodir”.
+
+Faça:
+1. pausa;
+2. reduza etapa;
+3. recompense cooperação;
+4. investigue dor se reação é localizada.
+
+O mesmo cão pode tolerar escova no dorso e sentir enorme desconforto nas patas.
+
+---
+
+## 41. Recurso não é apenas comida
+
+Alguns cães ficam tensos perto de:
+- brinquedo;
+- cama;
+- pessoa;
+- objeto encontrado;
+- espaço.
+
+Sinais podem começar com:
+- virar corpo sobre o objeto;
+- comer mais rápido;
+- congelar;
+- olhar lateral;
+- levar item para longe.
+
+Não transforme isso num teste retirando repetidamente.
+
+Use manejo seguro e ajuda profissional se houver risco.
+
+---
+
+## 42. A velocidade da mudança importa
+
+Um cão pode passar de relaxado a preocupado em segundos.
+
+Treine seu olhar para detectar a transição:
+
+**relaxado → boca fecha → orelha muda → cabeça vira → corpo endurece**
+
+Essa sequência vale mais do que decorar uma lista de “sinais de agressão”.
+
+---
+
+## 43. O contexto muda o mesmo gesto
+
+### Lamber os lábios
+Pode ser:
+- antecipação de comida;
+- limpeza;
+- náusea;
+- stress.
+
+### Bocejar
+Pode ser:
+- sono;
+- transição;
+- tensão.
+
+### Sacudir o corpo
+Pode ser:
+- secagem;
+- libertação de tensão após interação.
+
+### Farejar o chão
+Pode ser:
+- investigação real;
+- comportamento deslocado.
+
+A regra é: **não interprete fora do contexto.**
+
+---
+
+## 44. A direção do corpo é comunicação
+
+Cães frequentemente preferem aproximações em curva.
+
+Aproximação frontal e direta pode ser mais intensa.
+
+Em encontros:
+- permita ângulo;
+- evite empurrar focinho com focinho;
+- mantenha guia com folga quando seguro;
+- saia se um cão tenta afastar.
+
+---
+
+## 45. A distância ideal muda ao longo do dia
+
+Depois de:
+- barulho intenso;
+- visita;
+- reação na rua;
+- procedimento;
+- sono interrompido;
+
+o cão pode tolerar menos interação.
+
+Isso é normal.
+
+Adapte expectativa ao estado daquele momento.
+
+---
+
+## 46. “Ele veio até mim, então quer carinho?”
+
+Nem sempre.
+
+O cão pode aproximar-se para:
+- cheirar;
+- investigar;
+- pedir comida;
+- passar por você;
+- buscar proximidade sem toque.
+
+Ofereça mão baixa e neutra, espere.
+
+Use o teste de pausa.
+
+---
+
+## 47. O que observar antes de pegar no colo
+
+Especialmente em cães pequenos:
+
+- aproxima-se voluntariamente?
+- corpo está solto?
+- tenta recuar?
+- vira a cabeça?
+- se agarra ao chão?
+
+Ser pequeno não significa gostar de ser levantado.
+
+Ensine um sinal previsível antes de pegar.
+
+---
+
+## 48. A linguagem corporal muda com equipamento
+
+Peitoral, roupa, colar elizabetano ou focinheira podem alterar movimento.
+
+Após colocar:
+- observe postura;
+- caminhar;
+- coçar;
+- congelar;
+- tentativa de remover.
+
+Algumas reações são adaptação; outras indicam ajuste ruim.
+
+---
+
+## 49. Fotografe relaxamento, não apenas momentos “bonitos”
+
+Crie um pequeno álbum:
+- deitado de lado;
+- sentado relaxado;
+- passeio tranquilo;
+- brincadeira;
+- descanso após refeição.
+
+Essas imagens ajudam a família a comparar expressões.
+
+---
+
+## 50. Exercício “antes e depois”
+
+Escolha uma situação cotidiana:
+- campainha;
+- passeio;
+- visita.
+
+Observe em três momentos:
+
+### Antes
+Como está o corpo?
+
+### Durante
+Qual foi o primeiro sinal de mudança?
+
+### Depois
+Quanto tempo leva para voltar ao normal?
+
+Essa última resposta revela muito sobre intensidade.
+
+---
+
+## 51. Recuperação é parte da leitura
+
+Dois cães podem reagir ao mesmo som.
+
+Um:
+- olha;
+- sacode;
+- volta a dormir.
+
+Outro:
+- late;
+- anda;
+- não come;
+- demora 30 minutos.
+
+A reação inicial importa, mas **a recuperação também**.
+
+---
+
+## 52. “Trigger stacking”: vários pequenos eventos somam
+
+Um cão pode tolerar:
+- barulho;
+- visita;
+- cão na rua;
+
+isoladamente.
+
+Mas no mesmo dia, a soma pode ultrapassar capacidade de lidar.
+
+Se houve dia intenso:
+- reduza exigências;
+- ofereça descanso;
+- escolha passeio simples.
+
+---
+
+## 53. Use linguagem descritiva, não rótulos
+
+Em vez de:
+
+“Ele é agressivo.”
+
+Registre:
+
+“Quando homem de chapéu chegou a 2 metros, congelou, fechou a boca, rosnou e recuou.”
+
+Descrição ajuda profissionais a trabalhar.
+
+Rótulos escondem contexto.
+
+---
+
+## 54. Um rosnado não prevê automaticamente uma mordida — mas merece respeito
+
+Nem todo rosnado termina em mordida.
+
+Mas ele diz que a situação está ruim o suficiente para o cão usar um sinal claro.
+
+Resposta segura:
+- pare;
+- dê espaço;
+- evite punição;
+- identifique gatilho.
+
+Se recorrente, investigue.
+
+---
+
+## 55. O que crianças podem aprender em 30 segundos
+
+Ensine três frases:
+
+1. **“Cão dormindo, deixa quieto.”**
+2. **“Cão comendo, dá espaço.”**
+3. **“Cão se afastou, não segue.”**
+
+Essas regras são simples e poderosas.
+
+---
+
+## 56. Visita segura: roteiro de 5 minutos
+
+Antes:
+- cão em zona segura;
+- visita entra e senta;
+- sem contato direto.
+
+Depois:
+- abra possibilidade de observação;
+- jogue recompensa no chão se apropriado;
+- deixe cão decidir aproximar.
+
+Se corpo endurece, aumente distância.
+
+---
+
+## 57. Encontro na rua: roteiro simples
+
+Ao ver outro cão:
+
+1. observe o seu;
+2. avalie distância;
+3. não deixe guias tensionarem;
+4. escolha seguir, fazer arco ou afastar;
+5. recompense check-in.
+
+Cumprimento é opção, não obrigação.
+
+---
+
+## 58. O vídeo em câmera lenta pode ensinar muito
+
+Se gravou uma interação segura e espontânea:
+- assista depois;
+- pause antes da reação;
+- procure primeiro sinal.
+
+Não use câmera lenta para diagnosticar sozinho.
+
+Use para treinar sua observação.
+
+---
+
+## 59. Escala pessoal do seu cão
+
+Crie três descrições específicas:
+
+### Verde do meu cão
+Ex.: boca aberta, cauda média, cheira, aceita comida.
+
+### Amarelo
+Ex.: fecha boca, orelhas para trás, fica perto da porta.
+
+### Vermelho
+Ex.: congela, fixa, rosna.
+
+Esse mapa individual é mais útil do que um poster genérico.
+
+---
+
+## 60. Meta final: perceber cedo e responder pequeno
+
+O objetivo deste guia cabe numa frase:
+
+**quanto mais cedo você percebe desconforto, menor precisa ser a intervenção.**
+
+Dar dois metros de espaço no sinal inicial é mais simples que lidar com uma reação explosiva depois.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com redação original MyPets e pesquisa em materiais de comportamento e bem-estar de:
