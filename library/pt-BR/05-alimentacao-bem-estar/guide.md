@@ -1129,6 +1129,15 @@ Antes de buscar “a melhor ração do mundo”, tente responder:
 Se a resposta for sim, você já construiu uma base de cuidado muito mais útil do que qualquer ranking genérico de marcas.
 
 
+---
+
+## 61. Uma nota sobre mudanças rápidas de peso
+
+Peso corporal deve ser interpretado junto com contexto. Uma alteração rápida, especialmente acompanhada de mudança de apetite, sede, urina, fezes, vômitos, disposição ou massa muscular, merece atenção profissional. Não tente “corrigir” apenas aumentando ou reduzindo comida sem entender a causa.
+
+Para acompanhamento doméstico, pese sempre que possível em condições semelhantes e registe a data. A tendência ao longo do tempo costuma ser mais informativa do que um único número.
+
+
 ## Referências de base desta edição
 
 Este guia foi desenvolvido com pesquisa e redação original MyPets, usando como referências principais:
