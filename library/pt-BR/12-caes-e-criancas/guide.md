@@ -470,6 +470,22 @@ Procure ajuda qualificada.
 
 ---
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Vídeo educativo Dogs Trust para segurança com cães:** renderizar `dogs-trust-education-intro-video` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Um cão pode pedir distância virando o corpo:** renderizar `commons-dog-turning-away` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Brincadeira: observar pausas e reciprocidade:** renderizar `commons-dogs-playing` a partir de `media/registry.yaml`.
+
+Os diagramas e quadros originais previstos para este guia estão definidos em `media/guide-media-pack.yaml` e devem ter versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 - **Dogs Trust — Dogs and Children:** supervisão, sinais de stress e intervenções precoces.
