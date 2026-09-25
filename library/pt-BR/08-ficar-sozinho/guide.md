@@ -1042,6 +1042,327 @@ Interrompa o experimento caseiro e procure ajuda quando:
 
 ---
 
+---
+
+## 66. Transforme a câmera num relatório simples
+
+Não assista apenas “se latiu”.
+
+Registre:
+
+- minuto em que levantou;
+- minuto em que foi à porta;
+- primeiro sinal de stress;
+- se voltou a deitar;
+- se comeu;
+- se dormiu;
+- quanto tempo levou para recuperar.
+
+Exemplo:
+
+| Minuto | Comportamento |
+|---:|---|
+| 0:30 | olhou porta |
+| 1:10 | voltou à cama |
+| 3:00 | começou a mastigar |
+| 8:00 | dormiu |
+
+Isso cria uma linha de base objetiva.
+
+---
+
+## 67. O exercício “porta sem drama”
+
+Faça 5 repetições:
+
+1. pegue chave;
+2. vá até a porta;
+3. toque na maçaneta;
+4. volte;
+5. sente.
+
+Depois:
+- abra;
+- feche;
+- volte.
+
+Sem aumentar tempo.
+
+A meta é reduzir poder preditivo de cada sinal de saída.
+
+---
+
+## 68. O exercício “sumir e voltar”
+
+Em casa:
+
+1. cão relaxa;
+2. você sai da vista por 1 segundo;
+3. volta;
+4. pausa;
+5. repete.
+
+Se continua relaxado:
+- 2 s;
+- 4 s;
+- 3 s;
+- 5 s.
+
+Variação evita uma escalada linear.
+
+---
+
+## 69. O exercício da barreira
+
+Use portão infantil:
+
+- cão de um lado;
+- tutor do outro;
+- ainda existe visão.
+
+Recompense:
+- ficar;
+- cheirar;
+- deitar.
+
+Depois:
+- aumente distância;
+- reduza visibilidade;
+- feche porta por um instante.
+
+---
+
+## 70. A sessão deve acabar antes do cão pedir socorro
+
+Um bom treino pode parecer “fácil demais”.
+
+Isso é positivo.
+
+O cérebro aprende:
+
+**“eu consigo ficar bem e a pessoa volta.”**
+
+Não é necessário levar até o limite em toda sessão.
+
+---
+
+## 71. Faça um calendário de ausências reais
+
+Marque:
+
+- segunda: trabalho 4h;
+- terça: casa;
+- quarta: consulta 1h;
+- quinta: trabalho 6h.
+
+Depois compare com limite atual do cão.
+
+Onde houver diferença, planeje:
+- familiar;
+- passeador;
+- sitter;
+- creche adequada.
+
+---
+
+## 72. O “buffer” antes da saída
+
+Reserve 15–30 minutos sem grande excitação.
+
+Evite:
+
+- sair imediatamente após brincadeira intensa;
+- discutir;
+- correr pela casa;
+- preparar tudo no último segundo.
+
+Faça transição previsível.
+
+---
+
+## 73. Um brinquedo especial não precisa resolver tudo
+
+Se o cão come o brinquedo e depois entra em pânico, o brinquedo não resolveu a emoção.
+
+Use alimento como apoio, não como diagnóstico.
+
+A pergunta continua:
+
+**ele consegue relaxar?**
+
+---
+
+## 74. O que fazer se não toca na comida
+
+Se normalmente adora e, durante ausência, ignora:
+
+- reduza duração;
+- simplifique contexto;
+- observe vídeo;
+- procure ajuda se persistente.
+
+Recusa alimentar pode ser um sinal de que a situação está difícil demais.
+
+---
+
+## 75. Não aumente dois desafios juntos
+
+Exemplo ruim:
+
+- hoje 5 minutos no quarto;
+- amanhã 20 minutos fora do prédio.
+
+Aumentou:
+- duração;
+- distância;
+- contexto.
+
+Mude uma variável.
+
+---
+
+## 76. A primeira saída “de verdade”
+
+Quando treinos curtos estão sólidos:
+
+1. rotina normal;
+2. saída de 1–2 minutos;
+3. caminhe até ponto próximo;
+4. volte;
+5. reveja vídeo.
+
+Não faça a primeira saída real já para supermercado por uma hora.
+
+---
+
+## 77. A regra 80/20
+
+Uma estratégia prática:
+
+- 80% repetições fáceis;
+- 20% um pouco mais difíceis.
+
+Não é uma regra científica; é uma forma de manter taxa alta de sucesso.
+
+---
+
+## 78. Cães que ficam bem com um cuidador
+
+Isso pode ser ótimo manejo.
+
+Use:
+- familiar;
+- sitter;
+- vizinho responsável.
+
+Treino de autonomia pode continuar em paralelo.
+
+---
+
+## 79. Cães que sofrem apenas em determinados horários
+
+Observe:
+- noite;
+- depois de passeio;
+- antes da refeição;
+- quando vizinhos chegam.
+
+O gatilho pode incluir ambiente, não apenas ausência.
+
+---
+
+## 80. Barulho do corredor
+
+Se o cão acorda com todo ruído:
+
+- cama mais interna;
+- ruído branco;
+- persiana;
+- barreira.
+
+A qualidade do descanso influencia tolerância.
+
+---
+
+## 81. O retorno não precisa virar festa
+
+Entre.
+
+Coloque coisas no lugar.
+
+Deixe o cão aproximar.
+
+Cumprimente de forma tranquila.
+
+Se está muito excitado, espere alguns segundos de segurança antes de grande interação.
+
+---
+
+## 82. Checklist da sessão
+
+Antes:
+- [ ] eliminou;
+- [ ] água;
+- [ ] ambiente seguro;
+- [ ] câmera;
+- [ ] duração definida.
+
+Depois:
+- [ ] comeu?
+- [ ] deitou?
+- [ ] vocalizou?
+- [ ] tentou sair?
+- [ ] recuperação?
+- [ ] próximo passo?
+
+---
+
+## 83. Progresso real em 4 métricas
+
+Acompanhe:
+
+### 1. Duração
+Quanto tempo tolera.
+
+### 2. Intensidade
+Quanto stress aparece.
+
+### 3. Recuperação
+Quanto demora para voltar ao normal.
+
+### 4. Generalização
+Funciona em horários/contextos diferentes?
+
+Isso dá uma visão melhor que “ficou 10 minutos”.
+
+---
+
+## 84. Quando o tutor precisa desacelerar
+
+Se você está:
+- aumentando rápido;
+- testando todos os dias;
+- frustrado;
+- monitorando obsessivamente;
+
+volte a um nível fácil.
+
+Treino de separação pode exigir paciência.
+
+---
+
+## 85. Cartão visual “SEGURO”
+
+O reader pode mostrar:
+
+**S — Satisfazer necessidades**  
+**E — Escolher duração fácil**  
+**G — Gravar com câmera**  
+**U — Usar progressão gradual**  
+**R — Retornar antes do pânico**  
+**O — Observar recuperação**
+
+
 ## Recursos visuais do reader
 
 > [!MEDIA]
