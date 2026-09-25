@@ -1,0 +1,65 @@
+reviewed_at: 2026-09-25
+policy:
+  - "Prefer original MyPets media."
+  - "For third-party video, embed/link from the official publisher rather than download/rehost."
+  - "For Creative Commons media, preserve attribution, source URL and license terms."
+  - "Do not hotlink production images indefinitely; ingest a licensed copy into managed storage with attribution metadata."
+
+media:
+  - id: wsava-body-condition-video
+    type: video-embed
+    title: Body Condition Score
+    publisher: WSAVA
+    source_page: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    embed_url: https://www.youtube.com/watch?v=tf_-rwxqHYU
+    license_action: embed-only
+    topics: [nutrition, body-condition]
+
+  - id: wsava-muscle-condition-video
+    type: video-embed
+    title: How to perform a Muscle Condition Exam
+    publisher: WSAVA
+    source_page: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    embed_url: https://www.youtube.com/watch?v=fzEruEe-WRs
+    license_action: embed-only
+    topics: [nutrition, muscle-condition]
+
+  - id: commons-dog-clicker-training
+    type: image
+    title: Dog clicker training
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_clicker_training.jpg
+    license: CC-BY-SA-3.0
+    attribution_required: true
+    topics: [training, clicker]
+
+  - id: commons-beagle-puppy-crate
+    type: image
+    title: Beagle Puppy inside a crate
+    source_page: https://commons.wikimedia.org/wiki/File:Beagle_Puppy_inside_a_crate.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [puppy, crate]
+
+  - id: commons-labrador
+    type: image
+    title: Labrador Retriever Dog
+    source_page: https://commons.wikimedia.org/wiki/File:Labrador_Retriever_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, labrador]
+
+  - id: commons-beagle-golden
+    type: image
+    title: Beagle with Golden Retriever
+    source_page: https://commons.wikimedia.org/wiki/File:Beagle_with_Golden_Retriever.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, socialization]
+
+  - id: commons-clicker-object
+    type: image
+    title: Clicker
+    source_page: https://commons.wikimedia.org/wiki/File:Clicker_(no_background).png
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [training]
