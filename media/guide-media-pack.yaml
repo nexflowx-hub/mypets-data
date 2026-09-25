@@ -1,6 +1,7 @@
 version: 1.0.0-draft
 reviewed_at: 2026-09-25
 purpose: "Guide-by-guide visual/media production map for MyPets Digital Library launch"
+master_map: media/media-placement-master.json
 principles:
   - "Use media to teach, orient or create emotional rhythm; do not decorate every paragraph."
   - "Aim for one meaningful visual interruption every 2–4 reading screens."
@@ -8,6 +9,7 @@ principles:
   - "Videos remain embedded from official publishers."
   - "Original diagrams should be rendered as accessible HTML/SVG components and have printable equivalents."
   - "All figures need alt text, captions where useful, and attribution when required."
+  - "All guide covers use the official round MyPets logo/medallion as an editorial seal; print/PDF may also use it as a low-opacity round watermark."
 
 guides:
   guide-001:
@@ -105,6 +107,16 @@ guides:
       - id: breeds-before-choice
         type: decision-tree
         title: "Antes de escolher uma raça"
+      - id: breeds-atlas-photo-grid
+        type: photo-grid
+        title: "Raças parecidas por tamanho, diferentes por função"
+        source: breed-atlas
+      - id: breeds-profile-anatomy
+        type: annotated-card
+        title: "Como ler um perfil de raça"
+      - id: breeds-reality-check-card
+        type: checklist-card
+        title: "Semana de vida simulada antes de escolher"
     target_media_count: 20
     note: "Breed atlas structured dataset should progressively reach one real image per breed."
 
