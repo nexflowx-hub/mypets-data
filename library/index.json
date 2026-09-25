@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0-draft",
+  "version": "2.2.0-draft",
   "collection": {
     "id": "mypets-cuidar-melhor",
     "title": "Coleção MyPets — Cuidar Melhor",
@@ -180,6 +180,40 @@
       ],
       "contentPath": "library/pt-BR/10-higiene-saude-oral/guide.md",
       "previewPath": "library/pt-BR/10-higiene-saude-oral/preview.md"
+    },
+    {
+      "id": "guide-011",
+      "slug": "adotei-cao-adulto",
+      "legacySlugs": [],
+      "title": "Adotei um Cão Adulto: E Agora?",
+      "subtitle": "Primeiros dias, segurança, rotina, vínculo, outros animais e adaptação sem pressa.",
+      "description": "Chegada, rotina, fuga, passeios, crianças, outros animais, autonomia e um plano dos primeiros 30 dias.",
+      "readingMinutes": 45,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "adoção",
+        "cão adulto",
+        "adaptação"
+      ],
+      "contentPath": "library/pt-BR/11-adotei-cao-adulto/guide.md",
+      "previewPath": "library/pt-BR/11-adotei-cao-adulto/preview.md"
+    },
+    {
+      "id": "guide-012",
+      "slug": "caes-e-criancas",
+      "legacySlugs": [],
+      "title": "Cães e Crianças: Convivência Segura, Respeitosa e Feliz",
+      "subtitle": "Supervisão, regras simples, linguagem corporal, bebés, brincadeiras e prevenção de conflitos.",
+      "description": "Supervisão ativa, sinais de stress, comida, brinquedos, bebés, visitas, barreiras e plano familiar de 7 dias.",
+      "readingMinutes": 40,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "crianças",
+        "segurança",
+        "comportamento"
+      ],
+      "contentPath": "library/pt-BR/12-caes-e-criancas/guide.md",
+      "previewPath": "library/pt-BR/12-caes-e-criancas/preview.md"
     }
   ]
 }
