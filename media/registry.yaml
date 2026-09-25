@@ -24,6 +24,22 @@ media:
     license_action: embed-only
     topics: [nutrition, muscle-condition]
 
+  - id: rspcasa-sit-force-free-video
+    type: video-embed
+    title: Teach your dog to sit force-free
+    publisher: RSPCA South Australia
+    embed_url: https://www.youtube.com/watch?v=Q1AskPZXWR8
+    license_action: embed-only
+    topics: [training, sit, force-free]
+
+  - id: rspcasa-free-training-lesson-1
+    type: video-embed
+    title: Free dog training series — lesson 1
+    publisher: RSPCA South Australia
+    embed_url: https://www.youtube.com/watch?v=NFSkzAuCjcI
+    license_action: embed-only
+    topics: [training, force-free]
+
   - id: commons-dog-clicker-training
     type: image
     title: Dog clicker training
@@ -47,6 +63,14 @@ media:
     license: CC-BY-SA-4.0
     attribution_required: true
     topics: [breed, labrador]
+
+  - id: commons-golden-retriever-mav-usp
+    type: image
+    title: Golden Retriever at MAV-USP
+    source_page: https://commons.wikimedia.org/wiki/File:Golden_Retriever_at_MAV-USP.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, golden-retriever]
 
   - id: commons-beagle-golden
     type: image
