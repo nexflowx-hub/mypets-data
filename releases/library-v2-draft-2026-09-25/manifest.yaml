@@ -26,7 +26,7 @@ content:
   - id: guide-004
     path: library/pt-BR/04-guia-das-racas
     editorial_status: draft-expanded
-    approx_words: 5013
+    approx_words: 6142
   - id: guide-005
     path: library/pt-BR/05-alimentacao-bem-estar
     editorial_status: draft-expanded
@@ -59,6 +59,16 @@ content:
     path: library/pt-BR/12-caes-e-criancas
     editorial_status: draft-new
     approx_words: 1350
+  - id: guide-013
+    path: library/pt-BR/13-enriquecimento
+    editorial_status: draft-new
+    approx_words: 2145
+
+structured_content:
+  breed_atlas: library/pt-BR/breeds/index.json
+  breed_count: 47
+  source_registry: sources/registry.yaml
+  media_registry: media/registry.yaml
 
 source_policy:
   original_mypets_prose: true
@@ -67,7 +77,7 @@ source_policy:
   copyrighted_reference_material: facts_and_paraphrase_only
 
 launch_scope:
-  catalog_guides: 12
+  catalog_guides: 13
   reader_source: canonical-markdown
   print_output: browser-print-first
   premium_content_requires_entitlement: true
