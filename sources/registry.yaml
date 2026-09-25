@@ -171,3 +171,31 @@ sources:
     topics: [breed-choice, lifestyle]
     authority: medium-high
     reuse: facts-and-paraphrase
+
+
+  - id: fda-complete-balanced
+    publisher: U.S. Food and Drug Administration
+    title: Complete and Balanced Pet Food
+    url: https://www.fda.gov/animal-veterinary/animal-health-literacy/complete-and-balanced-pet-food
+    topics: [nutrition, labels, complete-and-balanced]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use to explain nutritional adequacy statements and the difference between complete diets and treats/supplements."
+
+  - id: aafco-reading-labels
+    publisher: Association of American Feed Control Officials
+    title: Reading Labels
+    url: https://aafco.org/consumers/understanding-pet-food/reading-labels/
+    topics: [nutrition, labels, life-stage]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Useful for understanding nutritional adequacy statements and life-stage wording; jurisdiction-specific labeling must still be checked locally."
+
+  - id: rspca-au-recall-2025
+    publisher: RSPCA Australia Knowledgebase
+    title: How can I teach my dog recall (to come when called)?
+    url: https://kb.rspca.org.au/categories/companion-animals/dogs/training/how-can-i-teach-my-dog-recall-to-come-when-called
+    topics: [training, recall, reward-based]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Updated 2025; use as a current practical recall reference."
