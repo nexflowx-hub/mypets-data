@@ -1,0 +1,13 @@
+guide_id: guide-005
+reviewed_at: 2026-09-25
+sources:
+  - source_id: wsava-nutrition
+    applies_to: [principios, condicao-corporal, rotulo, petiscos, historico-dietario]
+  - source_id: aspca-toxic-foods
+    applies_to: [alimentos-perigosos, intoxicacao]
+  - source_id: aaha-life-stage
+    applies_to: [fases-da-vida, prevencao]
+  - source_id: merck-puppy-care
+    applies_to: [filhotes]
+  - source_id: wsava-dental
+    applies_to: [mastigaveis, saude-oral]
