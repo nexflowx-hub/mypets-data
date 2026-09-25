@@ -1,0 +1,35 @@
+collection:
+  id: mypets-cuidar-melhor
+  title: "Coleção MyPets — Cuidar Melhor"
+  locale: pt-BR
+  campaign: ebook-racao
+  campaign_unit: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
+  status: draft-v2
+
+guides:
+  - id: guide-001
+    order: 1
+    slug: cuidados-essenciais
+    title: Cuidados Essenciais com o Seu Cão
+    path: pt-BR/01-cuidados-essenciais
+  - id: guide-002
+    order: 2
+    slug: primeiros-30-dias
+    title: Os Primeiros 30 Dias com um Filhote
+    path: pt-BR/02-primeiros-30-dias
+  - id: guide-003
+    order: 3
+    slug: treino-gentil
+    title: "Treino Gentil: 7 Comandos para o Dia a Dia"
+    path: pt-BR/03-treino-gentil
+  - id: guide-004
+    order: 4
+    slug: guia-das-racas
+    title: "Guia das Raças: Escolha pelo Estilo de Vida"
+    path: pt-BR/04-guia-das-racas
+  - id: guide-005
+    order: 5
+    slug: alimentacao-bem-estar
+    title: Rotina de Alimentação e Bem-Estar
+    path: pt-BR/05-alimentacao-bem-estar
