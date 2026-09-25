@@ -959,6 +959,29 @@ Cuidado de qualidade é adaptação contínua.
 
 ---
 
+---
+
+## 35. O painel doméstico de bem-estar
+
+Uma forma simples de evitar que pequenas mudanças passem despercebidas é manter um painel mensal com cinco perguntas:
+
+1. **Come e bebe como de costume?**
+2. **Move-se como de costume?**
+3. **Dorme e descansa como de costume?**
+4. **Interage e explora como de costume?**
+5. **Elimina como de costume?**
+
+O valor está na comparação com o próprio cão. Um animal naturalmente tranquilo não precisa virar um cão atlético para estar bem; um cão muito ativo que começa a evitar movimento, por outro lado, merece atenção.
+
+### Regra de ouro: mudança + persistência + impacto
+
+Uma pequena alteração isolada pode ser banal. Quanto mais a mudança persiste, se intensifica ou interfere em comer, beber, respirar, andar, dormir, eliminar ou interagir, mais importante é procurar avaliação.
+
+### Arquivo útil no celular
+
+Crie uma pasta com foto atual, identificação, microchip, medicações em uso, alergias conhecidas, contatos veterinários e vídeos curtos de marcha e comportamento normais. Esses registos não substituem exame, mas ajudam a explicar o que mudou.
+
+
 ## Referências de base desta edição
 
 Esta edição foi construída com consulta a diretrizes e materiais educativos de organizações como AAHA, WSAVA, AVSAB, AVMA, ASPCA e Merck Veterinary Manual. A Biblioteca MyPets mantém o registro de fontes e data de revisão no repositório editorial.
