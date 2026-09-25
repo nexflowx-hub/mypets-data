@@ -982,6 +982,22 @@ Uma pequena alteração isolada pode ser banal. Quanto mais a mudança persiste,
 Crie uma pasta com foto atual, identificação, microchip, medicações em uso, alergias conhecidas, contatos veterinários e vídeos curtos de marcha e comportamento normais. Esses registos não substituem exame, mas ajudam a explicar o que mudou.
 
 
+---
+
+## Recursos visuais do reader
+
+> [!MEDIA]
+> **Descanso e rotina:** renderizar o media aprovado `commons-dog-sleeping-cc0` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Passeio e vínculo:** renderizar o media aprovado `commons-dog-owner-walking` a partir de `media/registry.yaml`.
+
+> [!MEDIA]
+> **Higiene e observação do corpo:** renderizar o media aprovado `commons-dog-grooming` a partir de `media/registry.yaml`.
+
+Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
+
+
 ## Referências de base desta edição
 
 Esta edição foi construída com consulta a diretrizes e materiais educativos de organizações como AAHA, WSAVA, AVSAB, AVMA, ASPCA e Merck Veterinary Manual. A Biblioteca MyPets mantém o registro de fontes e data de revisão no repositório editorial.
