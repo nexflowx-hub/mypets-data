@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0-draft",
+  "version": "2.4.0-rc2",
   "collection": {
     "id": "mypets-cuidar-melhor",
     "title": "Coleção MyPets — Cuidar Melhor",
@@ -222,8 +222,8 @@
       "slug": "50-ideias-enriquecimento",
       "legacySlugs": [],
       "title": "50 Ideias de Enriquecimento para Cães",
-      "subtitle": "Farejo, comida, aprendizagem, brincadeira, exploração e calma com atividades simples para a vida real.",
-      "description": "50 atividades práticas, de baixo custo e adaptáveis para usar nariz, cérebro, corpo e descanso de forma segura.",
+      "subtitle": "Brincadeiras, farejo, desafios mentais e atividades simples para gastar energia com qualidade e enriquecer a rotina do seu cão.",
+      "description": "50 atividades práticas para enriquecer a vida do seu cão com farejo, brincadeiras, desafios mentais, movimento e descanso.",
       "readingMinutes": 50,
       "image": "/images/cta-dog.jpg",
       "tags": [
