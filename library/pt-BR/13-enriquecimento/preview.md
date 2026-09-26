@@ -1,6 +1,6 @@
 # 50 Ideias de Enriquecimento para Cães
 
-Enriquecimento não precisa ser caro. O objetivo é dar oportunidades para cheirar, procurar, aprender, brincar e depois descansar.
+Enriquecer a rotina do seu cão não precisa ser caro. Este guia reúne 50 brincadeiras, jogos de farejo, desafios mentais e atividades simples para gastar energia com qualidade, aprender e depois descansar.
 
 ## Comece simples
 
