@@ -45,6 +45,7 @@ media:
     title: Dog clicker training
     source_page: https://commons.wikimedia.org/wiki/File:Dog_clicker_training.jpg
     license: CC-BY-SA-3.0
+    attribution: Elf (Ellen Levy Finch), English Wikipedia
     attribution_required: true
     topics: [training, clicker]
 
@@ -53,6 +54,7 @@ media:
     title: Beagle Puppy inside a crate
     source_page: https://commons.wikimedia.org/wiki/File:Beagle_Puppy_inside_a_crate.jpg
     license: CC-BY-SA-4.0
+    attribution: Slyronit
     attribution_required: true
     topics: [puppy, crate]
 
@@ -61,14 +63,16 @@ media:
     title: Labrador Retriever Dog
     source_page: https://commons.wikimedia.org/wiki/File:Labrador_Retriever_Dog.jpg
     license: CC-BY-SA-4.0
+    attribution: OleKD
     attribution_required: true
     topics: [breed, labrador]
 
   - id: commons-golden-retriever-mav-usp
     type: image
     title: Golden Retriever at MAV-USP
-    source_page: https://commons.wikimedia.org/wiki/File:Golden_Retriever_at_MAV-USP.jpg
+    source_page: https://commons.wikimedia.org/wiki/File:Golden_Retriever_dog_at_MAV-USP.jpg
     license: CC-BY-SA-4.0
+    attribution: Museu de Anatomia Veterinária da FMVZ USP / Wagner Souza e Silva
     attribution_required: true
     topics: [breed, golden-retriever]
 
@@ -85,6 +89,7 @@ media:
     title: Clicker
     source_page: https://commons.wikimedia.org/wiki/File:Clicker_(no_background).png
     license: CC-BY-SA-4.0
+    attribution: coolgurl5555
     attribution_required: true
     topics: [training]
 
