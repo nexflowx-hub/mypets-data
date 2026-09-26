@@ -1518,7 +1518,7 @@ Os diagramas e quadros originais previstos para este guia estão definidos em `m
 
 - **WSAVA — 2026 Global Dental Guidelines:** prevenção odontológica e importância do cuidado profissional.
 - **WSAVA — Introducing Toothbrushing:** introdução gradual da escovação.
-- **AAHA — Dental Disease and Home Care (updated 2026):** escovação diária, produtos dentais e sinais de doença.
+- **AAHA — Dental Disease and Home Care (2024):** escovação diária, produtos dentais e sinais de doença.
 - **AVSAB — Humane Dog Training:** abordagem baseada em reforço e redução de medo.
 
 ---
