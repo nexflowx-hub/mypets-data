@@ -1,0 +1,13 @@
+guide_id: guide-009
+reviewed_at: 2026-09-25
+sources:
+  - source_id: dogs-trust-flat
+    applies_to: [compatibilidade, ambiente, rotina]
+  - source_id: dogs-trust-enrichment
+    applies_to: [enriquecimento, farejo, jogos]
+  - source_id: dogs-trust-settle
+    applies_to: [relaxamento]
+  - source_id: rspca-sniffari
+    applies_to: [passeio, farejo]
+  - source_id: rspca-left-alone
+    applies_to: [autonomia]

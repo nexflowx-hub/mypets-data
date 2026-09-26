@@ -1,0 +1,948 @@
+reviewed_at: 2026-09-25
+policy:
+  - "Prefer original MyPets media."
+  - "For third-party video, embed/link from the official publisher rather than download/rehost."
+  - "For Creative Commons media, preserve attribution, source URL and license terms."
+  - "Do not hotlink production images indefinitely; ingest a licensed copy into managed storage with attribution metadata."
+
+media:
+  - id: wsava-body-condition-video
+    type: video-embed
+    title: Body Condition Score
+    publisher: WSAVA
+    source_page: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    embed_url: https://www.youtube.com/watch?v=tf_-rwxqHYU
+    license_action: embed-only
+    topics: [nutrition, body-condition]
+
+  - id: wsava-muscle-condition-video
+    type: video-embed
+    title: How to perform a Muscle Condition Exam
+    publisher: WSAVA
+    source_page: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    embed_url: https://www.youtube.com/watch?v=fzEruEe-WRs
+    license_action: embed-only
+    topics: [nutrition, muscle-condition]
+
+  - id: rspcasa-sit-force-free-video
+    type: video-embed
+    title: Teach your dog to sit force-free
+    publisher: RSPCA South Australia
+    embed_url: https://www.youtube.com/watch?v=Q1AskPZXWR8
+    license_action: embed-only
+    topics: [training, sit, force-free]
+
+  - id: rspcasa-free-training-lesson-1
+    type: video-embed
+    title: Free dog training series — lesson 1
+    publisher: RSPCA South Australia
+    embed_url: https://www.youtube.com/watch?v=NFSkzAuCjcI
+    license_action: embed-only
+    topics: [training, force-free]
+
+  - id: commons-dog-clicker-training
+    type: image
+    title: Dog clicker training
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_clicker_training.jpg
+    license: CC-BY-SA-3.0
+    attribution_required: true
+    topics: [training, clicker]
+
+  - id: commons-beagle-puppy-crate
+    type: image
+    title: Beagle Puppy inside a crate
+    source_page: https://commons.wikimedia.org/wiki/File:Beagle_Puppy_inside_a_crate.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [puppy, crate]
+
+  - id: commons-labrador
+    type: image
+    title: Labrador Retriever Dog
+    source_page: https://commons.wikimedia.org/wiki/File:Labrador_Retriever_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, labrador]
+
+  - id: commons-golden-retriever-mav-usp
+    type: image
+    title: Golden Retriever at MAV-USP
+    source_page: https://commons.wikimedia.org/wiki/File:Golden_Retriever_at_MAV-USP.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, golden-retriever]
+
+  - id: commons-beagle-golden
+    type: image
+    title: Beagle with Golden Retriever
+    source_page: https://commons.wikimedia.org/wiki/File:Beagle_with_Golden_Retriever.jpg
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [breed, socialization]
+
+  - id: commons-clicker-object
+    type: image
+    title: Clicker
+    source_page: https://commons.wikimedia.org/wiki/File:Clicker_(no_background).png
+    license: CC-BY-SA-4.0
+    attribution_required: true
+    topics: [training]
+
+
+  - id: dogs-trust-recall-video
+    type: video-embed
+    title: Teach your dog to come back
+    publisher: Dogs Trust Dog School
+    source_page: https://www.youtube.com/watch?v=tVaH30lld6k
+    embed_url: https://www.youtube.com/watch?v=tVaH30lld6k
+    license_action: embed-only
+    topics: [training, recall]
+    notes: "Official Dogs Trust Dog School video. Embed from YouTube; do not download/rehost."
+
+  - id: dogs-trust-leave-it-video
+    type: video-embed
+    title: Teach your dog to leave it
+    publisher: Dogs Trust Dog School
+    source_page: https://www.youtube.com/watch?v=9o-8K17uTDA
+    embed_url: https://www.youtube.com/watch?v=9o-8K17uTDA
+    license_action: embed-only
+    topics: [training, leave-it, safety]
+    notes: "Official Dogs Trust Dog School video. Embed from YouTube; do not download/rehost."
+
+
+  - id: guide-dogs-loose-lead-video
+    type: video-embed
+    title: Top 5 Dog Walking Tips — Loose Lead Walking
+    publisher: Guide Dogs
+    source_page: https://www.youtube.com/watch?v=JbRG_EjUiV8
+    embed_url: https://www.youtube.com/watch?v=JbRG_EjUiV8
+    license_action: embed-only
+    topics: [walking, loose-lead, training]
+    notes: "Official Guide Dogs video. Embed from YouTube; do not download/rehost."
+
+
+  - id: commons-vizsla-dog
+    type: image
+    title: Hungarian Vizsla
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:VizslaDog.jpg
+    license: CC-BY-SA-4.0
+    attribution: ZakOreo
+    attribution_required: true
+    topics: [breed, vizsla]
+
+  - id: commons-weimaraner-dog
+    type: image
+    title: Weimaraner
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Weimaraner_Dog.jpg
+    license: CC0-1.0
+    attribution: Sciencia58
+    attribution_required: false
+    topics: [breed, weimaraner]
+
+  - id: commons-english-springer-spaniel
+    type: image
+    title: English Springer Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_springer_spaniel.jpg
+    license: Public-Domain
+    attribution: Trice 85
+    attribution_required: false
+    topics: [breed, english-springer-spaniel]
+
+  - id: commons-shar-pei
+    type: image
+    title: Shar-Pei
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shar_pei.jpg
+    license: CC-BY-SA-3.0
+    attribution: UpdOWN
+    attribution_required: true
+    topics: [breed, shar-pei]
+
+  - id: commons-bichon-frise
+    type: image
+    title: Bichon Frisé and Poodle
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Bichon_Frise_and_Poodle_breed_dogs.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nancy Wong
+    attribution_required: true
+    topics: [breed, bichon-frise, poodle]
+
+  - id: commons-shetland-sheepdog
+    type: image
+    title: Shetland Sheepdog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shetland_Sheepdog.jpg
+    license: Public-Domain
+    attribution: Kokostephi
+    attribution_required: false
+    topics: [breed, shetland-sheepdog]
+
+  - id: commons-lhasa-apso
+    type: image
+    title: Lhasa Apso
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Lhasaapso.jpg
+    license: CC-BY-SA-3.0
+    attribution: Lhasaapso
+    attribution_required: true
+    topics: [breed, lhasa-apso]
+
+  - id: commons-saint-bernard
+    type: image
+    title: Saint Bernard
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Saint_bernard_dog.jpg
+    license: CC-BY-4.0
+    attribution: Dr.don16
+    attribution_required: true
+    topics: [breed, saint-bernard]
+
+  - id: commons-papillon
+    type: image
+    title: Papillon
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Papillon_dog.jpeg
+    license: CC-BY-SA-4.0
+    attribution: TuckTheNugget
+    attribution_required: true
+    topics: [breed, papillon]
+
+  - id: commons-boston-terrier
+    type: image
+    title: Boston Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Boston_Terrier.jpg
+    license: CC-BY-SA-2.0
+    attribution: Judith Garcia
+    attribution_required: true
+    topics: [breed, boston-terrier]
+
+  - id: commons-rough-collie
+    type: image
+    title: Rough Collie
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Rough_Collie.jpg
+    license: CC-BY-SA-2.0
+    attribution: B@rberousse
+    attribution_required: true
+    topics: [breed, rough-collie]
+
+  - id: commons-afghan-hound
+    type: image
+    title: Afghan Hound
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:AfghanHound.jpg
+    license: CC-BY-SA-2.0
+    attribution: Bryan Ungard
+    attribution_required: true
+    topics: [breed, afghan-hound]
+
+
+  - id: commons-calming-signals-dogs
+    type: image
+    title: Calming signals of dogs
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Calming_signals_of_dogs.jpg
+    license: CC0-1.0
+    attribution: Sciencia58
+    attribution_required: false
+    topics: [body-language, calming-signals, communication]
+
+  - id: commons-dog-play-bow
+    type: image
+    title: Dog performing a play bow
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Vorderkoerpertiefstellung_THWZ_(cropped).jpg
+    license: CC-BY-SA-3.0
+    attribution: Thomas Zimmermann (THWZ)
+    attribution_required: true
+    topics: [body-language, play, communication]
+
+  - id: commons-dog-turning-away
+    type: image
+    title: Dog turning away during approach
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Full_Body_when_approached.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nishi.LovesBees
+    attribution_required: true
+    topics: [body-language, distance, calming-signals]
+
+  - id: commons-dog-owner-walking
+    type: image
+    title: Dog walking with owner
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_with_owner_walking.jpg
+    license: CC-BY-4.0
+    attribution: Anish Anilkumar
+    attribution_required: true
+    topics: [walking, leash, relationship]
+
+  - id: commons-puppy-walking-cc0
+    type: image
+    title: Newfoundland puppy on leash
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Puppy-dog-walking.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    topics: [puppy, walking, leash]
+
+  - id: commons-dog-grooming
+    type: image
+    title: Dog grooming with shedding blade
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_grooming.JPG
+    license: CC-BY-SA-3.0
+    attribution: Mickey Samuni-Blank
+    attribution_required: true
+    topics: [grooming, coat, hygiene]
+
+  - id: commons-dog-grooming-kit
+    type: image
+    title: Dog grooming kit
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_Grooming_Kit.jpg
+    license: CC-BY-2.0
+    attribution: Michael Coghlan
+    attribution_required: true
+    topics: [grooming, tools, hygiene]
+
+  - id: commons-dog-sleeping-cc0
+    type: image
+    title: Dog sleeping
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_Sleeping.jpg
+    license: CC0-1.0
+    attribution: Ritchde
+    attribution_required: false
+    topics: [rest, sleep, settling, home]
+
+  - id: commons-dogs-playing
+    type: image
+    title: Border Collie and Labrador playing
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dogs_Playing.JPG
+    license: CC-BY-SA-3.0
+    attribution: Anthony1592
+    attribution_required: true
+    topics: [play, social, body-language]
+
+  - id: dogs-trust-dig-box-video
+    type: video-embed
+    title: How to make a dig box for your dog
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    embed_url: https://www.youtube.com/watch?v=_ATSGFJln98
+    license_action: embed-only
+    topics: [enrichment, dig-box, food-search]
+    notes: "Official Dogs Trust-linked YouTube video. Embed only."
+
+  - id: dogs-trust-yoga-mat-enrichment-video
+    type: video-embed
+    title: Food enrichment with a yoga mat
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    embed_url: https://www.youtube.com/watch?v=k11wblCqXqw
+    license_action: embed-only
+    topics: [enrichment, food-search, puzzle]
+    notes: "Official Dogs Trust-linked YouTube video. Embed only."
+
+  - id: dogs-trust-education-intro-video
+    type: video-embed
+    title: Welcome to Dogs Trust Education
+    publisher: Dogs Trust
+    source_page: https://www.dogstrust.org.uk/about-us/what-we-do/professionals/education
+    embed_url: https://www.youtube.com/watch?v=xXS93UG-ISw
+    license_action: embed-only
+    topics: [children, safety, education]
+    notes: "Official Dogs Trust education video. Embed only."
+
+
+  - id: mypets-hero-dogs
+    type: image
+    title: MyPets hero dogs
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/hero.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [brand, dogs, family]
+
+  - id: mypets-dog-care
+    type: image
+    title: MyPets dog care
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-acolheu.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [care, adoption, home]
+
+  - id: mypets-dog-training
+    type: image
+    title: MyPets dog training
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/cta-dog.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [training, campaign, dog]
+
+  - id: mypets-dog-rescue
+    type: image
+    title: MyPets dog rescue
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-resgatou.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [rescue, adoption, dog]
+
+  - id: mypets-dog-food
+    type: image
+    title: MyPets dog food
+    publisher: MyPets
+    source_page: internal
+    asset_path: /images/card-alimentou.jpg
+    license: mypets-owned
+    attribution_required: false
+    topics: [nutrition, feeding, campaign]
+
+
+  - id: commons-border-collie
+    type: image
+    title: Border Collie
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Border_Collie_dog.jpg
+    license: CC-BY-3.0
+    attribution: Nicole Gordine
+    attribution_required: true
+    topics: [breed, border-collie]
+
+  - id: commons-shih-tzu
+    type: image
+    title: Shih Tzu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shih_tzu_dog.jpg
+    license: CC0-1.0
+    attribution: Marcelo RosaMelo
+    attribution_required: false
+    topics: [breed, shih-tzu]
+
+  - id: commons-dachshund
+    type: image
+    title: Dachshund
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dachshund_Dog.jpg
+    license: CC0-1.0
+    attribution: Prasanth C7
+    attribution_required: false
+    topics: [breed, dachshund]
+
+  - id: commons-pug-nancy-wong
+    type: image
+    title: Pug
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_PUG_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Nancy Wong
+    attribution_required: true
+    topics: [breed, pug]
+
+  - id: commons-boxer-public-domain
+    type: image
+    title: Boxer
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dog_boxer.jpg
+    license: Public-Domain
+    attribution: Jesusfreak210
+    attribution_required: false
+    topics: [breed, boxer]
+
+
+  - id: commons-german-shepherd
+    type: image
+    title: German Shepherd Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:German_Shepherd_Dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: MrPanyGoff
+    attribution_required: true
+    topics: [breed, german-shepherd-dog]
+
+  - id: commons-rottweiler-cc0
+    type: image
+    title: Rottweiler dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Rottweiler-dog.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    topics: [breed, rottweiler]
+
+  - id: commons-maltese-crystal
+    type: image
+    title: Maltese dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1Maltese.jpg
+    license: CC-BY-2.0
+    attribution: CRYSTAL ROLFE
+    attribution_required: true
+    topics: [breed, maltese]
+
+  - id: commons-chihuahua-public-domain
+    type: image
+    title: Chihuahua dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Chihuahua_dog.jpg
+    license: Public-Domain
+    attribution: Niewiadomek
+    attribution_required: false
+    topics: [breed, chihuahua]
+
+  - id: commons-miniature-schnauzer
+    type: image
+    title: Miniature Schnauzer
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Schnauzer_mini.jpg
+    license: CC-BY-SA-4.0
+    attribution: Vicvx
+    attribution_required: true
+    topics: [breed, miniature-schnauzer]
+
+  - id: commons-siberian-husky
+    type: image
+    title: Siberian Husky
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Siberian_Husky_Dog_5.jpg
+    license: CC-BY-SA-4.0
+    attribution: Делфина
+    attribution_required: true
+    topics: [breed, siberian-husky]
+
+  - id: commons-samoyed-valenzuela
+    type: image
+    title: White Samoyed
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:White_Samoyed_dog1.jpg
+    license: CC-BY-SA-4.0
+    attribution: Valenzuela400
+    attribution_required: true
+    topics: [breed, samoyed]
+
+  - id: commons-greyhound
+    type: image
+    title: Greyhound dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Greyhound...JPG
+    license: CC-BY-3.0
+    attribution: Adam.J.W.C.
+    attribution_required: true
+    topics: [breed, greyhound]
+
+  - id: commons-jack-russell
+    type: image
+    title: Jack Russell Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Jack_Russel_terrier_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Paulo Kiefe
+    attribution_required: true
+    topics: [breed, jack-russell-terrier]
+
+  - id: commons-pomeranian
+    type: image
+    title: Pomeranian
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pomeranian.jpg
+    license: CC-BY-SA-2.0
+    attribution: Sarah Jones
+    attribution_required: true
+    topics: [breed, german-spitz-pomeranian]
+
+
+  - id: commons-dobermann-cc0
+    type: image
+    title: Adult Dobermann
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:01._Adult_Dobermann.jpg
+    license: CC0-1.0
+    attribution: Fran Hogan
+    attribution_required: false
+    topics: [breed, dobermann]
+
+  - id: commons-french-bulldog
+    type: image
+    title: French Bulldog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:FrenchBulldogKCS1.jpg
+    license: CC-BY-4.0
+    attribution: Ivannag95
+    attribution_required: true
+    topics: [breed, french-bulldog]
+    notes: "Photo depicts a French Bulldog during a KCS flare-up; use with neutral breed caption only if the health context is also disclosed, or replace with another approved French Bulldog photo for hero use."
+
+  - id: commons-english-bulldog
+    type: image
+    title: English Bulldog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_Bulldog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Oxfordian Kissuth
+    attribution_required: true
+    topics: [breed, english-bulldog]
+
+  - id: commons-yorkshire-terrier
+    type: image
+    title: Yorkshire Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Yorkshire_Terrier_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: MASAHARU TAKWMORI
+    attribution_required: true
+    topics: [breed, yorkshire-terrier]
+
+  - id: commons-english-cocker-spaniel
+    type: image
+    title: English Cocker Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:English_cocker_spaniel.jpg
+    license: CC-BY-SA-4.0
+    attribution: Vaneska88
+    attribution_required: true
+    topics: [breed, english-cocker-spaniel]
+
+  - id: commons-australian-shepherd
+    type: image
+    title: Australian Shepherd
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Unimon_Australian_Shepherd.jpg
+    license: CC-BY-4.0
+    attribution: Unimon GmbH
+    attribution_required: true
+    topics: [breed, australian-shepherd]
+
+  - id: commons-cavalier-king-charles
+    type: image
+    title: Cavalier King Charles Spaniel
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Albert_Cavalier_King_Charles_Spaniel.jpg
+    license: CC-BY-2.0
+    attribution: Glen Bowman
+    attribution_required: true
+    topics: [breed, cavalier-king-charles-spaniel]
+
+  - id: commons-whippet-dog
+    type: image
+    title: Whippet
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Whippet.JPG
+    license: CC-BY-SA-3.0
+    attribution: Fantasy
+    attribution_required: true
+    topics: [breed, whippet]
+
+  - id: commons-australian-cattle-dog
+    type: image
+    title: Australian Cattle Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Australian_cattle_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Eva holderegger walser
+    attribution_required: true
+    topics: [breed, australian-cattle-dog]
+
+  - id: commons-belgian-malinois
+    type: image
+    title: Belgian Shepherd Malinois
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Malinois,_Belgian_Shepherd.jpg
+    license: CC-BY-SA-3.0
+    attribution: Oxfordian Kissuth
+    attribution_required: true
+    topics: [breed, belgian-malinois]
+
+  - id: commons-akita-inu
+    type: image
+    title: Akita Inu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Akita_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: 掬茶
+    attribution_required: true
+    topics: [breed, akita]
+
+  - id: commons-cane-corso
+    type: image
+    title: Cane Corso
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Cane_Corso_Dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Waledyousef
+    attribution_required: true
+    topics: [breed, cane-corso]
+
+  - id: commons-great-dane
+    type: image
+    title: Great Dane puppy
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Great_dane-3,5_months_old_pup.jpg
+    license: CC-BY-2.5
+    attribution: Lilly M
+    attribution_required: true
+    topics: [breed, great-dane]
+
+  - id: commons-bernese-mountain-dog
+    type: image
+    title: Bernese Mountain Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1-BerneseMountainDogInGrass.jpg
+    license: CC-BY-4.0
+    attribution: FriendlyToaster
+    attribution_required: true
+    topics: [breed, bernese-mountain-dog]
+
+  - id: commons-basset-hound
+    type: image
+    title: Basset Hound
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Basset.jpg
+    license: CC-BY-3.0
+    attribution: Dezidor
+    attribution_required: true
+    topics: [breed, basset-hound]
+
+  - id: commons-bull-terrier
+    type: image
+    title: Bull Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Bull_terrier_529.jpg
+    license: CC-BY-SA-3.0
+    attribution: Pleple2000
+    attribution_required: true
+    topics: [breed, bull-terrier]
+
+
+  - id: commons-pembroke-welsh-corgi
+    type: image
+    title: Pembroke Welsh Corgi
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pembroke_Welsh_Corgi_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Marsiyanka
+    attribution_required: true
+    alt_pt_br: "Pembroke Welsh Corgi adulto em fotografia real."
+    caption_pt_br: "Pembroke Welsh Corgi: pequeno no porte, mas historicamente ligado ao trabalho com gado e frequentemente ativo e atento."
+    topics: [breed, pembroke-welsh-corgi]
+
+  - id: commons-cardigan-welsh-corgi
+    type: image
+    title: Cardigan Welsh Corgi
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Welsh_Corgi_Cardigan,_Dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: FatFairfax
+    attribution_required: true
+    alt_pt_br: "Cardigan Welsh Corgi adulto em fotografia real."
+    caption_pt_br: "Cardigan Welsh Corgi: um cão de pastoreio compacto cuja rotina deve considerar movimento, treino e controle de peso."
+    topics: [breed, cardigan-welsh-corgi]
+
+  - id: commons-american-staffordshire-terrier
+    type: image
+    title: American Staffordshire Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:2._American_Staffordshire_Terrier.png
+    license: CC-BY-SA-3.0
+    attribution: Ileana n
+    attribution_required: true
+    alt_pt_br: "American Staffordshire Terrier adulto tigrado em fotografia real."
+    caption_pt_br: "American Staffordshire Terrier: porte médio e forte; socialização, treino responsável e avaliação do indivíduo importam mais do que estereótipos."
+    topics: [breed, american-staffordshire-terrier]
+
+  - id: commons-staffordshire-bull-terrier
+    type: image
+    title: Staffordshire Bull Terrier
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Staffordshire_Bull_Terrier.jpg
+    license: CC0-1.0
+    attribution: Wikimedia VRT-confirmed contributor
+    attribution_required: false
+    alt_pt_br: "Staffordshire Bull Terrier adulto em fotografia real."
+    caption_pt_br: "Staffordshire Bull Terrier: terrier compacto e musculado, geralmente melhor compreendido pela história individual, socialização e rotina do que por rótulos."
+    topics: [breed, staffordshire-bull-terrier]
+
+  - id: commons-newfoundland-dog
+    type: image
+    title: Newfoundland
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Newfoundland_dog.jpg
+    license: CC-BY-SA-3.0
+    attribution: Andrzej z Helu
+    attribution_required: true
+    alt_pt_br: "Cão da raça Newfoundland adulto em fotografia real."
+    caption_pt_br: "Newfoundland: raça gigante que exige planejamento para calor, grooming, transporte, espaço funcional e custos proporcionais ao porte."
+    topics: [breed, newfoundland]
+
+  - id: commons-flat-coated-retriever-pd
+    type: image
+    title: Flat-Coated Retriever
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Flat_coated_retriever.JPG
+    license: Public-Domain
+    attribution: Caroline Hewison
+    attribution_required: false
+    alt_pt_br: "Flat-Coated Retriever adulto de pelagem castanha em fotografia real."
+    caption_pt_br: "Flat-Coated Retriever: retriever ativo e social, criado historicamente para trabalho de recuperação e melhor adaptado a rotinas com atividade."
+    topics: [breed, flat-coated-retriever]
+
+  - id: commons-portuguese-water-dog
+    type: image
+    title: Portuguese Water Dog
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_Portuguese_Water_Dog.jpg
+    license: CC-BY-2.0
+    attribution: State Farm
+    attribution_required: true
+    alt_pt_br: "Cão de Água Português adulto em fotografia real."
+    caption_pt_br: "Cão de Água Português: raça de trabalho aquático portuguesa, ativa e treinável, com grooming que precisa ser planejado."
+    topics: [breed, portuguese-water-dog]
+
+  - id: commons-havanese-dog
+    type: image
+    title: Havanese
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_havanese_dog.jpg
+    license: CC-BY-4.0
+    attribution: QHuge
+    attribution_required: true
+    alt_pt_br: "Havanese adulto em pé na neve, em fotografia real."
+    caption_pt_br: "Havanese: cão pequeno de companhia com pelagem de manutenção elevada e forte contexto social com a família."
+    topics: [breed, havanese]
+
+  - id: commons-pekingese-cc0
+    type: image
+    title: Pekingese
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Pekingese-dog.jpg
+    license: CC0-1.0
+    attribution: Karen Arnold
+    attribution_required: false
+    alt_pt_br: "Pekingese adulto em retrato fotográfico."
+    caption_pt_br: "Pekingese: pequeno cão de companhia de conformação braquicefálica; conforto respiratório e térmico deve fazer parte da decisão."
+    topics: [breed, pekingese, brachycephalic]
+
+  - id: commons-japanese-spitz
+    type: image
+    title: Japanese Spitz
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:1_year_old_Japanese_Spitz.jpg
+    license: CC-BY-SA-4.0
+    attribution: Yukisnowflakeprincess
+    attribution_required: true
+    alt_pt_br: "Japanese Spitz adulto branco em fotografia real."
+    caption_pt_br: "Japanese Spitz: pequeno a médio, atento e de pelagem abundante; atividade, vocalização e grooming precisam entrar no planejamento."
+    topics: [breed, japanese-spitz]
+
+  - id: commons-basenji-puppy
+    type: image
+    title: Basenji
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Basenji_dog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Ngangaesther
+    attribution_required: true
+    alt_pt_br: "Filhote Basenji de três meses em fotografia real."
+    caption_pt_br: "Basenji: raça de tipo primitivo, independente e exploradora; 'não latir como a maioria' não significa ser silencioso ou fácil."
+    topics: [breed, basenji]
+
+  - id: commons-shiba-inu
+    type: image
+    title: Shiba Inu
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Shiba_inu.jpg
+    license: CC-BY-SA-4.0
+    attribution: Howyadointhere
+    attribution_required: true
+    alt_pt_br: "Shiba Inu adulto em fotografia real."
+    caption_pt_br: "Shiba Inu: pequeno Spitz japonês frequentemente independente; manejo de fuga, socialização e treino consistente merecem atenção."
+    topics: [breed, shiba-inu]
+
+  - id: commons-chow-chow-cc0
+    type: image
+    title: Chow Chow
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Chow_Chow_dog.jpg
+    license: CC0-1.0
+    attribution: Andrea Papaccio
+    attribution_required: false
+    alt_pt_br: "Chow Chow adulto em fotografia real."
+    caption_pt_br: "Chow Chow: raça de pelagem densa e perfil frequentemente reservado; clima, grooming e socialização cuidadosa importam."
+    topics: [breed, chow-chow]
+
+  - id: commons-alaskan-malamute
+    type: image
+    title: Alaskan Malamute
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:AlaskanMalamuteDog.jpg
+    license: CC-BY-SA-4.0
+    attribution: Emma576
+    attribution_required: true
+    alt_pt_br: "Alaskan Malamute cinza e branco em fotografia real."
+    caption_pt_br: "Alaskan Malamute: grande cão nórdico de tração, com alta necessidade de atividade e atenção especial ao calor."
+    topics: [breed, alaskan-malamute]
+
+  - id: commons-english-setter
+    type: image
+    title: English Setter
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:A_English_Setter.jpg
+    license: CC-BY-2.0
+    attribution: daveynin (David P. Fulmer)
+    attribution_required: true
+    alt_pt_br: "English Setter adulto em fotografia real."
+    caption_pt_br: "English Setter: cão de aponte atlético, selecionado para trabalho de campo e normalmente beneficiado por exploração, movimento e treino."
+    topics: [breed, english-setter]
+
+  - id: commons-irish-setter
+    type: image
+    title: Irish Red Setter
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Irish_Setter.jpg
+    license: CC-BY-SA-2.0
+    attribution: Victor Sounds
+    attribution_required: true
+    alt_pt_br: "Irish Red Setter adulto em fotografia real."
+    caption_pt_br: "Setter Irlandês: cão atlético e energético cuja rotina precisa contemplar movimento, exploração e convivência ativa."
+    topics: [breed, irish-setter]
+
+  - id: commons-dalmatian-cc0
+    type: image
+    title: Dalmatian
+    publisher: Wikimedia Commons
+    source_page: https://commons.wikimedia.org/wiki/File:Dalmatian.png
+    license: CC0-1.0
+    attribution: Krugglesuvu
+    attribution_required: false
+    alt_pt_br: "Dálmata adulto branco com manchas pretas em retrato fotográfico."
+    caption_pt_br: "Dálmata: cão atlético e resistente; atividade, treino e acompanhamento de questões de saúde específicas da raça devem fazer parte da escolha."
+    topics: [breed, dalmatian]
+
+
+  - id: mypets-round-logo
+    type: image
+    title: MyPets official round logo
+    publisher: MyPets
+    source_page: internal-brand
+    asset_url: https://res.cloudinary.com/fnki0ccg/image/upload/v1789145246/Logo_VPT.png
+    frontend_source: src/lib/brand.ts#BRAND.logoUrl
+    license: mypets-owned
+    attribution_required: false
+    alt_pt_br: "MyPets"
+    caption_pt_br: ""
+    topics: [brand, logo, round-seal, cover, watermark]
+    notes: "Canonical logo asset already referenced by the production frontend. Use as the round cover seal/watermark; do not recreate."

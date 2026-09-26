@@ -1,0 +1,245 @@
+{
+  "version": "2.4.0-draft",
+  "collection": {
+    "id": "mypets-cuidar-melhor",
+    "title": "Coleção MyPets — Cuidar Melhor",
+    "campaign": "1 eBook = 1 kg de ração",
+    "basePriceBrl": 12.9
+  },
+  "guides": [
+    {
+      "id": "guide-001",
+      "slug": "cuidados-essenciais",
+      "legacySlugs": [],
+      "title": "Cuidados Essenciais com o Seu Cão",
+      "subtitle": "Um manual prático para organizar rotina, segurança, higiene, prevenção, bem-estar e observação ao longo da vida.",
+      "description": "Rotina, casa segura, passeio, enriquecimento, higiene, saúde oral, prevenção, crianças, viagens, sinais de alerta e checklists práticos.",
+      "readingMinutes": 55,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "cuidados",
+        "rotina",
+        "bem-estar"
+      ],
+      "contentPath": "library/pt-BR/01-cuidados-essenciais/guide.md",
+      "previewPath": "library/pt-BR/01-cuidados-essenciais/preview.md"
+    },
+    {
+      "id": "guide-002",
+      "slug": "primeiros-30-dias",
+      "legacySlugs": [
+        "filhote-primeiros-30-dias"
+      ],
+      "title": "Os Primeiros 30 Dias com um Filhote",
+      "subtitle": "Um plano de chegada, rotina, socialização e aprendizagem para transformar as primeiras semanas em uma base segura.",
+      "description": "Primeiras 24 horas, primeira noite, xixi/cocô, mordidas, sono, ficar sozinho, socialização, manejo e plano completo de 30 dias.",
+      "readingMinutes": 65,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "filhote",
+        "adaptação",
+        "rotina"
+      ],
+      "contentPath": "library/pt-BR/02-primeiros-30-dias/guide.md",
+      "previewPath": "library/pt-BR/02-primeiros-30-dias/preview.md"
+    },
+    {
+      "id": "guide-003",
+      "slug": "treino-gentil",
+      "legacySlugs": [],
+      "title": "Treino Gentil: 7 Comandos para o Dia a Dia",
+      "subtitle": "Um programa prático de comunicação, segurança e autocontrole sem medo, gritos ou força.",
+      "description": "Aprendizagem por recompensa, nome, senta, espera, vem, larga, deixa, cama e um programa progressivo de 21 dias.",
+      "readingMinutes": 65,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "treino",
+        "comportamento",
+        "reforço"
+      ],
+      "contentPath": "library/pt-BR/03-treino-gentil/guide.md",
+      "previewPath": "library/pt-BR/03-treino-gentil/preview.md"
+    },
+    {
+      "id": "guide-004",
+      "slug": "guia-das-racas",
+      "legacySlugs": [],
+      "title": "Guia das Raças: Escolha pelo Estilo de Vida",
+      "subtitle": "Perfis comparativos para pensar energia, porte, manutenção, manejo e compatibilidade antes da decisão.",
+      "description": "Atlas MyPets com 64 perfis estruturados e fotografia real, matriz de compatibilidade, contexto funcional, custos, bem-estar e perguntas antes de adotar ou comprar.",
+      "readingMinutes": 90,
+      "image": "/images/card-resgatou.jpg",
+      "tags": [
+        "raças",
+        "adoção",
+        "compatibilidade"
+      ],
+      "contentPath": "library/pt-BR/04-guia-das-racas/guide.md",
+      "previewPath": "library/pt-BR/04-guia-das-racas/preview.md",
+      "atlasProfileCount": 64,
+      "structuredAtlasPath": "library/pt-BR/breeds/index.json"
+    },
+    {
+      "id": "guide-005",
+      "slug": "alimentacao-bem-estar",
+      "legacySlugs": [
+        "rotina-alimentacao"
+      ],
+      "title": "Rotina de Alimentação e Bem-Estar",
+      "subtitle": "Um guia de organização para porções, água, petiscos, condição corporal, segurança alimentar e observação.",
+      "description": "Porções, água, petiscos, rótulos, alimentos perigosos, condição corporal, fases da vida, diário alimentar e segurança da cozinha.",
+      "readingMinutes": 60,
+      "image": "/images/card-alimentou.jpg",
+      "tags": [
+        "alimentação",
+        "rotina",
+        "bem-estar"
+      ],
+      "contentPath": "library/pt-BR/05-alimentacao-bem-estar/guide.md",
+      "previewPath": "library/pt-BR/05-alimentacao-bem-estar/preview.md"
+    },
+    {
+      "id": "guide-006",
+      "slug": "linguagem-corporal-canina",
+      "legacySlugs": [],
+      "title": "Linguagem Corporal Canina: Aprenda a Ouvir sem Palavras",
+      "subtitle": "Um guia visual e prático para reconhecer relaxamento, stress, medo, necessidade de espaço e comunicação antes do conflito.",
+      "description": "Leitura do corpo inteiro, sinais sutis, crianças, visitas, passeios, reatividade e programa de observação.",
+      "readingMinutes": 55,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "comportamento",
+        "linguagem corporal",
+        "segurança"
+      ],
+      "contentPath": "library/pt-BR/06-linguagem-corporal/guide.md",
+      "previewPath": "library/pt-BR/06-linguagem-corporal/preview.md"
+    },
+    {
+      "id": "guide-007",
+      "slug": "passeios-sem-stress",
+      "legacySlugs": [],
+      "title": "Passeios sem Stress",
+      "subtitle": "Guia prática de guia frouxa, farejo, segurança, reatividade e passeios que respeitam o ritmo do cão.",
+      "description": "Guia frouxa, sniffari, recall, equipamentos, calor, reatividade e um programa de 14 dias.",
+      "readingMinutes": 55,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "passeio",
+        "treino",
+        "enriquecimento"
+      ],
+      "contentPath": "library/pt-BR/07-passeios-sem-stress/guide.md",
+      "previewPath": "library/pt-BR/07-passeios-sem-stress/preview.md"
+    },
+    {
+      "id": "guide-008",
+      "slug": "ficar-sozinho",
+      "legacySlugs": [],
+      "title": "Ficar Sozinho em Casa: Autonomia sem Medo",
+      "subtitle": "Um plano gradual para ensinar independência, observar sinais de sofrimento e construir ausências seguras.",
+      "description": "Autonomia, sinais de stress, câmera, rotina de saída, enriquecimento, apartamento e plano progressivo.",
+      "readingMinutes": 50,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "autonomia",
+        "comportamento",
+        "separação"
+      ],
+      "contentPath": "library/pt-BR/08-ficar-sozinho/guide.md",
+      "previewPath": "library/pt-BR/08-ficar-sozinho/preview.md"
+    },
+    {
+      "id": "guide-009",
+      "slug": "cao-em-apartamento",
+      "legacySlugs": [],
+      "title": "Cão em Apartamento: Espaço Pequeno, Vida Completa",
+      "subtitle": "Rotina, enriquecimento, ruído, passeio, autonomia e segurança para viver bem em espaços compactos.",
+      "description": "Elevador, corredor, barulho, vizinhos, home office, enriquecimento, visitas e plano de adaptação.",
+      "readingMinutes": 45,
+      "image": "/images/card-resgatou.jpg",
+      "tags": [
+        "apartamento",
+        "rotina",
+        "enriquecimento"
+      ],
+      "contentPath": "library/pt-BR/09-cao-em-apartamento/guide.md",
+      "previewPath": "library/pt-BR/09-cao-em-apartamento/preview.md"
+    },
+    {
+      "id": "guide-010",
+      "slug": "higiene-saude-oral",
+      "legacySlugs": [],
+      "title": "Higiene, Banho e Saúde Oral",
+      "subtitle": "Escovação, banho, patas, unhas, orelhas e dentes com uma abordagem gradual e cooperativa.",
+      "description": "Pelagem, banho, unhas, orelhas, dentes, saúde oral, groomer e plano de manipulação cooperativa.",
+      "readingMinutes": 45,
+      "image": "/images/card-alimentou.jpg",
+      "tags": [
+        "higiene",
+        "saúde oral",
+        "grooming"
+      ],
+      "contentPath": "library/pt-BR/10-higiene-saude-oral/guide.md",
+      "previewPath": "library/pt-BR/10-higiene-saude-oral/preview.md"
+    },
+    {
+      "id": "guide-011",
+      "slug": "adotei-cao-adulto",
+      "legacySlugs": [],
+      "title": "Adotei um Cão Adulto: E Agora?",
+      "subtitle": "Primeiros dias, segurança, rotina, vínculo, outros animais e adaptação sem pressa.",
+      "description": "Chegada, rotina, fuga, passeios, crianças, outros animais, autonomia e um plano dos primeiros 30 dias.",
+      "readingMinutes": 45,
+      "image": "/images/card-acolheu.jpg",
+      "tags": [
+        "adoção",
+        "cão adulto",
+        "adaptação"
+      ],
+      "contentPath": "library/pt-BR/11-adotei-cao-adulto/guide.md",
+      "previewPath": "library/pt-BR/11-adotei-cao-adulto/preview.md"
+    },
+    {
+      "id": "guide-012",
+      "slug": "caes-e-criancas",
+      "legacySlugs": [],
+      "title": "Cães e Crianças: Convivência Segura, Respeitosa e Feliz",
+      "subtitle": "Supervisão, regras simples, linguagem corporal, bebés, brincadeiras e prevenção de conflitos.",
+      "description": "Supervisão ativa, sinais de stress, comida, brinquedos, bebés, visitas, barreiras e plano familiar de 7 dias.",
+      "readingMinutes": 40,
+      "image": "/images/hero.jpg",
+      "tags": [
+        "crianças",
+        "segurança",
+        "comportamento"
+      ],
+      "contentPath": "library/pt-BR/12-caes-e-criancas/guide.md",
+      "previewPath": "library/pt-BR/12-caes-e-criancas/preview.md"
+    },
+    {
+      "id": "guide-013",
+      "slug": "50-ideias-enriquecimento",
+      "legacySlugs": [],
+      "title": "50 Ideias de Enriquecimento para Cães",
+      "subtitle": "Farejo, comida, aprendizagem, brincadeira, exploração e calma com atividades simples para a vida real.",
+      "description": "50 atividades práticas, de baixo custo e adaptáveis para usar nariz, cérebro, corpo e descanso de forma segura.",
+      "readingMinutes": 50,
+      "image": "/images/cta-dog.jpg",
+      "tags": [
+        "enriquecimento",
+        "farejo",
+        "brincadeira"
+      ],
+      "contentPath": "library/pt-BR/13-enriquecimento/guide.md",
+      "previewPath": "library/pt-BR/13-enriquecimento/preview.md"
+    }
+  ],
+  "structuredContent": {
+    "breedAtlasPath": "library/pt-BR/breeds/index.json",
+    "breedCount": 64,
+    "breedPhotoCoverage": 64,
+    "mediaPlacementMaster": "media/media-placement-master.json",
+    "roundBrandMark": "mypets-round-logo"
+  }
+}

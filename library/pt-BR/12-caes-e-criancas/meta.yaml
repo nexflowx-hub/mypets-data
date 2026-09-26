@@ -1,0 +1,29 @@
+id: guide-012
+slug: caes-e-criancas
+locale: pt-BR
+title: "Cães e Crianças: Convivência Segura, Respeitosa e Feliz"
+subtitle: "Supervisão, regras simples, linguagem corporal, bebés, brincadeiras e prevenção de conflitos."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - adulto-responsavel
+  - regras
+audience:
+  - familia-com-criancas
+  - tutor-iniciante
+topics:
+  - criancas
+  - seguranca
+  - comportamento
+  - linguagem-corporal
+reading_minutes: 40
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90

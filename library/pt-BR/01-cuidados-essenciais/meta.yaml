@@ -1,0 +1,33 @@
+id: guide-001
+slug: cuidados-essenciais
+locale: pt-BR
+title: "Cuidados Essenciais com o Seu Cão"
+subtitle: "Um manual prático para organizar rotina, segurança, higiene, prevenção, bem-estar e observação ao longo da vida."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - introducao
+  - rotina-base
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+topics:
+  - rotina
+  - seguranca
+  - higiene
+  - atividade
+  - enriquecimento
+  - saude-oral
+  - prevencao
+  - sinais-de-alerta
+reading_minutes: 55
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90

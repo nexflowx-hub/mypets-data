@@ -1,0 +1,11 @@
+guide_id: guide-012
+reviewed_at: 2026-09-25
+sources:
+  - source_id: dogs-trust-child-safety
+    applies_to: [supervisao, regras, sinais]
+  - source_id: dogs-trust-body-language
+    applies_to: [linguagem, stress]
+  - source_id: rspca-body-language
+    applies_to: [comunicacao]
+  - source_id: avsab-position-statements
+    applies_to: [treino]

@@ -1,0 +1,89 @@
+collection:
+  id: mypets-cuidar-melhor
+  title: "Coleção MyPets — Cuidar Melhor"
+  locale: pt-BR
+  campaign: ebook-racao
+  campaign_unit: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90
+  status: draft-v2
+
+guides:
+  - id: guide-001
+    order: 1
+    slug: cuidados-essenciais
+    title: Cuidados Essenciais com o Seu Cão
+    path: pt-BR/01-cuidados-essenciais
+  - id: guide-002
+    order: 2
+    slug: primeiros-30-dias
+    title: Os Primeiros 30 Dias com um Filhote
+    path: pt-BR/02-primeiros-30-dias
+  - id: guide-003
+    order: 3
+    slug: treino-gentil
+    title: "Treino Gentil: 7 Comandos para o Dia a Dia"
+    path: pt-BR/03-treino-gentil
+  - id: guide-004
+    order: 4
+    slug: guia-das-racas
+    title: "Guia das Raças: Escolha pelo Estilo de Vida"
+    path: pt-BR/04-guia-das-racas
+  - id: guide-005
+    order: 5
+    slug: alimentacao-bem-estar
+    title: Rotina de Alimentação e Bem-Estar
+    path: pt-BR/05-alimentacao-bem-estar
+
+  - id: guide-006
+    order: 6
+    slug: linguagem-corporal-canina
+    title: "Linguagem Corporal Canina: Aprenda a Ouvir sem Palavras"
+    path: pt-BR/06-linguagem-corporal
+  - id: guide-007
+    order: 7
+    slug: passeios-sem-stress
+    title: "Passeios sem Stress"
+    path: pt-BR/07-passeios-sem-stress
+  - id: guide-008
+    order: 8
+    slug: ficar-sozinho
+    title: "Ficar Sozinho em Casa: Autonomia sem Medo"
+    path: pt-BR/08-ficar-sozinho
+  - id: guide-009
+    order: 9
+    slug: cao-em-apartamento
+    title: "Cão em Apartamento: Espaço Pequeno, Vida Completa"
+    path: pt-BR/09-cao-em-apartamento
+  - id: guide-010
+    order: 10
+    slug: higiene-saude-oral
+    title: "Higiene, Banho e Saúde Oral"
+    path: pt-BR/10-higiene-saude-oral
+
+  - id: guide-011
+    order: 11
+    slug: adotei-cao-adulto
+    title: "Adotei um Cão Adulto: E Agora?"
+    path: pt-BR/11-adotei-cao-adulto
+  - id: guide-012
+    order: 12
+    slug: caes-e-criancas
+    title: "Cães e Crianças: Convivência Segura, Respeitosa e Feliz"
+    path: pt-BR/12-caes-e-criancas
+
+  - id: guide-013
+    order: 13
+    slug: 50-ideias-enriquecimento
+    title: "50 Ideias de Enriquecimento para Cães"
+    path: pt-BR/13-enriquecimento
+
+structured_content:
+  breed_atlas:
+    path: pt-BR/breeds/index.json
+    profile_count: 64
+    real_photo_coverage: 64
+  media_placement_master:
+    path: ../media/media-placement-master.json
+    exact_placements: 103
+  round_brand_mark:
+    media_id: mypets-round-logo

@@ -1,0 +1,33 @@
+id: guide-002
+slug: primeiros-30-dias
+locale: pt-BR
+title: "Os Primeiros 30 Dias com um Filhote"
+subtitle: "Um plano de chegada, rotina, socialização e aprendizagem para transformar as primeiras semanas em uma base segura."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - antes-de-chegar
+  - primeiras-24h
+audience:
+  - tutor-de-filhote
+  - familia-primeiro-cao
+topics:
+  - filhote
+  - rotina
+  - toilet-training
+  - socializacao
+  - mordidas
+  - sono
+  - ficar-sozinho
+  - treino
+reading_minutes: 65
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90

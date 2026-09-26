@@ -1,0 +1,13 @@
+guide_id: guide-006
+reviewed_at: 2026-09-25
+sources:
+  - source_id: dogs-trust-body-language
+    applies_to: [conjunto, sinais-sutis, distancia, reatividade]
+  - source_id: rspca-body-language
+    applies_to: [relaxado, preocupado, tensao]
+  - source_id: pdsa-canine-communication
+    applies_to: [stress, comunicacao, escalada]
+  - source_id: avsab-position-statements
+    applies_to: [manejo, treino-sem-aversivos]
+  - source_id: dogs-trust-reactivity
+    applies_to: [reatividade, recuperacao, sinais]

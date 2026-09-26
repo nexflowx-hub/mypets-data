@@ -1,0 +1,13 @@
+guide_id: guide-011
+reviewed_at: 2026-09-25
+sources:
+  - source_id: dogs-trust-rescue-settle
+    applies_to: [primeiros-dias, rotina, vinculo]
+  - source_id: dogs-trust-body-language
+    applies_to: [sinais, medo]
+  - source_id: rspca-body-language
+    applies_to: [comunicacao]
+  - source_id: rspca-left-alone
+    applies_to: [autonomia]
+  - source_id: avsab-position-statements
+    applies_to: [treino]

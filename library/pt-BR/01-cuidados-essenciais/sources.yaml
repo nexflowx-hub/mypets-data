@@ -1,0 +1,21 @@
+guide_id: guide-001
+reviewed_at: 2026-09-25
+sources:
+  - source_id: aaha-life-stage
+    applies_to: [fases-da-vida, prevencao, rotina-base]
+  - source_id: wsava-dental
+    applies_to: [higiene-saude-oral]
+  - source_id: aaha-dental-owner
+    applies_to: [higiene-saude-oral]
+  - source_id: avma-warm-weather
+    applies_to: [calor-passeios-seguranca]
+  - source_id: aspca-toxic-foods
+    applies_to: [casa-segura, intoxicacoes]
+  - source_id: merck-behavior-modification
+    applies_to: [comportamento, enriquecimento]
+  - source_id: rspca-training
+    applies_to: [comportamento, enriquecimento]
+  - source_id: wsava-nutrition
+    applies_to: [alimentacao-observacao]
+  - source_id: wsava-vaccination
+    applies_to: [prevencao]

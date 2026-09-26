@@ -1,0 +1,1801 @@
+{
+  "version": "1.1.0-draft",
+  "locale": "pt-BR",
+  "disclaimer": "Perfis descrevem tendências gerais e perguntas de compatibilidade; não predizem o comportamento de um indivíduo. Saúde, criação, socialização, linhagem e história importam.",
+  "scale_notes": {
+    "energy": "low < low-moderate < moderate < moderate-high < high < very-high",
+    "grooming": "low < moderate < high < very-high",
+    "trainability": "descreve facilidade típica de trabalhar com treino estruturado, não inteligência",
+    "vocalization": "tendência contextual; varia muito entre indivíduos"
+  },
+  "source_ids": [
+    "fci-nomenclature",
+    "akc-lifestyle"
+  ],
+  "breeds": [
+    {
+      "id": "breed-001",
+      "slug": "labrador-retriever",
+      "name": "Labrador Retriever",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-labrador"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Labrador Retriever em fotografia real.",
+      "photo_caption_pt_br": "Labrador Retriever: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-002",
+      "slug": "golden-retriever",
+      "name": "Golden Retriever",
+      "size": "large",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-golden-retriever-mav-usp"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Golden Retriever em fotografia real.",
+      "photo_caption_pt_br": "Golden Retriever: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-003",
+      "slug": "border-collie",
+      "name": "Border Collie",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-border-collie"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Border Collie em fotografia real.",
+      "photo_caption_pt_br": "Border Collie: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-004",
+      "slug": "german-shepherd-dog",
+      "name": "Pastor Alemão",
+      "size": "large",
+      "energy": "high",
+      "grooming": "moderate",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-german-shepherd"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Pastor Alemão em fotografia real.",
+      "photo_caption_pt_br": "Pastor Alemão: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-005",
+      "slug": "rottweiler",
+      "name": "Rottweiler",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-rottweiler-cc0"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Rottweiler em fotografia real.",
+      "photo_caption_pt_br": "Rottweiler: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-006",
+      "slug": "dobermann",
+      "name": "Dobermann",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-dobermann-cc0"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Dobermann em fotografia real.",
+      "photo_caption_pt_br": "Dobermann: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-007",
+      "slug": "boxer",
+      "name": "Boxer",
+      "size": "large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-boxer-public-domain"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Boxer em fotografia real.",
+      "photo_caption_pt_br": "Boxer: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-008",
+      "slug": "beagle",
+      "name": "Beagle",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-beagle-golden"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Beagle em fotografia real.",
+      "photo_caption_pt_br": "Beagle: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-009",
+      "slug": "dachshund",
+      "name": "Dachshund / Teckel",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-dachshund"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Dachshund / Teckel em fotografia real.",
+      "photo_caption_pt_br": "Dachshund / Teckel: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-010",
+      "slug": "poodle",
+      "name": "Poodle",
+      "size": "varies",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bichon-frise"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Poodle em fotografia real.",
+      "photo_caption_pt_br": "Poodle: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-011",
+      "slug": "shih-tzu",
+      "name": "Shih Tzu",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shih-tzu"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Shih Tzu em fotografia real.",
+      "photo_caption_pt_br": "Shih Tzu: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-012",
+      "slug": "pug",
+      "name": "Pug",
+      "size": "small",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-pug-nancy-wong"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Pug em fotografia real.",
+      "photo_caption_pt_br": "Pug: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-013",
+      "slug": "french-bulldog",
+      "name": "Bulldog Francês",
+      "size": "small-medium",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-french-bulldog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Bulldog Francês em fotografia real.",
+      "photo_caption_pt_br": "Bulldog Francês: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-014",
+      "slug": "english-bulldog",
+      "name": "Bulldog Inglês",
+      "size": "medium",
+      "energy": "low",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-english-bulldog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Bulldog Inglês em fotografia real.",
+      "photo_caption_pt_br": "Bulldog Inglês: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-015",
+      "slug": "german-spitz-pomeranian",
+      "name": "Spitz Alemão / Lulu da Pomerânia",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-pomeranian"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Spitz Alemão / Lulu da Pomerânia em fotografia real.",
+      "photo_caption_pt_br": "Spitz Alemão / Lulu da Pomerânia: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-016",
+      "slug": "yorkshire-terrier",
+      "name": "Yorkshire Terrier",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-yorkshire-terrier"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Yorkshire Terrier em fotografia real.",
+      "photo_caption_pt_br": "Yorkshire Terrier: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-017",
+      "slug": "maltese",
+      "name": "Maltês",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-maltese-crystal"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Maltês em fotografia real.",
+      "photo_caption_pt_br": "Maltês: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-018",
+      "slug": "chihuahua",
+      "name": "Chihuahua",
+      "size": "very-small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-chihuahua-public-domain"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Chihuahua em fotografia real.",
+      "photo_caption_pt_br": "Chihuahua: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-019",
+      "slug": "miniature-schnauzer",
+      "name": "Schnauzer Miniatura",
+      "size": "small",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-miniature-schnauzer"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Schnauzer Miniatura em fotografia real.",
+      "photo_caption_pt_br": "Schnauzer Miniatura: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-020",
+      "slug": "english-cocker-spaniel",
+      "name": "Cocker Spaniel Inglês",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-english-cocker-spaniel"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Cocker Spaniel Inglês em fotografia real.",
+      "photo_caption_pt_br": "Cocker Spaniel Inglês: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-021",
+      "slug": "siberian-husky",
+      "name": "Husky Siberiano",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-siberian-husky"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Husky Siberiano em fotografia real.",
+      "photo_caption_pt_br": "Husky Siberiano: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-022",
+      "slug": "australian-shepherd",
+      "name": "Pastor Australiano",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-australian-shepherd"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Pastor Australiano em fotografia real.",
+      "photo_caption_pt_br": "Pastor Australiano: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-023",
+      "slug": "samoyed",
+      "name": "Samoieda",
+      "size": "medium-large",
+      "energy": "high",
+      "grooming": "very-high",
+      "trainability": "moderate-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-samoyed-valenzuela"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Samoieda em fotografia real.",
+      "photo_caption_pt_br": "Samoieda: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-024",
+      "slug": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-cavalier-king-charles"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Cavalier King Charles Spaniel em fotografia real.",
+      "photo_caption_pt_br": "Cavalier King Charles Spaniel: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-025",
+      "slug": "greyhound",
+      "name": "Greyhound",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-greyhound"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Greyhound em fotografia real.",
+      "photo_caption_pt_br": "Greyhound: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-026",
+      "slug": "whippet",
+      "name": "Whippet",
+      "size": "medium",
+      "energy": "moderate-high",
+      "grooming": "low",
+      "trainability": "moderate-high",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-whippet-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Whippet em fotografia real.",
+      "photo_caption_pt_br": "Whippet: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-027",
+      "slug": "jack-russell-terrier",
+      "name": "Jack Russell Terrier",
+      "size": "small",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-jack-russell"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Jack Russell Terrier em fotografia real.",
+      "photo_caption_pt_br": "Jack Russell Terrier: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-028",
+      "slug": "australian-cattle-dog",
+      "name": "Australian Cattle Dog",
+      "size": "medium",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-australian-cattle-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Australian Cattle Dog em fotografia real.",
+      "photo_caption_pt_br": "Australian Cattle Dog: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-029",
+      "slug": "belgian-malinois",
+      "name": "Pastor Belga Malinois",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-belgian-malinois"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Pastor Belga Malinois em fotografia real.",
+      "photo_caption_pt_br": "Pastor Belga Malinois: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-030",
+      "slug": "akita",
+      "name": "Akita",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-akita-inu"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Akita em fotografia real.",
+      "photo_caption_pt_br": "Akita: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-031",
+      "slug": "cane-corso",
+      "name": "Cane Corso",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-cane-corso"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Cane Corso em fotografia real.",
+      "photo_caption_pt_br": "Cane Corso: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-032",
+      "slug": "great-dane",
+      "name": "Dogue Alemão",
+      "size": "giant",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-great-dane"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Dogue Alemão em fotografia real.",
+      "photo_caption_pt_br": "Dogue Alemão: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-033",
+      "slug": "bernese-mountain-dog",
+      "name": "Boiadeiro Bernês",
+      "size": "large",
+      "energy": "moderate",
+      "grooming": "high",
+      "trainability": "moderate-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bernese-mountain-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Boiadeiro Bernês em fotografia real.",
+      "photo_caption_pt_br": "Boiadeiro Bernês: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-034",
+      "slug": "basset-hound",
+      "name": "Basset Hound",
+      "size": "medium-large",
+      "energy": "low-moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-basset-hound"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Basset Hound em fotografia real.",
+      "photo_caption_pt_br": "Basset Hound: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-035",
+      "slug": "bull-terrier",
+      "name": "Bull Terrier",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bull-terrier"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Bull Terrier em fotografia real.",
+      "photo_caption_pt_br": "Bull Terrier: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-036",
+      "slug": "vizsla",
+      "name": "Vizsla",
+      "size": "medium-large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-vizsla-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Vizsla em fotografia real.",
+      "photo_caption_pt_br": "Vizsla: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-037",
+      "slug": "weimaraner",
+      "name": "Weimaraner",
+      "size": "large",
+      "energy": "very-high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-weimaraner-dog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Weimaraner em fotografia real.",
+      "photo_caption_pt_br": "Weimaraner: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-038",
+      "slug": "english-springer-spaniel",
+      "name": "English Springer Spaniel",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-english-springer-spaniel"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça English Springer Spaniel em fotografia real.",
+      "photo_caption_pt_br": "English Springer Spaniel: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-039",
+      "slug": "shar-pei",
+      "name": "Shar-Pei",
+      "size": "medium",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shar-pei"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Shar-Pei em fotografia real.",
+      "photo_caption_pt_br": "Shar-Pei: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-040",
+      "slug": "bichon-frise",
+      "name": "Bichon Frisé",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-bichon-frise"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Bichon Frisé em fotografia real.",
+      "photo_caption_pt_br": "Bichon Frisé: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-041",
+      "slug": "shetland-sheepdog",
+      "name": "Shetland Sheepdog",
+      "size": "small-medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "very-high",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shetland-sheepdog"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Shetland Sheepdog em fotografia real.",
+      "photo_caption_pt_br": "Shetland Sheepdog: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-042",
+      "slug": "lhasa-apso",
+      "name": "Lhasa Apso",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-lhasa-apso"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Lhasa Apso em fotografia real.",
+      "photo_caption_pt_br": "Lhasa Apso: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-043",
+      "slug": "saint-bernard",
+      "name": "São Bernardo",
+      "size": "giant",
+      "energy": "low-moderate",
+      "grooming": "high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-saint-bernard"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça São Bernardo em fotografia real.",
+      "photo_caption_pt_br": "São Bernardo: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-044",
+      "slug": "papillon",
+      "name": "Papillon",
+      "size": "very-small",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-papillon"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Papillon em fotografia real.",
+      "photo_caption_pt_br": "Papillon: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-045",
+      "slug": "boston-terrier",
+      "name": "Boston Terrier",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-boston-terrier"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Boston Terrier em fotografia real.",
+      "photo_caption_pt_br": "Boston Terrier: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-046",
+      "slug": "rough-collie",
+      "name": "Rough Collie",
+      "size": "medium-large",
+      "energy": "moderate-high",
+      "grooming": "very-high",
+      "trainability": "high",
+      "vocalization": "moderate-high",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-rough-collie"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Rough Collie em fotografia real.",
+      "photo_caption_pt_br": "Rough Collie: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-047",
+      "slug": "afghan-hound",
+      "name": "Afghan Hound",
+      "size": "large",
+      "energy": "moderate-high",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-afghan-hound"
+      ],
+      "source_ids": [
+        "fci-nomenclature"
+      ],
+      "last_reviewed": "2026-09-25",
+      "photo_alt_pt_br": "Cão da raça Afghan Hound em fotografia real.",
+      "photo_caption_pt_br": "Afghan Hound: use este perfil para investigar tendências de porte, energia, grooming, treino e contexto individual."
+    },
+    {
+      "id": "breed-048",
+      "slug": "pembroke-welsh-corgi",
+      "name": "Welsh Corgi Pembroke",
+      "size": "small-medium",
+      "energy": "high",
+      "grooming": "moderate",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "possible-with-activity-and-noise-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-pembroke-welsh-corgi"
+      ],
+      "photo_alt_pt_br": "Welsh Corgi Pembroke em fotografia real.",
+      "photo_caption_pt_br": "Welsh Corgi Pembroke: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-pembroke-welsh-corgi"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 1,
+      "origin": "Grã-Bretanha",
+      "function_context": "Boiadeiro de pernas curtas; a história de trabalho ajuda a explicar atenção a movimento, aprendizagem e necessidade de atividade apesar do porte compacto.",
+      "editorial_summary": "Pequeno no tamanho, mas não no repertório. O Pembroke pode combinar energia, rapidez de aprendizagem e tendência a alertar para o ambiente.",
+      "ideal_for": [
+        "famílias que querem um cão compacto mas ativo",
+        "tutores interessados em treino e jogos mentais",
+        "rotina com passeios e controle de peso"
+      ],
+      "think_twice_if": [
+        "procura um cão pequeno de baixíssima atividade",
+        "ruído/vocalização é um problema crítico no prédio",
+        "não quer gerir escadas, saltos e condição corporal"
+      ],
+      "health_welfare_notes": [
+        "porte alongado/baixo pede atenção a peso e manejo físico",
+        "calor e intensidade de exercício devem respeitar o indivíduo"
+      ]
+    },
+    {
+      "id": "breed-049",
+      "slug": "cardigan-welsh-corgi",
+      "name": "Welsh Corgi Cardigan",
+      "size": "small-medium",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "high",
+      "vocalization": "moderate-high",
+      "apartment_context": "possible-with-activity-and-noise-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-cardigan-welsh-corgi"
+      ],
+      "photo_alt_pt_br": "Welsh Corgi Cardigan em fotografia real.",
+      "photo_caption_pt_br": "Welsh Corgi Cardigan: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-cardigan-welsh-corgi"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 1,
+      "origin": "Grã-Bretanha",
+      "function_context": "Boiadeiro britânico compacto, historicamente usado para trabalhar com gado.",
+      "editorial_summary": "O Cardigan é maior e mais robusto do que muita gente imagina ao ouvir 'Corgi'. Atividade, treino e gestão ambiental continuam importantes.",
+      "ideal_for": [
+        "tutores que gostam de treino consistente",
+        "famílias que querem porte compacto com perfil ativo",
+        "rotinas com exploração e tarefas"
+      ],
+      "think_twice_if": [
+        "quer um cão puramente de colo",
+        "não consegue oferecer passeios regulares",
+        "vocalização de alerta é incompatível com a moradia"
+      ],
+      "health_welfare_notes": [
+        "controle de peso é especialmente relevante em cães de corpo longo",
+        "evite assumir que pernas curtas significam baixa necessidade de movimento"
+      ]
+    },
+    {
+      "id": "breed-050",
+      "slug": "american-staffordshire-terrier",
+      "name": "American Staffordshire Terrier",
+      "size": "medium-large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-american-staffordshire-terrier"
+      ],
+      "photo_alt_pt_br": "American Staffordshire Terrier em fotografia real.",
+      "photo_caption_pt_br": "American Staffordshire Terrier: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-american-staffordshire-terrier"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 3,
+      "origin": "Estados Unidos",
+      "function_context": "Terrier do tipo bull; porte médio-forte e história funcional não devem ser convertidos em previsões automáticas de comportamento individual.",
+      "editorial_summary": "Um perfil forte, atlético e frequentemente muito orientado à interação. Treino, socialização, legislação local e manejo responsável precisam fazer parte da escolha.",
+      "ideal_for": [
+        "adultos que valorizam treino por recompensa e manejo consistente",
+        "famílias capazes de oferecer atividade e regras previsíveis",
+        "tutores dispostos a pesquisar legislação/condomínio antes da adoção"
+      ],
+      "think_twice_if": [
+        "não consegue manejar fisicamente um cão forte",
+        "pretende depender apenas de estereótipos de raça para prever sociabilidade",
+        "moradia/seguro/regras locais criam restrições"
+      ],
+      "health_welfare_notes": [
+        "avaliar o indivíduo e a origem responsável é mais útil que rótulos amplos",
+        "condição corporal e atividade compatível com a saúde importam"
+      ]
+    },
+    {
+      "id": "breed-051",
+      "slug": "staffordshire-bull-terrier",
+      "name": "Staffordshire Bull Terrier",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-staffordshire-bull-terrier"
+      ],
+      "photo_alt_pt_br": "Staffordshire Bull Terrier em fotografia real.",
+      "photo_caption_pt_br": "Staffordshire Bull Terrier: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-staffordshire-bull-terrier"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 3,
+      "origin": "Grã-Bretanha",
+      "function_context": "Terrier do tipo bull britânico, compacto e musculado.",
+      "editorial_summary": "O Staffordshire Bull Terrier concentra muita força e energia num corpo relativamente compacto. Precisa de treino e convivência estruturada, não de confrontação.",
+      "ideal_for": [
+        "tutores ativos que gostam de treino",
+        "famílias capazes de supervisionar interações e gerir excitação",
+        "pessoas que valorizam vínculo próximo"
+      ],
+      "think_twice_if": [
+        "procura um cão sem necessidade de treino",
+        "há restrições locais ao tipo racial",
+        "não consegue organizar convivência segura com outros animais quando necessário"
+      ],
+      "health_welfare_notes": [
+        "origem, socialização e história individual pesam muito na convivência",
+        "não usar força/aversivos como resposta automática a comportamentos intensos"
+      ]
+    },
+    {
+      "id": "breed-052",
+      "slug": "newfoundland",
+      "name": "Newfoundland / Terra-Nova",
+      "size": "giant",
+      "energy": "low-moderate",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "logistics-heavy",
+      "heat_context": "heat-sensitive-dense-coat",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-newfoundland-dog"
+      ],
+      "photo_alt_pt_br": "Newfoundland / Terra-Nova em fotografia real.",
+      "photo_caption_pt_br": "Newfoundland / Terra-Nova: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-newfoundland"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 2,
+      "origin": "Canadá",
+      "function_context": "Molossoide de tipo montanha e cão gigante associado historicamente a trabalho próximo da água.",
+      "editorial_summary": "O Terra-Nova transforma 'quero um cão grande e gentil' numa questão logística séria: calor, pelo, carro, piso, escadas e capacidade de o mover numa emergência.",
+      "ideal_for": [
+        "famílias com espaço funcional e boa logística",
+        "tutores que aceitam grooming intenso",
+        "climas/ambientes em que seja possível controlar calor"
+      ],
+      "think_twice_if": [
+        "vive em ambiente muito quente sem climatização adequada",
+        "não consegue transportar ou ajudar um cão gigante",
+        "grooming, baba e custos proporcionais ao porte são incompatíveis"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa e porte gigante justificam cuidado extra com calor e mobilidade",
+        "planeje emergências antes de precisar carregar o cão"
+      ]
+    },
+    {
+      "id": "breed-053",
+      "slug": "flat-coated-retriever",
+      "name": "Flat-Coated Retriever",
+      "size": "large",
+      "energy": "high",
+      "grooming": "moderate-high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-flat-coated-retriever-pd"
+      ],
+      "photo_alt_pt_br": "Flat-Coated Retriever em fotografia real.",
+      "photo_caption_pt_br": "Flat-Coated Retriever: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-flat-coated-retriever"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 8,
+      "origin": "Grã-Bretanha",
+      "function_context": "Retriever britânico, historicamente selecionado para recuperar caça e trabalhar em cooperação.",
+      "editorial_summary": "Um retriever ativo e frequentemente exuberante. O melhor encaixe costuma envolver movimento, treino, brincadeira e uma família que gosta de fazer coisas com o cão.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores interessados em treino, busca e faro",
+        "rotina com bastante interação"
+      ],
+      "think_twice_if": [
+        "procura rotina sedentária",
+        "o cão ficará muitas horas sozinho sem plano",
+        "não quer lidar com energia juvenil por um período prolongado"
+      ],
+      "health_welfare_notes": [
+        "atividade deve ser adaptada à idade e saúde",
+        "acompanhar peso e condição corporal continua importante em cães ativos"
+      ]
+    },
+    {
+      "id": "breed-054",
+      "slug": "portuguese-water-dog",
+      "name": "Cão de Água Português",
+      "size": "medium",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "very-high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-portuguese-water-dog"
+      ],
+      "photo_alt_pt_br": "Cão de Água Português em fotografia real.",
+      "photo_caption_pt_br": "Cão de Água Português: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-portuguese-water-dog"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 8,
+      "origin": "Portugal",
+      "function_context": "Cão de água português, historicamente ligado ao trabalho com pescadores e tarefas aquáticas.",
+      "editorial_summary": "Ativo, treinável e ligado a uma história de trabalho real. O Cão de Água Português precisa de mais do que a fama de 'não largar pelo': treino, atividade e grooming são centrais.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de treino e jogos de busca",
+        "pessoas preparadas para grooming regular"
+      ],
+      "think_twice_if": [
+        "a escolha é baseada apenas na ideia de 'hipoalergênico'",
+        "não quer manutenção de pelagem",
+        "procura um cão de baixíssima atividade"
+      ],
+      "health_welfare_notes": [
+        "nenhuma raça é garantia de ausência de alergia humana",
+        "pelagem requer manutenção consistente para evitar nós"
+      ]
+    },
+    {
+      "id": "breed-055",
+      "slug": "havanese",
+      "name": "Havanese / Bichon Havanês",
+      "size": "small",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "often-compatible-with-routine",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-havanese-dog"
+      ],
+      "photo_alt_pt_br": "Havanese / Bichon Havanês em fotografia real.",
+      "photo_caption_pt_br": "Havanese / Bichon Havanês: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-havanese"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 9,
+      "origin": "Cuba",
+      "function_context": "Cão de companhia do grupo dos Bichons; a FCI registra origem em Cuba e desenvolvimento histórico na bacia ocidental do Mediterrâneo.",
+      "editorial_summary": "Pequeno e social, mas com pelagem que pode transformar grooming em parte significativa da rotina.",
+      "ideal_for": [
+        "famílias que desejam companhia próxima",
+        "apartamentos com rotina consistente",
+        "tutores dispostos a manter pelagem e treino"
+      ],
+      "think_twice_if": [
+        "longos períodos de ausência são inevitáveis",
+        "grooming frequente não cabe na rotina",
+        "espera que pequeno porte elimine necessidade de passeio/treino"
+      ],
+      "health_welfare_notes": [
+        "prevenir nós e desconforto de pele exige manutenção",
+        "autonomia deve ser ensinada mesmo em cães de companhia"
+      ]
+    },
+    {
+      "id": "breed-056",
+      "slug": "pekingese",
+      "name": "Pekingese",
+      "size": "small",
+      "energy": "low-moderate",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "often-compatible-with-routine",
+      "heat_context": "extra-caution-brachycephalic",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-pekingese-cc0"
+      ],
+      "photo_alt_pt_br": "Pekingese em fotografia real.",
+      "photo_caption_pt_br": "Pekingese: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-pekingese"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 9,
+      "origin": "China",
+      "function_context": "Cão de companhia de origem chinesa sob patronagem britânica na nomenclatura FCI.",
+      "editorial_summary": "Pequeno, de pelagem abundante e conformação braquicefálica. A decisão precisa incluir respiração, calor, olhos, grooming e conforto, não apenas aparência.",
+      "ideal_for": [
+        "rotinas de atividade moderada e ambiente termicamente controlado",
+        "tutores atentos a grooming e conforto respiratório",
+        "famílias que respeitam autonomia de um cão pequeno"
+      ],
+      "think_twice_if": [
+        "vive em calor intenso sem controle ambiental",
+        "procura parceiro para exercício intenso",
+        "não quer manutenção de pelo/face"
+      ],
+      "health_welfare_notes": [
+        "conformação de focinho curto exige atenção especial a respiração e calor",
+        "aparência extrema deve ser avaliada sob a ótica de bem-estar"
+      ]
+    },
+    {
+      "id": "breed-057",
+      "slug": "japanese-spitz",
+      "name": "Japanese Spitz",
+      "size": "small-medium",
+      "energy": "moderate-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "high",
+      "apartment_context": "possible-with-activity-and-noise-plan",
+      "heat_context": "heat-sensitive-dense-coat",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-japanese-spitz"
+      ],
+      "photo_alt_pt_br": "Japanese Spitz em fotografia real.",
+      "photo_caption_pt_br": "Japanese Spitz: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-japanese-spitz"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Japão",
+      "function_context": "Spitz asiático reconhecido como cão de companhia.",
+      "editorial_summary": "Branco, atento e elegante, mas não é decoração: precisa de passeio, treino, manejo de vocalização e manutenção da pelagem.",
+      "ideal_for": [
+        "famílias que gostam de treino curto e frequente",
+        "apartamentos com plano para vocalização",
+        "tutores confortáveis com escovação"
+      ],
+      "think_twice_if": [
+        "pelos em casa são intoleráveis",
+        "o prédio exige silêncio absoluto",
+        "não haverá rotina de atividade mental/física"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa pede atenção a calor e secagem",
+        "não raspar automaticamente a pelagem apenas por temperatura"
+      ]
+    },
+    {
+      "id": "breed-058",
+      "slug": "basenji",
+      "name": "Basenji",
+      "size": "small-medium",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "moderate",
+      "vocalization": "low-moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-basenji-puppy"
+      ],
+      "photo_alt_pt_br": "Basenji em fotografia real.",
+      "photo_caption_pt_br": "Basenji: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-basenji"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "África Central",
+      "function_context": "Raça de tipo primitivo; a FCI registra origem na África Central e patronagem britânica.",
+      "editorial_summary": "O Basenji é muitas vezes vendido como 'cão que não late', mas isso esconde o essencial: pode ser ativo, independente, explorador e capaz de vocalizações próprias.",
+      "ideal_for": [
+        "tutores que apreciam independência",
+        "lares com segurança contra fuga",
+        "rotinas com atividade e enriquecimento"
+      ],
+      "think_twice_if": [
+        "quer obediência automática",
+        "pretende deixá-lo solto em áreas não seguras",
+        "escolhe a raça apenas pela promessa de silêncio"
+      ],
+      "health_welfare_notes": [
+        "manejo de fuga e recall realista são importantes",
+        "baixa frequência de latido não significa ausência de vocalização"
+      ]
+    },
+    {
+      "id": "breed-059",
+      "slug": "shiba-inu",
+      "name": "Shiba Inu",
+      "size": "small-medium",
+      "energy": "moderate-high",
+      "grooming": "moderate",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "context-dependent",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-shiba-inu"
+      ],
+      "photo_alt_pt_br": "Shiba Inu em fotografia real.",
+      "photo_caption_pt_br": "Shiba Inu: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-shiba"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Japão",
+      "function_context": "Spitz asiático japonês de pequeno porte e história funcional própria.",
+      "editorial_summary": "Popular pela aparência, mas frequentemente mais independente do que novos tutores esperam. Segurança, manejo e respeito à autonomia são fundamentais.",
+      "ideal_for": [
+        "tutores pacientes e consistentes",
+        "lares com boa segurança de portas/guias",
+        "pessoas que não exigem contato físico constante"
+      ],
+      "think_twice_if": [
+        "quer um cão que agrade sempre e siga sem questionar",
+        "planeja recall sem manejo em áreas abertas",
+        "não aceita um perfil mais independente"
+      ],
+      "health_welfare_notes": [
+        "não confundir aparência compacta com facilidade de manejo",
+        "socialização gradual e treino por recompensa ajudam a construir cooperação"
+      ]
+    },
+    {
+      "id": "breed-060",
+      "slug": "chow-chow",
+      "name": "Chow Chow",
+      "size": "medium-large",
+      "energy": "moderate",
+      "grooming": "very-high",
+      "trainability": "moderate",
+      "vocalization": "low",
+      "apartment_context": "context-dependent",
+      "heat_context": "heat-sensitive-dense-coat",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-chow-chow-cc0"
+      ],
+      "photo_alt_pt_br": "Chow Chow em fotografia real.",
+      "photo_caption_pt_br": "Chow Chow: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-chow-chow"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "China",
+      "function_context": "Spitz asiático de origem chinesa sob patronagem britânica na nomenclatura FCI.",
+      "editorial_summary": "Pelagem densa, expressão particular e perfil frequentemente reservado. Grooming, socialização e clima devem pesar na decisão.",
+      "ideal_for": [
+        "tutores que respeitam espaço e autonomia",
+        "lares com rotina previsível",
+        "ambientes onde seja possível controlar calor"
+      ],
+      "think_twice_if": [
+        "procura um cão exuberantemente sociável com todos",
+        "não quer escovação intensa",
+        "vive em calor forte sem estratégia térmica"
+      ],
+      "health_welfare_notes": [
+        "pelagem densa aumenta necessidade de atenção ao calor",
+        "grooming cooperativo deve começar cedo"
+      ]
+    },
+    {
+      "id": "breed-061",
+      "slug": "alaskan-malamute",
+      "name": "Alaskan Malamute",
+      "size": "large",
+      "energy": "very-high",
+      "grooming": "high",
+      "trainability": "moderate",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "heat-sensitive-dense-coat",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-alaskan-malamute"
+      ],
+      "photo_alt_pt_br": "Alaskan Malamute em fotografia real.",
+      "photo_caption_pt_br": "Alaskan Malamute: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-alaskan-malamute"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 5,
+      "origin": "Estados Unidos",
+      "function_context": "Cão nórdico de trenó; a própria classificação FCI o coloca entre Nordic Sledge Dogs.",
+      "editorial_summary": "Grande, forte e feito para trabalho físico em clima frio. Exercício, segurança, pelo e calor são pontos centrais para tutores em regiões tropicais.",
+      "ideal_for": [
+        "famílias muito ativas com espaço e manejo",
+        "tutores experientes com cães fortes",
+        "rotinas com atividade e controle térmico"
+      ],
+      "think_twice_if": [
+        "vive em clima quente sem estrutura",
+        "quer cão para ficar solto sem segurança robusta",
+        "não consegue oferecer atividade nem lidar com grande muda de pelo"
+      ],
+      "health_welfare_notes": [
+        "pelagem nórdica densa pede forte atenção térmica",
+        "atividade deve respeitar clima, idade e condição física"
+      ]
+    },
+    {
+      "id": "breed-062",
+      "slug": "english-setter",
+      "name": "English Setter",
+      "size": "medium-large",
+      "energy": "high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-english-setter"
+      ],
+      "photo_alt_pt_br": "English Setter em fotografia real.",
+      "photo_caption_pt_br": "English Setter: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-english-setter"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 7,
+      "origin": "Grã-Bretanha",
+      "function_context": "Setter britânico do grupo de cães de aponte, historicamente selecionado para trabalho de campo.",
+      "editorial_summary": "Atlético, elegante e feito para procurar e cobrir terreno. Farejo e movimento tendem a ser partes importantes de uma vida compatível.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de passeios de exploração",
+        "lares que aceitam grooming de pelagem média/longa"
+      ],
+      "think_twice_if": [
+        "rotina é sedentária",
+        "não há espaço seguro para exercício",
+        "manutenção de franjas/pelagem não cabe no dia a dia"
+      ],
+      "health_welfare_notes": [
+        "orelhas e pelagem merecem manutenção e observação",
+        "exercício deve ser progressivo e adaptado ao indivíduo"
+      ]
+    },
+    {
+      "id": "breed-063",
+      "slug": "irish-setter",
+      "name": "Irish Red Setter / Setter Irlandês",
+      "size": "large",
+      "energy": "very-high",
+      "grooming": "high",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-irish-setter"
+      ],
+      "photo_alt_pt_br": "Irish Red Setter / Setter Irlandês em fotografia real.",
+      "photo_caption_pt_br": "Irish Red Setter / Setter Irlandês: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-irish-red-setter"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 7,
+      "origin": "Irlanda",
+      "function_context": "Setter irlandês do grupo de cães de aponte; a FCI o classifica entre setters britânicos e irlandeses.",
+      "editorial_summary": "Grande, atlético e frequentemente exuberante. O vermelho da pelagem chama atenção, mas o compromisso real é energia, treino e tempo.",
+      "ideal_for": [
+        "famílias muito ativas",
+        "tutores que apreciam treino e exploração ao ar livre",
+        "rotinas com companhia e movimento"
+      ],
+      "think_twice_if": [
+        "quer um cão calmo com pouco exercício",
+        "passa longos períodos fora sem apoio",
+        "não quer manutenção de pelagem"
+      ],
+      "health_welfare_notes": [
+        "crescimento e exercício devem ser geridos de acordo com idade e saúde",
+        "grooming e inspeção de orelhas/pelagem fazem parte da rotina"
+      ]
+    },
+    {
+      "id": "breed-064",
+      "slug": "dalmatian",
+      "name": "Dálmata",
+      "size": "medium-large",
+      "energy": "high",
+      "grooming": "low",
+      "trainability": "high",
+      "vocalization": "moderate",
+      "apartment_context": "possible-with-high-activity-plan",
+      "heat_context": "individual-and-climate-dependent",
+      "family_context": "individual-assessment-required",
+      "alone_time_context": "training-and-individual-history-required",
+      "media_ids": [
+        "commons-dalmatian-cc0"
+      ],
+      "photo_alt_pt_br": "Dálmata em fotografia real.",
+      "photo_caption_pt_br": "Dálmata: fotografia de referência para o perfil; use os atributos do atlas como tendências e pontos de investigação, não como previsão do indivíduo.",
+      "source_ids": [
+        "fci-dalmatian"
+      ],
+      "last_reviewed": "2026-09-25",
+      "fci_group": 6,
+      "origin": "Croácia",
+      "function_context": "Raça relacionada no Grupo 6 da FCI, de origem croata, com história funcional associada a deslocamento e resistência.",
+      "editorial_summary": "O padrão de manchas é visualmente marcante, mas a vida com um Dálmata é muito mais sobre energia, treino, rotina e escolha responsável de origem.",
+      "ideal_for": [
+        "famílias ativas",
+        "tutores que gostam de treino e caminhada",
+        "lares capazes de sustentar exercício e enriquecimento"
+      ],
+      "think_twice_if": [
+        "a escolha é apenas pela estética",
+        "rotina é sedentária",
+        "não pretende pesquisar saúde e criação responsável"
+      ],
+      "health_welfare_notes": [
+        "pesquise rastreios e histórico de saúde de criadores responsáveis",
+        "atividade deve ser compatível com idade, clima e condição individual"
+      ]
+    }
+  ],
+  "atlas_name": "Atlas MyPets 64",
+  "profile_count": 64,
+  "photo_coverage": {
+    "profiles_with_real_photo_reference": 64,
+    "total_profiles": 64
+  }
+}

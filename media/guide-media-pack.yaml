@@ -1,0 +1,310 @@
+version: 1.0.0-draft
+reviewed_at: 2026-09-25
+purpose: "Guide-by-guide visual/media production map for MyPets Digital Library launch"
+master_map: media/media-placement-master.json
+principles:
+  - "Use media to teach, orient or create emotional rhythm; do not decorate every paragraph."
+  - "Aim for one meaningful visual interruption every 2–4 reading screens."
+  - "Prefer MyPets-owned, CC0/public-domain, attributed Creative Commons or official embed media."
+  - "Videos remain embedded from official publishers."
+  - "Original diagrams should be rendered as accessible HTML/SVG components and have printable equivalents."
+  - "All figures need alt text, captions where useful, and attribution when required."
+  - "All guide covers use the official round MyPets logo/medallion as an editorial seal; print/PDF may also use it as a low-opacity round watermark."
+
+guides:
+  guide-001:
+    slug: cuidados-essenciais
+    hero: mypets-dog-care
+    inline_media:
+      - commons-dog-sleeping-cc0
+      - commons-dog-owner-walking
+      - commons-dog-grooming
+    original_visuals:
+      - id: care-daily-rhythm
+        type: timeline
+        title: "Um dia equilibrado"
+        blocks: [eliminacao, agua, alimentacao, passeio, descanso, enriquecimento]
+      - id: care-home-safety-map
+        type: room-checklist
+        title: "Mapa de segurança da casa"
+      - id: care-red-flags
+        type: traffic-light
+        title: "Observar, marcar consulta ou procurar ajuda rapidamente"
+      - id: care-annual-calendar
+        type: annual-calendar
+        title: "Calendário anual de cuidados"
+    target_media_count: 7
+
+  guide-002:
+    slug: primeiros-30-dias
+    hero: mypets-hero-dogs
+    inline_media:
+      - commons-beagle-puppy-crate
+      - commons-puppy-walking-cc0
+      - commons-dog-sleeping-cc0
+    original_visuals:
+      - id: puppy-first-72-hours
+        type: timeline
+        title: "Primeiras 72 horas"
+      - id: puppy-socialization-traffic-light
+        type: traffic-light
+        title: "Verde, amarelo e vermelho na socialização"
+      - id: puppy-30-day-roadmap
+        type: day-grid
+        title: "Plano dos primeiros 30 dias"
+      - id: puppy-toilet-loop
+        type: process
+        title: "Acordou → saiu → acertou → reforçou"
+    target_media_count: 7
+
+  guide-003:
+    slug: treino-gentil
+    hero: mypets-dog-training
+    inline_media:
+      - commons-dog-clicker-training
+      - commons-clicker-object
+      - rspcasa-sit-force-free-video
+      - dogs-trust-recall-video
+      - dogs-trust-leave-it-video
+      - guide-dogs-loose-lead-video
+    original_visuals:
+      - id: training-learning-loop
+        type: process
+        title: "Sinal → comportamento → marcador → recompensa"
+      - id: training-three-ds
+        type: matrix
+        title: "Duração, distância e distração"
+      - id: training-21-day-plan
+        type: day-grid
+        title: "Programa de 21 dias"
+    target_media_count: 9
+
+  guide-004:
+    slug: guia-das-racas
+    hero: mypets-dog-rescue
+    inline_media:
+      - commons-labrador
+      - commons-golden-retriever-mav-usp
+      - commons-vizsla-dog
+      - commons-weimaraner-dog
+      - commons-english-springer-spaniel
+      - commons-shar-pei
+      - commons-bichon-frise
+      - commons-shetland-sheepdog
+      - commons-lhasa-apso
+      - commons-saint-bernard
+      - commons-papillon
+      - commons-boston-terrier
+      - commons-rough-collie
+      - commons-afghan-hound
+    original_visuals:
+      - id: breeds-lifestyle-matrix
+        type: comparison-matrix
+        title: "Compatibilidade por estilo de vida"
+      - id: breeds-budget-wheel
+        type: category-wheel
+        title: "Onde o custo aparece"
+      - id: breeds-before-choice
+        type: decision-tree
+        title: "Antes de escolher uma raça"
+      - id: breeds-atlas-photo-grid
+        type: photo-grid
+        title: "Raças parecidas por tamanho, diferentes por função"
+        source: breed-atlas
+      - id: breeds-profile-anatomy
+        type: annotated-card
+        title: "Como ler um perfil de raça"
+      - id: breeds-reality-check-card
+        type: checklist-card
+        title: "Semana de vida simulada antes de escolher"
+    target_media_count: 20
+    note: "Breed atlas structured dataset should progressively reach one real image per breed."
+
+  guide-005:
+    slug: alimentacao-bem-estar
+    hero: mypets-dog-food
+    inline_media:
+      - wsava-body-condition-video
+      - wsava-muscle-condition-video
+    original_visuals:
+      - id: nutrition-label-path
+        type: annotated-label
+        title: "Como ler um rótulo sem se perder"
+      - id: nutrition-transition
+        type: process
+        title: "Transição alimentar gradual"
+      - id: nutrition-body-observation
+        type: silhouette-guide
+        title: "Observe tendências de condição corporal"
+      - id: nutrition-30-day-tracker
+        type: tracker
+        title: "Diário de alimentação e bem-estar"
+    target_media_count: 6
+
+  guide-006:
+    slug: linguagem-corporal-canina
+    hero: mypets-hero-dogs
+    inline_media:
+      - commons-calming-signals-dogs
+      - commons-dog-play-bow
+      - commons-dog-turning-away
+      - commons-dogs-playing
+    original_visuals:
+      - id: body-language-traffic-light
+        type: traffic-light
+        title: "Semáforo corporal"
+      - id: body-language-whole-dog
+        type: annotated-body
+        title: "Leia do focinho à cauda"
+      - id: body-language-before-during-after
+        type: process
+        title: "Antes → durante → recuperação"
+      - id: body-language-child-card
+        type: child-card
+        title: "Se o cão se afasta, a gente deixa"
+    target_media_count: 8
+
+  guide-007:
+    slug: passeios-sem-stress
+    hero: mypets-dog-training
+    inline_media:
+      - commons-dog-owner-walking
+      - commons-puppy-walking-cc0
+      - guide-dogs-loose-lead-video
+      - dogs-trust-recall-video
+    original_visuals:
+      - id: walk-route-abc
+        type: route-cards
+        title: "Rota A, B e C"
+      - id: walk-loose-lead-loop
+        type: process
+        title: "Guia tensiona → parar → reconectar → avançar"
+      - id: walk-trigger-distance
+        type: distance-diagram
+        title: "Encontre a distância em que o cão ainda consegue pensar"
+      - id: walk-14-day-plan
+        type: day-grid
+        title: "14 dias para passeios melhores"
+    target_media_count: 8
+
+  guide-008:
+    slug: ficar-sozinho
+    hero: mypets-dog-care
+    inline_media:
+      - commons-dog-sleeping-cc0
+      - commons-beagle-puppy-crate
+    original_visuals:
+      - id: alone-seconds-to-minutes
+        type: staircase
+        title: "Segundos antes de minutos"
+      - id: alone-camera-check
+        type: observation-board
+        title: "O que procurar na câmara"
+      - id: alone-difficulty-hierarchy
+        type: staircase
+        title: "Hierarquia de separação"
+      - id: alone-14-day-plan
+        type: day-grid
+        title: "Plano de 14 dias"
+    target_media_count: 6
+
+  guide-009:
+    slug: cao-em-apartamento
+    hero: mypets-dog-care
+    inline_media:
+      - commons-dog-sleeping-cc0
+      - commons-dog-owner-walking
+      - dogs-trust-dig-box-video
+      - dogs-trust-yoga-mat-enrichment-video
+    original_visuals:
+      - id: apartment-zone-map
+        type: floorplan
+        title: "Cinco zonas funcionais num espaço pequeno"
+      - id: apartment-noise-plan
+        type: trigger-map
+        title: "Porta, corredor, elevador e janela"
+      - id: apartment-week-plan
+        type: weekly-grid
+        title: "Semana de enriquecimento"
+    target_media_count: 7
+
+  guide-010:
+    slug: higiene-saude-oral
+    hero: mypets-dog-care
+    inline_media:
+      - commons-dog-grooming
+      - commons-dog-grooming-kit
+    original_visuals:
+      - id: grooming-tolerance-map
+        type: body-map
+        title: "Mapa verde, amarelo e vermelho de tolerância"
+      - id: toothbrushing-steps
+        type: step-cards
+        title: "Escovação dental em 6 etapas"
+      - id: grooming-10-day-plan
+        type: day-grid
+        title: "10 dias de manipulação cooperativa"
+      - id: grooming-alerts
+        type: warning-grid
+        title: "Quando parar e procurar avaliação"
+    target_media_count: 6
+
+  guide-011:
+    slug: adotei-cao-adulto
+    hero: mypets-dog-rescue
+    inline_media:
+      - commons-dog-sleeping-cc0
+      - commons-dog-owner-walking
+      - commons-dog-turning-away
+    original_visuals:
+      - id: rescue-first-72h
+        type: timeline
+        title: "Chegada: primeiras 72 horas"
+      - id: rescue-30-day-roadmap
+        type: week-grid
+        title: "Primeiros 30 dias"
+      - id: rescue-observation-journal
+        type: tracker
+        title: "Observe sem rotular"
+    target_media_count: 6
+
+  guide-012:
+    slug: caes-e-criancas
+    hero: mypets-hero-dogs
+    inline_media:
+      - dogs-trust-education-intro-video
+      - commons-dog-turning-away
+      - commons-dogs-playing
+    original_visuals:
+      - id: child-five-rules
+        type: child-poster
+        title: "5 regras para conviver com cães"
+      - id: child-dog-traffic-light
+        type: traffic-light
+        title: "Semáforo do cão para crianças"
+      - id: child-safe-space
+        type: room-diagram
+        title: "O cantinho do cão não é área de brincadeira"
+    target_media_count: 6
+
+  guide-013:
+    slug: 50-ideias-enriquecimento
+    hero: mypets-dog-training
+    inline_media:
+      - dogs-trust-dig-box-video
+      - dogs-trust-yoga-mat-enrichment-video
+      - commons-dogs-playing
+    original_visuals:
+      - id: enrichment-wheel
+        type: category-wheel
+        title: "Farejo, comida, cérebro, movimento e descanso"
+      - id: enrichment-difficulty
+        type: slider
+        title: "Fácil demais ↔ frustrante demais"
+      - id: enrichment-week
+        type: weekly-grid
+        title: "Uma semana pronta de enriquecimento"
+      - id: enrichment-safety
+        type: checklist-card
+        title: "É seguro? Antes de entregar, confira"
+    target_media_count: 7

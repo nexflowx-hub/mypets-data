@@ -1,0 +1,31 @@
+id: guide-003
+slug: treino-gentil
+locale: pt-BR
+title: "Treino Gentil: 7 Comandos para o Dia a Dia"
+subtitle: "Um programa prático de comunicação, segurança e autocontrole sem medo, gritos ou força."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - como-caes-aprendem
+  - preparacao
+audience:
+  - tutor-iniciante
+  - tutor-de-filhote
+  - tutor-de-cao-adulto
+topics:
+  - treino
+  - recompensa
+  - recall
+  - autocontrole
+  - manejo
+reading_minutes: 65
+medical_risk: none
+ai_use: allowed
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90

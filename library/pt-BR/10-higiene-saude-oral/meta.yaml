@@ -1,0 +1,31 @@
+id: guide-010
+slug: higiene-saude-oral
+locale: pt-BR
+title: "Higiene, Banho e Saúde Oral"
+subtitle: "Escovação, banho, patas, unhas, orelhas e dentes com uma abordagem gradual e cooperativa."
+version: 2.0.0-draft
+status: editorial-draft
+collection: mypets-cuidar-melhor
+access: entitled
+preview_sections:
+  - principio
+  - dentes
+audience:
+  - tutor-iniciante
+  - familia-com-cao
+topics:
+  - higiene
+  - banho
+  - grooming
+  - saude-oral
+  - dentes
+  - unhas
+reading_minutes: 45
+medical_risk: low
+ai_use: restricted
+child_safe: true
+persona_use: educational
+last_reviewed: 2026-09-25
+campaign:
+  name: "1 eBook = 1 kg de ração"
+  base_price_brl: 12.90

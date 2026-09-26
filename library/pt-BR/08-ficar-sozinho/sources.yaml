@@ -1,0 +1,11 @@
+guide_id: guide-008
+reviewed_at: 2026-09-25
+sources:
+  - source_id: rspca-left-alone
+    applies_to: [progressao, tempo, sinais, manejo]
+  - source_id: dogs-trust-settle
+    applies_to: [relaxamento, autonomia]
+  - source_id: dogs-trust-enrichment
+    applies_to: [enriquecimento, rotina]
+  - source_id: avsab-position-statements
+    applies_to: [metodo, sem-aversivos]

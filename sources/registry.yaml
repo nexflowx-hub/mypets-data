@@ -1,0 +1,481 @@
+reviewed_at: 2026-09-25
+policy: "Facts may be researched and rewritten. Do not copy protected prose, tables or graphics unless the license/permission explicitly allows it."
+
+sources:
+  - id: avsab-position-statements
+    publisher: American Veterinary Society of Animal Behavior
+    title: Position Statements and Handouts
+    url: https://avsab.org/resources/position-statements/
+    topics: [training, behavior, puppy-socialization]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use current Humane Dog Training and Puppy Socialization statements; do not reproduce entire statements."
+
+  - id: wsava-nutrition
+    publisher: World Small Animal Veterinary Association
+    title: Global Nutrition Guidelines and Toolkit
+    url: https://wsava.org/global-guidelines/global-nutrition-guidelines/
+    topics: [nutrition, body-condition, muscle-condition, labels]
+    authority: high
+    reuse: facts-and-links
+    notes: "WSAVA states its educational resources are copyrighted and asks users wishing to reproduce them to follow its SOP/request process. Link/embed approved resources instead of copying protected charts."
+
+  - id: wsava-vaccination
+    publisher: World Small Animal Veterinary Association
+    title: Vaccination Guidelines
+    url: https://wsava.org/global-guidelines/vaccination-guidelines/
+    topics: [vaccination, preventive-care]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: wsava-dental
+    publisher: World Small Animal Veterinary Association
+    title: Global Dental Guidelines
+    url: https://wsava.org/global-guidelines/dental-guidelines/
+    topics: [oral-health, dental-care]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: wsava-boas
+    publisher: World Small Animal Veterinary Association
+    title: Brachycephalic Obstructive Airway Syndrome (BOAS) Resources
+    url: https://wsava.org/resources/brachycephalic-obstructive-airway-syndrome-boas-resources/
+    topics: [brachycephalic, breathing, welfare]
+    authority: high
+    reuse: facts-links-and-approved-embeds
+
+  - id: aaha-life-stage
+    publisher: American Animal Hospital Association
+    title: 2019 AAHA Canine Life Stage Guidelines
+    url: https://www.aaha.org/resources/life-stage-canine-2019/life-stage-canine-2019-2/
+    topics: [life-stage, preventive-care, behavior, nutrition, safety]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aaha-dental-owner
+    publisher: American Animal Hospital Association
+    title: Dog & cat dental disease — home care
+    url: https://www.aaha.org/resources/your-pets-dental-care/
+    topics: [oral-health, toothbrushing]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: merck-puppy-care
+    publisher: Merck Veterinary Manual
+    title: Puppy Care — Dog Owners
+    url: https://www.merckvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care
+    topics: [puppy, preventive-care, socialization]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: merck-behavior-modification
+    publisher: Merck Veterinary Manual
+    title: Behavior Modification in Dogs
+    url: https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/behavior-modification-in-dogs
+    topics: [behavior, training]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-training
+    publisher: RSPCA
+    title: How to Train Your Dog & Top Training Tips
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training
+    topics: [training, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-recall
+    publisher: RSPCA
+    title: Train Your Dog To Come When Called
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/come
+    topics: [training, recall]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-toilet-training
+    publisher: RSPCA
+    title: How To Toilet Train Your Puppy or Dog
+    url: https://science.rspca.org.uk/en/web/rspca/adviceandwelfare/pets/dogs/training/toilettraining
+    topics: [puppy, toilet-training]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-crates
+    publisher: RSPCA
+    title: How to Crate Train a Puppy
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/environment/crates
+    topics: [puppy, crate, alone-time]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: pdsa-reward-training
+    publisher: PDSA
+    title: Reward-based training
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/reward-based-training
+    topics: [training, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: pdsa-basic-training
+    publisher: PDSA
+    title: Basic training for puppies
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/basic-training-for-puppies
+    topics: [puppy, training]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aspca-toxic-foods
+    publisher: ASPCA Animal Poison Control
+    title: People Foods to Avoid Feeding Your Pets
+    url: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+    topics: [toxins, food-safety]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: avma-warm-weather
+    publisher: American Veterinary Medical Association
+    title: Warm weather pet safety
+    url: https://avma.org/resources/pet-owners/petcare/warm-weather-pet-safety
+    topics: [heat, safety, exercise]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: avma-short-nosed-air-travel
+    publisher: American Veterinary Medical Association
+    title: Short-nosed Dogs and Air Travel FAQs
+    url: https://avma.org/public/PetCare/Pages/Short-nosed-Dogs-and-Air-Travel-FAQs.aspx
+    topics: [brachycephalic, breathing, travel]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: fci-nomenclature
+    publisher: Fédération Cynologique Internationale
+    title: FCI Breeds Nomenclature
+    url: https://www.fci.be/en/nomenclature/
+    topics: [breeds, breed-standards]
+    authority: high
+    reuse: facts-and-links
+
+  - id: akc-lifestyle
+    publisher: American Kennel Club
+    title: What Dog Is Right For Me? How to Choose the Perfect Breed
+    url: https://www.akc.org/expert-advice/lifestyle/what-dog-is-right-for-me/
+    topics: [breed-choice, lifestyle]
+    authority: medium-high
+    reuse: facts-and-paraphrase
+
+
+  - id: fda-complete-balanced
+    publisher: U.S. Food and Drug Administration
+    title: Complete and Balanced Pet Food
+    url: https://www.fda.gov/animal-veterinary/animal-health-literacy/complete-and-balanced-pet-food
+    topics: [nutrition, labels, complete-and-balanced]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use to explain nutritional adequacy statements and the difference between complete diets and treats/supplements."
+
+  - id: aafco-reading-labels
+    publisher: Association of American Feed Control Officials
+    title: Reading Labels
+    url: https://aafco.org/consumers/understanding-pet-food/reading-labels/
+    topics: [nutrition, labels, life-stage]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Useful for understanding nutritional adequacy statements and life-stage wording; jurisdiction-specific labeling must still be checked locally."
+
+  - id: rspca-au-recall-2025
+    publisher: RSPCA Australia Knowledgebase
+    title: How can I teach my dog recall (to come when called)?
+    url: https://kb.rspca.org.au/categories/companion-animals/dogs/training/how-can-i-teach-my-dog-recall-to-come-when-called
+    topics: [training, recall, reward-based]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Updated 2025; use as a current practical recall reference."
+
+
+  - id: dogs-trust-body-language
+    publisher: Dogs Trust
+    title: How to Understand Your Dog's Body Language
+    url: https://www.dogstrust.org.uk/dog-advice/understanding-your-dog/body-language
+    topics: [behavior, body-language, stress, fear, communication]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use whole-body/context interpretation; subtle signals can precede more overt distance-increasing behavior."
+
+  - id: rspca-body-language
+    publisher: RSPCA
+    title: Understanding a Dog's Body Language
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/behaviour/understanding
+    topics: [behavior, body-language, stress, welfare]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: pdsa-canine-communication
+    publisher: PDSA
+    title: Canine Communication — Recognising Stress in Your Dog
+    url: https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/canine-ladder-of-communication
+    topics: [behavior, body-language, stress, communication]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-loose-lead
+    publisher: Dogs Trust
+    title: Teach Your Dog to Walk Nicely on a Lead
+    url: https://www.dogstrust.org.uk/dog-advice/training/outdoors/walking-nicely-training
+    topics: [training, walking, loose-lead, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-loose-lead
+    publisher: RSPCA
+    title: Train Your Dog to Stop Pulling on the Lead
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/walknicely
+    topics: [training, walking, loose-lead, rewards]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-first-walk
+    publisher: Dogs Trust
+    title: Taking Your Puppy on Their First Walk
+    url: https://www.dogstrust.org.uk/dog-advice/puppy/first-walk
+    topics: [puppy, walking, lead, recall]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-reactivity
+    publisher: Dogs Trust
+    title: Understanding Reactive Dogs
+    url: https://www.dogstrust.org.uk/dog-advice/training/unwanted-behaviours/reactive-dog
+    topics: [behavior, reactivity, stress, walking, management]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use for low-risk management principles and signs; significant aggression/fear requires qualified assessment."
+
+  - id: rspca-left-alone
+    publisher: RSPCA
+    title: How to Train Your Dog to Stay Home Alone
+    url: https://www.rspca.org.uk/adviceandwelfare/pets/dogs/training/leftalone
+    topics: [alone-time, separation, prevention, behavior]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-settle
+    publisher: Dogs Trust
+    title: How to Train Your Dog to Be Calm, Relax and Settle
+    url: https://www.dogstrust.org.uk/dog-advice/training/basics/settle-training
+    topics: [behavior, settle, calm, home, independence]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-enrichment
+    publisher: Dogs Trust
+    title: Enrichment Activities to Keep Your Dog Entertained
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/enrichment/enrichment-activities-for-dogs
+    topics: [enrichment, sniffing, play, mental-stimulation, home]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-flat
+    publisher: Dogs Trust
+    title: Keeping a Dog in a Flat
+    url: https://www.dogstrust.org.uk/dog-advice/getting-dog/dog-ready/when-you-live-flat
+    topics: [apartment, home, environment, lifestyle]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: rspca-sniffari
+    publisher: RSPCA Education
+    title: Go on a Dog Sniffari
+    url: https://education.rspca.org.uk/library/-/content/let-dogs-sniff
+    topics: [walking, sniffing, enrichment, welfare]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: aaha-dental-2026
+    publisher: American Animal Hospital Association
+    title: Dog & Cat Dental Disease — Home Care
+    url: https://www.aaha.org/resources/your-pets-dental-care/
+    topics: [dental, toothbrushing, oral-health, home-care]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Updated 2026; daily brushing is presented as the best home method to reduce plaque, with veterinary exams still necessary."
+
+  - id: wsava-dental-2026
+    publisher: World Small Animal Veterinary Association
+    title: 2026 Global Dental Guidelines
+    url: https://wsava.org/global-guidelines/dental-guidelines/
+    topics: [dental, toothbrushing, oral-health, periodontal-disease]
+    authority: high
+    reuse: facts-and-paraphrase
+    notes: "Use current 2026 guideline summaries and owner toothbrushing resources; do not reproduce protected figures without permission."
+
+
+  - id: dogs-trust-rescue-settle
+    publisher: Dogs Trust
+    title: How to Help a Rescue Dog Get Settled into Your Home
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/at-home/settle-rescue-dog
+    topics: [adoption, rescue, settling, routine, behavior]
+    authority: high
+    reuse: facts-and-paraphrase
+
+  - id: dogs-trust-child-safety
+    publisher: Dogs Trust
+    title: Dogs and Children — Living Happily Together
+    url: https://www.dogstrust.org.uk/dog-advice/life-with-your-dog/at-home/dog-and-child-safety
+    topics: [children, safety, body-language, supervision]
+    authority: high
+    reuse: facts-and-paraphrase
+
+
+  - id: fci-pembroke-welsh-corgi
+    publisher: Fédération Cynologique Internationale
+    title: "Welsh Corgi (Pembroke)"
+    url: https://www.fci.be/en/nomenclature/WELSH-CORGI-PEMBROKE-39.html
+    topics: [breed, pembroke-welsh-corgi, group-1]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-cardigan-welsh-corgi
+    publisher: Fédération Cynologique Internationale
+    title: "Welsh Corgi (Cardigan)"
+    url: https://www.fci.be/en/nomenclature/WELSH-CORGI-CARDIGAN-38.html
+    topics: [breed, cardigan-welsh-corgi, group-1]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-american-staffordshire-terrier
+    publisher: Fédération Cynologique Internationale
+    title: "American Staffordshire Terrier"
+    url: https://www.fci.be/en/nomenclature/AMERICAN-STAFFORDSHIRE-TERRIER-286.html
+    topics: [breed, american-staffordshire-terrier, group-3]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-staffordshire-bull-terrier
+    publisher: Fédération Cynologique Internationale
+    title: "Staffordshire Bull Terrier"
+    url: https://www.fci.be/en/nomenclature/STAFFORDSHIRE-BULL-TERRIER-76.html
+    topics: [breed, staffordshire-bull-terrier, group-3]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-newfoundland
+    publisher: Fédération Cynologique Internationale
+    title: "Newfoundland"
+    url: https://www.fci.be/en/nomenclature/NEWFOUNDLAND-50.html
+    topics: [breed, newfoundland, group-2]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-flat-coated-retriever
+    publisher: Fédération Cynologique Internationale
+    title: "Flat Coated Retriever"
+    url: https://www.fci.be/en/nomenclature/FLAT-COATED-RETRIEVER-121.html
+    topics: [breed, flat-coated-retriever, group-8]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-portuguese-water-dog
+    publisher: Fédération Cynologique Internationale
+    title: "Cão de Água Português"
+    url: https://www.fci.be/en/nomenclature/PORTUGUESE-WATER-DOG-37.html
+    topics: [breed, portuguese-water-dog, group-8]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-havanese
+    publisher: Fédération Cynologique Internationale
+    title: "Havanese"
+    url: https://www.fci.be/en/nomenclature/HAVANESE-250.html
+    topics: [breed, havanese, group-9]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-pekingese
+    publisher: Fédération Cynologique Internationale
+    title: "Pekingese"
+    url: https://www.fci.be/en/nomenclature/PEKINGESE-207.html
+    topics: [breed, pekingese, group-9]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-japanese-spitz
+    publisher: Fédération Cynologique Internationale
+    title: "Japanese Spitz"
+    url: https://www.fci.be/en/nomenclature/JAPANESE-SPITZ-262.html
+    topics: [breed, japanese-spitz, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-basenji
+    publisher: Fédération Cynologique Internationale
+    title: "Basenji"
+    url: https://www.fci.be/en/nomenclature/BASENJI-43.html
+    topics: [breed, basenji, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-shiba
+    publisher: Fédération Cynologique Internationale
+    title: "Shiba"
+    url: https://www.fci.be/en/nomenclature/SHIBA-257.html
+    topics: [breed, shiba-inu, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-chow-chow
+    publisher: Fédération Cynologique Internationale
+    title: "Chow Chow"
+    url: https://www.fci.be/en/nomenclature/CHOW-CHOW-205.html
+    topics: [breed, chow-chow, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-alaskan-malamute
+    publisher: Fédération Cynologique Internationale
+    title: "Alaskan Malamute"
+    url: https://www.fci.be/en/nomenclature/ALASKAN-MALAMUTE-243.html
+    topics: [breed, alaskan-malamute, group-5]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-english-setter
+    publisher: Fédération Cynologique Internationale
+    title: "English Setter"
+    url: https://www.fci.be/en/nomenclature/ENGLISH-SETTER-2.html
+    topics: [breed, english-setter, group-7]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-irish-red-setter
+    publisher: Fédération Cynologique Internationale
+    title: "Irish Red Setter"
+    url: https://www.fci.be/en/nomenclature/IRISH-RED-SETTER-120.html
+    topics: [breed, irish-setter, group-7]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25
+
+  - id: fci-dalmatian
+    publisher: Fédération Cynologique Internationale
+    title: "Dalmatian"
+    url: https://www.fci.be/en/nomenclature/DALMATIAN-153.html
+    topics: [breed, dalmatian, group-6]
+    authority: high
+    reuse: facts-and-links
+    reviewed_at: 2026-09-25

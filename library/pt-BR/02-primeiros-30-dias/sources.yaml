@@ -1,0 +1,19 @@
+guide_id: guide-002
+reviewed_at: 2026-09-25
+sources:
+  - source_id: avsab-position-statements
+    applies_to: [socializacao, treino, escolha-de-profissional]
+  - source_id: merck-puppy-care
+    applies_to: [saude, prevencao, crescimento]
+  - source_id: rspca-toilet-training
+    applies_to: [necessidades]
+  - source_id: rspca-crates
+    applies_to: [zona-segura, crate]
+  - source_id: rspca-left-alone
+    applies_to: [ficar-sozinho]
+  - source_id: rspca-training
+    applies_to: [nome, treino, recompensas]
+  - source_id: wsava-vaccination
+    applies_to: [prevencao, socializacao-segura]
+  - source_id: aaha-life-stage
+    applies_to: [filhote, rotina, prevencao]

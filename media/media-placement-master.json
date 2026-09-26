@@ -1,0 +1,1220 @@
+{
+  "version": "1.0.0",
+  "reviewed_at": "2026-09-25",
+  "purpose": "Exact section-level media placement, accessibility copy and cover branding for the 13-guide MyPets launch library.",
+  "counts": {
+    "guides": 13,
+    "placements": 103
+  },
+  "global_rules": {
+    "hero_covers": "Cover/hero is not counted inside the 103 in-guide placements.",
+    "brand_mark": "All covers use the official round MyPets logo/medallion as a visible editorial seal; print/PDF may additionally use a low-opacity round watermark.",
+    "captions": "Captions explain why the visual matters; they should not merely repeat the alt text.",
+    "alt_text": "Alt text describes the informational content/function. Decorative brand textures must use empty alt in HTML.",
+    "video_print_fallback": "Render video title, publisher, QR/link target and the three 'watch for' points in print/PDF.",
+    "original_visuals": "Render as semantic HTML/SVG with text equivalents; never raster-only.",
+    "brand_asset": "mypets-round-logo"
+  },
+  "guides": {
+    "guide-001": {
+      "slug": "cuidados-essenciais",
+      "cover": {
+        "hero_media_id": "mypets-dog-care",
+        "title": "Cuidados Essenciais com o Seu Cão",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-sleeping-cc0",
+          "kind": "media",
+          "anchor": "## 3. A rotina-base: previsibilidade sem rigidez",
+          "position": "after",
+          "alt": "Cão descansando deitado em ambiente doméstico tranquilo.",
+          "caption": "Descanso e sono fazem parte da rotina de bem-estar; atividade sem recuperação não é equilíbrio."
+        },
+        {
+          "id": "commons-dog-owner-walking",
+          "kind": "media",
+          "anchor": "## 6. Passeio: exercício, exploração e informação",
+          "position": "after",
+          "alt": "Pessoa caminhando com um cão na guia em ambiente externo.",
+          "caption": "Passeio é movimento, exploração e recolha de informação — não apenas quilometragem."
+        },
+        {
+          "id": "commons-dog-grooming",
+          "kind": "media",
+          "anchor": "## 10. Higiene do pelo e da pele",
+          "position": "after",
+          "alt": "Cão recebendo escovação de pelagem com ferramenta de grooming.",
+          "caption": "A escovação também é uma oportunidade para observar pele, pelo e sensibilidade ao toque."
+        },
+        {
+          "id": "care-daily-rhythm",
+          "kind": "original-visual",
+          "anchor": "### Um exemplo flexível",
+          "position": "after",
+          "alt": "Linha do tempo de um dia equilibrado com eliminação, água, alimentação, passeio, descanso e enriquecimento.",
+          "caption": "Um dia equilibrado alterna necessidades físicas, exploração, interação e recuperação.",
+          "render": "timeline"
+        },
+        {
+          "id": "care-home-safety-map",
+          "kind": "original-visual",
+          "anchor": "## 4. A casa segura começa no nível do focinho",
+          "position": "after",
+          "alt": "Mapa de uma casa com pontos de segurança em cozinha, sala, quarto, varanda e área de serviço.",
+          "caption": "Faça a inspeção da casa a partir da altura e curiosidade do cão.",
+          "render": "room-checklist"
+        },
+        {
+          "id": "care-red-flags",
+          "kind": "original-visual",
+          "anchor": "## 18. Mudanças que merecem consulta",
+          "position": "before",
+          "alt": "Semáforo com três níveis: observar, marcar consulta e procurar ajuda rapidamente.",
+          "caption": "Mudança + persistência + impacto ajudam a decidir quando aumentar a urgência.",
+          "render": "traffic-light"
+        },
+        {
+          "id": "care-annual-calendar",
+          "kind": "original-visual",
+          "anchor": "## 34. Revisão a cada seis meses",
+          "position": "after",
+          "alt": "Calendário anual com espaços para prevenção, identificação, peso, boca, rotina e revisão veterinária.",
+          "caption": "Um calendário simples reduz o risco de cuidados preventivos ficarem esquecidos.",
+          "render": "annual-calendar"
+        }
+      ]
+    },
+    "guide-002": {
+      "slug": "primeiros-30-dias",
+      "cover": {
+        "hero_media_id": "mypets-hero-dogs",
+        "title": "Os Primeiros 30 Dias com um Filhote",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-beagle-puppy-crate",
+          "kind": "media",
+          "anchor": "## 10. Cercado e caixa de transporte: ferramenta, não castigo",
+          "position": "after",
+          "alt": "Filhote Beagle dentro de uma caixa de transporte aberta e preparada como espaço de descanso.",
+          "caption": "Caixa ou cercado devem ser apresentados gradualmente como espaço previsível, nunca como castigo."
+        },
+        {
+          "id": "commons-puppy-walking-cc0",
+          "kind": "media",
+          "anchor": "## 14. Coleira, peitoral e guia",
+          "position": "after",
+          "alt": "Filhote caminhando com guia ao lado de uma pessoa.",
+          "caption": "Os primeiros passos na guia devem ser curtos, positivos e compatíveis com a fase de desenvolvimento."
+        },
+        {
+          "id": "commons-dog-sleeping-cc0",
+          "kind": "media",
+          "anchor": "## 4. Sono: filhote cansado não aprende melhor",
+          "position": "after",
+          "alt": "Cão dormindo relaxado.",
+          "caption": "Sono é uma necessidade central do filhote e ajuda a reduzir excesso de excitação."
+        },
+        {
+          "id": "puppy-first-72-hours",
+          "kind": "original-visual",
+          "anchor": "## 2. Primeiras 24 horas: segurança antes de performance",
+          "position": "before",
+          "alt": "Linha do tempo das primeiras 72 horas com foco em segurança, alimentação, sono, eliminação e observação.",
+          "caption": "Nas primeiras 72 horas, a missão é aterrissar — não cumprir uma agenda de socialização.",
+          "render": "timeline"
+        },
+        {
+          "id": "puppy-socialization-traffic-light",
+          "kind": "original-visual",
+          "anchor": "## 12. Socialização: qualidade acima de quantidade",
+          "position": "after",
+          "alt": "Semáforo de socialização com sinais de conforto, hesitação e sobrecarga.",
+          "caption": "Socialização de qualidade permite observar, aproximar ou afastar sem forçar.",
+          "render": "traffic-light"
+        },
+        {
+          "id": "puppy-30-day-roadmap",
+          "kind": "original-visual",
+          "anchor": "## Dias 1–3 — Aterrissagem",
+          "position": "before",
+          "alt": "Calendário de 30 dias dividido em aterrissagem, previsibilidade, comunicação, mundo novo, autocontrole, independência e vida real.",
+          "caption": "O primeiro mês funciona melhor como uma sequência de pequenas missões do que como uma corrida por resultados.",
+          "render": "day-grid"
+        },
+        {
+          "id": "puppy-toilet-loop",
+          "kind": "original-visual",
+          "anchor": "## 5. Xixi e cocô: ensine sem castigo",
+          "position": "after",
+          "alt": "Fluxo circular: acordou, saiu, eliminou no local certo, recebeu reforço e voltou à rotina.",
+          "caption": "Treino de eliminação melhora quando o tutor antecipa momentos estratégicos e reforça o acerto.",
+          "render": "process"
+        }
+      ]
+    },
+    "guide-003": {
+      "slug": "treino-gentil",
+      "cover": {
+        "hero_media_id": "mypets-dog-training",
+        "title": "Treino Gentil: 7 Comandos para o Dia a Dia",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-clicker-training",
+          "kind": "media",
+          "anchor": "## 13. Marcador verbal versus clicker",
+          "position": "after",
+          "alt": "Pessoa usando um clicker durante uma sessão de treino com um cão.",
+          "caption": "O marcador funciona quando sinaliza com precisão o comportamento que será recompensado."
+        },
+        {
+          "id": "commons-clicker-object",
+          "kind": "media",
+          "anchor": "## 13. Marcador verbal versus clicker",
+          "position": "before",
+          "alt": "Pequeno clicker de treino usado como marcador sonoro.",
+          "caption": "Um clicker é apenas uma ferramenta de marcação; a aprendizagem vem da associação consistente com a recompensa."
+        },
+        {
+          "id": "rspcasa-sit-force-free-video",
+          "kind": "video",
+          "anchor": "## 6. Para que serve?",
+          "position": "after",
+          "alt": "Vídeo demonstrativo de treino de senta sem força.",
+          "caption": "Observe a posição da recompensa, o timing e a ausência de manipulação física.",
+          "watch_for": [
+            "timing da marcação",
+            "posição da recompensa",
+            "sessões curtas"
+          ]
+        },
+        {
+          "id": "dogs-trust-recall-video",
+          "kind": "video",
+          "anchor": "## 8. O recall é um seguro de vida comportamental",
+          "position": "after",
+          "alt": "Vídeo oficial demonstrando treino progressivo de recall.",
+          "caption": "Repare como o retorno é construído em passos fáceis antes de adicionar distrações.",
+          "watch_for": [
+            "distância inicial",
+            "recompensa ao regressar",
+            "progressão gradual"
+          ]
+        },
+        {
+          "id": "dogs-trust-leave-it-video",
+          "kind": "video",
+          "anchor": "## 10. Objetivo",
+          "position": "after",
+          "alt": "Vídeo oficial demonstrando treino de deixar um item.",
+          "caption": "Veja como a escolha de afastar-se do item é recompensada em vez de forçada.",
+          "watch_for": [
+            "mão protegendo o item",
+            "marcação da escolha correta",
+            "aumento gradual da dificuldade"
+          ]
+        },
+        {
+          "id": "guide-dogs-loose-lead-video",
+          "kind": "video",
+          "anchor": "## 31. Guia frouxa: uma competência complementar",
+          "position": "after",
+          "alt": "Vídeo sobre caminhada com guia frouxa baseada em progressão e recompensa.",
+          "caption": "Use o vídeo para observar como a tensão da guia muda a decisão de avançar.",
+          "watch_for": [
+            "guia sem tensão",
+            "recompensa por proximidade",
+            "mudanças de direção"
+          ]
+        },
+        {
+          "id": "training-learning-loop",
+          "kind": "original-visual",
+          "anchor": "## 1. Como cães aprendem: o essencial",
+          "position": "after",
+          "alt": "Ciclo visual: sinal, comportamento, marcador e recompensa.",
+          "caption": "O ciclo de aprendizagem fica mais claro quando o tutor separa sinal, resposta, marcação e consequência.",
+          "render": "process"
+        },
+        {
+          "id": "training-three-ds",
+          "kind": "original-visual",
+          "anchor": "## 14. Distrações: a escada invisível",
+          "position": "after",
+          "alt": "Matriz dos três Ds do treino: duração, distância e distração.",
+          "caption": "Aumente apenas uma dimensão de dificuldade por vez para preservar clareza.",
+          "render": "matrix"
+        },
+        {
+          "id": "training-21-day-plan",
+          "kind": "original-visual",
+          "anchor": "## Semana 1 — fundação",
+          "position": "before",
+          "alt": "Plano de treino de 21 dias organizado em fundação, clareza e vida real.",
+          "caption": "Pequenas sessões consistentes produzem mais aprendizagem do que maratonas esporádicas.",
+          "render": "day-grid"
+        }
+      ]
+    },
+    "guide-004": {
+      "slug": "guia-das-racas",
+      "cover": {
+        "hero_media_id": "mypets-dog-rescue",
+        "title": "Guia das Raças: Escolha pelo Estilo de Vida",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-labrador",
+          "kind": "media",
+          "anchor": "## 6. Labrador Retriever",
+          "position": "after",
+          "alt": "Labrador Retriever adulto em fotografia de corpo inteiro.",
+          "caption": "O Labrador combina sociabilidade frequente com necessidade real de atividade, treino e gestão alimentar."
+        },
+        {
+          "id": "commons-golden-retriever-mav-usp",
+          "kind": "media",
+          "anchor": "## 7. Golden Retriever",
+          "position": "after",
+          "alt": "Golden Retriever adulto em ambiente externo.",
+          "caption": "Pelagem, atividade e proximidade social fazem parte do custo real de conviver com um Golden."
+        },
+        {
+          "id": "commons-vizsla-dog",
+          "kind": "media",
+          "anchor": "## 73. Vizsla",
+          "position": "after",
+          "alt": "Vizsla adulto de pelagem curta castanha-avermelhada.",
+          "caption": "O Vizsla é um exemplo de cão atlético cuja rotina precisa incluir atividade e proximidade social."
+        },
+        {
+          "id": "commons-weimaraner-dog",
+          "kind": "media",
+          "anchor": "## 74. Weimaraner",
+          "position": "after",
+          "alt": "Weimaraner adulto de pelagem cinza curta.",
+          "caption": "O Weimaraner foi selecionado para trabalho ativo e beneficia de uma rotina rica em movimento e tarefas."
+        },
+        {
+          "id": "commons-english-springer-spaniel",
+          "kind": "media",
+          "anchor": "## 75. English Springer Spaniel",
+          "position": "after",
+          "alt": "English Springer Spaniel adulto.",
+          "caption": "Spaniels de trabalho tendem a valorizar exploração olfativa, movimento e cooperação."
+        },
+        {
+          "id": "commons-shar-pei",
+          "kind": "media",
+          "anchor": "## 76. Shar-Pei",
+          "position": "after",
+          "alt": "Shar-Pei adulto com as características do tipo racial.",
+          "caption": "No Shar-Pei, aparência extrema deve levar a perguntas de saúde e bem-estar, não apenas a preferência estética."
+        },
+        {
+          "id": "commons-bichon-frise",
+          "kind": "media",
+          "anchor": "## 77. Bichon Frisé",
+          "position": "after",
+          "alt": "Bichon Frisé ao lado de um Poodle; a legenda identifica as duas raças.",
+          "caption": "O pequeno porte do Bichon não elimina a necessidade de grooming e companhia."
+        },
+        {
+          "id": "commons-shetland-sheepdog",
+          "kind": "media",
+          "anchor": "## 78. Shetland Sheepdog",
+          "position": "after",
+          "alt": "Shetland Sheepdog adulto de pelagem longa.",
+          "caption": "O Sheltie combina pequeno porte com forte capacidade de aprendizagem e sensibilidade ao ambiente."
+        },
+        {
+          "id": "commons-lhasa-apso",
+          "kind": "media",
+          "anchor": "## 79. Lhasa Apso",
+          "position": "after",
+          "alt": "Lhasa Apso adulto de pelagem longa.",
+          "caption": "Pelagem e independência relativa fazem do Lhasa mais do que um simples cão de colo."
+        },
+        {
+          "id": "commons-saint-bernard",
+          "kind": "media",
+          "anchor": "## 80. São Bernardo",
+          "position": "after",
+          "alt": "São Bernardo adulto de grande porte.",
+          "caption": "Raças gigantes exigem planeamento logístico, térmico, financeiro e de mobilidade."
+        },
+        {
+          "id": "commons-papillon",
+          "kind": "media",
+          "anchor": "## 81. Papillon",
+          "position": "after",
+          "alt": "Papillon adulto com orelhas eretas e franjadas.",
+          "caption": "O Papillon mostra que tamanho muito pequeno pode coexistir com grande interesse por treino e atividade mental."
+        },
+        {
+          "id": "commons-boston-terrier",
+          "kind": "media",
+          "anchor": "## 82. Boston Terrier",
+          "position": "after",
+          "alt": "Boston Terrier adulto.",
+          "caption": "No Boston Terrier, o focinho curto deve trazer atenção extra à respiração e ao calor."
+        },
+        {
+          "id": "commons-rough-collie",
+          "kind": "media",
+          "anchor": "## 83. Rough Collie / Collie de Pelo Longo",
+          "position": "after",
+          "alt": "Rough Collie adulto de pelagem longa.",
+          "caption": "O Rough Collie combina herança de pastoreio, sensibilidade e manutenção relevante da pelagem."
+        },
+        {
+          "id": "commons-afghan-hound",
+          "kind": "media",
+          "anchor": "## 84. Afghan Hound",
+          "position": "after",
+          "alt": "Afghan Hound adulto de pelagem longa.",
+          "caption": "O Afghan Hound combina independência típica de galgo com elevada exigência de grooming."
+        },
+        {
+          "id": "breeds-lifestyle-matrix",
+          "kind": "original-visual",
+          "anchor": "## 2. Matriz de compatibilidade",
+          "position": "after",
+          "alt": "Matriz comparando energia, manutenção, treino, sociabilidade e sensibilidade ambiental.",
+          "caption": "Compare a sua rotina com tendências de cada perfil antes de se apaixonar pela aparência.",
+          "render": "comparison-matrix"
+        },
+        {
+          "id": "breeds-budget-wheel",
+          "kind": "original-visual",
+          "anchor": "## 37. Grooming: calcule em horas e dinheiro",
+          "position": "after",
+          "alt": "Roda de custos com alimentação, grooming, prevenção, treino, transporte, hospedagem e emergência.",
+          "caption": "O custo de uma raça aparece em várias categorias além do preço de aquisição.",
+          "render": "category-wheel"
+        },
+        {
+          "id": "breeds-before-choice",
+          "kind": "original-visual",
+          "anchor": "## 70. A pergunta final",
+          "position": "before",
+          "alt": "Árvore de decisão com rotina, energia, companhia, grooming, clima, orçamento e logística.",
+          "caption": "Antes de escolher uma raça, confronte desejo com a vida que você realmente consegue sustentar.",
+          "render": "decision-tree"
+        },
+        {
+          "id": "breeds-atlas-photo-grid",
+          "kind": "original-visual",
+          "anchor": "## 3. Grupos históricos ajudam a entender tendências",
+          "position": "after",
+          "alt": "Mosaico editorial com fotografias de raças de grupos funcionais diferentes.",
+          "caption": "Raças com tamanhos semelhantes podem ter histórias funcionais e necessidades muito diferentes.",
+          "render": "photo-grid",
+          "source": "breed-atlas"
+        },
+        {
+          "id": "breeds-profile-anatomy",
+          "kind": "original-visual",
+          "anchor": "## 71. Como usar perfis de raça sem transformar tendência em sentença",
+          "position": "after",
+          "alt": "Anatomia de um cartão de raça com porte, energia, grooming, contexto familiar, clima e perguntas antes de escolher.",
+          "caption": "Um perfil de raça serve para gerar perguntas, não para prever o comportamento de um indivíduo.",
+          "render": "annotated-card"
+        },
+        {
+          "id": "breeds-reality-check-card",
+          "kind": "original-visual",
+          "anchor": "## 72. Faça uma semana de “vida simulada”",
+          "position": "after",
+          "alt": "Cartão de realidade com tempo, passeio, grooming, orçamento, viagens e plano de emergência.",
+          "caption": "Simular uma semana de rotina antes de adotar revela incompatibilidades que fotografias não mostram.",
+          "render": "checklist-card"
+        }
+      ]
+    },
+    "guide-005": {
+      "slug": "alimentacao-bem-estar",
+      "cover": {
+        "hero_media_id": "mypets-dog-food",
+        "title": "Rotina de Alimentação e Bem-Estar",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "wsava-body-condition-video",
+          "kind": "video",
+          "anchor": "## 15. Peso e condição corporal",
+          "position": "after",
+          "alt": "Vídeo educativo sobre avaliação de condição corporal em cães.",
+          "caption": "Use o vídeo para entender que peso e formato corporal precisam ser avaliados em conjunto.",
+          "watch_for": [
+            "costelas",
+            "cintura",
+            "vista lateral e superior"
+          ]
+        },
+        {
+          "id": "wsava-muscle-condition-video",
+          "kind": "video",
+          "anchor": "## 17. Perda de peso inesperada",
+          "position": "after",
+          "alt": "Vídeo educativo sobre avaliação de condição muscular.",
+          "caption": "Perda muscular pode não aparecer apenas na balança; observe regiões corporais específicas.",
+          "watch_for": [
+            "massa muscular",
+            "mudança ao longo do tempo",
+            "diferença entre peso e músculo"
+          ]
+        },
+        {
+          "id": "nutrition-label-path",
+          "kind": "original-visual",
+          "anchor": "## 31. Rótulos: o que procurar",
+          "position": "after",
+          "alt": "Diagrama de leitura de rótulo com espécie, fase de vida, adequação nutricional, energia, instruções e fabricante.",
+          "caption": "Leia o rótulo como um conjunto de informações, não como uma disputa por um único ingrediente.",
+          "render": "annotated-label"
+        },
+        {
+          "id": "nutrition-transition",
+          "kind": "original-visual",
+          "anchor": "## 42. Como fazer uma troca de alimento de forma observável",
+          "position": "after",
+          "alt": "Processo gradual de transição entre alimento antigo e novo com pontos de observação.",
+          "caption": "Uma troca gradual permite acompanhar tolerância e identificar mudanças de forma mais clara.",
+          "render": "process"
+        },
+        {
+          "id": "nutrition-body-observation",
+          "kind": "original-visual",
+          "anchor": "## 15. Peso e condição corporal",
+          "position": "before",
+          "alt": "Silhuetas simplificadas para observar tendências de costelas, cintura e forma corporal sem diagnosticar.",
+          "caption": "Use a figura para acompanhar tendências e leve dúvidas de condição corporal ao veterinário.",
+          "render": "silhouette-guide"
+        },
+        {
+          "id": "nutrition-30-day-tracker",
+          "kind": "original-visual",
+          "anchor": "## 50. Plano de observação de 30 dias",
+          "position": "after",
+          "alt": "Tracker mensal de alimento, petiscos, peso, fezes, apetite, água e energia.",
+          "caption": "Registros simples transformam impressões vagas em informação útil para a família e o veterinário.",
+          "render": "tracker"
+        }
+      ]
+    },
+    "guide-006": {
+      "slug": "linguagem-corporal-canina",
+      "cover": {
+        "hero_media_id": "mypets-hero-dogs",
+        "title": "Linguagem Corporal Canina",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-calming-signals-dogs",
+          "kind": "media",
+          "anchor": "## 5. Os sinais sutis são os mais fáceis de perder",
+          "position": "after",
+          "alt": "Sequência fotográfica ilustrando sinais caninos sutis de comunicação e redução de conflito.",
+          "caption": "Sinais pequenos podem aparecer antes de comportamentos mais intensos; observe sempre o contexto e o corpo inteiro."
+        },
+        {
+          "id": "commons-dog-play-bow",
+          "kind": "media",
+          "anchor": "## 4. Convite para brincar",
+          "position": "after",
+          "alt": "Cão realizando a postura de convite para brincar, com parte dianteira baixa e traseira elevada.",
+          "caption": "O play bow pode iniciar brincadeira, mas a qualidade da interação também depende de pausas e reciprocidade."
+        },
+        {
+          "id": "commons-dog-turning-away",
+          "kind": "media",
+          "anchor": "## 14. Distância é comunicação",
+          "position": "after",
+          "alt": "Cão virando o corpo durante uma aproximação.",
+          "caption": "Virar a cabeça ou o corpo pode ser uma forma de reduzir pressão e pedir mais espaço."
+        },
+        {
+          "id": "commons-dogs-playing",
+          "kind": "media",
+          "anchor": "## 4. Convite para brincar",
+          "position": "after",
+          "alt": "Dois cães brincando em interação social.",
+          "caption": "Brincadeira saudável costuma incluir corpos soltos, pausas e possibilidade real de interromper."
+        },
+        {
+          "id": "body-language-traffic-light",
+          "kind": "original-visual",
+          "anchor": "## 7. Semáforo de leitura rápida",
+          "position": "after",
+          "alt": "Semáforo corporal com verde para confortável, amarelo para desconforto crescente e vermelho para necessidade imediata de espaço.",
+          "caption": "Responder aos sinais amarelos reduz a probabilidade de o cão precisar comunicar em volume mais alto.",
+          "render": "traffic-light"
+        },
+        {
+          "id": "body-language-whole-dog",
+          "kind": "original-visual",
+          "anchor": "## 1. Comece pelo conjunto, não pela cauda",
+          "position": "after",
+          "alt": "Diagrama de um cão com hotspots em olhos, boca, orelhas, cauda, peso corporal e direção do movimento.",
+          "caption": "Leia o cão do focinho à cauda; nenhum sinal isolado funciona como dicionário universal.",
+          "render": "annotated-body"
+        },
+        {
+          "id": "body-language-before-during-after",
+          "kind": "original-visual",
+          "anchor": "## 50. Exercício “antes e depois”",
+          "position": "after",
+          "alt": "Fluxo de três etapas: antes do estímulo, durante a interação e tempo de recuperação.",
+          "caption": "A recuperação depois do evento é parte importante da leitura emocional.",
+          "render": "process"
+        },
+        {
+          "id": "body-language-child-card",
+          "kind": "original-visual",
+          "anchor": "## 55. O que crianças podem aprender em 30 segundos",
+          "position": "after",
+          "alt": "Cartão infantil com a frase: se o cão se afasta, a gente deixa.",
+          "caption": "Respeitar a distância é uma regra simples que crianças conseguem aplicar com ajuda de adultos.",
+          "render": "child-card"
+        }
+      ]
+    },
+    "guide-007": {
+      "slug": "passeios-sem-stress",
+      "cover": {
+        "hero_media_id": "mypets-dog-training",
+        "title": "Passeios sem Stress",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-owner-walking",
+          "kind": "media",
+          "anchor": "## 3. Guia frouxa é uma habilidade, não uma posição militar",
+          "position": "after",
+          "alt": "Pessoa caminhando com um cão na guia em ritmo tranquilo.",
+          "caption": "Caminhar bem não exige que o cão fique colado à perna; o objetivo é segurança, comunicação e exploração."
+        },
+        {
+          "id": "commons-puppy-walking-cc0",
+          "kind": "media",
+          "anchor": "## 12. Primeiro passeio do filhote",
+          "position": "after",
+          "alt": "Filhote caminhando com guia em ambiente externo.",
+          "caption": "Os primeiros passeios devem ser curtos e graduais, com oportunidade de observar sem ser forçado."
+        },
+        {
+          "id": "guide-dogs-loose-lead-video",
+          "kind": "video",
+          "anchor": "## 3. Guia frouxa é uma habilidade, não uma posição militar",
+          "position": "after",
+          "alt": "Vídeo sobre caminhada com guia frouxa.",
+          "caption": "Observe o timing da recompensa e como o avanço é associado à guia sem tensão.",
+          "watch_for": [
+            "guia frouxa",
+            "posição da recompensa",
+            "progressão"
+          ]
+        },
+        {
+          "id": "dogs-trust-recall-video",
+          "kind": "video",
+          "anchor": "## 17. O “vem” no passeio",
+          "position": "after",
+          "alt": "Vídeo oficial de treino de recall.",
+          "caption": "Veja como o retorno é reforçado antes de aumentar distância e distrações.",
+          "watch_for": [
+            "chamada única",
+            "recompensa ao chegar",
+            "liberação de volta"
+          ]
+        },
+        {
+          "id": "walk-route-abc",
+          "kind": "original-visual",
+          "anchor": "## 43. Tenha rotas A, B e C",
+          "position": "after",
+          "alt": "Três cartões de rota: normal, curta e fuga, com exemplos de decisões urbanas.",
+          "caption": "Ter alternativas prontas reduz improviso quando aparece um gatilho.",
+          "render": "route-cards"
+        },
+        {
+          "id": "walk-loose-lead-loop",
+          "kind": "original-visual",
+          "anchor": "## 7. Quando a guia estica",
+          "position": "after",
+          "alt": "Ciclo visual: guia tensiona, parar, reconectar, avançar novamente.",
+          "caption": "Se puxar sempre produz avanço, o ambiente reforça o puxão; mude o ciclo.",
+          "render": "process"
+        },
+        {
+          "id": "walk-trigger-distance",
+          "kind": "original-visual",
+          "anchor": "## 19. Reatividade: comece pela distância",
+          "position": "after",
+          "alt": "Diagrama de distância entre cão e gatilho mostrando zona funcional, zona de alerta e zona de reação.",
+          "caption": "Encontre a distância em que o cão ainda consegue perceber, comer, mover-se e responder.",
+          "render": "distance-diagram"
+        },
+        {
+          "id": "walk-14-day-plan",
+          "kind": "original-visual",
+          "anchor": "# Programa de 14 dias para passeio melhor",
+          "position": "after",
+          "alt": "Plano de 14 dias com atenção, equipamento, guia frouxa, farejo, mudança de direção e recall.",
+          "caption": "O plano transforma passeio melhor numa sequência de pequenas competências.",
+          "render": "day-grid"
+        }
+      ]
+    },
+    "guide-008": {
+      "slug": "ficar-sozinho",
+      "cover": {
+        "hero_media_id": "mypets-dog-care",
+        "title": "Ficar Sozinho em Casa",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-sleeping-cc0",
+          "kind": "media",
+          "anchor": "## 8. A cama como contexto de relaxamento",
+          "position": "after",
+          "alt": "Cão dormindo de forma relaxada em ambiente doméstico.",
+          "caption": "Relaxamento real — deitar, mudar de posição e dormir — é um indicador mais útil do que apenas ausência de latido."
+        },
+        {
+          "id": "commons-beagle-puppy-crate",
+          "kind": "media",
+          "anchor": "## 46. Cuidado com confinamento",
+          "position": "after",
+          "alt": "Filhote Beagle dentro de uma caixa de transporte.",
+          "caption": "Crate pode ser contexto de descanso quando bem condicionado, mas não é solução automática para pânico de separação."
+        },
+        {
+          "id": "alone-seconds-to-minutes",
+          "kind": "original-visual",
+          "anchor": "## 6. Treine segundos antes de minutos",
+          "position": "after",
+          "alt": "Escada de progressão de um segundo até pequenas ausências, com retornos fáceis intercalados.",
+          "caption": "A autonomia começa com segundos confortáveis, não com testes longos.",
+          "render": "staircase"
+        },
+        {
+          "id": "alone-camera-check",
+          "kind": "original-visual",
+          "anchor": "## 66. Transforme a câmera num relatório simples",
+          "position": "after",
+          "alt": "Painel de observação com alimentação, vocalização, porta, movimento, descanso e tempo de recuperação.",
+          "caption": "A câmera serve para recolher dados objetivos sobre o que acontece depois da saída.",
+          "render": "observation-board"
+        },
+        {
+          "id": "alone-difficulty-hierarchy",
+          "kind": "original-visual",
+          "anchor": "## 40. Faça uma hierarquia de dificuldade",
+          "position": "after",
+          "alt": "Escada de dificuldade desde levantar do sofá até sair do prédio e manter uma ausência real.",
+          "caption": "Separação tem vários degraus; um cão pode tolerar um e ainda não estar pronto para o seguinte.",
+          "render": "staircase"
+        },
+        {
+          "id": "alone-14-day-plan",
+          "kind": "original-visual",
+          "anchor": "# Plano progressivo de 14 dias",
+          "position": "after",
+          "alt": "Calendário de 14 dias para construir pequenas separações e rever vídeo.",
+          "caption": "O plano é adaptável: se aparecem sinais de stress, a próxima missão fica mais fácil.",
+          "render": "day-grid"
+        }
+      ]
+    },
+    "guide-009": {
+      "slug": "cao-em-apartamento",
+      "cover": {
+        "hero_media_id": "mypets-dog-care",
+        "title": "Cão em Apartamento",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-sleeping-cc0",
+          "kind": "media",
+          "anchor": "## 40. O local da cama importa",
+          "position": "after",
+          "alt": "Cão descansando em ambiente doméstico.",
+          "caption": "Uma boa casa permite ao cão desligar e dormir sem precisar patrulhar todas as passagens."
+        },
+        {
+          "id": "commons-dog-owner-walking",
+          "kind": "media",
+          "anchor": "## 10. A rotina de saídas",
+          "position": "after",
+          "alt": "Pessoa caminhando com um cão na guia.",
+          "caption": "Morar em apartamento aumenta a importância de saídas organizadas para eliminação, exploração e farejo."
+        },
+        {
+          "id": "dogs-trust-dig-box-video",
+          "kind": "video",
+          "anchor": "## 12. Enriquecimento diário",
+          "position": "after",
+          "alt": "Vídeo oficial demonstrando uma caixa de escavação como atividade de enriquecimento.",
+          "caption": "Observe como uma atividade simples pode dar ao cão uma forma segura de procurar e escavar.",
+          "watch_for": [
+            "supervisão",
+            "materiais seguros",
+            "facilidade inicial"
+          ]
+        },
+        {
+          "id": "dogs-trust-yoga-mat-enrichment-video",
+          "kind": "video",
+          "anchor": "## 36. Transforme a refeição em atividade",
+          "position": "after",
+          "alt": "Vídeo de enriquecimento alimentar usando um tapete de yoga.",
+          "caption": "Parte da própria refeição pode virar uma atividade de procura sem aumentar a quantidade de comida.",
+          "watch_for": [
+            "uso da refeição",
+            "dificuldade fácil",
+            "supervisão"
+          ]
+        },
+        {
+          "id": "apartment-zone-map",
+          "kind": "original-visual",
+          "anchor": "## 4. Faça um mapa funcional da casa",
+          "position": "after",
+          "alt": "Planta simples de apartamento com zonas de descanso, alimentação, enriquecimento, espera e segurança.",
+          "caption": "Mesmo um espaço pequeno pode ter funções claras que ajudam o cão a prever o dia.",
+          "render": "floorplan"
+        },
+        {
+          "id": "apartment-noise-plan",
+          "kind": "original-visual",
+          "anchor": "## 67. O mapa do ruído",
+          "position": "after",
+          "alt": "Mapa de gatilhos domésticos ligando porta, corredor, elevador, janela e horários.",
+          "caption": "Mapear ruído transforma 'ele late muito' em situações específicas que podem ser trabalhadas.",
+          "render": "trigger-map"
+        },
+        {
+          "id": "apartment-week-plan",
+          "kind": "original-visual",
+          "anchor": "## 61. Plano semanal de enriquecimento",
+          "position": "after",
+          "alt": "Planeador semanal com farejo, treino, brinquedo alimentar, nova rota, brincadeira e descanso.",
+          "caption": "Uma semana rica alterna tipos de atividade em vez de depender de um único passeio longo.",
+          "render": "weekly-grid"
+        }
+      ]
+    },
+    "guide-010": {
+      "slug": "higiene-saude-oral",
+      "cover": {
+        "hero_media_id": "mypets-dog-care",
+        "title": "Higiene, Banho e Saúde Oral",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-grooming",
+          "kind": "media",
+          "anchor": "## 4. Escovação de pelo",
+          "position": "after",
+          "alt": "Cão recebendo escovação de pelagem.",
+          "caption": "Grooming pode ser cuidado preventivo e também treino de cooperação."
+        },
+        {
+          "id": "commons-dog-grooming-kit",
+          "kind": "media",
+          "anchor": "## 33. Caixa de higiene",
+          "position": "after",
+          "alt": "Conjunto de ferramentas comuns de grooming para cães.",
+          "caption": "Ferramentas devem ser escolhidas pelo tipo de pelagem e usadas com técnica adequada."
+        },
+        {
+          "id": "grooming-tolerance-map",
+          "kind": "original-visual",
+          "anchor": "## 38. Faça um “mapa de tolerância”",
+          "position": "after",
+          "alt": "Mapa corporal em verde, amarelo e vermelho para áreas confortáveis, sensíveis e intoleráveis ao toque.",
+          "caption": "Conhecer a tolerância por zona ajuda a dividir o cuidado em passos menores.",
+          "render": "body-map"
+        },
+        {
+          "id": "toothbrushing-steps",
+          "kind": "original-visual",
+          "anchor": "## 19. Introduza escovação em etapas",
+          "position": "after",
+          "alt": "Seis cartões: tocar face, levantar lábio, tocar dente, apresentar escova, poucos dentes e ampliar.",
+          "caption": "Escovação dental fica mais fácil quando a ferramenta e o toque são introduzidos separadamente.",
+          "render": "step-cards"
+        },
+        {
+          "id": "grooming-10-day-plan",
+          "kind": "original-visual",
+          "anchor": "# Plano de 10 dias de manipulação cooperativa",
+          "position": "after",
+          "alt": "Calendário de 10 dias para tocar, escovar, manipular patas, boca, orelhas e secador de forma gradual.",
+          "caption": "Cooperação é construída em micro sessões, não numa única contenção longa.",
+          "render": "day-grid"
+        },
+        {
+          "id": "grooming-alerts",
+          "kind": "original-visual",
+          "anchor": "## 74. Quando parar imediatamente",
+          "position": "after",
+          "alt": "Grade de alertas com dor, sangramento, dificuldade respiratória, lesão ocular, agressão de alto risco e ferida aberta.",
+          "caption": "Algumas situações deixam de ser grooming doméstico e passam a exigir avaliação profissional.",
+          "render": "warning-grid"
+        }
+      ]
+    },
+    "guide-011": {
+      "slug": "adotei-cao-adulto",
+      "cover": {
+        "hero_media_id": "mypets-dog-rescue",
+        "title": "Adotei um Cão Adulto: E Agora?",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "commons-dog-sleeping-cc0",
+          "kind": "media",
+          "anchor": "## 8. Sono",
+          "position": "after",
+          "alt": "Cão dormindo relaxado em casa.",
+          "caption": "Sono profundo costuma ser um dos sinais de que o novo ambiente começa a parecer seguro."
+        },
+        {
+          "id": "commons-dog-owner-walking",
+          "kind": "media",
+          "anchor": "## 10. O primeiro passeio não precisa ser longo",
+          "position": "after",
+          "alt": "Pessoa caminhando com um cão na guia.",
+          "caption": "Nos primeiros dias, uma rota simples e previsível oferece mais informação do que um passeio longo e lotado."
+        },
+        {
+          "id": "commons-dog-turning-away",
+          "kind": "media",
+          "anchor": "## 39. O primeiro contacto com carinho",
+          "position": "after",
+          "alt": "Cão virando o corpo durante uma aproximação.",
+          "caption": "Um cão recém-chegado pode pedir distância de forma sutil; respeitar isso ajuda a construir confiança."
+        },
+        {
+          "id": "rescue-first-72h",
+          "kind": "original-visual",
+          "anchor": "## 36. As primeiras 72 horas: menos agenda, mais observação",
+          "position": "after",
+          "alt": "Linha do tempo das primeiras 72 horas com segurança, previsibilidade e escolha.",
+          "caption": "Nos primeiros dias, menos agenda e mais observação ajudam o cão a aterrar.",
+          "render": "timeline"
+        },
+        {
+          "id": "rescue-30-day-roadmap",
+          "kind": "original-visual",
+          "anchor": "# Plano dos primeiros 30 dias",
+          "position": "after",
+          "alt": "Roadmap de quatro semanas: segurança, rotina, expansão gradual e revisão.",
+          "caption": "Adaptação não tem relógio exato, mas um roadmap ajuda a família a evitar pressa.",
+          "render": "week-grid"
+        },
+        {
+          "id": "rescue-observation-journal",
+          "kind": "original-visual",
+          "anchor": "## 41. O diário dos primeiros três meses",
+          "position": "after",
+          "alt": "Tracker com situação, resposta, recuperação e o que ajudou.",
+          "caption": "Descrever comportamento concreto é mais útil do que colar rótulos no cão.",
+          "render": "tracker"
+        }
+      ]
+    },
+    "guide-012": {
+      "slug": "caes-e-criancas",
+      "cover": {
+        "hero_media_id": "mypets-hero-dogs",
+        "title": "Cães e Crianças",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "dogs-trust-education-intro-video",
+          "kind": "video",
+          "anchor": "## 33. Transforme regras em jogos curtos",
+          "position": "before",
+          "alt": "Vídeo educativo oficial sobre convivência segura entre crianças e cães.",
+          "caption": "Use o vídeo como abertura para conversar sobre espaço, supervisão e sinais do cão.",
+          "watch_for": [
+            "distância segura",
+            "papel do adulto",
+            "respeito ao cão"
+          ]
+        },
+        {
+          "id": "commons-dog-turning-away",
+          "kind": "media",
+          "anchor": "## 5. Abraço não é obrigação",
+          "position": "after",
+          "alt": "Cão virando a cabeça e o corpo durante uma aproximação.",
+          "caption": "Virar-se ou afastar-se é uma forma válida de dizer que a interação deve pausar."
+        },
+        {
+          "id": "commons-dogs-playing",
+          "kind": "media",
+          "anchor": "## 8. Brincadeiras de perseguição",
+          "position": "after",
+          "alt": "Dois cães brincando com movimento corporal solto.",
+          "caption": "Brincadeira segura tem pausas e escolha; excitação crescente pede intervenção adulta."
+        },
+        {
+          "id": "child-five-rules",
+          "kind": "original-visual",
+          "anchor": "## 3. Cinco regras que uma criança consegue aprender",
+          "position": "after",
+          "alt": "Poster infantil com cinco regras: não acordar, não mexer na comida, não seguir, não abraçar e chamar um adulto diante de rosnado.",
+          "caption": "Cinco regras simples são mais úteis que longas explicações no momento de excitação.",
+          "render": "child-poster"
+        },
+        {
+          "id": "child-dog-traffic-light",
+          "kind": "original-visual",
+          "anchor": "## 6. Ensine o “semáforo do cão”",
+          "position": "after",
+          "alt": "Semáforo infantil com corpo solto, sinais de desconforto e sinais de necessidade imediata de espaço.",
+          "caption": "Verde não elimina supervisão; amarelo pede pausa; vermelho pede separação e adulto.",
+          "render": "traffic-light"
+        },
+        {
+          "id": "child-safe-space",
+          "kind": "original-visual",
+          "anchor": "## 4. O local seguro do cão",
+          "position": "after",
+          "alt": "Diagrama de uma casa mostrando o cantinho do cão como área exclusiva e protegida.",
+          "caption": "O local de descanso só funciona como refúgio se a família realmente respeitar a regra de não invadir.",
+          "render": "room-diagram"
+        }
+      ]
+    },
+    "guide-013": {
+      "slug": "50-ideias-enriquecimento",
+      "cover": {
+        "hero_media_id": "mypets-dog-training",
+        "title": "50 Ideias de Enriquecimento para Cães",
+        "brand_mark": {
+          "role": "mypets-round-logo",
+          "placement": "bottom-right",
+          "treatment": "round-seal",
+          "opacity_web": 0.82,
+          "opacity_print_watermark": 0.16,
+          "safe_margin": "4%",
+          "note": "Use the current official round MyPets logo/medallion from the brand assets. Do not recreate the logo from text.",
+          "media_id": "mypets-round-logo",
+          "frontend_source": "src/lib/brand.ts#BRAND.logoUrl"
+        }
+      },
+      "placements": [
+        {
+          "id": "dogs-trust-dig-box-video",
+          "kind": "video",
+          "anchor": "## 39. Ideia 37 — Caixa de escavação",
+          "position": "after",
+          "alt": "Vídeo oficial mostrando como montar uma caixa de escavação para cães.",
+          "caption": "Observe materiais, supervisão e como a atividade pode dar uma saída segura para cavar e procurar.",
+          "watch_for": [
+            "materiais seguros",
+            "facilidade",
+            "supervisão"
+          ]
+        },
+        {
+          "id": "dogs-trust-yoga-mat-enrichment-video",
+          "kind": "video",
+          "anchor": "## 12. Ideia 10 — Tapete de farejamento",
+          "position": "after",
+          "alt": "Vídeo de atividade alimentar simples usando um tapete.",
+          "caption": "A própria refeição pode virar uma tarefa olfativa de baixa complexidade.",
+          "watch_for": [
+            "porção alimentar",
+            "facilidade inicial",
+            "ritmo do cão"
+          ]
+        },
+        {
+          "id": "commons-dogs-playing",
+          "kind": "media",
+          "anchor": "## 38. Ideia 36 — Brincadeira social curta",
+          "position": "after",
+          "alt": "Dois cães em brincadeira social.",
+          "caption": "Brincadeira entre cães é enriquecimento apenas quando existe reciprocidade, pausa e segurança."
+        },
+        {
+          "id": "enrichment-wheel",
+          "kind": "original-visual",
+          "anchor": "## 2. Quatro famílias de enriquecimento",
+          "position": "after",
+          "alt": "Roda de enriquecimento com farejo, alimentação, cognição, movimento/social e descanso como eixo regulador.",
+          "caption": "Uma rotina rica mistura formas diferentes de usar nariz, cérebro, corpo e capacidade de desligar.",
+          "render": "category-wheel"
+        },
+        {
+          "id": "enrichment-difficulty",
+          "kind": "original-visual",
+          "anchor": "## 69. Sistema de dificuldade: 1 a 5",
+          "position": "after",
+          "alt": "Escala de dificuldade entre fácil, desafiador e frustrante, com sinais de ajuste.",
+          "caption": "A melhor dificuldade é aquela que produz tentativa e sucesso sem transformar o jogo em frustração.",
+          "render": "slider"
+        },
+        {
+          "id": "enrichment-week",
+          "kind": "original-visual",
+          "anchor": "## 71. O “menu” semanal",
+          "position": "after",
+          "alt": "Planeador semanal combinando nariz, cérebro, corpo e calma.",
+          "caption": "Não é preciso fazer tudo todos os dias; varie categorias e preserve descanso.",
+          "render": "weekly-grid"
+        },
+        {
+          "id": "enrichment-safety",
+          "kind": "original-visual",
+          "anchor": "## 114. Checklist “antes de entregar”",
+          "position": "after",
+          "alt": "Cartão de segurança com tamanho, arestas, peças pequenas, comida, saúde, supervisão e facilidade.",
+          "caption": "Antes de uma atividade ser divertida, ela precisa ser segura para aquele cão.",
+          "render": "checklist-card"
+        }
+      ]
+    }
+  }
+}
