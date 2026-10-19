@@ -19,7 +19,7 @@ O objetivo deste guia é criar uma casa em que:
 <a id="adulto-responsavel"></a>
 ## 1. O adulto é responsável — não a criança e não o cão
 
-Uma criança não deve ser responsável por perceber todos os sinais de stress.
+Uma criança não deve ser responsável por perceber todos os sinais de estresse.
 
 Um cão não deve ser responsável por “aguentar”.
 
@@ -1503,7 +1503,7 @@ Resposta: A.
 - [ ] há um local exclusivo do cão;
 - [ ] há barreira física;
 - [ ] criança sabe três regras básicas;
-- [ ] adultos reconhecem sinais de stress;
+- [ ] adultos reconhecem sinais de estresse;
 - [ ] alimentação é separada;
 - [ ] brinquedos estão organizados;
 - [ ] festas têm plano;
@@ -1538,7 +1538,7 @@ Os diagramas e quadros originais previstos para este guia estão definidos em `m
 
 ## Referências de base desta edição
 
-- **Dogs Trust — Dogs and Children:** supervisão, sinais de stress e intervenções precoces.
+- **Dogs Trust — Dogs and Children:** supervisão, sinais de estresse e intervenções precoces.
 - **Dogs Trust — Body Language:** leitura de sinais sutis.
 - **RSPCA — Dog Body Language:** estados de relaxamento e preocupação.
 - **AVSAB — Humane Training:** manejo baseado em recompensa.
