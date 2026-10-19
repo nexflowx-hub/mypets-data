@@ -191,7 +191,7 @@ Exposição a uvas/passas pode estar associada a lesão renal em cães.
 
 Não use “ele já comeu uma vez e não aconteceu nada” como garantia.
 
-Procure orientação diante de ingestão.
+Se houver ingestão real ou suspeita de uvas ou passas, **contate imediatamente um médico-veterinário ou serviço de emergência veterinária**, mesmo que o cão ainda esteja sem sintomas. Informe o alimento, a quantidade aproximada e o horário. Não espere sinais clínicos para pedir orientação e não provoque vômito por conta própria.
 
 ---
 
@@ -209,6 +209,9 @@ Xilitol pode aparecer em:
 Leia rótulos.
 
 Uma cozinha segura para cães não depende apenas de esconder chocolate.
+
+> [!WARNING]
+> **Suspeita de ingestão de xilitol é uma urgência veterinária.** Contate imediatamente um médico-veterinário, hospital veterinário de emergência ou centro de toxicologia animal. Não espere sintomas nem tente provocar vômito ou administrar receitas caseiras por conta própria. Guarde a embalagem para informar composição, quantidade possível e horário da exposição.
 
 ---
 
@@ -1150,6 +1153,15 @@ Para acompanhamento doméstico, pese sempre que possível em condições semelha
 
 Além destes medias externos/licenciados, o reader deve renderizar os diagramas originais definidos em `media/guide-media-pack.yaml`, com versão acessível e imprimível.
 
+
+## Fontes específicas sobre intoxicações alimentares
+
+- **FDA — Paws Off Xylitol; It's Dangerous for Dogs**: https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs
+- **Cornell University College of Veterinary Medicine — Grape and Raisin Toxicity**: https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/grape-and-raisin-toxicity
+
+Estas fontes apoiam as orientações gerais de reconhecimento de urgência. A decisão clínica pertence à equipa veterinária.
+
+---
 
 ## Referências de base desta edição
 
