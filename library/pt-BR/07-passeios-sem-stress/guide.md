@@ -1,4 +1,6 @@
-# Passeios sem Stress: Guia Prático para Caminhar Melhor com o Seu Cão
+# Passeios sem Stress
+
+*Guia prático para caminhar melhor com o seu cão*
 
 **Coleção MyPets — Cuidar Melhor**
 
@@ -1358,7 +1360,7 @@ Além destes medias externos/licenciados, o reader deve renderizar os diagramas 
 - **Dogs Trust — Walking Nicely Training:** progressão e reforço de caminhada com guia frouxa.
 - **RSPCA — Train Your Dog to Stop Pulling:** consistência, parar quando a guia tensiona e recompensa por proximidade.
 - **Dogs Trust — First Walk:** introdução gradual da guia e preparação do filhote.
-- **Dogs Trust — Reactive Dogs:** sinais de stress, manejo de distância e estratégias de baixo risco.
+- **Dogs Trust — Reactive Dogs:** sinais de estresse, manejo de distância e estratégias de baixo risco.
 - **RSPCA Education — Sniffari:** importância do farejo como parte do passeio.
 - **AVSAB — Humane Dog Training:** treino baseado em recompensa.
 
