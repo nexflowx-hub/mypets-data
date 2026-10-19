@@ -1,4 +1,6 @@
-# Higiene, Banho e Saúde Oral: Cuidados sem Transformar Tudo numa Luta
+# Higiene, Banho e Saúde Oral
+
+*Cuidados sem transformar tudo numa luta*
 
 **Coleção MyPets — Cuidar Melhor**
 
