@@ -282,7 +282,7 @@ Outros:
 - reagem;
 - não dormem.
 
-Se vira fonte de stress:
+Se vira fonte de estresse:
 - bloqueie parcialmente;
 - afaste móveis;
 - ofereça local alternativo.
@@ -834,7 +834,7 @@ Se há um gatilho específico:
 - recompense calma;
 - aumente gradualmente.
 
-Se o cão demonstra stress, reduza.
+Se o cão demonstra estresse, reduza.
 
 ---
 
@@ -1088,7 +1088,7 @@ Pessoa entra enquanto cão está atrás de barreira.
 ### Nível 5
 Cão pode observar de forma segura.
 
-Em qualquer nível, se há stress forte, volte um passo.
+Em qualquer nível, se há estresse forte, volte um passo.
 
 ---
 
