@@ -362,7 +362,7 @@ Porta fecha e abre imediatamente.
 5–15 segundos.
 
 ## Dia 7
-Revisão. Sem aumentar se houve stress.
+Revisão. Sem aumentar se houve estresse.
 
 ## Dia 8
 Variações curtas de 10–30 segundos.
@@ -1052,7 +1052,7 @@ Registre:
 
 - minuto em que levantou;
 - minuto em que foi à porta;
-- primeiro sinal de stress;
+- primeiro sinal de estresse;
 - se voltou a deitar;
 - se comeu;
 - se dormiu;
@@ -1325,7 +1325,7 @@ Acompanhe:
 Quanto tempo tolera.
 
 ### 2. Intensidade
-Quanto stress aparece.
+Quanto estresse aparece.
 
 ### 3. Recuperação
 Quanto demora para voltar ao normal.
