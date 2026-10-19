@@ -1344,7 +1344,7 @@ Não conclua automaticamente que “tem energia infinita”.
 
 Pode haver:
 - excitação;
-- stress;
+- estresse;
 - falta de descanso.
 
 Reduza estímulos e veja se consegue desacelerar.
@@ -1550,7 +1550,7 @@ Os diagramas e quadros originais previstos para este guia estão definidos em `m
 ## Referências de base desta edição
 
 - **Dogs Trust — Settling a Rescue Dog:** primeiros dias, espaço, ritmo individual e ambiente calmo.
-- **Dogs Trust — Body Language:** sinais de stress e necessidade de espaço.
+- **Dogs Trust — Body Language:** sinais de estresse e necessidade de espaço.
 - **RSPCA — Body Language:** leitura de estados emocionais.
 - **RSPCA — Left Alone:** autonomia gradual.
 - **AVSAB — Humane Training:** treino por recompensa.

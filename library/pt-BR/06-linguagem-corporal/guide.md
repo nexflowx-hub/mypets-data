@@ -893,7 +893,7 @@ Pode ser:
 - antecipação de comida;
 - limpeza;
 - náusea;
-- stress.
+- estresse.
 
 ### Bocejar
 Pode ser:
@@ -1362,7 +1362,7 @@ Este guia foi desenvolvido com redação original MyPets e pesquisa em materiais
 
 - **Dogs Trust — Dog Body Language:** leitura do corpo inteiro, sinais sutis, necessidade de espaço e contexto.
 - **RSPCA — Understanding a Dog's Body Language:** posturas associadas a relaxamento, preocupação e estados de maior tensão.
-- **PDSA — Canine Communication:** reconhecimento precoce de sinais de stress e comunicação.
+- **PDSA — Canine Communication:** reconhecimento precoce de sinais de estresse e comunicação.
 - **AVSAB — Humane Dog Training:** manejo e treino sem métodos aversivos.
 - **Dogs Trust — Reactive Dogs:** observação de sinais de medo/ansiedade, manejo de distância e recuperação.
 

@@ -505,7 +505,7 @@ Pode ser:
 - praça;
 - loja pet-friendly apropriada.
 
-Observe sinais de stress.
+Observe sinais de estresse.
 
 ---
 
