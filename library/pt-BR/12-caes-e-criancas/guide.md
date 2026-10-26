@@ -185,7 +185,7 @@ Evite dedos muito próximos de cão excitado.
 ---
 
 <a id="bebes"></a>
-## 12. Bebé a caminho
+## 12. Bebê a caminho
 
 Prepare antes.
 
@@ -196,11 +196,11 @@ Treine:
 - carrinho;
 - rotina flexível.
 
-Não espere o bebé chegar para ensinar limites.
+Não espere o bebê chegar para ensinar limites.
 
 ---
 
-## 13. Sons de bebé
+## 13. Sons de bebê
 
 Gravações em volume baixo podem ajudar alguns cães.
 
@@ -212,22 +212,22 @@ Aumente apenas se relaxado.
 
 ---
 
-## 14. Chegada do bebé
+## 14. Chegada do bebê
 
 Mantenha:
 - distância;
 - rotina;
 - descanso.
 
-Não force cão a cheirar o bebé.
+Não force cão a cheirar o bebê.
 
 Permita observação.
 
 ---
 
-## 15. Bebé no chão
+## 15. Bebê no chão
 
-Quando bebé começa a se mover, risco muda.
+Quando bebê começa a se mover, risco muda.
 
 Use:
 - portões;
@@ -418,7 +418,7 @@ Evite poses:
 - rosto com focinho;
 - criança montada;
 - abraço forçado;
-- bebé apoiado sobre cão.
+- bebê apoiado sobre cão.
 
 Uma foto bonita não compensa desconforto.
 
@@ -753,9 +753,9 @@ A ausência da festa não significa exclusão emocional.
 
 ---
 
-## 49. Bebé engatinhando muda tudo
+## 49. Bebê engatinhando muda tudo
 
-Antes, o bebé não se movia em direção ao cão.
+Antes, o bebê não se movia em direção ao cão.
 
 Depois:
 - persegue;
@@ -793,11 +793,11 @@ Mudanças antecipadas ajudam:
 - sons;
 - horários.
 
-Não mude tudo no dia em que o bebé chega.
+Não mude tudo no dia em que o bebê chega.
 
 ---
 
-## 52. Carrinho de bebé e passeio
+## 52. Carrinho de bebê e passeio
 
 Treine antes:
 - carrinho parado;
@@ -931,7 +931,7 @@ Dois cães começam a brigar.
 
 ## 61. O cão não é babá
 
-Nunca deixe cão e bebé/criança pequena sozinhos, mesmo que o animal pareça extremamente tolerante.
+Nunca deixe cão e bebê/criança pequena sozinhos, mesmo que o animal pareça extremamente tolerante.
 
 Supervisão é responsabilidade humana.
 
@@ -1336,7 +1336,7 @@ Antes:
 - passeio em horário exato.
 
 Depois:
-- bebé altera tudo.
+- bebê altera tudo.
 
 Prepare flexibilidade:
 - variar horários gradualmente;
@@ -1360,7 +1360,7 @@ Se o cão puxa muito, trabalhe isso antes.
 
 ---
 
-## 92. Quando o bebé começa a comer
+## 92. Quando o bebê começa a comer
 
 Comida cai no chão.
 
