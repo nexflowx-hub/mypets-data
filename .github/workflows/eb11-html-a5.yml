@@ -44,5 +44,8 @@ jobs:
         if: always()
         with:
           name: EB11-A5-HTML-PDF-prova
-          path: artifacts
+          path: |
+            artifacts
+            production/eb11/html-a5/v1/index.html
+            library/pt-BR/11-adotei-cao-adulto/guide.md
           if-no-files-found: warn
